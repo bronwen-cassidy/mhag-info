@@ -1,0 +1,42 @@
+1. Calculator:
+--Output Panel: Three output options (text/html/code)
+     TEXT :(.txt) Plain text format, same as the outputs in the preview panel.
+     HTML :(.html) Tables in HTML format; it can be viewed in a browser.  MHAG HTML codes were tweaked in Google Chrome, and it also works nicely in Mozilla Firefox and Safari, but not Internet Explorer.
+     CODE :(.code) Set code used to save set information for future use.
+     Data File: File name of save data.  If file name doesn't contain file type extension, MHAG automatically adds it.
+     Save Button: It APPENDs set to the save data.  If save file does not exist, a NEW file will be created.
+
+--Set Options:
+     Rank : Low/high Rank; it resets all setup menus when rank option is switched.  The low rank option limits setup to low rank stuffs.
+     Hunter Type : Blademaster/gunner; it resets all setup menus when hunter type option is switched.
+     Gender : Male/female; it only affects the armor pieces that are only for male/female.  The corresponding armor name and its position in the menu will be changed (not reset) when gender is switched.
+     Set Name : Armor set name; "Unnamed Set" by default.  It can be changed to any words (best less than 40 characters).  It is not immediately shown in the preview panel until ENTER key is pressed or other setup options are selected afterward.
+
+--Setup Panel: Setup details: At beginning, only the first column of drop-down boxes are available.  They can be used to change the armor pieces/weapon slot/charm.  Each armor piece option has tool tip for skill names, skill points and number of slots.  Move mouse over the armor options (but not click on it) to show the tips.  When a armor piece, weapon slot or charm is selected, some additional boxes will appear on the right, depending on the number of jewel slots.  MHAG prevents users from gemming too many jewels.  There are two lines for charm input.  The leftmost menu in the first line is used to specify the number of slots in the jewel.  Once it is determined, users can specify the charm jewels (first line) and the 1st charm skill & points.  There is an option to input the 2nd charm skill & poitns once the 1st one is determined.  To make it concise and save space, jewel menus only show the positive skill name and skill point.  But meanwhile, each jewel option also has tool tip for jewel names and number of slots.  Put mouse over a jewel option to show the tip.  All menu lists are sorted by alphabetical order, so users can use keyboard to quickly locate the right stuffs.
+
+--Preview Panel: Preview the armor set, when changing armor setup.  Use the vertical scroll bar if the armor set involves a lot of armor skills.
+
+2. Viewer: 
+--Code Book Panel: 
+     Load: It loads code book to Code List Panel.  It ONLY works for existing data file.  I didn't design a "New Book" button, because I don't want to encourage people to create a lot of  new code book. (If you really want to create one in MHAG, you can use output panel in the calculator.)
+     Save: It saves all the items in the code list to code book.  Warning!  Mhag overwrites all the old code data.  MHAG prevents user from saving code book if the code list is empty.
+
+--Export Sets Panel: This is the batch calculator.  It first saves the code book, then exports sets in text or html format.  It can be used to generate an easy-to-read set book, so users can print the sets or further convert it to PDF format.(print/PDF functions are not included)  The html codes are designed to print one set per page.
+
+--Code List Panel: It displays code list; Use mouse click or up/down key to navigate sets from the (2nd) preview panel.
+
+--Load to Calculator: It loads the selected set to the calculator, so they can be manually modified there.
+
+--Add from Calculator: It appends the set after the selected set, and moves selection to the new set.  It does not delete any set.
+
+--Remove/Cut Button: It removes the selected set, and moves selection to the next set.  The last five removed sets can be retrieved later.
+
+--Paste Button: It appends the DELETED set after the selected set, and moves selection to the new set.  It can only retrieve at most five deleted sets.
+
+--Tips:
+      1): To modify a set: select the set -> load to calculator -> modify it -> add from calculator -> select the old set (move up) -> remove 
+      2): To swap two adjacent sets: select the upper set -> remove -> paste
+      3): To rearrange sets: combine remove/paste options.  Warning!  only 5 sets can be stored.
+      4): Don't FORGET to SAVE code book before exiting the program!  MHAG can detect changes in the list.  If it's not saved before exit, MHAG prompts a dialog window to let users save code book.
+
+3. Generator: Work in progress...

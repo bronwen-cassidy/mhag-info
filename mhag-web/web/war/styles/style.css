@@ -1,0 +1,139 @@
+html {
+	height: 100%;
+	padding: 0;
+}
+
+body {
+	height: 100%;
+	padding: 0;
+}
+
+table {
+	padding: 4px 4px 4px 4px;
+}
+
+th {
+	width: 80px;
+}
+
+th img {
+	padding: 4px 4px 4px 4px;
+	margin: 2px 2px 2px 2px;
+}
+
+.aligned {
+	padding: 4px 4px 4px 4px;
+	text-align: center;
+}
+
+#setName {
+	height:20px;
+	display:inline;
+	margin-top: 18px;
+}
+
+#options-panel, #resultspanelid {
+    margin-top:10px;
+	width:100%;
+	padding: 5px 0px 5px 5px;
+}
+
+#previewpanelid {
+    width:100%;
+    padding: 5px 0px 5px 5px;
+    margin-top: 6px;
+}
+
+#preview-panel {
+	height:100%;
+	position: relative;
+}
+
+#preview-panel fieldset {
+	width:96%;
+	padding-right: 2px;
+}
+
+#resistence-panel {
+	height:100%;
+	position: relative;
+}
+
+#resistence-panel fieldset {
+	width:96%;
+	padding-right: 2px;
+}
+
+#content {
+	width:100%;
+    margin: 5px 0 0 0;
+    padding: 5px 0px 5px 5px;
+}
+
+.setup-select {
+	width:180px;    
+}
+
+.charm-select {
+    min-width:110px;
+    margin-right:4px;
+}
+
+.point-select {
+    margin-right:4px;
+}
+
+.ignore-setup-select {
+	width:180px;
+}
+
+.skill-label {
+	width:40px; display:inline; padding-right:3px;
+}
+
+.point-aligned {
+    text-align:center;
+}
+
+td.equal-width {
+	width:50%;
+	vertical-align: top;
+}
+
+table.silent {
+    margin: 0 1px 0 1px;
+    padding: 0 0 0 0;
+}
+
+.auto-scroll {
+    height: 250px;
+    /*width: 170px;*/
+    overflow:auto;
+    border: 1px black;
+}
+
+.infolabel {
+	width:100%;
+	font-weight: bold;
+	font-size: 1.0em;
+}
+
+/* todo verify removal works nicely
+#search-results-panel {
+    height: 450px;
+    overflow:auto;
+}
+*/
+#success_info {
+    width: 100%;
+    color: red;
+}
+
+.fieldset-ops {
+	 height:58px;
+}
+
+.clickable {
+    cursor: pointer;
+    display: inline;
+}

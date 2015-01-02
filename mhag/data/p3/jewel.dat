@@ -1,0 +1,166 @@
+# Jewel Decoreation List (164)
+# Format ^Jewel Name : H/L Rank : # of Slots : Skill 1 : Points 1 : Skill 2 : Points 2
+Vitality Jewel : L : 1 : Health : 2
+Recovery Jewel : L : 1 : Rec Speed : 1 : Eating : -1
+Recovery Jewel : L : 2 : Rec Speed : 3 : Eating : -1
+Medicine Jewel : L : 1 : Rec Level : 1 : Rec Speed : -1
+Medicine Jewel : H : 2 : Rec Level : 3 : Rec Speed : -1
+Sprinter Jewel : L : 1 : Stamina : 1 : Hunger : -1
+Sprinter Jewel : H : 3 : Stamina : 4 : Hunger : -2
+Physique Jewel : L : 1 : Constitutn : 1 : Stamina : -1
+Physique Jewel : H : 2 : Constitutn : 3 : Stamina : -1
+Stamina Jewel : L : 1 : StaminaRec : 1 : Evasion : -1
+Stamina Jewel : H : 2 : StaminaRec : 3 : Evasion : -1
+Hungerless Jewel : L : 1 : Hunger : 2
+Metabolism Jewel : L : 1 : Gluttony : 2
+Attack Jewel : L : 1 : Attack : 1
+Attack Jewel : L : 2 : Attack : 3 : Defense : -1
+Attack Jewel : H : 3 : Attack : 5 : Defense : -1
+Expert Jewel : L : 1 : Expert : 1 : Dragon Res : -1
+Expert Jewel : L : 2 : Expert : 3 : Dragon Res : -1
+Expert Jewel : H : 3 : Expert : 5 : Dragon Res : -1
+Disabler Jewel : L : 1 : Status : 1 : Elemental : -1
+Disabler Jewel : H : 2 : Status : 3 : Elemental : -1
+Element Jewel : L : 1 : Elemental : 1 : Status : -1
+Element Jewel : H : 3 : Elemental : 4 : Status : -2
+Flame Jewel : L : 1 : Fire Atk : 1 : Water Atk : -1
+Flame Jewel : H : 2 : Fire Atk : 3 : Water Atk : -1
+Stream Jewel : L : 1 : Water Atk : 1 : ThunderAtk : -1
+Stream Jewel : H : 2 : Water Atk : 3 : ThunderAtk : -1
+Lightning Jewel : L : 1 : ThunderAtk : 1 : Ice Atk : -1
+Lightning Jewel : H : 2 : ThunderAtk : 3 : Ice Atk : -1
+Fleezing Jewel : L : 1 : Ice Atk : 1 : Fire Atk : -1
+Fleezing Jewel : H : 2 : Ice Atk : 3 : Fire Atk : -1
+Dragonfell Jewel : L : 1 : Dragon Atk : 1 : Status : -1
+Dragonfell Jewel : H : 2 : Dragon Atk : 3 : Status : -1
+Blow Jewel : L : 1 : Blow : 1 : Health : -1
+Blow Jewel : H : 3 : Blow : 4 : Health : -2
+Bash Jewel : L : 1 : Bash : 1 : Expert : -1
+Bash Jewel : H : 3 : Bash : 4 : Expert : -2
+Magazine Jewel : L : 1 : Loading : 1 : Reload Spd : -1
+Magazine Jewel : H : 3 : Loading : 4 : Reload Spd : -2
+Charger Jewel : L : 1 : FastCharge : 1 : Constitutn : -1
+Charger Jewel : H : 3 : FastCharge : 4 : Constitutn : -2
+Full Release Jewel : L : 1 : Earnest : 1 : Sense : -1
+Full Release Jewel : H : 2 : Earnest : 3 : Sense : -1
+KO Jewel : L : 1 : KO : 1 : FastCharge : -1
+KO Jewel : L : 2 : KO : 3 : FastCharge : -1
+Exhaust Jewel : L : 1 : Exhaust : 1 : Stamina : -1
+Exhaust Jewel : L : 2 : Exhaust : 3 : Stamina : -1
+Potential Jewel : L : 1 : Potential : 1 : Protection : -1
+Potential Jewel : H : 2 : Potential : 3 : Protection : -1
+Bombardier Jewel : L : 1 : Bomb Boost : 2
+Flute Jewel : L : 1 : Flute : 2
+Gunnery Jewel : L : 1 : Gunnery : 2
+Defense Jewel : L : 1 : Defense : 1 : Attack : -1
+Defense Jewel : L : 2 : Defense : 3 : Attack : -1
+Fire Res Jewel : L : 1 : Fire Res : 1 : Water Res : -1
+Fire Res Jewel+ : L : 1 : Fire Res : 2
+Water Res Jewel : L : 1 : Water Res : 1 : ThunderRes : -1
+Water Res Jewel+ : L : 1 : Water Res : 2
+ThundrRes Jewel : L : 1 : ThunderRes : 1 : Ice Res : -1
+ThundrRes Jewel+ : L : 1 : ThunderRes : 2
+Ice Res Jewel : L : 1 : Ice Res : 1 : Fire Res : -1
+Ice Res Jewel+ : L : 1 : Ice Res : 2
+DragonRes Jewel : L : 1 : Dragon Res : 1 : Poison : -1
+DragonRes Jewel+ : H : 1 : Dragon Res : 2
+Protection Jewel : L : 1 : Protection : 1
+Asylum Jewel : H : 1 : Protection : 2
+Handicraft Jewel : L : 1 : Handicraft : 1 : Sharpness : -1
+Handicraft Jewel : H : 3 : Handicraft : 4 : Sharpness : -2
+Fencer Jewel : L : 1 : Fencing : 1 : Handicraft : -1
+Fencer Jewel : H : 3 : Fencing : 4 : Handicraft : -2
+Razor Jewel : L : 1 : Sharpness : 1 : Handicraft : -1
+Razor Jewel : H : 3 : Sharpness : 4 : Handicraft : -2
+Draw Jewel : L : 1 : Crit Draw : 1 : Expert : -1
+Draw Jewel : H : 2 : Crit Draw : 3 : Expert : -1
+Gambit Jewel : L : 1 : PunishDraw : 1 : Sharpness : -1
+Gambit Jewel : H : 3 : PunishDraw : 4 : Sharpness : -2
+Iron Wall Jewel : L : 1 : Guard : 1 : Constitutn : -1
+Iron Wall Jewel : L : 2 : Guard : 3 : Constitutn : -1
+Shield Jewel : L : 1 : Guard Up : 1 : StaminaRec : -1
+Shield Jewel : H : 2 : Guard Up : 3 : StaminaRec : -1
+Grinder Jewel : L : 1 : Sharpener : 2
+Forceshot Jewel : L : 1 : NormalS Up : 1 : Recoil : -1
+Forceshot Jewel : H : 3 : NormalS Up : 4 : Recoil : -2
+Pierce Jewel : L : 1 : PierceS Up : 1 : Recoil : -1
+Pierce Jewel : H : 3 : PierceS Up : 4 : Recoil : -2
+Pellet Jewel : L : 1 : PelletS Up : 1 : Recoil : -1
+Pellet Jewel : H : 3 : PelletS Up : 4 : Recoil : -2
+ShotPlus Jewel : L : 1 : Normal S+ : 1 : Reload Spd : -1
+ShotPlus Jewel : L : 2 : Normal S+ : 3 : Reload Spd : -1
+PiercPlus Jewel : L : 1 : Pierce S+ : 2
+PelletPlus Jewel : L : 1 : Pellet S+ : 2
+CragPlus Jewel : L : 1 : Crag S+ : 2
+ClustPlus Jewel : L : 1 : Clust S+ : 1 : Reload Spd : -1
+SlicePlus Jewel : L : 1 : Slice S+ : 2
+Salvo Jewel : L : 1 : Rapid Fire : 1 : Reload Spd : -1
+Salvo Jewel : H : 3 : Rapid Fire : 4 : Reload Spd : -2
+Quickload Jewel : L : 1 : Reload Spd : 1 : Recoil : -1
+Quickload Jewel : L : 2 : Reload Spd : 3 : Recoil : -1
+Absorber Jewel : L : 1 : Recoil : 1 : Reload Spd : -1
+Absorber Jewel : H : 3 : Recoil : 4 : Reload Spd : -2
+Sniper Jewel : L : 1 : Precision : 2
+ParaPlus Jewel : L : 1 : Para C+ : 1 : Attack : -1
+ParaPlus Jewel : H : 2 : Para C+ : 3 : Attack : -1
+SleepPlus Jewel : L : 1 : Sleep C+ : 2
+PoisonPlus Jewel : L : 1 : Poison C+ : 2
+PowerPlus Jewel : L : 1 : Power C+ : 1 : Expert : -1
+PowerPlus Jewel : H : 2 : Power C+ : 3 : Expert : -1
+CloseRPlus Jewel : L : 1 : CloseR C+ : 2
+ExhausPlus Jewel : L : 1 : Exhaust C+ : 2
+Evade Jewel : L : 1 : Evasion : 1 : Health : -1
+Evade Jewel : H : 2 : Evasion : 3 : Health : -1
+Jumping Jewel : L : 1 : Evade Dist : 1 : Health : -1
+Jumping Jewel : H : 3 : Evade Dist : 4 : Health : -2
+Sheathe Jewel : L : 1 : Sheathe : 1 : Sharpener : -1
+Sheathe Jewel : H : 2 : Sheathe : 3 : Sharpener : -1
+TrapMaster Jewel : L : 1 : SpeedSetup : 2
+Gobbler Jewel : L : 1 : Eating : 1 : Rec Level : -1
+Gobbler Jewel : H : 3 : Eating : 4 : Rec Level : -2
+Steadfast Jewel : L : 1 : Stun : 1 : Paralysis : -1
+Steadfast Jewel+ : L : 1 : Stun : 2
+Paralysis Jewel : L : 1 : Paralysis : 1 : Poison : -1
+Paralysis Jewel : L : 2 : Paralysis : 3 : Poison : -1
+Pep Jewel : L : 1 : Sleep : 1 : Mud/Snow : -1
+Pep Jewel : L : 2 : Sleep : 3 : Mud/Snow : -1
+Antidote Jewel : L : 1 : Poison : 1 : Stun : -1
+Antidote Jewel : L : 2 : Poison : 3 : Stun : -1
+Solid Jewel : L : 1 : Solid Def : 2
+Alarm Jewel : L : 1 : Anti-Theft : 2
+Weather Jewel : L : 1 : Mud/Snow : 1 : Sleep : -1
+Weather Jewel+ : L : 1 : Mud/Snow : 2
+Antisept Jewel : L : 1 : Antiseptic : 1 : Sense : -1
+Antisept Jewel+ : L : 1 : Antiseptic : 2
+Footing Jewel : L : 1 : Tremor Res : 1 : Sleep : -1
+Footing Jewel+ : L : 1 : Tremor Res : 2
+Breeze Jewel : L : 1 : Heat Res : 2
+Warmth Jewel : L : 1 : Cold Res : 2
+Earplug Jewel : L : 1 : Hearing : 1 : Protection : -1
+Earplug Jewel : H : 3 : Hearing : 4 : Protection : -2
+Anti-Wind Jewel : L : 1 : Wind Res : 1 : Fate : -1
+Anti-Wind Jewel : H : 2 : Wind Res : 3 : Fate : -1
+Friendship Jewel : L : 1 : Wide-Range : 1 : Sense  : -1
+Friendship Jewel : H : 2 : Wide-Range : 3 : Sense  : -1
+Ninja Jewel : L : 1: Sense : 2
+Professor Jewel : L : 1 : Combo Rate : 2
+Enduring Jewel : L : 1 : LastingPwr : 2
+Dung Jewel : L : 1 : Dungmaster : 2
+Factory Jewel : L : 1 : Combo Plus : 2
+Transportr Jewel : L : 1 : Transportr : 2
+Gathering Jewel : L : 1 : Gathering : 2
+Spree Jewel : L : 1 : Spd Gather : 2
+Blessing Jewel : L : 1 : Whim : 2
+Hunter Jewel : L : 1 : Hunter : 2
+Psychic Jewel : L : 1 : Psychic : 2
+Perception Jewel : L : 1 : Perception : 2
+Fate Jewel : H : 1 : Fate : 1 : Whim : -1
+Fate Jewel : H : 3 : Fate : 4 : Whim : -2
+Capture Jewel : L : 1 : Tranquilzr : 1 : Fate : -1
+Capture Jewel : H : 3 : Tranquilzr : 4 : Fate : -2
+Carver Jewel : H : 1 : Carving : 1 : Fate :-1
+Carver Jewel : H : 3 : Carving : 4 : Fate :-2
+Resistor Jewel : L : 1 : Blight Res : 1 : Health : -1
+Resistor Jewel : H : 3 : Blight Res : 4 : Health : -2
+Fortitude Jewel : L : 1 : Survivor : 1 : Rec Level : -1
+Fortitude Jewel : H : 2 : Survivor : 3 : Rec Level : -1

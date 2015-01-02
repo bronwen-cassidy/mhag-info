@@ -1,0 +1,56 @@
+The following is if we want to implement a popup dialog in the skillpanel.jsp to show the materials for each peice rather than the current
+This popup will show the materials for the piece plus any jewels on the piece.
+
+<script type="text/javascript" charset="UTF-8">
+    $(function() {
+        $( "#dialog" ).dialog({ autoOpen: false, modal: false, minHeight: 50, minWidth: 75 });
+    });
+
+    function close_dialog() {
+        $('#dialog').dialog('close');
+        return true;
+    }
+
+    $(function() {
+        $('.mats-display').click(function () {
+            var elemIdPart = $(this).attr("id").split("_")[0];
+
+            var selectedOp = $('#' + elemIdPart + 'select').find(":selected").val();
+            var pieces = selectedOp.split(':');
+
+            var pieceId = pieces[0];
+            if (pieceId != '---') {
+                var jewelStr = findJewelIds(elemIdPart);
+                // todo here ajax call to server
+                $('#dialog').dialog('open');
+                var myDialogX = $(this).offset().left;
+                var myDialogY = $(this).offset().top - $('.ui-dialog').height();
+                $('#dialog').dialog( 'option', 'position', [myDialogX, myDialogY]);
+            }
+        });
+    });
+
+    function findJewelIds(piece) {
+
+        var items = new Array();
+        $(".skill-select").each(function () {
+            var igvar = $(this).attr('disabled');
+            var elemId = $(this).attr('id');
+
+            var matches = elemId.indexOf(piece) != -1;
+
+            if (!igvar && matches) {
+                var selectedOp = $(this).find(":selected").val();
+                if (selectedOp != '---') {
+                    items.push(selectedOp.split(":")[0]);
+                }
+            }
+        });
+        var itemsStr2;
+        if (items.length > 0) {
+            itemsStr2 = items.join(',');
+        }
+        return itemsStr2;
+    }
+
+</script>

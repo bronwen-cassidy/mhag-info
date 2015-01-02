@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">        
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <bean id="dataAccessService" class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
+        <property name="transactionManager" ref="transactionManager"/>
+        <property name="target" ref="dataAccessServiceTarget"/>
+        <property name="proxyInterfaces" value="org.mhag.sets.Serviceable"/>
+        <property name="transactionAttributes">
+            <props>
+                <prop key="save*">PROPAGATION_REQUIRED,-org.mhag.sets.PersistenceException</prop>
+                <prop key="update*">PROPAGATION_REQUIRED,--org.mhag.sets.PersistenceException</prop>
+                <prop key="delete*">PROPAGATION_REQUIRED,--org.mhag.sets.PersistenceException</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="dataAccessServiceTarget" class="org.mhag.sets.DataAccessService">
+        <property name="dataAccessor" ref="dataAccessor"/>
+    </bean>
+
+    <bean id="dataAccessor" class="org.mhag.sets.DataAccessor">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="version" value="${project.version}"/>
+    </bean>
+
+</beans>

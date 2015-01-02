@@ -1,0 +1,83 @@
+  0   0: Blight Res
+  0   1: Carving
+  0   2: Elemental
+  0   3: Evade Dist
+  0   4: FastCharge
+  0   5: Fate
+  0   6: Fencing
+  0   7: FreeElemnt
+  0   8: Handicraft
+  0   9: Hearing
+  0  10: Loading
+  0  11: NormalS Up
+  0  12: Normal S+
+  0  13: PelletS Up
+  0  14: PierceS Up
+  0  15: Pierce S+
+  0  16: PunishDraw
+  0  17: Rapid Fire
+  0  18: Recoil
+  0  19: Sharpness
+  0  20: Stamina
+  0  21: Status
+  0  22: Tranquilzr
+  1   0: Attack
+  1   1: Bomb Boost
+  1   2: Clust S+
+  1   3: Constitutn
+  1   4: Crag S+
+  1   5: Crit Draw
+  1   6: Defense
+  1   7: Dungmaster
+  1   8: Eating
+  1   9: Evasion
+  1  10: Expert
+  1  11: Flame Aura
+  1  12: Gathering
+  1  13: Guard
+  1  14: Guard Up
+  1  15: Health
+  1  16: Hunger
+  1  17: Pellet S+
+  1  18: Poison
+  1  19: Potential
+  1  20: Protection
+  1  21: Psychic
+  1  22: Rec Level
+  1  23: Rec Speed
+  1  24: Reload Spd
+  1  25: Sharpener
+  1  26: Spd Gather
+  1  27: Swimming
+  1  28: Tremor Res
+  1  29: Wide-Range
+  1  30: Wind Res
+  2   0: Anti-Theft
+  2   1: BBQ
+  2   2: Cold Res
+  2   3: Combo Plus
+  2   4: Combo Rate
+  2   5: CurrentRes
+  2   6: Dragon Res
+  2   7: Fire Res
+  2   8: Fishing
+  2   9: Gluttony
+  2  10: Heat Res
+  2  11: Ice Res
+  2  12: LastingPwr
+  2  13: Map
+  2  14: Mud/Snow
+  2  15: Oxygen
+  2  16: Paralysis
+  2  17: Perception
+  2  18: Precision
+  2  19: Sense
+  2  20: Sleep
+  2  21: SpeedSetup
+  2  22: Stun
+  2  23: ThunderRes
+  2  24: Transportr
+  2  25: Water Res
+  2  26: Whim
+  3   0: Auto-Guard
+  4   0: Survivor

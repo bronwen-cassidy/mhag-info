@@ -1,0 +1,122 @@
+  0: Poison
+  1: Paralysis
+  2: Sleep
+  3: Stun
+  4: Mud/Snow
+  5: Antiseptic
+  6: Solid Def
+  7: Dungmaster
+  8: Germ Sci
+  9: Attack
+ 10: Defense
+ 11: Health
+ 12: Rec Speed
+ 13: Protection
+ 14: Sheathe
+ 15: FastCharge
+ 16: Expert
+ 17: Blow
+ 18: Bash
+ 19: KO
+ 20: Exhaust
+ 21: Constitutn
+ 22: Hearing
+ 23: Wind Res
+ 24: Tremor Res
+ 25: Heat Res
+ 26: Cold Res
+ 27: Stamina
+ 28: StaminaRec
+ 29: Evasion
+ 30: Evade Dist
+ 31: Dive Dist
+ 32: Sense
+ 33: Guard
+ 34: Guard Up
+ 35: Status
+ 36: Elemental
+ 37: Fire Atk
+ 38: Water Atk
+ 39: Ice Atk
+ 40: ThunderAtk
+ 41: Dragon Atk
+ 42: Fire Res
+ 43: Water Res
+ 44: Ice Res
+ 45: ThunderRes
+ 46: Dragon Res
+ 47: Sharpness
+ 48: Handicraft
+ 49: Sharpener
+ 50: PunishDraw
+ 51: Crit Draw
+ 52: Fencing
+ 53: Reload Spd
+ 54: Loading
+ 55: Rapid Fire
+ 56: Recoil
+ 57: Precision
+ 58: NormalS Up
+ 59: PierceS Up
+ 60: PelletS Up
+ 61: Normal S+
+ 62: Pierce S+
+ 63: Pellet S+
+ 64: Crag S+
+ 65: Clust S+
+ 66: Slice S+
+ 67: Blast S+
+ 68: Poison C+
+ 69: Para C+
+ 70: Sleep C+
+ 71: Power C+
+ 72: CloseR C+
+ 73: Exhaust C+
+ 74: Blast C+
+ 75: Flute
+ 76: Gunnery
+ 77: Bomb Boost
+ 78: Rec Level
+ 79: Wide-Range
+ 80: LastingPwr
+ 81: Hunger
+ 82: Gluttony
+ 83: Eating
+ 84: Meat Lover
+ 85: Combo Rate
+ 86: Combo Plus
+ 87: Gathering
+ 88: Spd Gather
+ 89: Whim
+ 90: Honey
+ 91: Charm
+ 92: Fate
+ 93: Carving
+ 94: Tranquilzr
+ 95: Perception
+ 96: Psychic
+ 97: Transportr
+ 98: Hunter
+ 99: Anti-Theft
+100: SpeedSetup
+101: Flame Aura
+102: Oxygen
+103: CurrentRes
+104: Swimming
+105: Water God
+106: Potential
+107: Survivor
+108: Earnest
+109: Fighter
+110: Unhurt
+111: FreeElemnt
+112: Guts
+113: Baton
+114: Order
+115: Auto-Guard
+116: Blight Res
+117: Status Res
+118: Fury
+119: EdgeMaster
+120: Archer
+121: Firm

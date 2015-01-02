@@ -1,0 +1,570 @@
+#Armor List (568)
+#Format ^Piece Name : Blade/Gun/All : Part(Head/Chest/Arm/Waist/Leg) : LR Defense : HR Defense : # of Slots : Fir Res : Wat Res : Ice Res : Thn Res : Drg Res : Skill 1 : Point 1 : Skill 2 : Point 2 ...
+Piscine Mask          : A : H :  11 :  31 : 0 : -2 :  4 :  2 : -3 :  0 : CurrentRes :  1 : Oxygen     : 10
+Piscine Belt          : A : W :  11 :  31 : 0 : -2 :  4 :  2 : -3 :  0 : CurrentRes :  9 : Swimming   :  2
+Piscine Leggings      : A : L :  11 :  31 : 1 : -2 :  4 :  2 : -3 :  0 : CurrentRes :  1 : Swimming   :  8
+Leather Headgear      : A : H :   9 :  31 : 1 : -1 :  0 :  0 :  3 :  2 : Gathering :  2 : Spd Gather :  2 : Whim  :  3 : Attack    :  1
+Leather Vest          : A : C :   9 :  31 : 1 : -1 :  0 :  0 :  3 :  2 : Gathering :  2 : Spd Gather :  3 : Whim  :  2
+Leather Gloves        : A : A :   9 :  31 : 1 : -1 :  0 :  0 :  3 :  2 : Gathering :  1 : Spd Gather :  2 : Whim  :  4 : Attack    :  1
+Leather Belt          : A : W :   9 :  31 : 1 : -1 :  0 :  0 :  3 :  2 : Gathering :  4 : Spd Gather :  2 : Whim  :  1 : Attack    :  1
+Leather Pants         : A : L :   9 :  31 : 1 : -1 :  0 :  0 :  3 :  2 : Gathering :  3 : Spd Gather :  1 : Whim  :  3 : Attack    :  1
+Chainmail Headgear    : A : H :   9 :  32 : 1 : -1 : -1 :  3 : -1 :  1 : Combo Rate :  6 : Combo Plus :  1 : Fishing :  1 : Health :  1
+Chainmail Vest        : A : C :   9 :  32 : 0 : -1 : -1 :  3 : -1 :  1 : Combo Rate :  4 : Combo Plus :  1 : Fishing :  1 : Health :  3
+Chainmail Gloves      : A : A :   9 :  32 : 1 : -1 : -1 :  3 : -1 :  1 : Combo Rate :  2 : Combo Plus :  2 : Fishing :  2 : Health :  3
+Chainmail Belt        : A : W :   9 :  32 : 1 : -1 : -1 :  3 : -1 :  1 : Combo Rate :  2 : Combo Plus :  4 : Fishing :  2 : Health :  1
+Chainmail Pants       : A : L :   9 :  32 : 1 : -1 : -1 :  3 : -1 :  1 : Combo Rate :  1 : Combo Plus :  2 : Fishing :  4 : Health :  2
+Loc Lac Shawl         : A : C :  11 :  32 : 0 :  4 : -3 : -4 :  2 :  0 : Rec Speed :  2 : Transportr :  2 : Heat Res :  5
+Loc Lac Kilt          : A : W :  11 :  32 : 0 :  4 : -3 : -4 :  2 :  0 : Rec Speed :  5 : Transportr :  3 : Heat Res :  3
+Loc Lac Boots         : A : L :  11 :  32 : 0 :  4 : -3 : -4 :  2 :  0 : Rec Speed :  3 : Transportr :  5 : Heat Res :  3
+Hunter's Helm         : A : H :  20 :  58 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  4 : Map :  2 : BBQ :  1 : Water Res : -2
+Hunter's Mail         : B : C :  20 :  58 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  3 : Map :  1 : BBQ :  1 : Water Res : -1 : Attack : 1
+Hunter's Vambraces    : B : A :  20 :  58 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  5 : Map :  1 : BBQ :  2 : Water Res : -1 
+Hunter's Faulds       : B : W :  20 :  58 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  1 : Map :  2 : BBQ :  4 : Water Res : -1 : Attack : 1
+Hunter's Greaves      : B : L :  20 :  58 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  2 : Map :  4 : BBQ :  2 : Water Res : -1
+Hunter's Cap          : A : H :  10 :  32 : 1 :  4 : -1 :  4 :  4 :  4 : Psychic :  5 : Map :  1 : BBQ :  2 : Water Res : -1
+Hunter's Vest         : G : C :  10 :  32 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  3 : Map :  1 : BBQ :  1 : Water Res : -1 : Attack : 1
+Hunter's Guards       : G : A :  10 :  32 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  4 : Map :  1 : BBQ :  2 : Water Res : -2 
+Hunter's Coat         : G : W :  10 :  32 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  1 : Map :  3 : BBQ :  3 : Water Res : -1 : Attack : 1
+Hunter's Leggings     : G : L :  10 :  32 : 1 : -1 : -1 : -1 : -1 : -1 : Psychic :  2 : Map :  4 : BBQ :  2 : Water Res : -1
+Bone Helm             : A : H :  22 :  62 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  4 : LastingPwr :  1 : Perception :  2 : Sleep : -2
+Bone Mail             : B : C :  22 :  62 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  4 : LastingPwr :  1 : Perception :  1 : Sleep : -1
+Bone Vambraces        : B : A :  22 :  62 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  4 : LastingPwr :  2 : Perception :  1 : Sleep : -1 : Attack : 1
+Bone Faulds           : B : W :  22 :  62 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  2 : LastingPwr :  4 : Perception :  2 : Sleep : -1
+Bone Greaves          : B : L :  22 :  62 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  1 : LastingPwr :  2 : Perception :  4 : Sleep : -1 : Attack : 1
+Bone Cap              : A : H :  11 :  34 : 1 :  7 : -2 : -1 :  2 :  3 : Hunger :  5 : LastingPwr :  2 : Perception :  1 : Sleep : -1
+Bone Vest             : G : C :  11 :  34 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  3 : LastingPwr :  1 : Perception :  1 : Sleep : -2
+Bone Guards           : G : A :  11 :  34 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  4 : LastingPwr :  2 : Perception :  1 : Sleep : -1 : Attack : 1
+Bone Coat             : G : W :  11 :  34 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  2 : LastingPwr :  3 : Perception :  3 : Sleep : -1
+Bone Leggings         : G : L :  11 :  34 : 1 :  2 : -2 : -1 :  2 :  3 : Hunger :  1 : LastingPwr :  2 : Perception :  4 : Sleep : -1 : Attack : 1
+Alloy Helm            : A : H :  22 :  62 : 2 :  1 :  1 : -1 : -2 : -1 : Expert :  1 : Sharpener :  3 : SpeedSetup :  1 : Oxygen : -2
+Alloy Mail            : B : C :  22 :  62 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  3 : Sharpener :  2 : SpeedSetup :  1 : Oxygen : -1
+Alloy Vambraces       : B : A :  22 :  62 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  2 : Sharpener :  2 : SpeedSetup :  4 : Oxygen : -1
+Alloy Coil            : B : W :  22 :  62 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  3 : Sharpener :  1 : SpeedSetup :  3 : Oxygen : -2
+Alloy Greaves         : B : L :  22 :  62 : 0 :  1 :  1 : -1 : -2 : -1 : Torso Up
+Alloy Cap             : A : H :  11 :  34 : 2 :  1 :  6 : -1 : -2 : -1 : Expert :  1 : Normal S+ :  3 : SpeedSetup :  2 : Oxygen : -1
+Alloy Vest            : G : C :  11 :  34 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  3 : Normal S+ :  2 : SpeedSetup :  1 : Oxygen : -1
+Alloy Guards          : G : A :  11 :  34 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  2 : Normal S+ :  2 : SpeedSetup :  3 : Oxygen : -2
+Alloy Coat            : G : W :  11 :  34 : 1 :  1 :  1 : -1 : -2 : -1 : Expert :  3 : Normal S+ :  1 : SpeedSetup :  3 : Oxygen : -2
+Alloy Leggings        : G : L :  11 :  34 : 0 :  1 :  1 : -1 : -2 : -1 : Torso Up
+Jaggi Helm            : A : H :  24 :  66 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  2 : Gluttony :  2 : Attack :  3 : Cold Res : -2
+Jaggi Mail            : B : C :  24 :  66 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  1 : Gluttony :  1 : Attack :  2 : Cold Res : -3
+Jaggi Vambraces       : B : A :  24 :  66 : 2 : -3 : -1 : -1 : -1 :  1 : Stun :  3 : Gluttony :  1 : Attack :  2 : Cold Res : -1
+Jaggi Faulds          : B : W :  24 :  66 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  3 : Gluttony :  4 : Attack :  1 : Cold Res : -1
+Jaggi Greaves         : B : L :  24 :  66 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  2 : Gluttony :  2 : Attack :  3 : Cold Res : -2
+Jaggi Cap             : A : H :  12 :  36 : 1 : -3 : -1 : -1 : -1 :  6 : Stun :  1 : Gluttony :  3 : Attack :  4 : Cold Res : -1
+Jaggi Vest            : G : C :  12 :  36 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  2 : Gluttony :  1 : Attack :  2 : Cold Res : -2
+Jaggi Guards          : G : A :  12 :  36 : 2 : -3 : -1 : -1 : -1 :  1 : Stun :  2 : Gluttony :  1 : Attack :  1 : Cold Res : -3
+Jaggi Coat            : G : W :  12 :  36 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  3 : Gluttony :  4 : Attack :  1 : Cold Res : -1
+Jaggi Leggings        : G : L :  12 :  36 : 1 : -3 : -1 : -1 : -1 :  1 : Stun :  3 : Gluttony :  1 : Attack :  3 : Cold Res : -2
+Bnahabra Suit         : B : C :  24 :  66 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  4 : Sharpness :  3 : Poison : -2
+Bnahabra Coil         : B : W :  24 :  66 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  3 : Sharpness :  3 : Poison : -5
+Bnahabra Boots        : B : L :  24 :  66 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  4 : Sharpness :  4 : Poison : -3
+Bnahabra vest         : G : C :  12 :  36 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  4 : Reload Spd :  3 : Poison : -2
+Bnahabra Coat         : G : W :  12 :  36 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  3 : Reload Spd :  3 : Poison : -5
+Bnahabra Leggings     : G : L :  12 :  36 : 0 : -4 : -1 : -1 :  2 :  5 : Status :  4 : Reload Spd :  4 : Poison : -3
+Rhenoplos Helm        : A : H :  24 :  66 : 1 :  2 : -1 : -1 : -1 :  2 : Mud/Snow :  2 : Wind Res :  3 : Eating :  1 : ThunderRes : -2 : Attack :  1
+Rhenoplos Mail        : B : C :  24 :  66 : 1 :  2 : -1 : -1 : -1 :  2 : Mud/Snow :  1 : Wind Res :  2 : Eating :  2 : ThunderRes : -1 : Attack :  1
+Rhenoplos Vambraces   : B : A :  24 :  66 : 2 :  2 : -1 : -1 : -1 :  2 : Mud/Snow :  3 : Wind Res :  1 : Eating :  2 : ThunderRes : -1
+Rhenoplos Coil        : B : W :  24 :  66 : 1 :  2 : -1 : -1 : -1 :  2 : Mud/Snow :  1 : Wind Res :  2 : Eating :  4 : ThunderRes : -1 : Attack : 1
+Rhenoplos Greaves     : B : L :  24 :  66 : 1 :  2 : -1 : -1 : -1 :  2 : Mud/Snow :  3 : Wind Res :  3 : Eating :  2 : ThunderRes : -1
+Rhenoplos Cap         : A : H :  12 :  36 : 1 :  7 :  4 :  4 : -1 :  2 : Crag S+ :  3 : Recoil :  3 : Eating :  1 : ThunderRes : -1 : Attack :  1
+Rhenoplos Vest        : G : C :  12 :  36 : 1 :  2 : -1 : -1 : -1 :  2 : Crag S+ :  1 : Recoil :  2 : Eating :  2 : ThunderRes : -1 : Attack :  1
+Rhenoplos Guards      : G : A :  12 :  36 : 2 :  2 : -1 : -1 : -1 :  2 : Crag S+ :  3 : Recoil :  2 : Eating :  1 : ThunderRes : -1
+Rhenoplos Coat        : G : W :  12 :  36 : 1 :  2 : -1 : -1 : -1 :  2 : Crag S+ :  1 : Recoil :  3 : Eating :  3 : ThunderRes : -1 : Attack :  1
+Rhenoplos Leggings    : G : L :  12 :  36 : 1 :  2 : -1 : -1 : -1 :  2 : Crag S+ :  2 : Recoil :  1 : Eating :  4 : ThunderRes : -2
+Qurupeco Helm         : A : H :  24 :  66 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  4 : Evasion :  1 : Rec Level :  1 : Ice Res : -3
+Qurupeco Mail         : B : C :  24 :  66 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  2 : Evasion :  2 : Rec Level :  2 : Ice Res : -1
+Qurupeco Vambraces    : B : A :  24 :  66 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  3 : Evasion :  2 : Rec Level :  1 : Ice Res : -1 : Attack :  2
+Qurupeco Coil         : B : W :  24 :  66 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  1 : Evasion :  2 : Rec Level :  2 : Ice Res : -2 : Attack :  2
+Qurupeco Greaves      : B : L :  24 :  66 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  1 : Evasion :  3 : Rec Level :  4 : Ice Res : -1
+Qurupeco Cap          : A : H :  12 :  36 : 1 :  7 : -2 : -3 :  0 :  1 : Defense :  3 : Evasion :  2 : Rec Level :  3 : Ice Res : -1
+Qurupeco Vest         : G : C :  12 :  36 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  1 : Evasion :  2 : Rec Level :  2 : Ice Res : -2
+Qurupeco Guards       : G : A :  12 :  36 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  1 : Evasion :  3 : Rec Level :  2 : Ice Res : -1 : Attack :  1
+Qurupeco Coat         : G : W :  12 :  36 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  2 : Evasion :  1 : Rec Level :  1 : Ice Res : -3 : Attack :  2
+Qurupeco Leggings     : G : L :  12 :  36 : 1 :  2 : -2 : -3 :  0 :  1 : Defense :  4 : Evasion :  2 : Rec Level :  2 : Ice Res : -1
+Ludroth Helm          : A : H :  25 :  68 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  3 : CurrentRes :  1 : Protection :  1 : Fire Res : -4
+Ludroth Mail          : B : C :  25 :  68 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  1 : CurrentRes :  1 : Protection :  2 : Fire Res : -1 : Attack :  2
+Ludroth Vambraces     : B : A :  25 :  68 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  2 : CurrentRes :  2 : Protection :  4 : Fire Res : -1
+Ludroth Faulds        : B : W :  25 :  68 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  3 : CurrentRes :  4 : Protection :  1 : Fire Res : -1
+Ludroth Greaves       : B : L :  25 :  68 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  2 : CurrentRes :  2 : Protection :  2 : Fire Res : -1 : Attack :  2
+Ludroth Cap           : A : H :  13 :  38 : 1 : -3 :  7 :  0 : -1 :  1 : Constitutn :  3 : Pellet S+ :  2 : Protection :  2 : Fire Res : -2
+Ludroth Vest          : G : C :  13 :  38 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  1 : Pellet S+ :  1 : Protection :  2 : Fire Res : -1 : Attack :  2
+Ludroth Guards        : G : A :  13 :  38 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  3 : Pellet S+ :  3 : Protection :  1 : Fire Res : -2
+Ludroth Coat          : G : W :  13 :  38 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  1 : Pellet S+ :  3 : Protection :  3 : Fire Res : -2
+Ludroth Leggings      : G : L :  13 :  38 : 1 : -3 :  2 :  0 : -1 :  1 : Constitutn :  2 : Pellet S+ :  2 : Protection :  2 : Fire Res : -1 : Attack :  2
+Steel Mail            : B : C :  24 :  66 : 0 : -1 :  1 :  1 : -1 :  0 : Guard :  4 : Sharpener :  3 : Swimming : -3
+Steel Vambraces       : B : A :  24 :  66 : 0 : -1 :  1 :  1 : -1 :  0 : Guard :  3 : Sharpener :  4 : Swimming : -4
+Steel Faulds          : B : W :  24 :  66 : 1 : -1 :  1 :  1 : -1 :  0 : Guard :  3 : Sharpener :  3 : Swimming : -3
+Baggi Helm            : A : H :  25 :  68 : 0 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  4 : FastCharge :  2 : Ice Res :  2 : Stun : -2 : Attack :  1
+Baggi Mail            : B : C :  25 :  68 : 2 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  1 : FastCharge :  1 : Ice Res :  1 : Stun : -1 : Attack :  1
+Baggi Vambraces       : B : A :  25 :  68 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  3 : FastCharge :  2 : Ice Res :  3 : Stun : -1
+Baggi Coil            : B : W :  25 :  68 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  3 : FastCharge :  2 : Ice Res :  3 : Stun : -1
+Baggi Greaves         : B : L :  25 :  68 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  4 : FastCharge :  3 : Ice Res :  1 : Stun : -1
+Baggi Cap             : A : H :  13 :  38 : 0 : -3 : -1 :  8 : -1 :  1 : Tranquilzr :  2 : PelletS Up :  3 : Ice Res :  3 : Stun : -2 : Attack :  1
+Baggi Vest            : G : C :  13 :  38 : 2 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  1 : PelletS Up :  1 : Ice Res :  1 : Stun : -1 : Attack :  1
+Baggi Guards          : G : A :  13 :  38 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  4 : PelletS Up :  2 : Ice Res :  2 : Stun : -1
+Baggi Coat            : G : W :  13 :  38 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  4 : PelletS Up :  2 : Ice Res :  2 : Stun : -1
+Baggi Leggings        : G : L :  13 :  38 : 1 : -3 : -1 :  3 : -1 :  1 : Tranquilzr :  4 : PelletS Up :  2 : Ice Res :  2 : Stun : -1
+Barroth Helm          : A : H :  27 :  72 : 1 :  0 :  0 : -3 :  3 :  0 : Attack :  4 : Potential :  1 : Stamina :  2 : Expert : -2
+Barroth Mail          : B : C :  27 :  72 : 0 : -4 :  4 : -3 :  3 :  0 : Attack :  3 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Vambraces     : B : A :  27 :  72 : 1 : -4 :  4 : -3 :  3 :  0 : Attack :  4 : Potential :  3 : Stamina :  1 : Expert : -1
+Barroth Faulds        : B : W :  27 :  72 : 1 :  4 : -4 : -3 :  3 :  0 : Attack :  1 : Potential :  3 : Stamina :  3 : Expert : -2
+Barroth Greaves       : B : L :  27 :  72 : 1 :  4 : -4 : -3 :  3 :  0 : Attack :  1 : Potential :  2 : Stamina :  4 : Expert : -2
+Barroth Cap           : A : H :  14 :  40 : 1 :  5 :  5 : -3 :  3 :  0 : Attack :  4 : Potential :  1 : Stamina :  2 : Expert : -2
+Barroth Vest          : G : C :  14 :  40 : 0 : -4 :  4 : -3 :  3 :  0 : Attack :  3 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Guards        : G : A :  14 :  40 : 1 : -4 :  4 : -3 :  3 :  0 : Attack :  4 : Potential :  3 : Stamina :  1 : Expert : -1
+Barroth Coat          : G : W :  14 :  40 : 1 :  4 : -4 : -3 :  3 :  0 : Attack :  1 : Potential :  3 : Stamina :  3 : Expert : -2
+Barroth Leggings      : G : L :  14 :  40 : 1 :  4 : -4 : -3 :  3 :  0 : Attack :  1 : Potential :  2 : Stamina :  4 : Expert : -2
+Gobul Helm            : A : H :  28 :  74 : 2 : -2 :  3 :  0 : -3 :  2 : Eating :  3 : Water Res :  1 : Stun :  1  : Rec Speed : -2
+Gobul Mail            : B : C :  28 :  74 : 0 : -2 :  3 :  0 : -3 :  2 : Eating :  2 : Water Res :  3 : Stun :  2  : Rec Speed : -1 : Attack :  1
+Gobul Vambraces       : B : A :  28 :  74 : 2 : -2 :  3 :  0 : -3 :  2 : Eating :  2 : Water Res :  3 : Stun :  1  : Rec Speed : -1
+Gobul Faulds          : B : W :  28 :  74 : 0 : -2 :  3 :  0 : -3 :  2 : Eating :  4 : Water Res :  2 : Stun :  4  : Rec Speed : -1
+Gobul Greaves         : B : L :  28 :  74 : 1 : -2 :  3 :  0 : -3 :  2 : Eating :  4 : Water Res :  1 : Stun :  2  : Rec Speed : -1 : Attack :  1
+Gobul Cap             : A : H :  14 :  42 : 2 : -2 :  8 :  0 : -3 :  2 : Eating :  4 : Water Res :  1 : Stun :  1  : Rec Speed : -1
+Gobul Vest            : G : C :  14 :  42 : 0 : -2 :  3 :  0 : -3 :  2 : Eating :  2 : Water Res :  3 : Stun :  1  : Rec Speed : -2 : Attack :  1
+Gobul Guards          : G : A :  14 :  42 : 2 : -2 :  3 :  0 : -3 :  2 : Eating :  2 : Water Res :  3 : Stun :  1  : Rec Speed : -1
+Gobul Coat            : G : W :  14 :  42 : 0 : -2 :  3 :  0 : -3 :  2 : Eating :  4 : Water Res :  2 : Stun :  4  : Rec Speed : -1
+Gobul Leggings        : G : L :  14 :  42 : 1 : -2 :  3 :  0 : -3 :  2 : Eating :  3 : Water Res :  1 : Stun :  3  : Rec Speed : -1 : Attack :  1
+Rathian Helm          : A : H :  28 :  74 : 1 :  3 :  0 :  0 : -2 : -4 : Fire Res :  4 : Health :  2 : Hearing :  1 : Protection : -2
+Rathian Mail          : B : C :  28 :  74 : 1 :  3 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  2 : Hearing :  1 : Protection : -2
+Rathian Vambraces     : B : A :  28 :  74 : 2 :  3 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  2 : Hearing :  1 : Protection : -1
+Rathian Faulds        : B : W :  28 :  74 : 1 :  3 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  2 : Hearing :  3 : Protection : -2
+Rathian Greaves       : B : L :  28 :  74 : 2 :  3 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  2 : Hearing :  2 : Protection : -1
+Rathian Cap           : A : H :  14 :  42 : 1 :  8 :  0 :  0 : -2 : -4 : Fire Res :  5 : Health :  2 : Hearing :  1 : Protection : -1
+Rathian Vest          : G : C :  14 :  42 : 1 :  3 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  2 : Hearing :  1 : Protection : -2
+Rathian Guards        : G : A :  14 :  42 : 2 :  3 :  0 :  0 : -2 : -4 : Fire Res :  1 : Health :  2 : Hearing :  1 : Protection : -3
+Rathian Coat          : G : W :  14 :  42 : 1 :  3 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  3 : Hearing :  3 : Protection : -1
+Rathian Leggings      : G : L :  14 :  42 : 2 :  3 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  1 : Hearing :  2 : Protection : -1
+Gigginox Helm         : A : H :  30 :  78 : 1 : -4 :  0 :  2 :  2 : -1 : Constitutn :  3 : Status :  2 : Poison :  2 : Health : -2
+Gigginox Mail         : B : C :  30 :  78 : 0 : -4 :  0 :  2 :  2 : -1 : Constitutn :  4 : Status :  1 : Poison :  2 : Health : -2
+Gigginox Vambraces    : B : A :  30 :  78 : 2 : -4 :  0 :  2 :  2 : -1 : Constitutn :  3 : Status :  1 : Poison :  1 : Health : -2
+Gigginox Faulds       : B : W :  30 :  78 : 1 : -4 :  0 :  2 :  2 : -1 : Constitutn :  3 : Status :  2 : Poison :  3 : Health : -1
+Gigginox Greaves      : B : L :  30 :  78 : 1 : -4 :  0 :  2 :  2 : -1 : Constitutn :  2 : Status :  4 : Poison :  2 : Health : -1
+Gigginox Cap          : A : H :  15 :  44 : 1 : -4 :  0 :  2 :  7 : -1 : Constitutn :  4 : Status :  2 : Poison :  2 : Health : -1
+Gigginox Vest         : G : C :  15 :  44 : 0 : -4 :  0 :  2 :  2 : -1 : Constitutn :  3 : Status :  1 : Poison :  3 : Health : -2
+Gigginox Guards       : G : A :  15 :  44 : 2 : -4 :  0 :  2 :  2 : -1 : Constitutn :  2 : Status :  2 : Poison :  1 : Health : -2
+Gigginox Coat         : G : W :  15 :  44 : 1 : -4 :  0 :  2 :  2 : -1 : Constitutn :  4 : Status :  2 : Poison :  1 : Health : -2
+Gigginox Leggings     : G : L :  15 :  44 : 1 : -4 :  0 :  2 :  2 : -1 : Constitutn :  2 : Status :  3 : Poison :  3 : Health : -1
+Ingot Helm            : A : H :  28 :  74 : 1 : -2 : -1 :  1 :  3 :  1 : Wind Res :  4 : ThunderRes :  1 : Guard Up :  2 : Sharpener : -2
+Ingot Mail            : B : C :  28 :  74 : 1 : -2 : -1 :  1 :  3 :  1 : Wind Res :  3 : ThunderRes :  1 : Guard Up :  1 : Sharpener : -2
+Ingot Vambraces       : B : A :  28 :  74 : 1 : -2 : -1 :  1 :  3 :  1 : Wind Res :  5 : ThunderRes :  2 : Guard Up :  1 : Sharpener : -1
+Ingot Coil            : B : W :  28 :  74 : 1 : -2 : -1 :  1 :  3 :  1 : Wind Res :  1 : ThunderRes :  3 : Guard Up :  3 : Sharpener : -2
+Ingot Greaves         : B : L :  28 :  74 : 1 : -2 : -1 :  1 :  3 :  1 : Wind Res :  2 : ThunderRes :  3 : Guard Up :  3 : Sharpener : -1
+Ingot Cap             : A : H :  14 :  42 : 1 : -2 : -1 :  1 :  3 :  6 : Recoil :  4 : ThunderRes :  1 : Guard Up :  2 : Reload Spd : -2
+Ingot Vest            : G : C :  14 :  42 : 1 : -2 : -1 :  1 :  3 :  1 : Recoil :  3 : ThunderRes :  1 : Guard Up :  1 : Reload Spd : -2
+Ingot Guards          : G : A :  14 :  42 : 1 : -2 : -1 :  1 :  3 :  1 : Recoil :  5 : ThunderRes :  2 : Guard Up :  1 : Reload Spd : -1
+Ingot Coat            : G : W :  14 :  42 : 1 : -2 : -1 :  1 :  3 :  1 : Recoil :  1 : ThunderRes :  3 : Guard Up :  3 : Reload Spd : -2
+Ingot Leggings        : G : L :  14 :  42 : 1 : -2 : -1 :  1 :  3 :  1 : Recoil :  2 : ThunderRes :  3 : Guard Up :  3 : Reload Spd : -1
+Lagiacrus Helm        : A : H :  30 :  78 : 2 : -3 :  2 : -1 :  4 : -2 : Sharpness :  2 : Elemental :  1 : Swimming :  3 : Status : -2
+Lagiacrus Mail        : B : C :  30 :  78 : 1 : -3 :  2 : -1 :  4 : -2 : Sharpness :  1 : Elemental :  3 : Swimming :  1 : Status : -3
+Lagiacrus Vambraces   : B : A :  30 :  78 : 2 : -3 :  2 : -1 :  4 : -2 : Sharpness :  3 : Elemental :  2 : Swimming :  2 : Status : -1
+Lagiacrus Faulds      : B : W :  30 :  78 : 2 : -3 :  2 : -1 :  4 : -2 : Sharpness :  2 : Elemental :  1 : Swimming :  3 : Status : -2
+Lagiacrus Greaves     : B : L :  30 :  78 : 2 : -3 :  2 : -1 :  4 : -2 : Sharpness :  2 : Elemental :  3 : Swimming :  1 : Status : -2
+Lagiacrus Cap         : A : H :  15 :  44 : 2 : -3 :  2 : -1 :  9 : -2 : NormalS Up :  2 : Elemental :  1 : Swimming :  3 : Status : -2
+Lagiacrus Vest        : G : C :  15 :  44 : 1 : -3 :  2 : -1 :  4 : -2 : NormalS Up :  1 : Elemental :  3 : Swimming :  1 : Status : -3
+Lagiacrus Guards      : G : A :  15 :  44 : 2 : -3 :  2 : -1 :  4 : -2 : NormalS Up :  3 : Elemental :  2 : Swimming :  2 : Status : -1
+Lagiacrus Coat        : G : W :  15 :  44 : 2 : -3 :  2 : -1 :  4 : -2 : NormalS Up :  2 : Elemental :  1 : Swimming :  3 : Status : -2
+Lagiacrus Leggings    : G : L :  15 :  44 : 2 : -3 :  2 : -1 :  4 : -2 : NormalS Up :  2 : Elemental :  3 : Swimming :  1 : Status : -2
+Rathalos Helm         : A : H :  30 :  78 : 1 :  3 :  0 :  0 : -2 : -4 : Attack :  1 : Heat Res :  2 : Expert :  2 : Defense : -4
+Rathalos Mail         : B : C :  30 :  78 : 1 :  3 :  0 :  0 : -2 : -4 : Attack :  2 : Heat Res :  2 : Expert :  1 : Defense : -2
+Rathalos Vambraces    : B : A :  30 :  78 : 0 :  3 :  0 :  0 : -2 : -4 : Attack :  5 : Heat Res :  3 : Expert :  2 : Defense : -1
+Rathalos Faulds       : B : W :  30 :  78 : 0 :  3 :  0 :  0 : -2 : -4 : Attack :  5 : Heat Res :  1 : Expert :  3 : Defense : -2
+Rathalos Greaves      : B : L :  30 :  78 : 2 :  3 :  0 :  0 : -2 : -4 : Attack :  2 : Heat Res :  2 : Expert :  2 : Defense : -1
+Rathalos Cap          : A : H :  15 :  44 : 1 :  8 :  0 :  0 : -2 : -4 : Attack :  2 : Heat Res :  3 : Expert :  2 : Defense : -2
+Rathalos Vest         : G : C :  15 :  44 : 1 :  3 :  0 :  0 : -2 : -4 : Attack :  2 : Heat Res :  2 : Expert :  1 : Defense : -2
+Rathalos Guards       : G : A :  15 :  44 : 0 :  3 :  0 :  0 : -2 : -4 : Attack :  5 : Heat Res :  1 : Expert :  2 : Defense : -3
+Rathalos Coat         : G : W :  15 :  44 : 0 :  3 :  0 :  0 : -2 : -4 : Attack :  4 : Heat Res :  2 : Expert :  3 : Defense : -2
+Rathalos Leggings     : G : L :  15 :  44 : 2 :  3 :  0 :  0 : -2 : -4 : Attack :  2 : Heat Res :  2 : Expert :  2 : Defense : -1
+Barioth Helm          : A : H :  30 :  78 : 1 : -4 :  2 :  4 : -3 :  0 : Evasion :  3 : Stamina :  1 : Cold Res :  1 : Heat Res : -4
+Barioth Mail          : B : C :  30 :  78 : 1 : -4 :  2 :  4 : -3 :  0 : Evasion :  2 : Stamina :  2 : Cold Res :  1 : Heat Res : -2
+Barioth Vambraces     : B : A :  30 :  78 : 0 : -4 :  2 :  4 : -3 :  0 : Evasion :  5 : Stamina :  2 : Cold Res :  2 : Heat Res : -2
+Barioth Faulds        : B : W :  30 :  78 : 0 : -4 :  2 :  4 : -3 :  0 : Evasion :  2 : Stamina :  4 : Cold Res :  4 : Heat Res : -1
+Barioth Greaves       : B : L :  30 :  78 : 2 : -4 :  2 :  4 : -3 :  0 : Evasion :  3 : Stamina :  1 : Cold Res :  2 : Heat Res : -1
+Barioth Cap           : A : H :  15 :  44 : 1 : -4 :  2 :  9 : -3 :  0 : Evasion :  1 : Stamina :  1 : Cold Res :  5 : Heat Res : -2
+Barioth Vest          : G : C :  15 :  44 : 1 : -4 :  2 :  4 : -3 :  0 : Evasion :  2 : Stamina :  2 : Cold Res :  1 : Heat Res : -2
+Barioth Guards        : G : A :  15 :  44 : 0 : -4 :  2 :  4 : -3 :  0 : Evasion :  5 : Stamina :  3 : Cold Res :  1 : Heat Res : -2
+Barioth Coat          : G : W :  15 :  44 : 0 : -4 :  2 :  4 : -3 :  0 : Evasion :  5 : Stamina :  3 : Cold Res :  1 : Heat Res : -2
+Barioth Leggings      : G : L :  15 :  44 : 2 : -4 :  2 :  4 : -3 :  0 : Evasion :  2 : Stamina :  1 : Cold Res :  2 : Heat Res : -2
+Diablos Helm          : A : H :  30 :  78 : 1 :  2 : -1 : -3 : -1 : -1 : Crit Draw :  2 : Tremor Res :  4 : Elemental : -3
+Diablos Mail          : B : C :  30 :  78 : 0 :  2 : -1 : -3 : -1 : -1 : Crit Draw :  3 : Tremor Res :  3 : Elemental : -4
+Diablos Vambraces     : B : A :  30 :  78 : 0 :  2 : -1 : -3 : -1 : -1 : Crit Draw :  5 : Tremor Res :  3 : Elemental : -3
+Diablos Cap           : A : H :  15 :  45 : 1 :  2 :  2 : -3 :  2 :  2 : PierceS Up :  4 : Pierce S+ :  2 : Elemental : -3
+Diablos Vest          : G : C :  15 :  45 : 0 :  2 : -1 : -3 : -1 : -1 : PierceS Up :  3 : Pierce S+ :  3 : Elemental : -4
+Diablos Guards        : G : A :  15 :  45 : 0 :  2 : -1 : -3 : -1 : -1 : PierceS Up :  3 : Pierce S+ :  5 : Elemental : -3
+Uragaan Helm          : A : H :  30 :  78 : 1 :  3 : -4 : -1 :  1 : -2 : Defense :  2 : PunishDraw :  2 : Bomb Boost :  2 : Eating : -3
+Uragaan Mail          : B : C :  30 :  78 : 0 :  3 : -4 : -1 :  1 : -2 : Defense :  3 : PunishDraw :  3 : Bomb Boost :  2 : Eating : -1
+Uragaan Vambraces     : B : A :  30 :  78 : 1 :  3 : -4 : -1 :  1 : -2 : Defense :  4 : PunishDraw :  1 : Bomb Boost :  2 : Eating : -2
+Uragaan Faulds        : B : W :  30 :  78 : 1 :  3 : -4 : -1 :  1 : -2 : Defense :  3 : PunishDraw :  2 : Bomb Boost :  2 : Eating : -2
+Uragaan Greaves       : B : L :  30 :  78 : 0 :  3 : -4 : -1 :  1 : -2 : Torso Up
+Uragaan Cap           : A : H :  15 :  45 : 1 :  8 : -4 : -1 :  1 : -2 : Defense :  3 : Recoil :  3 : Bomb Boost :  2 : Eating : -1
+Uragaan Vest          : G : C :  15 :  45 : 0 :  3 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  4 : Bomb Boost :  2 : Eating : -1
+Uragaan Guards        : G : A :  15 :  45 : 1 :  3 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  2 : Bomb Boost :  2 : Eating : -3
+Uragaan Coat          : G : W :  15 :  45 : 1 :  3 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  2 : Bomb Boost :  2 : Eating : -3
+Uragaan Leggings      : G : L :  15 :  45 : 0 :  3 : -4 : -1 :  1 : -2 : Torso Up
+Agnaktor Helm         : A : H :  30 :  78 : 0 :  4 : -4 : -2 :  1 :  0 : Guard :  3 : Guard Up :  2 : Flame Aura :  3 : Stamina : -3
+Agnaktor Mail         : B : C :  30 :  78 : 1 :  4 : -4 : -2 :  1 :  0 : Guard :  3 : Guard Up :  1 : Flame Aura :  1 : Stamina : -2
+Agnaktor Vambraces    : B : A :  30 :  78 : 1 :  4 : -4 : -2 :  1 :  0 : Guard :  2 : Guard Up :  3 : Flame Aura :  3 : Stamina : -1
+Agnaktor Faulds       : B : W :  30 :  78 : 2 :  4 : -4 : -2 :  1 :  0 : Guard :  2 : Guard Up :  2 : Flame Aura :  1 : Stamina : -2
+Agnaktor Greaves      : B : L :  30 :  78 : 0 :  4 : -4 : -2 :  1 :  0 : Guard :  5 : Guard Up :  2 : Flame Aura :  2 : Stamina : -2
+Agnaktor Cap          : A : H :  15 :  45 : 0 :  9 : -4 : -2 :  1 :  0 : Reload Spd :  4 : Guard Up :  3 : Flame Aura :  3 : Stamina : -1
+Agnaktor Vest         : G : C :  15 :  45 : 1 :  4 : -4 : -2 :  1 :  0 : Reload Spd :  3 : Guard Up :  1 : Flame Aura :  1 : Stamina : -2
+Agnaktor Guards       : G : A :  15 :  45 : 1 :  4 : -4 : -2 :  1 :  0 : Reload Spd :  2 : Guard Up :  2 : Flame Aura :  2 : Stamina : -3
+Agnaktor Coat         : G : W :  15 :  45 : 2 :  4 : -4 : -2 :  1 :  0 : Reload Spd :  2 : Guard Up :  2 : Flame Aura :  1 : Stamina : -2
+Agnaktor Leggings     : G : L :  15 :  45 : 0 :  4 : -4 : -2 :  1 :  0 : Reload Spd :  4 : Guard Up :  2 : Flame Aura :  3 : Stamina : -2
+Helios Helm/Selene Helm                : A : H :  32 :  82 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  3 : Handicraft :  2 : Protection : -4 : Sharpness : -2
+Helios Mail/Selene Mail                : B : C :  32 :  82 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  2 : Handicraft :  2 : Protection : -2 : Sharpness : -3
+Helios Vambraces/Selene Vambraces      : B : A :  32 :  82 : 1 :  0 :  4 :  3 : -3 : -4 : Hearing :  2 : Handicraft :  3 : Protection : -1 : Sharpness : -3
+Helios Coil/Selene Coil                : B : W :  32 :  82 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  5 : Handicraft :  3 : Protection : -1 : Sharpness : -2
+Helios Greaves/Selene Greaves          : B : L :  32 :  82 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  3 : Handicraft :  5 : Protection : -2 : Sharpness : -1
+Helios Cap/Selene Cap                  : A : H :  16 :  47 : 0 :  0 :  9 :  3 : -3 : -4 : Hearing :  3 : Loading :  2 : Protection : -4 : Recoil : -2
+Helios Vest/Selene Vest                : G : C :  16 :  47 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  2 : Loading :  2 : Protection : -2 : Recoil : -3
+Helios Guards/Selene Guards            : G : A :  16 :  47 : 1 :  0 :  4 :  3 : -3 : -4 : Hearing :  2 : Loading :  3 : Protection : -1 : Recoil : -3
+Helios Coat/Selene Coat                : G : W :  16 :  47 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  5 : Loading :  3 : Protection : -1 : Recoil : -2
+Helios Leggings/Selene Leggings        : G : L :  16 :  47 : 0 :  0 :  4 :  3 : -3 : -4 : Hearing :  3 : Loading :  5 : Protection : -2 : Recoil : -1
+Yamato Kabuto/Hinata Hachigane         : A : H :  32 :  82 : 1 :  3 :  0 : -3 :  0 : -3 : FastCharge :  1 : Sharpness :  1 : Rec Speed :  2 : Combo Rate : -5
+Yamato Muneate/Hinata Muneate          : B : C :  32 :  82 : 1 :  3 :  0 : -3 :  0 : -3 : FastCharge :  2 : Sharpness :  1 : Rec Speed :  3 : Combo Rate : -1
+Yamato Kote/Hinata Kote                : B : A :  32 :  82 : 2 :  3 :  0 : -3 :  0 : -3 : FastCharge :  3 : Sharpness :  1 : Rec Speed :  1 : Combo Rate : -2
+Yamato Koshiate/Hinata Koshiate        : B : W :  32 :  82 : 1 :  3 :  0 : -3 :  0 : -3 : FastCharge :  1 : Sharpness :  4 : Rec Speed :  2 : Combo Rate : -2
+Yamato Gusoku/Hinata Hakama            : B : L :  32 :  82 : 1 :  3 :  0 : -3 :  0 : -3 : FastCharge :  3 : Sharpness :  3 : Rec Speed :  2 : Combo Rate : -1
+Mutsu Eboshi/Amagi Hachigane           : A : H :  16 :  47 : 1 :  3 : 10 : -3 : 10 : -3 : Clust S+ :  3 : Recoil :  1 : Rec Speed :  2 : Combo Rate : -3
+Mutsu Muneate/Amagi Muneate            : G : C :  16 :  47 : 1 :  3 :  0 : -3 :  0 : -3 : Clust S+ :  1 : Recoil :  1 : Rec Speed :  3 : Combo Rate : -2
+Mutsu Kote/Amagi Kote                  : G : A :  16 :  47 : 2 :  3 :  0 : -3 :  0 : -3 : Clust S+ :  3 : Recoil :  1 : Rec Speed :  1 : Combo Rate : -2
+Mutsu Koshiate/Amagi Koshiate          : G : W :  16 :  47 : 1 :  3 :  0 : -3 :  0 : -3 : Clust S+ :  1 : Recoil :  4 : Rec Speed :  1 : Combo Rate : -3
+Mutsu Gosuku/Amagi Hakama              : G : L :  16 :  47 : 1 :  3 :  0 : -3 :  0 : -3 : Clust S+ :  2 : Recoil :  3 : Rec Speed :  3 : Combo Rate : -1
+Guild Bard Lobos/Scholar's Beret       : A : H :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  4 : Psychic :  2 : Fate :  2 : Sense : -3
+Guild Bard Bolero/Scholar's Blouse     : B : C :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  3 : Psychic :  2 : Fate :  1 : Sense : -3
+Guild Bard Braces/Scholar's Gloves     : B : A :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  3 : Psychic :  5 : Fate :  2 : Sense : -1
+Guild Bard Coil/Scholar's Skirt        : B : W :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  2 : Psychic :  4 : Fate :  4 : Sense : -1
+Guild Bard Boots/Scholar's Socks       : B : L :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Torso Up
+Guild Bard Hat/Scholar's Cap           : A : H :  14 :  40 : 0 :-10 : 10 :-10 :  5 : 10 : Evasion :  4 : Psychic :  3 : Fate :  3 : Sense : -1
+Guild Bard Vest/Scholar's Vest         : G : C :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  3 : Psychic :  2 : Fate :  2 : Sense : -2
+Guild Bard Sleeves/Scholar's Sleeves   : G : A :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  2 : Psychic :  4 : Fate :  1 : Sense : -4
+Guild Bard Coat/Scholar's Mini         : G : W :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Evasion :  3 : Psychic :  4 : Fate :  2 : Sense : -2
+Guild Bard Gaiters/Scholar's Sandals   : G : L :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Torso Up
+Ranger's Headgear     : A : H :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  5 : Carving :  2 : Spd Gather :  2 : Fate : -3
+Ranger's Girdle       : B : C :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  2 : Carving :  1 : Spd Gather :  4 : Fate : -3
+Ranger's Gauntlets    : B : A :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  2 : Carving :  5 : Spd Gather :  1 : Fate : -4
+Ranger's Faulds       : B : W :  27 :  72 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  4 : Carving :  4 : Spd Gather :  2 : Fate : -2
+Ranger's Espadrilles  : B : L :  27 :  72 : 1 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  3 : Carving :  3 : Spd Gather :  1 : Fate : -3
+Archer's Turban       : A : H :  14 :  40 : 0 : 10 :-10 :  5 :-10 : 10 : Wide-Range :  5 : Carving :  4 : Spd Gather :  2 : Fate : -1
+Archer's Girdle       : G : C :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  2 : Carving :  1 : Spd Gather :  4 : Fate : -3
+Archer's Gautlets     : G : A :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  2 : Carving :  4 : Spd Gather :  1 : Fate : -5
+Archer's Bandolier    : G : W :  14 :  40 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  4 : Carving :  3 : Spd Gather :  2 : Fate : -3
+Archer's Espadrilles  : G : L :  14 :  40 : 1 :  0 :  0 :  0 :  0 :  0 : Wide-Range :  3 : Carving :  3 : Spd Gather :  1 : Fate : -3
+Piscine Mask+         : A : H :  -- :  58 : 1 : -3 :  5 :  2 : -4 :  0 : CurrentRes :  1 : Oxygen     : 10
+Piscine Belt+         : B : W :  -- :  58 : 0 : -3 :  5 :  2 : -4 :  0 : CurrentRes : 13
+Piscine Leggings+     : B : L :  -- :  58 : 1 : -3 :  5 :  2 : -4 :  0 : CurrentRes :  1 : Swimming   : 10
+Piscine Snorkel+      : A : H :  -- :  31 : 0 : -3 : 10 :  2 : -4 :  0 : CurrentRes :  3 : Oxygen     : 10
+Piscine Tank+         : G : W :  -- :  31 : 1 : -3 :  5 :  2 : -4 :  0 : CurrentRes : 11
+Piscine Pants+        : G : L :  -- :  31 : 1 : -3 :  5 :  2 : -4 :  0 : CurrentRes :  1 : Swimming   : 10
+Leather Helm+         : A : H :  -- :  58 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  2 : Spd Gather :  2 : Whim  :  4
+Leather Mail+         : B : C :  -- :  58 : 1 : -2 :  0 : -2 :  3 :  2 : Gathering :  5 : Spd Gather :  1 : Whim  :  2
+Leather Vambraces+    : B : A :  -- :  58 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  2 : Spd Gather :  3 : Whim  :  3
+Leather Faulds+       : B : W :  -- :  58 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  3 : Spd Gather :  1 : Whim  :  4
+Leather Greaves+      : B : L :  -- :  58 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  3 : Spd Gather :  3 : Whim  :  2
+Leather Cap+          : A : H :  -- :  31 : 2 : -2 :  0 : -2 :  8 :  2 : Gathering :  1 : Spd Gather :  1 : Whim  :  6
+Leather Vest+         : G : C :  -- :  31 : 1 : -2 :  0 : -2 :  3 :  2 : Gathering :  5 : Spd Gather :  2 : Whim  :  1
+Leather Guards+       : G : A :  -- :  31 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  4 : Spd Gather :  2 : Whim  :  2
+Leather Coat+         : G : W :  -- :  31 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  2 : Spd Gather :  2 : Whim  :  4
+Leather Leggings+     : G : L :  -- :  31 : 2 : -2 :  0 : -2 :  3 :  2 : Gathering :  3 : Spd Gather :  3 : Whim  :  2
+Chainmail Helm+       : A : H :  -- :  58 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  4 : Combo Plus :  3 : Health :  2
+Chainmail Mail+       : B : C :  -- :  58 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  1 : Combo Plus :  1 : Health :  5
+Chainmail Vambraces+  : B : A :  -- :  58 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  4 : Combo Plus :  1 : Health :  3
+Chainmail Faulds+     : B : W :  -- :  58 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  2 : Combo Plus :  4 : Health :  2
+Chainmail Greaves+    : B : L :  -- :  58 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  4 : Combo Plus :  1 : Health :  3
+Chainmail Cap+        : A : H :  -- :  32 : 2 : -1 : -2 :  9 : -1 :  1 : Combo Rate :  4 : Combo Plus :  2 : Health :  3
+Chainmail Vest+       : G : C :  -- :  32 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  4 : Combo Plus :  1 : Health :  2
+Chainmail Guards+     : G : A :  -- :  32 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  2 : Combo Plus :  1 : Health :  5
+Chainmail Coat+       : G : W :  -- :  32 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  1 : Combo Plus :  4 : Health :  3
+Chainmail Leggings+   : G : L :  -- :  32 : 2 : -1 : -2 :  4 : -1 :  1 : Combo Rate :  4 : Combo Plus :  2 : Health :  2
+Loc Lac Shawl+        : B : C :  -- :  58 : 0 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  2 : Transportr :  3 : Heat Res :  6
+Loc Lac Kilt+         : B : W :  -- :  58 : 0 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  6 : Transportr :  2 : Heat Res :  5
+Loc Lac Boots+        : B : L :  -- :  58 : 1 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  2 : Transportr :  5 : Heat Res :  4
+Loc Lac Vest+         : G : C :  -- :  32 : 0 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  2 : Transportr :  3 : Heat Res :  6
+Loc Lac Coat+         : G : W :  -- :  32 : 0 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  6 : Transportr :  2 : Heat Res :  5
+Loc Lac Gaiters+      : G : L :  -- :  32 : 1 :  5 : -4 : -5 :  2 :  0 : Rec Speed :  2 : Transportr :  5 : Heat Res :  4
+Hunter's Helm+        : A : H :  -- :  58 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  3 : Map :  2 : Evasion :  1 : Water Res : -3
+Hunter's Mail+        : B : C :  -- :  58 : 1 :  0 : -2 :  0 :  0 :  0 : Psychic :  5 : Map :  1 : Evasion :  1 : Water Res : -1 : Expert : 1
+Hunter's Vambraces+   : B : A :  -- :  58 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  2 : Map :  1 : Evasion :  3 : Water Res : -1 : Expert : 2
+Hunter's Faulds+      : B : W :  -- :  58 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  4 : Map :  1 : Evasion :  3 : Water Res : -1
+Hunter's Greaves+     : B : L :  -- :  58 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  1 : Map :  5 : Evasion :  2 : Water Res : -1
+Hunter's Cap+         : A : H :  -- :  32 : 2 :  5 : -2 :  5 :  5 :  5 : Psychic :  4 : Map :  2 : Evasion :  2 : Water Res : -1
+Hunter's Vest+        : G : C :  -- :  32 : 1 :  0 : -2 :  0 :  0 :  0 : Psychic :  5 : Map :  1 : Evasion :  1 : Water Res : -1 : Expert : 1
+Hunter's Guards+      : G : A :  -- :  32 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  1 : Map :  3 : Evasion :  2 : Water Res : -1 : Expert : 2
+Hunter's Coat+        : G : W :  -- :  32 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  4 : Map :  1 : Evasion :  2 : Water Res : -2
+Hunter's Leggings+    : G : L :  -- :  32 : 2 :  0 : -2 :  0 :  0 :  0 : Psychic :  1 : Map :  3 : Evasion :  3 : Water Res : -2
+Bone Helm+            : A : H :  -- :  62 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  3 : Stamina :  1 : Perception :  1 : Sleep : -2 : Expert : 2
+Bone Mail+            : B : C :  -- :  62 : 1 :  3 : -2 : -1 :  2 :  3 : Hunger :  1 : Stamina :  1 : Perception :  4 : Sleep : -1 : Expert : 2
+Bone Vambraces+       : B : A :  -- :  62 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  5 : Stamina :  2 : Perception :  1 : Sleep : -1
+Bone Faulds+          : B : W :  -- :  62 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  4 : Stamina :  3 : Perception :  1 : Sleep : -1
+Bone Greaves+         : B : L :  -- :  62 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  2 : Stamina :  3 : Perception :  3 : Sleep : -1
+Bone Cap+             : A : H :  -- :  34 : 2 :  8 : -2 : -1 :  2 :  3 : Hunger :  3 : Stamina :  1 : Perception :  2 : Sleep : -1 : Expert : 2
+Bone Vest+            : G : C :  -- :  34 : 1 :  3 : -2 : -1 :  2 :  3 : Hunger :  2 : Stamina :  2 : Perception :  2 : Sleep : -1 : Expert : 2
+Bone Guards+          : G : A :  -- :  34 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  4 : Stamina :  3 : Perception :  1 : Sleep : -1
+Bone Coat+            : G : W :  -- :  34 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  4 : Stamina :  1 : Perception :  3 : Sleep : -1
+Bone Leggings+        : G : L :  -- :  34 : 2 :  3 : -2 : -1 :  2 :  3 : Hunger :  2 : Stamina :  3 : Perception :  2 : Sleep : -2
+Alloy Helm+           : A : H :  -- :  62 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  3 : Sharpener :  2 : SpeedSetup :  3 : Oxygen : -1
+Alloy Mail+           : B : C :  -- :  62 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  3 : Sharpener :  2 : SpeedSetup :  1 : Oxygen : -1
+Alloy Vambraces+      : B : A :  -- :  62 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  4 : Sharpener :  1 : SpeedSetup :  3 : Oxygen : -1
+Alloy Coil+           : B : W :  -- :  62 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  2 : Sharpener :  3 : SpeedSetup :  2 : Oxygen : -2
+Alloy Greaves+        : B : L :  -- :  62 : 0 :  1 :  2 : -1 : -2 : -1 : Torso Up
+Alloy Cap+            : A : H :  -- :  34 : 2 :  1 :  7 : -1 : -2 : -1 : Expert :  3 : Normal S+ :  2 : SpeedSetup :  3 : Oxygen : -1
+Alloy Vest+           : G : C :  -- :  34 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  3 : Normal S+ :  2 : SpeedSetup :  1 : Oxygen : -1
+Alloy Guards+         : G : A :  -- :  34 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  4 : Normal S+ :  1 : SpeedSetup :  3 : Oxygen : -1
+Alloy Coat+           : G : W :  -- :  34 : 2 :  1 :  2 : -1 : -2 : -1 : Expert :  2 : Normal S+ :  3 : SpeedSetup :  2 : Oxygen : -2
+Alloy Leggings+       : G : L :  -- :  34 : 0 :  1 :  2 : -1 : -2 : -1 : Torso Up
+Jaggi Helm+           : A : H :  -- :  66 : 1 : -3 : -1 : -1 : -1 :  2 : Stun :  2 : Gluttony :  2 : Attack :  4 : Cold Res : -3
+Jaggi Mail+           : B : C :  -- :  66 : 0 : -3 : -1 : -1 : -1 :  2 : Stun :  3 : Gluttony :  1 : Attack :  4 : Cold Res : -1 : Expert : 2
+Jaggi Vambraces+      : B : A :  -- :  66 : 1 : -3 : -1 : -1 : -1 :  2 : Stun :  4 : Gluttony :  3 : Attack :  3 : Cold Res : -1
+Jaggi Faulds+         : B : W :  -- :  66 : 2 : -3 : -1 : -1 : -1 :  2 : Stun :  3 : Gluttony :  3 : Attack :  2 : Cold Res : -1
+Jaggi Greaves+        : B : L :  -- :  66 : 2 : -3 : -1 : -1 : -1 :  2 : Stun :  3 : Gluttony :  1 : Attack :  2 : Cold Res : -1 : Expert : 2
+Jaggi Cap+            : A : H :  -- :  36 : 1 : -3 : -1 : -1 : -1 :  7 : Stun :  3 : Gluttony :  2 : Attack :  5 : Cold Res : -1
+Jaggi Vest+           : G : C :  -- :  36 : 0 : -3 : -1 : -1 : -1 :  2 : Stun :  1 : Gluttony :  2 : Attack :  5 : Cold Res : -1 : Expert : 2
+Jaggi Guards+         : G : A :  -- :  36 : 1 : -3 : -1 : -1 : -1 :  2 : Stun :  5 : Gluttony :  3 : Attack :  1 : Cold Res : -2
+Jaggi Coat+           : G : W :  -- :  36 : 2 : -3 : -1 : -1 : -1 :  2 : Stun :  4 : Gluttony :  1 : Attack :  2 : Cold Res : -2
+Jaggi Leggings+       : G : L :  -- :  36 : 2 : -3 : -1 : -1 : -1 :  2 : Stun :  2 : Gluttony :  2 : Attack :  2 : Cold Res : -1 : Expert : 2
+Bnahabra Suit+        : B : C :  -- :  66 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  3 : Sharpness :  1 : Poison : -5
+Bnahabra Coil+        : B : W :  -- :  66 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  6 : Sharpness :  3 : Poison : -2
+Bnahabra Boots+       : B : L :  -- :  66 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  2 : Sharpness :  6 : Poison : -3
+Bnahabra vest+        : G : C :  -- :  36 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  3 : Reload Spd :  1 : Poison : -5
+Bnahabra Coat+        : G : W :  -- :  36 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  5 : Reload Spd :  4 : Poison : -2
+Bnahabra Leggings+    : G : L :  -- :  36 : 1 : -5 :  0 :  0 :  2 :  6 : Status :  2 : Reload Spd :  6 : Poison : -3
+Rhenoplos Helm+       : A : H :  -- :  66 : 2 :  3 : -1 : -1 : -2 :  2 : Mud/Snow :  2 : Wind Res :  3 : Eating :  1 : ThunderRes : -2 : Expert :  1
+Rhenoplos Mail+       : B : C :  -- :  66 : 1 :  3 : -1 : -1 : -2 :  2 : Mud/Snow :  1 : Wind Res :  4 : Eating :  1 : ThunderRes : -1 : Expert :  2
+Rhenoplos Vambraces+  : B : A :  -- :  66 : 2 :  3 : -1 : -1 : -2 :  2 : Mud/Snow :  1 : Wind Res :  1 : Eating :  5 : ThunderRes : -1 : Expert :  1
+Rhenoplos Coil+       : B : W :  -- :  66 : 2 :  3 : -1 : -1 : -2 :  2 : Mud/Snow :  1 : Wind Res :  6 : Eating :  1 : ThunderRes : -1
+Rhenoplos Greaves+    : B : L :  -- :  66 : 2 :  3 : -1 : -1 : -2 :  2 : Mud/Snow :  5 : Wind Res :  1 : Eating :  2 : ThunderRes : -1
+Rhenoplos Cap+        : A : H :  -- :  36 : 2 :  8 :  4 :  4 : -2 :  2 : Crag S+ :  3 : Recoil :  1 : Eating :  3 : ThunderRes : -1 : Expert :  1
+Rhenoplos Vest+       : G : C :  -- :  36 : 1 :  3 : -1 : -1 : -2 :  2 : Crag S+ :  1 : Recoil :  4 : Eating :  1 : ThunderRes : -1 : Expert :  2
+Rhenoplos Guards+     : G : A :  -- :  36 : 2 :  3 : -1 : -1 : -2 :  2 : Crag S+ :  1 : Recoil :  2 : Eating :  3 : ThunderRes : -2 : Expert :  1
+Rhenoplos Coat+       : G : W :  -- :  36 : 2 :  3 : -1 : -1 : -2 :  2 : Crag S+ :  2 : Recoil :  5 : Eating :  1 : ThunderRes : -1
+Rhenoplos Leggings+   : G : L :  -- :  36 : 2 :  3 : -1 : -1 : -2 :  2 : Crag S+ :  3 : Recoil :  3 : Eating :  2 : ThunderRes : -1
+Qurupeco Helm+        : A : H :  -- :  66 : 1 :  4 : -3 : -4 :  0 :  1 : Defense :  2 : Wide-Range :  3 : Rec Level :  3 : Ice Res : -2 : Expert :  1
+Qurupeco Mail+        : B : C :  -- :  66 : 1 :  4 : -3 : -4 :  0 :  1 : Defense :  2 : Wide-Range :  4 : Rec Level :  1 : Ice Res : -1 : Expert :  1
+Qurupeco Vambraces+   : B : A :  -- :  66 : 0 :  4 : -3 : -4 :  0 :  1 : Defense :  3 : Wide-Range :  6 : Rec Level :  3 : Ice Res : -1
+Qurupeco Coil+        : B : W :  -- :  66 : 1 :  4 : -3 : -4 :  0 :  1 : Defense :  2 : Wide-Range :  5 : Rec Level :  2 : Ice Res : -1 : Expert :  1
+Qurupeco Greaves+     : B : L :  -- :  66 : 3 :  4 : -3 : -4 :  0 :  1 : Defense :  1 : Wide-Range :  2 : Rec Level :  1 : Ice Res : -3
+Qurupeco Cap+         : A : H :  -- :  36 : 1 :  9 : -3 : -4 :  0 :  1 : Defense :  1 : Wide-Range :  5 : Rec Level :  3 : Ice Res : -1 : Expert :  1
+Qurupeco Vest+        : G : C :  -- :  36 : 1 :  4 : -3 : -4 :  0 :  1 : Defense :  1 : Wide-Range :  4 : Rec Level :  1 : Ice Res : -2 : Expert :  1
+Qurupeco Guards+      : G : A :  -- :  36 : 0 :  4 : -3 : -4 :  0 :  1 : Defense :  4 : Wide-Range :  6 : Rec Level :  2 : Ice Res : -1
+Qurupeco Coat+        : G : W :  -- :  36 : 1 :  4 : -3 : -4 :  0 :  1 : Defense :  2 : Wide-Range :  4 : Rec Level :  3 : Ice Res : -1 : Expert :  1
+Qurupeco Leggings+    : G : L :  -- :  36 : 3 :  4 : -3 : -4 :  0 :  1 : Defense :  2 : Wide-Range :  1 : Rec Level :  1 : Ice Res : -3
+Ludroth Helm+         : A : H :  -- :  68 : 1 : -4 :  4 :  0 : -1 :  1 : Constitutn :  4 : CurrentRes :  2 : Protection :  2 : Hunger : -2 : Expert :  1
+Ludroth Mail+         : B : C :  -- :  68 : 1 : -4 :  4 :  0 : -1 :  1 : Constitutn :  4 : CurrentRes :  2 : Protection :  1 : Hunger : -1 : Expert :  1
+Ludroth Vambraces+    : B : A :  -- :  68 : 1 : -4 :  4 :  0 : -1 :  1 : Constitutn :  2 : CurrentRes :  2 : Protection :  4 : Hunger : -1 : Expert :  2
+Ludroth Faulds+       : B : W :  -- :  68 : 3 : -4 :  4 :  0 : -1 :  1 : Constitutn :  2 : CurrentRes :  1 : Protection :  1 : Hunger : -3
+Ludroth Greaves+      : B : L :  -- :  68 : 2 : -4 :  4 :  0 : -1 :  1 : Constitutn :  3 : CurrentRes :  3 : Protection :  2 : Hunger : -1
+Ludroth Cap+          : A : H :  -- :  38 : 1 : -4 :  9 :  0 : -1 :  1 : Constitutn :  4 : Pellet S+ :  4 : Protection :  1 : Hunger : -1 : Expert :  1
+Ludroth Vest+         : G : C :  -- :  38 : 1 : -4 :  4 :  0 : -1 :  1 : Constitutn :  4 : Pellet S+ :  1 : Protection :  1 : Hunger : -2 : Expert :  1
+Ludroth Guards+       : G : A :  -- :  38 : 1 : -4 :  4 :  0 : -1 :  1 : Constitutn :  3 : Pellet S+ :  1 : Protection :  4 : Hunger : -1 : Expert :  2
+Ludroth Coat+         : G : W :  -- :  38 : 3 : -4 :  4 :  0 : -1 :  1 : Constitutn :  2 : Pellet S+ :  1 : Protection :  1 : Hunger : -3
+Ludroth Leggings+     : G : L :  -- :  38 : 2 : -4 :  4 :  0 : -1 :  1 : Constitutn :  2 : Pellet S+ :  3 : Protection :  3 : Hunger : -1
+Steel Mail+           : B : C :  -- :  66 : 1 : -1 :  1 :  1 : -1 :  0 : Guard :  2 : Sharpener :  2 : Swimming : -5
+Steel Vambraces+      : B : A :  -- :  66 : 1 : -1 :  1 :  1 : -1 :  0 : Guard :  5 : Sharpener :  4 : Swimming : -2
+Steel Faulds+         : B : W :  -- :  66 : 1 : -1 :  1 :  1 : -1 :  0 : Guard :  4 : Sharpener :  4 : Swimming : -3
+Baggi Helm+           : A : H :  -- :  68 : 3 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  1 : FastCharge :  2 : Ice Res :  1 : Stun : -3
+Baggi Mail+           : B : C :  -- :  68 : 0 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  2 : FastCharge :  1 : Ice Res :  4 : Stun : -2 : Expert :  2
+Baggi Vambraces+      : B : A :  -- :  68 : 1 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  2 : FastCharge :  4 : Ice Res :  4 : Stun : -1
+Baggi Coil+           : B : W :  -- :  68 : 2 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  2 : FastCharge :  1 : Ice Res :  4 : Stun : -1 : Expert :  1
+Baggi Greaves+        : B : L :  -- :  68 : 0 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  3 : FastCharge :  2 : Ice Res :  7 : Stun : -1
+Baggi Cap+            : A : H :  -- :  38 : 3 : -4 : -1 :  9 : -1 :  1 : Tranquilzr :  2 : PelletS Up :  2 : Ice Res :  1 : Stun : -2
+Baggi Vest+           : G : C :  -- :  38 : 0 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  2 : PelletS Up :  1 : Ice Res :  4 : Stun : -2 : Expert :  2
+Baggi Guards+         : G : A :  -- :  38 : 1 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  2 : PelletS Up :  3 : Ice Res :  5 : Stun : -1
+Baggi Coat+           : G : W :  -- :  38 : 2 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  1 : PelletS Up :  2 : Ice Res :  4 : Stun : -1 : Expert :  1
+Baggi Leggings+       : G : L :  -- :  38 : 0 : -4 : -1 :  4 : -1 :  1 : Tranquilzr :  3 : PelletS Up :  2 : Ice Res :  6 : Stun : -2
+Barroth Helm+         : A : H :  -- :  72 : 2 :  0 :  0 : -4 :  4 :  0 : Attack :  3 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Mail+         : B : C :  -- :  72 : 0 : -5 :  5 : -4 :  4 :  0 : Attack :  6 : Potential :  2 : Stamina :  1 : Expert : -2
+Barroth Vambraces+    : B : A :  -- :  72 : 3 : -5 :  5 : -4 :  4 :  0 : Attack :  1 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Faulds+       : B : W :  -- :  72 : 1 :  5 : -5 : -4 :  4 :  0 : Attack :  2 : Potential :  5 : Stamina :  3 : Expert : -1
+Barroth Greaves+      : B : L :  -- :  72 : 1 :  5 : -5 : -4 :  4 :  0 : Attack :  1 : Potential :  4 : Stamina :  4 : Expert : -2
+Barroth Cap+          : A : H :  -- :  40 : 2 :  5 :  5 : -4 :  4 :  0 : Attack :  4 : Potential :  3 : Stamina :  1 : Expert : -1
+Barroth Vest+         : G : C :  -- :  40 : 0 : -5 :  5 : -4 :  4 :  0 : Attack :  5 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Guards+       : G : A :  -- :  40 : 3 : -5 :  5 : -4 :  4 :  0 : Attack :  1 : Potential :  2 : Stamina :  1 : Expert : -3
+Barroth Coat+         : G : W :  -- :  40 : 1 :  5 : -5 : -4 :  4 :  0 : Attack :  2 : Potential :  4 : Stamina :  3 : Expert : -2
+Barroth Leggings+     : G : L :  -- :  40 : 1 :  5 : -5 : -4 :  4 :  0 : Attack :  1 : Potential :  4 : Stamina :  4 : Expert : -2
+Gobul Helm+           : A : H :  -- :  74 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  3 : Expert :  3 : Stun :  3  : Rec Speed : -2
+Gobul Mail+           : B : C :  -- :  74 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  2 : Expert :  3 : Stun :  2  : Rec Speed : -2
+Gobul Vambraces+      : B : A :  -- :  74 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  4 : Expert :  2 : Stun :  4  : Rec Speed : -1
+Gobul Faulds+         : B : W :  -- :  74 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  5 : Expert :  1 : Stun :  4  : Rec Speed : -1
+Gobul Greaves+        : B : L :  -- :  74 : 3 : -2 :  4 :  0 : -4 :  2 : Eating :  1 : Expert :  2 : Stun :  2  : Rec Speed : -2
+Gobul Cap+            : A : H :  -- :  42 : 1 : -2 :  9 :  0 : -4 :  2 : Eating :  3 : Expert :  3 : Stun :  4  : Rec Speed : -1
+Gobul Vest+           : G : C :  -- :  42 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  2 : Expert :  3 : Stun :  2  : Rec Speed : -2
+Gobul Guards+         : G : A :  -- :  42 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  4 : Expert :  2 : Stun :  4  : Rec Speed : -1
+Gobul Coat+           : G : W :  -- :  42 : 1 : -2 :  4 :  0 : -4 :  2 : Eating :  5 : Expert :  1 : Stun :  4  : Rec Speed : -1
+Gobul Leggings+       : G : L :  -- :  42 : 3 : -2 :  4 :  0 : -4 :  2 : Eating :  1 : Expert :  2 : Stun :  1  : Rec Speed : -3
+Rathian Helm+         : A : H :  -- :  74 : 3 :  4 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  1 : Hearing :  1 : Protection : -3
+Rathian Mail+         : B : C :  -- :  74 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  1 : Health :  3 : Hearing :  2 : Protection : -3
+Rathian Vambraces+    : B : A :  -- :  74 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  4 : Health :  4 : Hearing :  1 : Protection : -2
+Rathian Faulds+       : B : W :  -- :  74 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  4 : Hearing :  2 : Protection : -2
+Rathian Greaves+      : B : L :  -- :  74 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  3 : Hearing :  2 : Protection : -3
+Rathian Cap+          : A : H :  -- :  42 : 3 :  9 :  0 :  0 : -2 : -4 : Fire Res :  1 : Health :  2 : Hearing :  2 : Protection : -2
+Rathian Vest+         : G : C :  -- :  42 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  2 : Health :  3 : Hearing :  1 : Protection : -3
+Rathian Guards+       : G : A :  -- :  42 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  3 : Hearing :  2 : Protection : -3
+Rathian Coat+         : G : W :  -- :  42 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  3 : Health :  5 : Hearing :  1 : Protection : -2
+Rathian Leggings+     : G : L :  -- :  42 : 1 :  4 :  0 :  0 : -2 : -4 : Fire Res :  4 : Health :  2 : Hearing :  2 : Protection : -3
+Gigginox Helm+        : A : H :  -- :  78 : 1 : -4 : -1 :  2 :  3 :  0 : Constitutn :  3 : Status :  2 : Poison :  3 : Health : -3
+Gigginox Mail+        : B : C :  -- :  78 : 1 : -4 : -1 :  2 :  3 :  0 : Constitutn :  4 : Status :  2 : Poison :  2 : Health : -1
+Gigginox Vambraces+   : B : A :  -- :  78 : 3 : -4 : -1 :  2 :  3 :  0 : Constitutn :  2 : Status :  1 : Poison :  1 : Health : -3
+Gigginox Faulds+      : B : W :  -- :  78 : 1 : -4 : -1 :  2 :  3 :  0 : Constitutn :  4 : Status :  3 : Poison :  3 : Health : -1
+Gigginox Greaves+     : B : L :  -- :  78 : 3 : -4 : -1 :  2 :  3 :  0 : Constitutn :  2 : Status :  2 : Poison :  1 : Health : -2
+Gigginox Cap+         : A : H :  -- :  44 : 1 : -4 : -1 :  2 :  8 :  0 : Constitutn :  4 : Status :  3 : Poison :  3 : Health : -1
+Gigginox Vest+        : G : C :  -- :  44 : 1 : -4 : -1 :  2 :  3 :  0 : Constitutn :  5 : Status :  1 : Poison :  1 : Health : -2
+Gigginox Guards+      : G : A :  -- :  44 : 3 : -4 : -1 :  2 :  3 :  0 : Constitutn :  1 : Status :  1 : Poison :  2 : Health : -3
+Gigginox Coat+        : G : W :  -- :  44 : 1 : -4 : -1 :  2 :  3 :  0 : Constitutn :  4 : Status :  3 : Poison :  3 : Health : -1
+Gigginox Leggings+    : G : L :  -- :  44 : 3 : -4 : -1 :  2 :  3 :  0 : Constitutn :  1 : Status :  2 : Poison :  1 : Health : -3
+Ingot Helm+           : A : H :  -- :  74 : 1 : -2 : -1 :  1 :  3 :  2 : Wind Res :  3 : ThunderRes :  4 : Guard Up :  3 : Sharpener : -1
+Ingot Mail+           : B : C :  -- :  74 : 1 : -2 : -1 :  1 :  3 :  2 : Wind Res :  4 : ThunderRes :  2 : Guard Up :  2 : Sharpener : -1
+Ingot Vambraces+      : B : A :  -- :  74 : 3 : -2 : -1 :  1 :  3 :  2 : Wind Res :  2 : ThunderRes :  1 : Guard Up :  1 : Sharpener : -3
+Ingot Coil+           : B : W :  -- :  74 : 3 : -2 : -1 :  1 :  3 :  2 : Wind Res :  1 : ThunderRes :  1 : Guard Up :  2 : Sharpener : -3
+Ingot Greaves+        : B : L :  -- :  74 : 1 : -2 : -1 :  1 :  3 :  2 : Wind Res :  5 : ThunderRes :  3 : Guard Up :  2 : Sharpener : -1
+Ingot Cap+            : A : H :  -- :  42 : 1 : -2 : -1 :  1 :  3 :  7 : Recoil :  3 : ThunderRes :  4 : Guard Up :  3 : Reload Spd : -1
+Ingot Vest+           : G : C :  -- :  42 : 1 : -2 : -1 :  1 :  3 :  2 : Recoil :  4 : ThunderRes :  2 : Guard Up :  2 : Reload Spd : -1
+Ingot Guards+         : G : A :  -- :  42 : 3 : -2 : -1 :  1 :  3 :  2 : Recoil :  2 : ThunderRes :  1 : Guard Up :  1 : Reload Spd : -3
+Ingot Coat+           : G : W :  -- :  42 : 3 : -2 : -1 :  1 :  3 :  2 : Recoil :  1 : ThunderRes :  1 : Guard Up :  2 : Reload Spd : -3
+Ingot Leggings+       : G : L :  -- :  42 : 1 : -2 : -1 :  1 :  3 :  2 : Recoil :  5 : ThunderRes :  3 : Guard Up :  2 : Reload Spd : -1
+Dober Helm            : A : H :  -- :  78 : 3 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  1 : Stamina :  2 : Crit Draw :  1 : Potential : -3
+Dober Mail            : B : C :  -- :  78 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  2 : Stamina :  2 : Crit Draw :  4 : Potential : -1
+Dober Vambraces       : B : A :  -- :  78 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  5 : Stamina :  3 : Crit Draw :  2 : Potential : -1
+Dober Coil            : B : W :  -- :  78 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  5 : Stamina :  3 : Crit Draw :  2 : Potential : -1
+Dober Greaves         : B : L :  -- :  78 : 3 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  2 : Stamina :  1 : Crit Draw :  1 : Potential : -3
+Dober Cap             : A : H :  -- :  44 : 3 : -2 : -2 :  1 :  1 : 10 : Dragon Res :  1 : PelletS Up :  2 : Pellet S+ :  2 : Potential : -2
+Dober Vest            : G : C :  -- :  44 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  2 : PelletS Up :  3 : Pellet S+ :  3 : Potential : -1
+Dober Guards          : G : A :  -- :  44 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  3 : PelletS Up :  3 : Pellet S+ :  4 : Potential : -1
+Dober Coat            : G : W :  -- :  44 : 1 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  4 : PelletS Up :  1 : Pellet S+ :  4 : Potential : -2
+Dober Leggings        : G : L :  -- :  44 : 3 : -2 : -2 :  1 :  1 :  5 : Dragon Res :  1 : PelletS Up :  1 : Pellet S+ :  2 : Potential : -3
+Lagiacrus Helm+       : A : H :  -- :  78 : 1 : -4 :  2 : -1 :  5 : -2 : FreeElemnt :  3 : Elemental :  2 : Swimming :  3 : Status : -3
+Lagiacrus Mail+       : B : C :  -- :  78 : 3 : -4 :  2 : -1 :  5 : -2 : FreeElemnt :  1 : Elemental :  1 : Swimming :  1 : Status : -2
+Lagiacrus Vambraces+  : B : A :  -- :  78 : 1 : -4 :  2 : -1 :  5 : -2 : FreeElemnt :  5 : Elemental :  2 : Swimming :  2 : Status : -2
+Lagiacrus Faulds+     : B : W :  -- :  78 : 2 : -4 :  2 : -1 :  5 : -2 : FreeElemnt :  2 : Elemental :  2 : Swimming :  2 : Status : -3
+Lagiacrus Greaves+    : B : L :  -- :  78 : 1 : -4 :  2 : -1 :  5 : -2 : FreeElemnt :  4 : Elemental :  3 : Swimming :  2 : Status : -2
+Lagiacrus Cap+        : A : H :  -- :  44 : 1 : -4 :  2 : -1 : 10 : -2 : Rapid Fire :  2 : Elemental :  2 : Swimming :  5 : Status : -2
+Lagiacrus Vest+       : G : C :  -- :  44 : 3 : -4 :  2 : -1 :  5 : -2 : Rapid Fire :  1 : Elemental :  1 : Swimming :  1 : Status : -2
+Lagiacrus Guards+     : G : A :  -- :  44 : 1 : -4 :  2 : -1 :  5 : -2 : Rapid Fire :  2 : Elemental :  2 : Swimming :  4 : Status : -3
+Lagiacrus Coat+       : G : W :  -- :  44 : 2 : -4 :  2 : -1 :  5 : -2 : Rapid Fire :  2 : Elemental :  2 : Swimming :  2 : Status : -3
+Lagiacrus Leggings+   : G : L :  -- :  44 : 1 : -4 :  2 : -1 :  5 : -2 : Rapid Fire :  3 : Elemental :  3 : Swimming :  3 : Status : -2
+Rathalos Helm+        : A : H :  -- :  78 : 3 :  4 :  0 :  0 : -2 : -4 : Fencing :  1 : Heat Res :  1 : Expert :  2 : Defense : -3
+Rathalos Mail+        : B : C :  -- :  78 : 1 :  4 :  0 :  0 : -2 : -4 : Fencing :  3 : Heat Res :  1 : Expert :  2 : Defense : -3
+Rathalos Vambraces+   : B : A :  -- :  78 : 1 :  4 :  0 :  0 : -2 : -4 : Fencing :  1 : Heat Res :  5 : Expert :  3 : Defense : -2
+Rathalos Faulds+      : B : W :  -- :  78 : 1 :  4 :  0 :  0 : -2 : -4 : Fencing :  2 : Heat Res :  3 : Expert :  5 : Defense : -1
+Rathalos Greaves+     : B : L :  -- :  78 : 0 :  4 :  0 :  0 : -2 : -4 : Fencing :  3 : Heat Res :  5 : Expert :  3 : Defense : -2
+Rathalos Cap+         : A : H :  -- :  44 : 3 :  9 :  0 :  0 : -2 : -4 : NormalS Up :  1 : Heat Res :  1 : Expert :  3 : Defense : -2
+Rathalos Vest+        : G : C :  -- :  44 : 1 :  4 :  0 :  0 : -2 : -4 : NormalS Up :  3 : Heat Res :  1 : Expert :  2 : Defense : -3
+Rathalos Guards+      : G : A :  -- :  44 : 1 :  4 :  0 :  0 : -2 : -4 : NormalS Up :  3 : Heat Res :  3 : Expert :  4 : Defense : -1
+Rathalos Coat+        : G : W :  -- :  44 : 1 :  4 :  0 :  0 : -2 : -4 : NormalS Up :  1 : Heat Res :  4 : Expert :  3 : Defense : -3
+Rathalos Leggings+    : G : L :  -- :  44 : 0 :  4 :  0 :  0 : -2 : -4 : NormalS Up :  2 : Heat Res :  6 : Expert :  3 : Defense : -2
+Barioth Helm+         : A : H :  -- :  78 : 1 : -4 :  2 :  5 : -3 :  0 : Evasion :  2 : Evade Dist :  3 : Cold Res :  3 : Heat Res : -3
+Barioth Mail+         : B : C :  -- :  78 : 0 : -4 :  2 :  5 : -3 :  0 : Evasion :  4 : Evade Dist :  3 : Cold Res :  2 : Heat Res : -2
+Barioth Vambraces+    : B : A :  -- :  78 : 1 : -4 :  2 :  5 : -3 :  0 : Evasion :  4 : Evade Dist :  4 : Cold Res :  2 : Heat Res : -1
+Barioth Faulds+       : B : W :  -- :  78 : 3 : -4 :  2 :  5 : -3 :  0 : Evasion :  2 : Evade Dist :  1 : Cold Res :  1 : Heat Res : -3
+Barioth Greaves+      : B : L :  -- :  78 : 0 : -4 :  2 :  5 : -3 :  0 : Evasion :  3 : Evade Dist :  4 : Cold Res :  4 : Heat Res : -2
+Barioth Cap+          : A : H :  -- :  44 : 1 : -4 :  2 : 10 : -3 :  0 : Evasion :  2 : Evade Dist :  4 : Cold Res :  4 : Heat Res : -1
+Barioth Vest+         : G : C :  -- :  44 : 0 : -4 :  2 :  5 : -3 :  0 : Evasion :  4 : Evade Dist :  2 : Cold Res :  2 : Heat Res : -3
+Barioth Guards+       : G : A :  -- :  44 : 1 : -4 :  2 :  5 : -3 :  0 : Evasion :  4 : Evade Dist :  4 : Cold Res :  1 : Heat Res : -2
+Barioth Coat+         : G : W :  -- :  44 : 3 : -4 :  2 :  5 : -3 :  0 : Evasion :  2 : Evade Dist :  1 : Cold Res :  1 : Heat Res : -3
+Barioth Leggings+     : G : L :  -- :  44 : 0 : -4 :  2 :  5 : -3 :  0 : Evasion :  3 : Evade Dist :  4 : Cold Res :  4 : Heat Res : -2
+Diablos Helm+         : A : H :  -- :  78 : 0 :  3 : -1 : -4 : -1 : -1 : Crit Draw :  5 : Tremor Res :  5 : Elemental : -3
+Diablos Mail+         : B : C :  -- :  78 : 0 :  3 : -1 : -4 : -1 : -1 : Crit Draw :  3 : Tremor Res :  4 : Elemental : -4
+Diablos Vambraces+    : B : A :  -- :  78 : 3 :  3 : -1 : -4 : -1 : -1 : Crit Draw :  2 : Tremor Res :  1 : Elemental : -4
+Diablos Cap+          : A : H :  -- :  45 : 0 :  3 :  2 : -4 :  2 :  2 : PierceS Up :  5 : Pierce S+ :  5 : Elemental : -3
+Diablos Vest+         : G : C :  -- :  45 : 0 :  3 : -1 : -4 : -1 : -1 : PierceS Up :  4 : Pierce S+ :  3 : Elemental : -4
+Diablos Guards+       : G : A :  -- :  45 : 3 :  3 : -1 : -4 : -1 : -1 : PierceS Up :  1 : Pierce S+ :  2 : Elemental : -4
+Uragaan Helm+         : A : H :  -- :  78 : 1 :  4 : -4 : -1 :  1 : -2 : Defense :  4 : PunishDraw :  2 : Bomb Boost :  2 : Eating : -3
+Uragaan Mail+         : B : C :  -- :  78 : 1 :  4 : -4 : -1 :  1 : -2 : Defense :  2 : PunishDraw :  3 : Bomb Boost :  3 : Eating : -1
+Uragaan Vambraces+    : B : A :  -- :  78 : 3 :  4 : -4 : -1 :  1 : -2 : Defense :  2 : PunishDraw :  1 : Bomb Boost :  2 : Eating : -2
+Uragaan Faulds+       : B : W :  -- :  78 : 1 :  4 : -4 : -1 :  1 : -2 : Defense :  6 : PunishDraw :  2 : Bomb Boost :  2 : Eating : -1
+Uragaan Greaves+      : B : L :  -- :  78 : 3 :  4 : -4 : -1 :  1 : -2 : Defense :  1 : PunishDraw :  2 : Bomb Boost :  1 : Eating : -3
+Uragaan Cap+          : A : H :  -- :  45 : 1 :  9 : -4 : -1 :  1 : -2 : Defense :  3 : Recoil :  6 : Bomb Boost :  1 : Eating : -1
+Uragaan Vest+         : G : C :  -- :  45 : 1 :  4 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  1 : Bomb Boost :  4 : Eating : -2
+Uragaan Guards+       : G : A :  -- :  45 : 3 :  4 : -4 : -1 :  1 : -2 : Defense :  1 : Recoil :  1 : Bomb Boost :  2 : Eating : -3
+Uragaan Coat+         : G : W :  -- :  45 : 1 :  4 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  6 : Bomb Boost :  2 : Eating : -1
+Uragaan Leggings+     : G : L :  -- :  45 : 3 :  4 : -4 : -1 :  1 : -2 : Defense :  2 : Recoil :  1 : Bomb Boost :  1 : Eating : -3
+Agnaktor Helm+        : A : H :  -- :  78 : 0 :  5 : -4 : -2 :  1 :  0 : Guard :  5 : Sharpness :  3 : Flame Aura :  3 : Stamina : -2
+Agnaktor Mail+        : B : C :  -- :  78 : 1 :  5 : -4 : -2 :  1 :  0 : Guard :  5 : Sharpness :  2 : Flame Aura :  1 : Stamina : -1
+Agnaktor Vambraces+   : B : A :  -- :  78 : 3 :  5 : -4 : -2 :  1 :  0 : Guard :  2 : Sharpness :  1 : Flame Aura :  1 : Stamina : -3
+Agnaktor Faulds+      : B : W :  -- :  78 : 3 :  5 : -4 : -2 :  1 :  0 : Guard :  1 : Sharpness :  2 : Flame Aura :  1 : Stamina : -3
+Agnaktor Greaves+     : B : L :  -- :  78 : 2 :  5 : -4 : -2 :  1 :  0 : Guard :  2 : Sharpness :  2 : Flame Aura :  4 : Stamina : -1
+Agnaktor Cap+         : A : H :  -- :  45 : 0 : 10 : -4 : -2 :  1 :  0 : NormalS Up :  4 : Normal S+ :  4 : Flame Aura :  4 : Stamina : -1
+Agnaktor Vest+        : G : C :  -- :  45 : 1 :  5 : -4 : -2 :  1 :  0 : NormalS Up :  3 : Normal S+ :  3 : Flame Aura :  1 : Stamina : -2
+Agnaktor Guards+      : G : A :  -- :  45 : 3 :  5 : -4 : -2 :  1 :  0 : NormalS Up :  2 : Normal S+ :  1 : Flame Aura :  1 : Stamina : -3
+Agnaktor Coat+        : G : W :  -- :  45 : 3 :  5 : -4 : -2 :  1 :  0 : NormalS Up :  1 : Normal S+ :  2 : Flame Aura :  1 : Stamina : -3
+Agnaktor Leggings+    : G : L :  -- :  45 : 2 :  5 : -4 : -2 :  1 :  0 : NormalS Up :  2 : Normal S+ :  1 : Flame Aura :  4 : Stamina : -2
+Damacrus Helm         : A : H :  -- :  78 : 3 : -2 :  0 :  2 : -2 :  3 : Health :  1 : PunishDraw :  2 : Guard Up :  1 : Stamina : -3
+Damacrus Mail         : B : C :  -- :  78 : 3 : -2 :  0 :  2 : -2 :  3 : Health :  1 : PunishDraw :  1 : Guard Up :  1 : Stamina : -2
+Damacrus Vambraces    : B : A :  -- :  78 : 0 : -2 :  0 :  2 : -2 :  3 : Health :  5 : PunishDraw :  3 : Guard Up :  3 : Stamina : -2
+Damacrus Coil         : B : W :  -- :  78 : 1 : -2 :  0 :  2 : -2 :  3 : Health :  4 : PunishDraw :  3 : Guard Up :  3 : Stamina : -1
+Damacrus Greaves      : B : L :  -- :  78 : 1 : -2 :  0 :  2 : -2 :  3 : Health :  5 : PunishDraw :  2 : Guard Up :  3 : Stamina : -1
+Damacrus Cap          : A : H :  -- :  45 : 3 : -2 :  0 :  2 : -2 :  8 : Health :  1 : Reload Spd :  2 : Guard Up :  1 : Stamina : -3
+Damacrus Vest         : G : C :  -- :  45 : 3 : -2 :  0 :  2 : -2 :  3 : Health :  1 : Reload Spd :  1 : Guard Up :  1 : Stamina : -2
+Damacrus Guards       : G : A :  -- :  45 : 0 : -2 :  0 :  2 : -2 :  3 : Health :  4 : Reload Spd :  5 : Guard Up :  2 : Stamina : -2
+Damacrus Coat         : G : W :  -- :  45 : 1 : -2 :  0 :  2 : -2 :  3 : Health :  3 : Reload Spd :  3 : Guard Up :  4 : Stamina : -1
+Damacrus Leggings     : G : L :  -- :  45 : 0 : -2 :  0 :  2 : -2 :  3 : Health :  6 : Reload Spd :  4 : Guard Up :  2 : Stamina : -1
+Helios Helm+/Selene Helm+              : A : H :  -- :  82 : 3 :  0 :  5 :  3 : -3 : -4 : Hearing :  2 : Handicraft :  1 : Protection : -3 : Sharpness : -1
+Helios Mail+/Selene Mail+              : B : C :  -- :  82 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  3 : Handicraft :  5 : Protection : -1 : Sharpness : -2
+Helios Vambraces+/Selene Vambraces+    : B : A :  -- :  82 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  5 : Handicraft :  3 : Protection : -4 : Sharpness : -1
+Helios Coil+/Selene Coil+              : B : W :  -- :  82 : 3 :  0 :  5 :  3 : -3 : -4 : Hearing :  1 : Handicraft :  2 : Protection : -1 : Sharpness : -3
+Helios Greaves+/Selene Greaves+        : B : L :  -- :  82 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  4 : Handicraft :  4 : Protection : -2 : Sharpness : -3
+Helios Cap+/Selene Cap+                : A : H :  -- :  47 : 3 :  0 : 10 :  3 : -3 : -4 : Hearing :  2 : Loading :  1 : Protection : -3 : Recoil : -1
+Helios Vest+/Selene Vest+              : G : C :  -- :  47 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  3 : Loading :  5 : Protection : -1 : Recoil : -2
+Helios Guards+/Selene Guards+          : G : A :  -- :  47 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  5 : Loading :  3 : Protection : -4 : Recoil : -1
+Helios Coat+/Selene Coat+              : G : W :  -- :  47 : 3 :  0 :  5 :  3 : -3 : -4 : Hearing :  1 : Loading :  2 : Protection : -1 : Recoil : -3
+Helios Leggings+/Selene Leggings+      : G : L :  -- :  47 : 0 :  0 :  5 :  3 : -3 : -4 : Hearing :  4 : Loading :  4 : Protection : -2 : Recoil : -3
+Yamato Kabuto+/Hinata Hachigane+       : A : H :  -- :  82 : 3 :  4 :  0 : -3 :  0 : -4 : FastCharge :  1 : Sharpness :  1 : Rec Speed :  2 : Combo Rate : -3
+Yamato Muneate+/Hinata Muneate+        : B : C :  -- :  82 : 1 :  4 :  0 : -3 :  0 : -4 : FastCharge :  2 : Sharpness :  1 : Rec Speed :  4 : Combo Rate : -2
+Yamato Kote+/Hinata Kote+              : B : A :  -- :  82 : 3 :  4 :  0 : -3 :  0 : -4 : FastCharge :  2 : Sharpness :  1 : Rec Speed :  1 : Combo Rate : -3
+Yamato Koshiate+/Hinata Koshiate+      : B : W :  -- :  82 : 1 :  4 :  0 : -3 :  0 : -4 : FastCharge :  2 : Sharpness :  5 : Rec Speed :  3 : Combo Rate : -1
+Yamato Gusoku+/Hinata Hakama+          : B : L :  -- :  82 : 0 :  4 :  0 : -3 :  0 : -4 : FastCharge :  3 : Sharpness :  2 : Rec Speed :  5 : Combo Rate : -3
+Mutsu Eboshi+/Amagi Hachigane+         : A : H :  -- :  47 : 3 :  4 : 10 : -3 : 10 : -4 : Clust S+ :  2 : Recoil :  1 : Rec Speed :  1 : Combo Rate : -3
+Mutsu Muneate+/Amagi Muneate+          : G : C :  -- :  47 : 1 :  4 :  0 : -3 :  0 : -4 : Clust S+ :  4 : Recoil :  2 : Rec Speed :  2 : Combo Rate : -1
+Mutsu Kote+/Amagi Kote+                : G : A :  -- :  47 : 3 :  4 :  0 : -3 :  0 : -4 : Clust S+ :  1 : Recoil :  2 : Rec Speed :  1 : Combo Rate : -3
+Mutsu Koshiate+/Amagi Koshiate+        : G : W :  -- :  47 : 1 :  4 :  0 : -3 :  0 : -4 : Clust S+ :  4 : Recoil :  2 : Rec Speed :  2 : Combo Rate : -3
+Mutsu Gosuku+/Amagi Hakama+            : G : L :  -- :  47 : 0 :  4 :  0 : -3 :  0 : -4 : Clust S+ :  4 : Recoil :  3 : Rec Speed :  4 : Combo Rate : -2
+Guild Bard Lobos+/Scholar's Ceret+     : A : H :  -- :  60 : 1 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  4 : Carving :  1 : Fate :  1 : Protection : -5
+Guild Bard Bolero+/Scholar's Blouse+   : B : C :  -- :  60 : 0 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  2 : Carving :  2 : Fate :  3 : Protection : -4
+Guild Bard Braces+/Scholar's Gloves+   : B : A :  -- :  60 : 1 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  1 : Carving :  2 : Fate :  3 : Protection : -5
+Guild Bard Coil+/Scholar's Skirt+      : B : W :  -- :  60 : 1 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  1 : Carving :  3 : Fate :  2 : Protection : -5
+Guild Bard Boots+/Scholar's Socks+     : B : L :  -- :  60 : 0 :  0 :  0 :  0 :  0 :  0 : Torso Up
+Guild Bard Hat+/Scholar's Cap+         : A : H :  -- :  34 : 1 :-10 : 10 :-10 :  5 : 10 : Tranquilzr :  2 : Carving :  2 : Fate :  2 : Protection : -5
+Guild Bard Vest+/Scholar's Vest+       : G : C :  -- :  34 : 0 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  2 : Carving :  2 : Fate :  3 : Protection : -4
+Guild Bard Sleeves+/Scholar's Sleeves+ : G : A :  -- :  34 : 1 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  2 : Carving :  2 : Fate :  2 : Protection : -5
+Guild Bard Coat+/Scholar's Mini+       : G : W :  -- :  34 : 1 :  0 :  0 :  0 :  0 :  0 : Tranquilzr :  2 : Carving :  2 : Fate :  2 : Protection : -5
+Guild Bard Gaiters+/Scholar's Sandals+ : G : L :  -- :  34 : 0 :  0 :  0 :  0 :  0 :  0 : Torso Up
+Vangis Helm           : A : H :  -- :  80 : 0 :  0 :  0 :  3 : -4 : -4 : Psychic :  4 : Attack :  3 : Handicraft :  4 : Hunger : -2
+Vangis Mail           : B : C :  -- :  80 : 0 :  0 :  0 :  3 : -4 : -4 : Psychic :  3 : Attack :  3 : Handicraft :  3 : Hunger : -2
+Vangis Vambraces      : B : A :  -- :  80 : 0 :  0 :  0 :  3 : -4 : -4 : Psychic :  4 : Attack :  5 : Handicraft :  3 : Hunger : -1
+Vangis Coil           : B : W :  -- :  80 : 0 :  0 :  0 :  3 : -4 : -4 : Torso Up
+Vangis Greaves        : B : L :  -- :  80 : 3 :  0 :  0 :  3 : -4 : -4 : Psychic :  1 : Attack :  1 : Handicraft :  2 : Hunger : -3
+Vangis Cap            : A : H :  -- :  46 : 0 :  5 :  5 :  3 : -4 : -4 : Psychic :  5 : Attack :  2 : Loading :  5 : Hunger : -1
+Vangis Vest           : G : C :  -- :  46 : 0 :  0 :  0 :  3 : -4 : -4 : Psychic :  3 : Attack :  3 : Loading :  3 : Hunger : -2
+Vangis Guards         : G : A :  -- :  46 : 0 :  0 :  0 :  3 : -4 : -4 : Psychic :  3 : Attack :  6 : Loading :  2 : Hunger : -2
+Vangis Coat           : G : W :  -- :  46 : 0 :  0 :  0 :  3 : -4 : -4 : Torso Up
+Vangis Leggings       : G : L :  -- :  46 : 3 :  0 :  0 :  3 : -4 : -4 : Psychic :  1 : Attack :  1 : Loading :  2 : Hunger : -3
+Escadora Wisdom       : A : H :  -- :  82 : 2 : -1 : -1 : -1 :  0 : -5 : FreeElemnt :  1 : Evade Dist :  2 : Blight Res :  3 : Rec Level : -3
+Escadora Soul         : B : C :  -- :  82 : 2 : -1 : -1 : -1 :  0 : -5 : FreeElemnt :  2 : Evade Dist :  2 : Blight Res :  2 : Rec Level : -1
+Escadora Arms         : B : A :  -- :  82 : 0 : -1 : -1 : -1 :  0 : -5 : FreeElemnt :  5 : Evade Dist :  4 : Blight Res :  1 : Rec Level : -3
+Escadora Might        : B : W :  -- :  82 : 2 : -1 : -1 : -1 :  0 : -5 : FreeElemnt :  2 : Evade Dist :  3 : Blight Res :  2 : Rec Level : -2
+Escadora Scale        : B : L :  -- :  82 : 0 : -1 : -1 : -1 :  0 : -5 : FreeElemnt :  5 : Evade Dist :  4 : Blight Res :  2 : Rec Level : -2
+Escadora Sagesse      : A : H :  -- :  48 : 2 :  4 :  4 :  4 :  0 : -5 : Rapid Fire :  1 : Evade Dist :  2 : Blight Res :  3 : Rec Level : -3
+Escadora Seele        : G : C :  -- :  48 : 2 : -1 : -1 : -1 :  0 : -5 : Rapid Fire :  2 : Evade Dist :  2 : Blight Res :  2 : Rec Level : -1
+Escadora Arma         : G : A :  -- :  48 : 1 : -1 : -1 : -1 :  0 : -5 : Rapid Fire :  3 : Evade Dist :  4 : Blight Res :  1 : Rec Level : -3
+Escadora Force        : G : W :  -- :  48 : 2 : -1 : -1 : -1 :  0 : -5 : Rapid Fire :  2 : Evade Dist :  3 : Blight Res :  2 : Rec Level : -2
+Escadora Scala        : G : L :  -- :  48 : 1 : -1 : -1 : -1 :  0 : -5 : Rapid Fire :  3 : Evade Dist :  4 : Blight Res :  2 : Rec Level : -2
+Chakra Earring        : A : H :  -- :  32 : 3 :-10 :  0 :  0 :  0 : 10
+Chakra Necklace       : A : C :  -- :  32 : 3 :  0 : 10 :  0 :-10 :  0
+Chakra Bracelet       : A : A :  -- :  32 : 3 :  0 :  0 : 10 :  0 :-10
+Chakra Waistlet       : A : W :  -- :  32 : 3 : 10 :  0 :-10 :  0 :  0
+Chakra Anklet         : A : L :  -- :  32 : 3 :  0 :-10 :  0 : 10 :  0
+Blast Earring         : A : H :  10 :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Bomb Boost : 10
+Pursuit Earring       : A : H :  10 :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Combo Rate : 20
+Hawkeye Earring       : A : H :  10 :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Psychic : 15
+Grace Earring         : A : H :  -- :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Wide-Range : 20
+Sword Saint Earring   : A : H :  -- :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Fencing : 10
+Barrage Earring       : A : H :  -- :  10 : 0 :  0 :  0 :  0 :  0 :  0 : Loading : 15
+Jaggi Mask            : A : H :  12 :  36 : 0 : -4 : -1 : -1 : -1 : -1 : Fate : 10
+Skulll Mask           : A : H :  13 :  38 : 0 :  3 : -2 : -2 : -2 :  3 : Torso Up
+Wyvernking Eyepatch   : A : H :  14 :  40 : 3 :  2 :  2 :  2 :  2 :  2
+Shadow Shade          : A : H :  -- :  40 : 3 :  2 :  2 :  2 :  2 :  2 : Stun :  7
+HellHunter Jacket     : B : C :  27 :  72 : 3 :  2 :  2 :  2 :  2 :  2 : Survivor :  5
+HellHunter Leather    : G : C :  14 :  40 : 3 :  2 :  2 :  2 :  2 :  2 : Survivor :  5
+SoulHunter Jacket     : B : C :  -- :  72 : 0 :  2 :  2 :  2 :  2 :  2 : Survivor : 10
+SoulHunter Leather    : G : C :  -- :  40 : 0 :  2 :  2 :  2 :  2 :  2 : Survivor : 10
+Black Leather Pants   : A : L :  -- :  40 : 0 :  2 :  2 :  2 :  2 :  2 : Potential : 13

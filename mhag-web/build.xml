@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<project name="mhag" default="make-tri" basedir=".">
+
+    <!-- os specific path information -->
+    <property file="${user.home}/.ant-user.properties"/>    
+    <property  name="style.name" value="tri"/>
+    <property  name="project.dir" value="project"/>
+
+    <!-- destination directories -->
+    <property name="web.build.dir" value="webbuild"/>
+    <property name="build.config.dir" value="${web.build.dir}/config"/>
+    <property name="classes.dir" value="${web.build.dir}/classes"/>
+    <property name="app.classes.dir" value="../mhag-classes"/>
+    <property name="dist.dir" value="${web.build.dir}/distribution"/>
+    <property name="lib.dir" value="lib"/>
+    <property name="runtime.lib.dir" value="${lib.dir}/runtime"/>
+    <property name="j2ee.lib.dir" value="${lib.dir}/j2ee"/>
+
+    <!-- compilation properties -->
+    <property name="javac.debug" value="true"/>
+    <property name="javac.failonerror" value="true"/>
+    <property name="javac.deprecation" value="false"/>
+    <property name="javac.optimize" value="true"/>
+    <property name="javac.version" value="1.6"/>
+
+    <!-- src directories -->
+    <property name="web.src.dir" value="web/src"/>
+    <property name="app.src.dir" value="../mhag/src"/>
+    <property name="data.dir" value="${app.src.dir}/org/mhag/model/data"/>
+    <property name="war.dir" value="web/war"/>
+    <property name="war.config.dir" value="web/config"/>
+
+    <property name="project.name" value="mhag"/>
+
+    <path id="build.app.classpath">
+        <pathelement location="${app.classes.dir}"/>
+        <fileset dir="${lib.dir}">
+            <include name="swing-layout-1.0.1.jar"/>
+        </fileset>
+    </path>
+
+    <path id="build.web.classpath">
+        <pathelement location="${classes.dir}"/>
+        <fileset dir="${runtime.lib.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+        <fileset dir="${j2ee.lib.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <filterset id="tri.config.filterset">
+        <filter token="_applicationName_" value="mhtri"/>
+        <filter token="_projectVersion_" value="0"/>
+    </filterset>
+    <filterset id="p3.config.filterset">
+        <filter token="_applicationName_" value="mhp3rd"/>
+        <filter token="_projectVersion_" value="1"/>
+    </filterset>
+    <filterset id="trig.config.filterset">
+        <filter token="_applicationName_" value="mhtrig"/>
+        <filter token="_projectVersion_" value="3"/>
+    </filterset>
+    <filterset id="triu.config.filterset">
+        <filter token="_applicationName_" value="mhtriu"/>
+        <filter token="_projectVersion_" value="3"/>
+    </filterset>
+    <filterset id="mh4.config.filterset">
+        <filter token="_applicationName_" value="mh4"/>
+        <filter token="_projectVersion_" value="4"/>
+    </filterset>
+    <filterset id="test.config.filterset">
+        <filter token="_applicationName_" value="mhtest"/>
+        <filter token="_projectVersion_" value="3"/>
+    </filterset>
+
+    <target name="clean">
+        <delete dir="${web.build.dir}"/>
+    </target>
+
+    <target name="init">
+        <mkdir dir="${web.build.dir}"/>
+        <mkdir dir="${build.config.dir}"/>
+        <mkdir dir="${classes.dir}"/>
+        <mkdir dir="${dist.dir}"/>
+    </target>
+
+    <target name="copy-data">
+        <fail unless="config.filterset" message="Please enter the filterset to be used"/>
+        <copy todir="${build.config.dir}" overwrite="true" filtering="true">
+            <fileset dir="${war.config.dir}"/>
+            <filterset refid="${config.filterset}"/>
+        </copy>
+    </target>
+
+    <target name="build-mhag-jar" description="builds the mhag.jar for inclusion into the web view">
+        <delete dir="${app.classes.dir}"/>
+        <mkdir dir="${app.classes.dir}"/>
+
+        <!--compile-->
+        <javac destdir="${app.classes.dir}" source="${javac.version}" target="${javac.version}" debug="${javac.debug}"
+               deprecation="${javac.deprecation}" optimize="${javac.optimize}" failonerror="${javac.failonerror}"
+               includeAntRuntime="no">
+            <classpath refid="build.app.classpath"/>
+            <src path="${app.src.dir}"/>
+        </javac>
+
+        <copy todir="${app.classes.dir}/org/mhag/model/data" overwrite="true">
+            <fileset dir="${data.dir}"/>
+        </copy>
+
+        <jar jarfile="${runtime.lib.dir}/mhag.jar" compress="false" basedir="${app.classes.dir}"/>
+    </target>
+
+    <target name="compile-web-classes">
+        <javac destdir="${classes.dir}" source="${javac.version}" target="${javac.version}" debug="${javac.debug}"
+               deprecation="${javac.deprecation}" optimize="${javac.optimize}" failonerror="${javac.failonerror}"
+               includeAntRuntime="no">
+            <classpath refid="build.web.classpath"/>
+            <src path="${web.src.dir}"/>
+        </javac>
+    </target>
+
+    <target name="build-war">
+        <fail unless="game.name" message="Please specify the game"/>
+        <fail unless="game.dir" message="Please specify the game resource directory"/>
+
+        <war warfile="${dist.dir}/${game.name}.war" webxml="${war.dir}/WEB-INF/web.xml">
+            <!-- copy static resources -->
+            <fileset dir="${war.dir}" excludes="WEB-INF/web.xml"/>
+            <fileset dir="${project.dir}/${game.dir}/"/>
+            <webinf file="${build.config.dir}/project.properties" casesensitive="true"/>
+            <metainf file="${build.config.dir}/context.xml"/>
+            <!-- copy properties files -->
+            <classes dir="${classes.dir}"/>
+            <!-- copy lib files -->
+            <lib dir="${runtime.lib.dir}" includes="*.jar"/>
+        </war>
+    </target>
+
+    <target name="copy-tri" depends="make-tri" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhtri.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-test" depends="make-test" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhtest.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-p3" depends="make-p3" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhp3rd.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-trig" depends="make-trig" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhtrig.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-triu" depends="make-triu" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhtriu.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-mh4" depends="make-mh4" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mh4.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+
+    <target name="make-tri" depends="clean, init, compile-web-classes">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="tri.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mhtri"/>
+            <param name="game.dir" value="tri"/>
+        </antcall>
+        <copy file="${dist.dir}/mhtri.war" todir="." overwrite="true"/>
+    </target>
+    <target name="make-trig" depends="clean, init, compile-web-classes">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="trig.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mhtrig"/>
+            <param name="game.dir" value="trig"/>
+        </antcall>
+        <copy file="${dist.dir}/mhtrig.war" todir="." overwrite="true"/>
+    </target>
+    <target name="make-triu" depends="clean, init, compile-web-classes">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="triu.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mhtriu"/>
+            <param name="game.dir" value="triu"/>
+        </antcall>
+        <copy file="${dist.dir}/mhtriu.war" todir="." overwrite="true"/>
+    </target>
+    <target name="make-mh4" depends="clean, init, compile-web-classes">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="mh4.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mh4"/>
+            <param name="game.dir" value="mh4"/>
+        </antcall>
+        <copy file="${dist.dir}/mh4.war" todir="." overwrite="true"/>
+    </target>
+    <target name="make-test" depends="clean, init, compile-web-classes">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="test.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mhtest"/>
+            <param name="game.dir" value="triu"/>
+        </antcall>
+        <copy file="${dist.dir}/mhtest.war" todir="." overwrite="true"/>
+    </target>
+    <target name="make-p3" depends="clean, init, compile-web-classes" description="prepares p3rd for release">
+        <antcall target="copy-data" inheritrefs="true">
+            <param name="config.filterset" value="p3.config.filterset"/>
+        </antcall>
+        <antcall target="build-war" inheritrefs="true">
+            <param name="game.name" value="mhp3rd"/>
+            <param name="game.dir" value="p3"/>
+        </antcall>
+        <copy file="${dist.dir}/mhp3rd.war" todir="." overwrite="true"/>
+    </target>
+
+</project>
