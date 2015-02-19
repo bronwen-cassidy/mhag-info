@@ -1,7 +1,3 @@
-/* 
- * Copyright (c) Zynap Ltd. 2006
- * All rights reserved.
- */
 package org.mhag.admin;
 
 import org.springframework.web.servlet.ModelAndView;
