@@ -66,7 +66,7 @@ Arc Leggings : アークレギンス : G : M : L : 12 : 62 : 2 : -2 : 4 : 2 : -4
 Archer's Shade : 城塞弓撃隊【面隠】 : A : A : H : 27 : 63 : 2 : 1 : 1 : 1 : 1 : 1 : Tenderizer : 1 : Carving : 3 : Guts : 3 : Rec Level : 1 : Sense : -2
 Archer's Girdle : 城塞弓撃隊【胴巻】 : G : A : C : 27 : 63 : 0 : 1 : 1 : 1 : 1 : 1 : Carving : 3 : Guts : 2 : Loading : 1 : Rec Level : 2 : Sense : -3
 Archer's Gauntlets : 城塞弓撃隊【手甲】 : G : A : A : 27 : 63 : 0 : 1 : 1 : 1 : 1 : 1 : Carving : 4 : Guts : 2 : Loading : 2 : Rec Level : 3 : Sense : -3
-Archer's Faulds : 城塞弓撃隊【弾帯】 : G : A : W : 27 : 63 : 2 : 1 : 1 : 1 : 1 : 1 : Carving : 1 : Evade Dist : 3 : Guts : 2 : Rec Level : 2 : Sense : -1
+Archer's Faulds : 城塞弓撃隊【弾帯】 : G : A : W : 27 : 63 : 2 : 1 : 1 : 1 : 1 : 1 : Carving : 1 : Evade Distance : 3 : Guts : 2 : Rec Level : 2 : Sense : -1
 Archer's Espadrilles : 城塞弓撃隊【足袋】 : G : A : L : 27 : 63 : 1 : 1 : 1 : 1 : 1 : 1 : Tenderizer : 3 : Carving : 3 : Guts : 1 : Rec Level : 2 : Sense : -1
 Armament Jacket : 武装戦線ジャケット : B : A : C : 23 : 109 : 0 : 2 : 2 : 2 : 2 : 2 : Survivor : 10
 Armament Rider : 武装戦線ライダース : G : A : C : 12 : 63 : 0 : 3 : 3 : 3 : 3 : 3 : Survivor : 10
@@ -247,13 +247,13 @@ Bouya Denims : 坊屋デニム : G : A : L : 22 : 64 : 0 : 2 : 2 : 2 : 2 : 2 : A
 Brachydios Helm S : ブラキＳヘルム : A : A : H : 57 : 112 : 2 : 3 : -4 : -2 : 0 : 0 : Crit Draw : 1 : Spirit : 2 : Evasion : -2 : Potential : 2 : Bomb Boost : 2
 Brachydios Mail S : ブラキＳメイル : B : A : C : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Crit Draw : 1 : Spirit : 3 : Evasion : -2 : Potential : 1 : Bomb Boost : 2
 Brachydios Vambraces S : ブラキＳアーム : B : A : A : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Crit Draw : 1 : Spirit : 3 : Evasion : -2 : Potential : 3 : Bomb Boost : 3
-Brachydios Faulds S : ブラキＳフォールド : B : A : W : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Spirit : 4 : Evasion : -2 : Potential : 2 : Bomb Boost : 1 : Evade Dist : 1
-Brachydios Greaves S : ブラキＳグリーヴ : B : A : L : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Spirit : 3 : Evasion : -2 : Potential : 2 : Bomb Boost : 2 : Evade Dist : 1
+Brachydios Faulds S : ブラキＳフォールド : B : A : W : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Spirit : 4 : Evasion : -2 : Potential : 2 : Bomb Boost : 1 : Evade Distance : 1
+Brachydios Greaves S : ブラキＳグリーヴ : B : A : L : 57 : 112 : 1 : 3 : -4 : -2 : 0 : 0 : Spirit : 3 : Evasion : -2 : Potential : 2 : Bomb Boost : 2 : Evade Distance : 1
 Brachydios Cap S : ブラキＳキャップ : A : A : H : 28 : 64 : 2 : 4 : -3 : -1 : 1 : 1 : Rapid Fire : 1 : Spirit : 2 : Evasion : -2 : Potential : 3 : Bomb Boost : 2
 Brachydios Vest S : ブラキＳレジスト : G : A : C : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Rapid Fire : 1 : Spirit : 3 : Evasion : -2 : Potential : 1 : Bomb Boost : 2
 Brachydios Guards S : ブラキＳガード : G : A : A : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Rapid Fire : 1 : Spirit : 3 : Evasion : -2 : Potential : 3 : Bomb Boost : 3
-Brachydios Coat S : ブラキＳコート : G : A : W : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Spirit : 4 : Evasion : -2 : Potential : 1 : Bomb Boost : 1 : Evade Dist : 1
-Brachydios Leggings S : ブラキＳレギンス : G : A : L : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Spirit : 3 : Evasion : -2 : Potential : 2 : Bomb Boost : 2 : Evade Dist : 1
+Brachydios Coat S : ブラキＳコート : G : A : W : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Spirit : 4 : Evasion : -2 : Potential : 1 : Bomb Boost : 1 : Evade Distance : 1
+Brachydios Leggings S : ブラキＳレギンス : G : A : L : 28 : 64 : 1 : 4 : -3 : -1 : 1 : 1 : Spirit : 3 : Evasion : -2 : Potential : 2 : Bomb Boost : 2 : Evade Distance : 1
 Brachydios Helm : ブラキヘルム : A : A : H : 22 : 110 : 1 : 2 : -4 : -2 : 0 : 0 : Spirit : 2 : Evasion : -2 : Bomb Boost : 2
 Brachydios Mail : ブラキメイル : B : A : C : 22 : 110 : 1 : 2 : -4 : -2 : 0 : 0 : Spirit : 3 : Evasion : -2 : Bomb Boost : 2
 Brachydios Vambraces : ブラキアーム : B : A : A : 22 : 110 : 2 : 2 : -4 : -2 : 0 : 0 : Spirit : 1 : Evasion : -2 : Bomb Boost : 2
@@ -466,16 +466,16 @@ Empress Vest : エンプレスレジスト : G : A : C : 34 : 65 : 0 : 5 : -1 : 
 Empress Guards : エンプレスガード : G : A : A : 34 : 65 : 2 : 5 : -1 : -5 : -1 : 2 : FreeElemnt : 2 : Expert : 1 : Guard Up : 3 : Cold Res : -2
 Empress Coat : エンプレスコート : G : A : W : 34 : 65 : 1 : 5 : -1 : -5 : -1 : 2 : Expert : 2 : Guard Up : 1 : Loading : 2 : Normal Up : 2 : Cold Res : -2
 Empress Leggings : エンプレスレギンス : G : A : L : 34 : 65 : 2 : 5 : -1 : -5 : -1 : 2 : FreeElemnt : 1 : Expert : 2 : Guard Up : 3 : Cold Res : -1
-Escadora Wisdom : エスカドラワイズ : A : A : H : 86 : 121 : 0 : 0 : -2 : 0 : -2 : 0 : Gloves Off : 2 : Blight Res : 1 : Evade Dist : 2 : Elemental : 1 : Stun : -1
-Escadora Soul : エスカドラソウル : B : A : C : 86 : 121 : 0 : -3 : -2 : 3 : -2 : 3 : Gloves Off : 2 : Blight Res : 2 : Evade Dist : 1 : Elemental : 3 : Stun : -2
-Escadora Arms : エスカドラアムズ : B : A : A : 86 : 121 : 0 : -3 : -2 : 3 : -2 : 3 : Gloves Off : 3 : Blight Res : 1 : Evade Dist : 1 : Elemental : 3 : Stun : -2
-Escadora Might : エスカドラマイト : B : A : W : 86 : 121 : 0 : 3 : -2 : -3 : -2 : -3 : Gloves Off : 1 : Blight Res : 3 : Evade Dist : 3 : Elemental : 2 : Stun : -2
-Escadora Scale : エスカドラスケル : B : A : L : 86 : 121 : 0 : 3 : -2 : -3 : -2 : -3 : Gloves Off : 2 : Blight Res : 3 : Evade Dist : 3 : Elemental : 1 : Stun : -3
-Escadora Sagesse : エスカドラサジェス : A : A : H : 43 : 68 : 0 : 1 : -1 : 1 : -1 : 1 : Gloves Off : 1 : Blight Res : 2 : Evade Dist : 2 : Elemental : 2 : Stun : -1
-Escadora Seele : エスカドラゼーレ : G : A : C : 43 : 68 : 0 : -2 : -1 : 4 : -1 : 4 : Gloves Off : 3 : Blight Res : 1 : Evade Dist : 1 : Elemental : 2 : Stun : -2
-Escadora Arma : エスカドラアルマ : G : A : A : 43 : 68 : 0 : -2 : -1 : 4 : -1 : 4 : Gloves Off : 3 : Blight Res : 1 : Evade Dist : 1 : Elemental : 3 : Stun : -2
-Escadora Force : エスカドラフォルス : G : A : W : 43 : 68 : 0 : 4 : -1 : -2 : -1 : -2 : Gloves Off : 1 : Blight Res : 3 : Evade Dist : 3 : Elemental : 2 : Stun : -2
-Escadora Scala : エスカドラスクレ : G : A : L : 43 : 68 : 0 : 4 : -1 : -2 : -1 : -2 : Gloves Off : 2 : Blight Res : 3 : Evade Dist : 3 : Elemental : 1 : Stun : -3
+Escadora Wisdom : エスカドラワイズ : A : A : H : 86 : 121 : 0 : 0 : -2 : 0 : -2 : 0 : Gloves Off : 2 : Blight Res : 1 : Evade Distance : 2 : Elemental : 1 : Stun : -1
+Escadora Soul : エスカドラソウル : B : A : C : 86 : 121 : 0 : -3 : -2 : 3 : -2 : 3 : Gloves Off : 2 : Blight Res : 2 : Evade Distance : 1 : Elemental : 3 : Stun : -2
+Escadora Arms : エスカドラアムズ : B : A : A : 86 : 121 : 0 : -3 : -2 : 3 : -2 : 3 : Gloves Off : 3 : Blight Res : 1 : Evade Distance : 1 : Elemental : 3 : Stun : -2
+Escadora Might : エスカドラマイト : B : A : W : 86 : 121 : 0 : 3 : -2 : -3 : -2 : -3 : Gloves Off : 1 : Blight Res : 3 : Evade Distance : 3 : Elemental : 2 : Stun : -2
+Escadora Scale : エスカドラスケル : B : A : L : 86 : 121 : 0 : 3 : -2 : -3 : -2 : -3 : Gloves Off : 2 : Blight Res : 3 : Evade Distance : 3 : Elemental : 1 : Stun : -3
+Escadora Sagesse : エスカドラサジェス : A : A : H : 43 : 68 : 0 : 1 : -1 : 1 : -1 : 1 : Gloves Off : 1 : Blight Res : 2 : Evade Distance : 2 : Elemental : 2 : Stun : -1
+Escadora Seele : エスカドラゼーレ : G : A : C : 43 : 68 : 0 : -2 : -1 : 4 : -1 : 4 : Gloves Off : 3 : Blight Res : 1 : Evade Distance : 1 : Elemental : 2 : Stun : -2
+Escadora Arma : エスカドラアルマ : G : A : A : 43 : 68 : 0 : -2 : -1 : 4 : -1 : 4 : Gloves Off : 3 : Blight Res : 1 : Evade Distance : 1 : Elemental : 3 : Stun : -2
+Escadora Force : エスカドラフォルス : G : A : W : 43 : 68 : 0 : 4 : -1 : -2 : -1 : -2 : Gloves Off : 1 : Blight Res : 3 : Evade Distance : 3 : Elemental : 2 : Stun : -2
+Escadora Scala : エスカドラスクレ : G : A : L : 43 : 68 : 0 : 4 : -1 : -2 : -1 : -2 : Gloves Off : 2 : Blight Res : 3 : Evade Distance : 3 : Elemental : 1 : Stun : -3
 Extravagant Eboshi : トヨタマ【烏帽子】 : A : A : H : 35 : 65 : 1 : -3 : 4 : 5 : 0 : 1 : Hearing : 5 : Loading : 1 : Wind Res : 4 : Heat Res : -2
 Extravagant Muneate : トヨタマ【胸当て】 : G : A : C : 35 : 65 : 1 : -3 : 4 : 5 : 0 : 1 : FreeElemnt : 2 : Hearing : 1 : Wind Res : 4 : Heat Res : -2
 Extravagant Sleeves : トヨタマ【大袖】 : G : A : A : 35 : 65 : 2 : -3 : 4 : 5 : 0 : 1 : Hearing : 2 : Loading : 1 : Wind Res : 4 : Heat Res : -2
@@ -968,16 +968,16 @@ Khezu Vest : フルフルレジスト : G : A : C : 10 : 60 : 2 : -3 : 2 : 3 : 2
 Khezu Guards : フルフルガード : G : A : A : 10 : 60 : 1 : -3 : 2 : 3 : 2 : 2 : ThunderAtk : 3 : Rec Level : 2
 Khezu Coat : フルフルコート : G : A : W : 10 : 60 : 2 : -3 : 2 : 3 : 2 : 2 : ThunderAtk : 3 : Rec Level : 2 : Stun : -1
 Khezu Leggings : フルフルレギンス : G : A : L : 10 : 60 : 1 : -3 : 2 : 3 : 2 : 2 : ThunderAtk : 3 : Rec Level : 3 : Stun : -2
-King Lobster Helm : キングロブスタヘルム : A : A : H : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 3 : Evade Dist : 1 : Fire Res : -3
-King Lobster Shell : キングロブスタシェル : B : A : C : 16 : 104 : 2 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Dist : 1 : Fire Res : -3
-King Lobster Vambraces : キングロブスタアーム : B : A : A : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Dist : 1 : Fire Res : -3
-King LobsterCoil : Ｋ・ロブスタコイル : B : A : W : 16 : 104 : 0 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Dist : 3 : Fire Res : -3
-King LobsterGreaves : Ｋ・ロブスタグリーヴ : B : A : L : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 1 : Evade Dist : 4 : Fire Res : -3
-King LobsterCap : Ｋ・ロブスタキャップ : A : A : H : 8 : 58 : 2 : -1 : 6 : 3 : -1 : -4 : Evasion : 3 : Evade Dist : 1 : Fire Res : -3
-King Lobster Skin : キングロブスタスキン : G : A : C : 8 : 58 : 2 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Dist : 1 : Fire Res : -3
-King Lobster Guards : キングロブスタガード : G : A : A : 8 : 58 : 1 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Dist : 1 : Fire Res : -3
-King LobsterCoat : Ｋ・ロブスタコート : G : A : W : 8 : 58 : 0 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Dist : 3 : Fire Res : -3
-King LobsterLeggings : Ｋ・ロブスタレギンス : G : A : L : 8 : 58 : 1 : -1 : 6 : 3 : -1 : -4 : Evasion : 1 : Evade Dist : 4 : Fire Res : -3
+King Lobster Helm : キングロブスタヘルム : A : A : H : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 3 : Evade Distance : 1 : Fire Res : -3
+King Lobster Shell : キングロブスタシェル : B : A : C : 16 : 104 : 2 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Distance : 1 : Fire Res : -3
+King Lobster Vambraces : キングロブスタアーム : B : A : A : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Distance : 1 : Fire Res : -3
+King LobsterCoil : Ｋ・ロブスタコイル : B : A : W : 16 : 104 : 0 : -2 : 5 : 2 : -2 : -5 : Evasion : 2 : Evade Distance : 3 : Fire Res : -3
+King LobsterGreaves : Ｋ・ロブスタグリーヴ : B : A : L : 16 : 104 : 1 : -2 : 5 : 2 : -2 : -5 : Evasion : 1 : Evade Distance : 4 : Fire Res : -3
+King LobsterCap : Ｋ・ロブスタキャップ : A : A : H : 8 : 58 : 2 : -1 : 6 : 3 : -1 : -4 : Evasion : 3 : Evade Distance : 1 : Fire Res : -3
+King Lobster Skin : キングロブスタスキン : G : A : C : 8 : 58 : 2 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Distance : 1 : Fire Res : -3
+King Lobster Guards : キングロブスタガード : G : A : A : 8 : 58 : 1 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Distance : 1 : Fire Res : -3
+King LobsterCoat : Ｋ・ロブスタコート : G : A : W : 8 : 58 : 0 : -1 : 6 : 3 : -1 : -4 : Evasion : 2 : Evade Distance : 3 : Fire Res : -3
+King LobsterLeggings : Ｋ・ロブスタレギンス : G : A : L : 8 : 58 : 1 : -1 : 6 : 3 : -1 : -4 : Evasion : 1 : Evade Distance : 4 : Fire Res : -3
 Kirin Horn U : キリンＵホーン : A : A : H : 65 : 114 : 1 : -3 : -3 : 6 : 3 : -1 : Blight Res : 2 : Fate : -2 : Ice Atk : 3 : Elemental : 2
 Kirin Vest U : キリンＵベスト : B : A : C : 65 : 114 : 2 : -3 : -3 : 6 : 3 : -1 : Blight Res : 2 : Fate : -2 : Ice Atk : 1 : Elemental : 1
 Kirin Vambraces U : キリンＵアーム : B : A : A : 65 : 114 : 1 : -3 : -3 : 6 : 3 : -1 : Blight Res : 1 : Fate : -3 : Ice Atk : 4 : Elemental : 3
@@ -1087,26 +1087,26 @@ Lagiacrus Vest : ラギアレジスト : G : A : C : 30 : 64 : 1 : -4 : 2 : 0 : 
 Lagiacrus Guards : ラギアガード : G : A : A : 30 : 64 : 1 : -4 : 2 : 0 : 0 : 4 : FreeElemnt : 3 : Tenderizer : 3 : Status : -2 : FastCharge : 3
 Lagiacrus Coat : ラギアコート : G : A : W : 30 : 64 : 3 : -4 : 2 : 0 : 0 : 4 : Tenderizer : 2 : Status : -2 : FastCharge : 1
 Lagiacrus Leggings : ラギアレギンス : G : A : L : 30 : 64 : 2 : -4 : 2 : 0 : 0 : 4 : FreeElemnt : 2 : Tenderizer : 2 : Status : -2 : FastCharge : 3
-Lagombi Helm S : ウルクＳヘルム : A : A : H : 45 : 106 : 2 : -3 : 2 : 2 : 2 : -1 : Evade Dist : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 2
-Lagombi Mail S : ウルクＳメイル : B : A : C : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Dist : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
-Lagombi Vambraces S : ウルクＳアーム : B : A : A : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Dist : 2 : LastingPwr : 4 : Heat Res : -2 : Cold Res : 3
-Lagombi Faulds S : ウルクＳフォールド : B : A : W : 45 : 106 : 2 : -3 : 2 : 2 : 2 : -1 : Evade Dist : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
-Lagombi Greaves S : ウルクＳグリーヴ : B : A : L : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Dist : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 1
-Lagombi Cap S : ウルクＳキャップ : A : A : H : 22 : 62 : 2 : -2 : 3 : 3 : 3 : 0 : Evade Dist : 3 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
-Lagombi Vest S : ウルクＳレジスト : G : A : C : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Dist : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
-Lagombi Guards S : ウルクＳガード : G : A : A : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Dist : 2 : LastingPwr : 3 : Heat Res : -2 : Cold Res : 3
-Lagombi Coat S : ウルクＳコート : G : A : W : 22 : 62 : 2 : -2 : 3 : 3 : 3 : 0 : Evade Dist : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
-Lagombi Leggings S : ウルクＳレギンス : G : A : L : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Dist : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 1
-Lagombi Helm : ウルクヘルム : A : A : H : 15 : 103 : 3 : -2 : 2 : 2 : 2 : -1 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Mail : ウルクメイル : B : A : C : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Vambraces : ウルクアーム : B : A : A : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 3
-Lagombi Faulds : ウルクフォールド : B : A : W : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Greaves : ウルクグリーヴ : B : A : L : 15 : 103 : 2 : -2 : 2 : 2 : 2 : -1 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 1
-Lagombi Cap : ウルクキャップ : A : A : H : 8 : 58 : 3 : -1 : 3 : 3 : 3 : 0 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Vest : ウルクレジスト : G : A : C : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Guards : ウルクガード : G : A : A : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 3
-Lagombi Coat : ウルクコート : G : A : W : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 2
-Lagombi Leggings : ウルクレギンス : G : A : L : 8 : 58 : 2 : -1 : 3 : 3 : 3 : 0 : Evade Dist : 2 : Heat Res : -1 : Cold Res : 1
+Lagombi Helm S : ウルクＳヘルム : A : A : H : 45 : 106 : 2 : -3 : 2 : 2 : 2 : -1 : Evade Distance : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 2
+Lagombi Mail S : ウルクＳメイル : B : A : C : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Distance : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
+Lagombi Vambraces S : ウルクＳアーム : B : A : A : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Distance : 2 : LastingPwr : 4 : Heat Res : -2 : Cold Res : 3
+Lagombi Faulds S : ウルクＳフォールド : B : A : W : 45 : 106 : 2 : -3 : 2 : 2 : 2 : -1 : Evade Distance : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
+Lagombi Greaves S : ウルクＳグリーヴ : B : A : L : 45 : 106 : 1 : -3 : 2 : 2 : 2 : -1 : Evade Distance : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 1
+Lagombi Cap S : ウルクＳキャップ : A : A : H : 22 : 62 : 2 : -2 : 3 : 3 : 3 : 0 : Evade Distance : 3 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
+Lagombi Vest S : ウルクＳレジスト : G : A : C : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Distance : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
+Lagombi Guards S : ウルクＳガード : G : A : A : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Distance : 2 : LastingPwr : 3 : Heat Res : -2 : Cold Res : 3
+Lagombi Coat S : ウルクＳコート : G : A : W : 22 : 62 : 2 : -2 : 3 : 3 : 3 : 0 : Evade Distance : 2 : LastingPwr : 2 : Heat Res : -2 : Cold Res : 2
+Lagombi Leggings S : ウルクＳレギンス : G : A : L : 22 : 62 : 1 : -2 : 3 : 3 : 3 : 0 : Evade Distance : 2 : LastingPwr : 1 : Heat Res : -2 : Cold Res : 1
+Lagombi Helm : ウルクヘルム : A : A : H : 15 : 103 : 3 : -2 : 2 : 2 : 2 : -1 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Mail : ウルクメイル : B : A : C : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Vambraces : ウルクアーム : B : A : A : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 3
+Lagombi Faulds : ウルクフォールド : B : A : W : 15 : 103 : 1 : -2 : 2 : 2 : 2 : -1 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Greaves : ウルクグリーヴ : B : A : L : 15 : 103 : 2 : -2 : 2 : 2 : 2 : -1 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 1
+Lagombi Cap : ウルクキャップ : A : A : H : 8 : 58 : 3 : -1 : 3 : 3 : 3 : 0 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Vest : ウルクレジスト : G : A : C : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Guards : ウルクガード : G : A : A : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 3
+Lagombi Coat : ウルクコート : G : A : W : 8 : 58 : 1 : -1 : 3 : 3 : 3 : 0 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 2
+Lagombi Leggings : ウルクレギンス : G : A : L : 8 : 58 : 2 : -1 : 3 : 3 : 3 : 0 : Evade Distance : 2 : Heat Res : -1 : Cold Res : 1
 Lavasioth Helm : ラヴァヘルム : A : A : H : 23 : 111 : 2 : 2 : -3 : 0 : 1 : 0 : Guard : 1 : Rec Speed : 2 : Sense : -2
 Lavasioth Mail : ラヴァメイル : B : A : C : 23 : 111 : 2 : 2 : -3 : 0 : 1 : 0 : Guard : 2 : Rec Speed : 2 : Sense : -2
 Lavasioth Vambraces : ラヴァアーム : B : A : A : 23 : 111 : 0 : 2 : -3 : 0 : 1 : 0 : Guard : 2 : Psychic : 2 : Rec Speed : 3 : Sense : -2
@@ -1189,16 +1189,16 @@ Mutsu Doate : 陸奥【胴当て】 : G : M : C : 34 : 65 : 1 : 4 : 2 : -3 : -3 
 Mutsu Kote : 陸奥【篭手】 : G : M : A : 34 : 65 : 2 : 4 : 2 : -3 : -3 : 1 : Reload Spd : -2 : Recoil : 3 : Defense : 2 : Pierce Up : 2
 Mutsu Koshiate : 陸奥【腰当て】 : G : M : W : 34 : 65 : 1 : 4 : 2 : -3 : -3 : 1 : Reload Spd : -2 : Recoil : 3 : Defense : 5 : Pierce Up : 1
 Mutsu Gusoku : 陸奥【具足】 : G : M : L : 34 : 65 : 0 : 4 : 2 : -3 : -3 : 1 : Reload Spd : -2 : Recoil : 3 : Defense : 4 : Pierce Up : 3
-Nargacuga Helm : ナルガヘルム : A : A : H : 22 : 110 : 1 : -2 : 1 : 1 : 1 : -4 : Handicraft : 1 : Evasion : 1 : Stamina : -2 : Evade Dist : 3
-Nargacuga Mail : ナルガメイル : B : A : C : 22 : 110 : 1 : -2 : 1 : 1 : 1 : -4 : Handicraft : 2 : Evasion : 3 : Stamina : -2 : Evade Dist : 2
-Nargacuga Vambraces : ナルガアーム : B : A : A : 22 : 110 : 2 : -2 : 1 : 1 : 1 : -4 : Tenderizer : 1 : Evasion : 2 : Stamina : -2 : Evade Dist : 1
-Nargacuga Faulds : ナルガフォールド : B : A : W : 22 : 110 : 3 : -2 : 1 : 1 : 1 : -4 : Evasion : 2 : Stamina : -2 : Evade Dist : 1
-Nargacuga Greaves : ナルガグリーヴ : B : A : L : 22 : 110 : 0 : -2 : 1 : 1 : 1 : -4 : Tenderizer : 2 : Evasion : 4 : Stamina : -2 : Evade Dist : 3
-Nargacuga Cap : ナルガキャップ : A : A : H : 11 : 61 : 1 : -1 : 2 : 2 : 2 : -3 : Evasion : 2 : Stamina : -2 : Evade Dist : 3 : Loading : 1
-Nargacuga Vest : ナルガレジスト : G : A : C : 11 : 61 : 1 : -1 : 2 : 2 : 2 : -3 : Evasion : 3 : Stamina : -2 : Evade Dist : 2 : Loading : 2
-Nargacuga Guards : ナルガガード : G : A : A : 11 : 61 : 2 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 1 : Evasion : 2 : Stamina : -2 : Evade Dist : 1
-Nargacuga Coat : ナルガコート : G : A : W : 11 : 61 : 3 : -1 : 2 : 2 : 2 : -3 : Evasion : 1 : Stamina : -2 : Evade Dist : 1
-Nargacuga Leggings : ナルガレギンス : G : A : L : 11 : 61 : 0 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 2 : Evasion : 4 : Stamina : -2 : Evade Dist : 3
+Nargacuga Helm : ナルガヘルム : A : A : H : 22 : 110 : 1 : -2 : 1 : 1 : 1 : -4 : Handicraft : 1 : Evasion : 1 : Stamina : -2 : Evade Distance : 3
+Nargacuga Mail : ナルガメイル : B : A : C : 22 : 110 : 1 : -2 : 1 : 1 : 1 : -4 : Handicraft : 2 : Evasion : 3 : Stamina : -2 : Evade Distance : 2
+Nargacuga Vambraces : ナルガアーム : B : A : A : 22 : 110 : 2 : -2 : 1 : 1 : 1 : -4 : Tenderizer : 1 : Evasion : 2 : Stamina : -2 : Evade Distance : 1
+Nargacuga Faulds : ナルガフォールド : B : A : W : 22 : 110 : 3 : -2 : 1 : 1 : 1 : -4 : Evasion : 2 : Stamina : -2 : Evade Distance : 1
+Nargacuga Greaves : ナルガグリーヴ : B : A : L : 22 : 110 : 0 : -2 : 1 : 1 : 1 : -4 : Tenderizer : 2 : Evasion : 4 : Stamina : -2 : Evade Distance : 3
+Nargacuga Cap : ナルガキャップ : A : A : H : 11 : 61 : 1 : -1 : 2 : 2 : 2 : -3 : Evasion : 2 : Stamina : -2 : Evade Distance : 3 : Loading : 1
+Nargacuga Vest : ナルガレジスト : G : A : C : 11 : 61 : 1 : -1 : 2 : 2 : 2 : -3 : Evasion : 3 : Stamina : -2 : Evade Distance : 2 : Loading : 2
+Nargacuga Guards : ナルガガード : G : A : A : 11 : 61 : 2 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 1 : Evasion : 2 : Stamina : -2 : Evade Distance : 1
+Nargacuga Coat : ナルガコート : G : A : W : 11 : 61 : 3 : -1 : 2 : 2 : 2 : -3 : Evasion : 1 : Stamina : -2 : Evade Distance : 1
+Nargacuga Leggings : ナルガレギンス : G : A : L : 11 : 61 : 0 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 2 : Evasion : 4 : Stamina : -2 : Evade Distance : 3
 Nerusukyura Helm S : スキュラＳヘルム : A : A : H : 48 : 107 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 2 : Perception : 3 : Hunger : -3 : SpeedSetup : 2 : Poison : 2
 Nerusukyura Mail S : スキュラＳメイル : B : A : C : 48 : 107 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 1 : Perception : 3 : Hunger : -3 : SpeedSetup : 1 : Poison : 1
 Nerusukyura Vambraces S : スキュラＳアーム : B : A : A : 48 : 107 : 0 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 1 : Hunger : -3 : SpeedSetup : 4 : Poison : 3
@@ -1620,16 +1620,16 @@ Tsuya Muneate : 艶【胸当て】 : G : F : C : 13 : 62 : 1 : -1 : 3 : 3 : -3 :
 Tsuya Kote : 艶【篭手】 : G : F : A : 13 : 62 : 1 : -1 : 3 : 3 : -3 : 1 : Stamina : -2 : Destroyer : 4 : Loading : 3 : Protection : 1
 Tsuya Koshiate : 艶【腰当て】 : G : F : W : 13 : 62 : 2 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 1 : Loading : 2 : Protection : 2
 Tsuya Hakama : 艶【袴】 : G : F : L : 13 : 62 : 1 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 3 : Loading : 2 : Protection : 2
-UNIQLO Head : ユニクロフード : A : A : H : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Jumper : ユニクロジャンパー : B : A : C : 44 : 112 : 1 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Watch : ユニクロウォッチ : B : A : A : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Pouch : ユニクロポーチ : B : A : W : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Pants : ユニクロパンツ : B : A : L : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Cap : ユニクロキャップ : A : A : H : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Parka : ユニクロパーカー : G : A : C : 22 : 65 : 1 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Clock : ユニクロクロック : G : A : A : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Pocket : ユニクロポシェット : G : A : W : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
-UNIQLO Tights : ユニクロタイツ : G : A : L : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Dist : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Head : ユニクロフード : A : A : H : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Jumper : ユニクロジャンパー : B : A : C : 44 : 112 : 1 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Watch : ユニクロウォッチ : B : A : A : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Pouch : ユニクロポーチ : B : A : W : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Pants : ユニクロパンツ : B : A : L : 44 : 112 : 2 : -3 : 1 : 4 : 0 : 0 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Cap : ユニクロキャップ : A : A : H : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Parka : ユニクロパーカー : G : A : C : 22 : 65 : 1 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Clock : ユニクロクロック : G : A : A : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Pocket : ユニクロポシェット : G : A : W : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
+UNIQLO Tights : ユニクロタイツ : G : A : L : 22 : 65 : 2 : -2 : 2 : 5 : 1 : 1 : Hearing : 2 : Evade Distance : 3 : Eating : -2 : Cold Res : 2
 Uragaan Helm : ガンキンヘルム : A : A : H : 24 : 112 : 1 : 2 : -4 : -1 : -2 : 1 : Defense : 3 : Stamina : -1 : Stam Drain : 1
 Uragaan Mail : ガンキンメイル : B : A : C : 24 : 112 : 1 : 2 : -4 : -1 : -2 : 1 : Defense : 2 : Stamina : -1 : Stam Drain : 2
 Uragaan Vambraces : ガンキンアーム : B : A : A : 24 : 112 : 1 : 2 : -4 : -1 : -2 : 1 : Defense : 4 : Stamina : -1 : Stam Drain : 3

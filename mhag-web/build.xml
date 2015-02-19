@@ -10,9 +10,9 @@
     <property name="web.build.dir" value="webbuild"/>
     <property name="build.config.dir" value="${web.build.dir}/config"/>
     <property name="classes.dir" value="${web.build.dir}/classes"/>
-    <property name="app.classes.dir" value="../mhag-classes"/>
+    <property name="app.classes.dir" value="../../mhag-classes"/>
     <property name="dist.dir" value="${web.build.dir}/distribution"/>
-    <property name="lib.dir" value="lib"/>
+    <property name="lib.dir" value="../../lib"/>
     <property name="runtime.lib.dir" value="${lib.dir}/runtime"/>
     <property name="j2ee.lib.dir" value="${lib.dir}/j2ee"/>
 

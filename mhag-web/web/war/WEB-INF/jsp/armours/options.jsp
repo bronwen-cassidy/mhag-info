@@ -148,10 +148,13 @@
         </td>
     </tr>
     <tr>
-        <td colspan="4">
+        <td colspan="3">
             <div id="link-panel" class="ui-widget-header">
                 <!-- place holder for dynamically generated url -->
             </div>
+        </td>
+        <td> 
+            <%-- to save set as txt file ala ASS link --%>
         </td>
     </tr>
 </table>
