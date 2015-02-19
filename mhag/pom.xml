@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.mhag</groupId>
+        <artifactId>mhag-info</artifactId>
+        <version>${mhag.version}</version>
+    </parent>
+
+    <artifactId>mhag</artifactId>
+    <packaging>jar</packaging>
+
+    <name>mhag</name>
+    
+    <dependencies>        
+        <dependency>
+            <groupId>todo this is the netbeans ui jar file</groupId>
+            <artifactId>check</artifactId>
+            <version>no idea</version>
+        </dependency>
+    </dependencies>
+    
+</project>
