@@ -1,79 +1,6 @@
 <%@include file="../includes.jsp" %>
 <script type="text/javascript" src="<c:url value="/scripts/functions.js"/>" charset="UTF-8"></script>
 
-<script type="text/javascript" charset="UTF-8">
-    $(function() {
-        $(".type-options").change(function() {
-
-            // rank, blade, female
-            var lowVal = $('#lRankId').val();
-            var bladeVal = $('#dd-blade:checked').val();
-            var maleVal = $('#dd-male:checked').val();
-            if(bladeVal) {
-                $('#skillSearchHT').html("Blade");
-            } else {
-                $('#skillSearchHT').html("Gunner");
-            }
-
-            if (!bladeVal) bladeVal = "gun";
-            if (!maleVal) maleVal = "female";
-
-
-
-            $.get('armour.htm', {rank: lowVal, blade: bladeVal, female: maleVal}, function(data) {
-                $('#content').html(data);
-                $('#skills-preview-tbbody').html("");
-                $('#res-preview-tbbody').html("");
-            });
-        });
-    });
-
-    $(function() {
-        $(".gender-options").click(function() {
-            var clearSkills = false;
-
-            $(".setup-select").each(function() {
-                var sel = $(this).get()[0];
-                var selId = sel.id;
-                if (selId != 'wepselect') {
-
-                    var lowVal = $('#lRankId').val();
-                    var bladeVal = $('#dd-blade:checked').val();
-                    var maleVal = $('#dd-male:checked').val();
-
-                    if (!bladeVal) bladeVal = "gun";
-                    if (!maleVal) maleVal = "female";
-
-                    var pieceName = sel.name;
-                    var selIndex = sel.selectedIndex;
-                    var selOpVal = sel.options[selIndex].value;
-
-                    var opsArray = selOpVal.split(':');
-
-                    if(opsArray.length > 3) {
-                        // grab the gender if female only clear the skills
-                        var genderOp = opsArray[3];
-                        if('A' != genderOp) {
-                            clearSkills = true;
-                            sel.selectedIndex = 0;
-                            $('#' + pieceName + 'targetid').html("");
-                        }
-                    }
-
-                    $.get('armouropts.htm', {rank: lowVal, blade: bladeVal, female: maleVal, opt: selOpVal, piece: pieceName}, function(data) {
-                        $('#' + selId).html(data);
-                    });
-                }
-            });
-            if(clearSkills) {
-                buildCharmSkillsTable();
-                buildResistencesTable();
-            }
-        });
-    });
-
-</script>
-
 <table cellspacing="0" cellpadding="0" width="100%">
     <tr>
         <td colspan="4" width="100%">
@@ -153,9 +80,9 @@
                 <!-- place holder for dynamically generated url -->
             </div>
         </td>
-        <td> 
-            <%-- todo to save set as txt file ala ASS link --%>
-        </td>
+        <td>
+            <input id="dlf" type="text" name="ass_file" placeholder="Enter filename"/><a href="javascript:void(0)" onclick="downloadFile()">Download</a>
+         </td>
     </tr>
 </table>
 
@@ -167,3 +94,76 @@
         <input type="hidden" name="id" value="<c:out value="${model.ss.id}"/>"/>
     </form>
 </c:if>
+
+<script type="text/javascript" charset="UTF-8">
+    $(function() {
+        $(".type-options").change(function() {
+
+            // rank, blade, female
+            var lowVal = $('#lRankId').val();
+            var bladeVal = $('#dd-blade:checked').val();
+            var maleVal = $('#dd-male:checked').val();
+            if(bladeVal) {
+                $('#skillSearchHT').html("Blade");
+            } else {
+                $('#skillSearchHT').html("Gunner");
+            }
+
+            if (!bladeVal) bladeVal = "gun";
+            if (!maleVal) maleVal = "female";
+
+
+
+            $.get('armour.htm', {rank: lowVal, blade: bladeVal, female: maleVal}, function(data) {
+                $('#content').html(data);
+                $('#skills-preview-tbbody').html("");
+                $('#res-preview-tbbody').html("");
+            });
+        });
+    });
+
+    $(function() {
+        $(".gender-options").click(function() {
+            var clearSkills = false;
+
+            $(".setup-select").each(function() {
+                var sel = $(this).get()[0];
+                var selId = sel.id;
+                if (selId != 'wepselect') {
+
+                    var lowVal = $('#lRankId').val();
+                    var bladeVal = $('#dd-blade:checked').val();
+                    var maleVal = $('#dd-male:checked').val();
+
+                    if (!bladeVal) bladeVal = "gun";
+                    if (!maleVal) maleVal = "female";
+
+                    var pieceName = sel.name;
+                    var selIndex = sel.selectedIndex;
+                    var selOpVal = sel.options[selIndex].value;
+
+                    var opsArray = selOpVal.split(':');
+
+                    if(opsArray.length > 3) {
+                        // grab the gender if female only clear the skills
+                        var genderOp = opsArray[3];
+                        if('A' != genderOp) {
+                            clearSkills = true;
+                            sel.selectedIndex = 0;
+                            $('#' + pieceName + 'targetid').html("");
+                        }
+                    }
+
+                    $.get('armouropts.htm', {rank: lowVal, blade: bladeVal, female: maleVal, opt: selOpVal, piece: pieceName}, function(data) {
+                        $('#' + selId).html(data);
+                    });
+                }
+            });
+            if(clearSkills) {
+                buildCharmSkillsTable();
+                buildResistencesTable();
+            }
+        });
+    });
+
+</script>
