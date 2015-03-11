@@ -18,7 +18,7 @@ Expert : 達人 : 1 : 7 7 6 0 10 10 10 8 : Critical Eye -3 : 見切り-3 : -20 :
 Tenderizer : 痛撃 : 1 : 0 0 0 0 5 5 5 4 : Weakness Exploit : 弱点特効 : 10
 Destroyer : 重撃 : 1 : 0 0 0 0 5 5 5 4 : PartBreaker : 破壊王 : 10
 KO : KO : 1 : 6 6 5 0 6 6 6 5 : Knockout King : KO術 : 10
-Stam Drain : 減気攻撃 : 1 : 6 6 5 0 6 6 6 5 : Stamina Thief : スタミナ奪取 : 10
+Stamina Drain : 減気攻撃 : 1 : 6 6 5 0 6 6 6 5 : Stamina Thief : スタミナ奪取 : 10
 Constitutn : 体術 : 3 : 6 6 5 0 6 6 6 5 : Constitution -2 : 体術-2 : -15 : Constitution -1 : 体術-1 : -10 : Constitution +1 : 体術+1 : 10 : Constitution +2 : 体術+2 : 15
 Hearing : 聴覚保護 : 2 : 0 0 0 0 5 5 5 4 : Earplugs : 耳栓 : 10 : HG Earplugs : 高級耳栓 : 15
 Wind Res : 風圧 : 2 : 4 4 3 0 5 5 5 4 : Windproof (Lo) : 風圧無効 : 10 : Windproof (Hi) : 風圧完全無効 : 15
@@ -26,7 +26,7 @@ Tremor Res : 耐震 : 2 : 8 8 6 0 8 8 6 0 : Tremor Resistance : 耐震 : 10
 Heat Res : 耐暑 : 2 : 10 10 8 0 10 10 8 0 : Heat Surge : 暑さ倍加 : -10 : Heat Cancel : 暑さ無効 : 10
 Cold Res : 耐寒 : 2 : 10 10 8 0 10 10 8 0 : Cold Surge : 寒さ倍加 : -10 : Cold Cancel : 寒さ無効 : 10
 Stamina : スタミナ : 3 : 0 0 0 0 5 5 5 4 : Short Sprinter : 鈍足 : -10 : Marathon Runner : ランナー : 10
-Stam Recov : 気力回復 : 1 : 6 6 5 0 6 6 6 5 : Stam Recov Down : スタミナ回復遅延 : -10 : Stam Recov Up : スタミナ急速回復 : 10
+Stamina Recovery : 気力回復 : 1 : 6 6 5 0 6 6 6 5 : Stam Recov Down : スタミナ回復遅延 : -10 : Stam Recov Up : スタミナ急速回復 : 10
 Evasion : 回避性能 : 3 : 6 6 5 0 6 6 6 5 : Evasion Down : 回避性能DOWN : -10 : Evasion +1 : 回避性能+1 : 10 : Evasion +2 : 回避性能+2 : 15 : Evasion +3 : 回避性能+3 : 20
 Evade Distance : 回避距離 : 3 : 0 0 0 0 6 6 6 5 : Evade Extender : 回避距離UP : 10
 Sense : 気配 : 7 : 10 10 8 0 10 10 8 0 : Taunt : 挑発 : -10 : Sneak : 隠密 : 10

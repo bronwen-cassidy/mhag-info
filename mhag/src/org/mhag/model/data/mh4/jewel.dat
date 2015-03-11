@@ -83,9 +83,9 @@ Medicine Jewel 2 : 治癒珠【２】 : L : 2 : Recovery Level : 3 : Rec Speed :
 Evasion Jewel 1 : 回避珠【１】 : L : 1 : Evasion : 1 : Health : -1
 Evasion Jewel 2 : 回避珠【２】 : H : 2 : Evasion : 3 : Health : -1
 Jumping Jewel 1 : 跳躍珠【１】 : H : 1 : Evade Distance : 1 : Health : -1
-Sheath Jewel 1 : 速納珠【１】 : L : 1 : Sheathing : 1 : Sharpening Speed : -1
-Sheath Jewel 2 : 速納珠【２】 : H : 2 : Sheathing : 3 : Sharpening Speed : -1
-Trapmaster Jewel 1 : 罠師珠【１】 : L : 1 : Speed Setup : 2
+Sheath Jewel 1 : 速納珠【１】 : L : 1 : Sheathing : 1 : Sharpener : -1
+Sheath Jewel 2 : 速納珠【２】 : H : 2 : Sheathing : 3 : Sharpener : -1
+Trapmaster Jewel 1 : 罠師珠【１】 : L : 1 : SpeedSetup : 2
 Gobbler Jewel 1 : 早食珠【１】 : H : 1 : Eating : 1 : Recovery Level : -1
 Gobbler Jewel 3 : 早食珠【３】 : H : 3 : Eating : 4 : Recovery Level : -2
 Sprinter Jewel 1 : 強走珠【１】 : H : 1 : Stamina : 1 : Hunger : -1
@@ -129,7 +129,7 @@ Ironwall Jewel 1 : 鉄壁珠【１】 : H : 1 : Guard : 1 : Consitution : -1
 Ironwall Jewel 2 : 鉄壁珠【２】 : H : 2 : Guard : 3 : Consitution : -1
 Shield Jewel 1 : 強壁珠【１】 : L : 1 : Guard Boost : 1 : Stamina : -1
 Shield Jewel 2 : 強壁珠【２】 : H : 2 : Guard Boost : 3 : Stamina : -1
-Grinder Jewel : 研磨珠【１】 : L : 1 : Sharpening Speed : 2
+Grinder Jewel : 研磨珠【１】 : L : 1 : Sharpener : 2
 Forceshot Jewel 1 : 強弾珠【１】 : L : 1 : Normal Up : 1 : Recoil : -1
 Forceshot Jewel 3 : 強弾珠【３】 : H : 3 : Normal Up : 4 : Recoil : -2
 Pierce Jewel 1 : 貫通珠【１】 : L : 1 : Pierce Up : 1 : Recoil : -1
