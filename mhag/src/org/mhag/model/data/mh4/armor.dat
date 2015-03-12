@@ -579,36 +579,36 @@ Genprey Vest : ゲネポスレジスト : G : A : C : 6 : 57 : 1 : 2 : 2 : -2 : 
 Genprey Guards : ゲネポスガード : G : A : A : 6 : 57 : 1 : 2 : 2 : -2 : 3 : -1 : Status : 3 : Rec Speed : -2 : Paralysis : 1
 Genprey Coat : ゲネポスコート : G : A : W : 6 : 57 : 1 : 2 : 2 : -2 : 3 : -1 : Rec Speed : -2 : Paralysis : 5
 Genprey Leggings : ゲネポスレギンス : G : A : L : 6 : 57 : 1 : 2 : 2 : -2 : 3 : -1 : Status : 1 : Paralysis : 2
-Goa EX Helm : EXゴアヘルム : A : A : H : 58 : 111 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Fencing : 3 : Spirit : 4 : Fire Res : -3
-Goa EX Mail : EXゴアメイル : B : A : C : 58 : 111 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Firm Defence : 2 : Spirit : 2 : Fire Res : -3
-Goa EX Vambraces : EXゴアアーム : B : A : A : 58 : 111 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Handicraft : 3 : Spirit : 4 : Fire Res : -4
-Goa EX Faulds : EXゴアフォールド : B : A : W : 58 : 111 : 2 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Handicraft : 2 : Spirit : 2 : Fire Res : -3
-Goa EX Greaves : EXゴアグリーヴ : B : A : L : 58 : 111 : 2 : -5 : 3 : 2 : -2 : -3 : Biology : 1 : Acrobat : 1 : Spirit : 3 : Fire Res : -3
-Goa Helm S : ゴアＳヘルム : A : A : H : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Handicraft : 3 : Spirit : 4 : Fire Res : -4
-Goa Mail S : ゴアＳメイル : B : A : C : 52 : 109 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Spirit : 2 : Fire Res : -2 : Infection Res : 3
-Goa Vambraces S : ゴアＳアーム : B : A : A : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 4 : Handicraft : 2 : Spirit : 4 : Fire Res : -4
-Goa Faulds S : ゴアＳフォールド : B : A : W : 52 : 109 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Spirit : 2 : Fire Res : -3 : Infection Res : 3
-Goa Greaves S : ゴアＳグリーヴ : B : A : L : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Spirit : 3 : Fire Res : -2 : Infection Res : 4
-Goa EX Cap : EXゴアキャップ : A : A : H : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 3 : Precision : 2 : Fire Res : -3
-Goa EX Vest : EXゴアレジスト : G : A : C : 29 : 64 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Firm Defence : 2 : Spirit : 2 : Fire Res : -3
-Goa EX Guards : EXゴアガード : G : A : A : 29 : 64 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 4 : Loading : 3 : Fire Res : -4
-Goa EX Coat : EXゴアコート : G : A : W : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 2 : Fire Res : -3
-Goa EX Leggings : EXゴアレギンス : G : A : L : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 1 : Acrobat : 1 : Spirit : 3 : Fire Res : -3
-Goa Cap S : ゴアＳキャップ : A : A : H : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 5 : Loading : 3 : Fire Res : -3
-Goa Vest S : ゴアＳレジスト : G : A : C : 26 : 63 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 2 : Fire Res : -2 : Infection Res : 3
-Goa Guards S : ゴアＳガード : G : A : A : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 4 : Spirit : 3 : Loading : 2 : Fire Res : -5
-Goa Coat S : ゴアＳコート : G : A : W : 26 : 63 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 2 : Fire Res : -3 : Infection Res : 3
-Goa Leggings S : ゴアＳレギンス : G : A : L : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 3 : Fire Res : -2 : Infection Res : 4
-Goa Helm : ゴアヘルム : A : A : H : 21 : 109 : 1 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Spirit : 4 : Fire Res : -3
-Goa Mail : ゴアメイル : B : A : C : 21 : 109 : 0 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Handicraft : 2 : Spirit : 2 : Fire Res : -3
-Goa Vambraces : ゴアアーム : B : A : A : 21 : 109 : 2 : -4 : 2 : 1 : -2 : -3 : Biology : 3 : Spirit : 1 : Fire Res : -3
-Goa Faulds : ゴアフォールド : B : A : W : 21 : 109 : 1 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Handicraft : 3 : Spirit : 2 : Fire Res : -3
-Goa Greaves : ゴアグリーヴ : B : A : L : 21 : 109 : 2 : -4 : 2 : 1 : -2 : -3 : Biology : 1 : Spirit : 3 : Fire Res : -3
-Goa Cap : ゴアキャップ : A : A : H : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 3 : Fire Res : -3
-Goa Vest : ゴアレジスト : G : A : C : 11 : 61 : 0 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 2 : Fire Res : -3
-Goa Guards : ゴアガード : G : A : A : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 3 : Spirit : 1 : Fire Res : -3
-Goa Coat : ゴアコート : G : A : W : 11 : 61 : 1 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 3 : Fire Res : -3
-Goa Leggings : ゴアレギンス : G : A : L : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 1 : Spirit : 3 : Fire Res : -3
+Gore EX Helm : EXゴアヘルム : A : A : H : 58 : 111 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Fencing : 3 : Spirit : 4 : Fire Res : -3
+Gore EX Mail : EXゴアメイル : B : A : C : 58 : 111 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Firm Defence : 2 : Spirit : 2 : Fire Res : -3
+Gore EX Vambraces : EXゴアアーム : B : A : A : 58 : 111 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Handicraft : 3 : Spirit : 4 : Fire Res : -4
+Gore EX Faulds : EXゴアフォールド : B : A : W : 58 : 111 : 2 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Handicraft : 2 : Spirit : 2 : Fire Res : -3
+Gore EX Greaves : EXゴアグリーヴ : B : A : L : 58 : 111 : 2 : -5 : 3 : 2 : -2 : -3 : Biology : 1 : Acrobat : 1 : Spirit : 3 : Fire Res : -3
+Gore Helm S : ゴアＳヘルム : A : A : H : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Handicraft : 3 : Spirit : 4 : Fire Res : -4
+Gore Mail S : ゴアＳメイル : B : A : C : 52 : 109 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 2 : Spirit : 2 : Fire Res : -2 : Infection Res : 3
+Gore Vambraces S : ゴアＳアーム : B : A : A : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 4 : Handicraft : 2 : Spirit : 4 : Fire Res : -4
+Gore Faulds S : ゴアＳフォールド : B : A : W : 52 : 109 : 1 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Spirit : 2 : Fire Res : -3 : Infection Res : 3
+Gore Greaves S : ゴアＳグリーヴ : B : A : L : 52 : 109 : 0 : -5 : 3 : 2 : -2 : -3 : Biology : 3 : Spirit : 3 : Fire Res : -2 : Infection Res : 4
+Gore EX Cap : EXゴアキャップ : A : A : H : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 3 : Precision : 2 : Fire Res : -3
+Gore EX Vest : EXゴアレジスト : G : A : C : 29 : 64 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Firm Defence : 2 : Spirit : 2 : Fire Res : -3
+Gore EX Guards : EXゴアガード : G : A : A : 29 : 64 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 4 : Loading : 3 : Fire Res : -4
+Gore EX Coat : EXゴアコート : G : A : W : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 2 : Fire Res : -3
+Gore EX Leggings : EXゴアレギンス : G : A : L : 29 : 64 : 2 : -4 : 4 : 3 : -1 : -2 : Biology : 1 : Acrobat : 1 : Spirit : 3 : Fire Res : -3
+Gore Cap S : ゴアＳキャップ : A : A : H : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 5 : Loading : 3 : Fire Res : -3
+Gore Vest S : ゴアＳレジスト : G : A : C : 26 : 63 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 2 : Spirit : 2 : Fire Res : -2 : Infection Res : 3
+Gore Guards S : ゴアＳガード : G : A : A : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 4 : Spirit : 3 : Loading : 2 : Fire Res : -5
+Gore Coat S : ゴアＳコート : G : A : W : 26 : 63 : 1 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 2 : Fire Res : -3 : Infection Res : 3
+Gore Leggings S : ゴアＳレギンス : G : A : L : 26 : 63 : 0 : -4 : 4 : 3 : -1 : -2 : Biology : 3 : Spirit : 3 : Fire Res : -2 : Infection Res : 4
+Gore Helm : ゴアヘルム : A : A : H : 21 : 109 : 1 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Spirit : 4 : Fire Res : -3
+Gore Mail : ゴアメイル : B : A : C : 21 : 109 : 0 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Handicraft : 2 : Spirit : 2 : Fire Res : -3
+Gore Vambraces : ゴアアーム : B : A : A : 21 : 109 : 2 : -4 : 2 : 1 : -2 : -3 : Biology : 3 : Spirit : 1 : Fire Res : -3
+Gore Faulds : ゴアフォールド : B : A : W : 21 : 109 : 1 : -4 : 2 : 1 : -2 : -3 : Biology : 2 : Handicraft : 3 : Spirit : 2 : Fire Res : -3
+Gore Greaves : ゴアグリーヴ : B : A : L : 21 : 109 : 2 : -4 : 2 : 1 : -2 : -3 : Biology : 1 : Spirit : 3 : Fire Res : -3
+Gore Cap : ゴアキャップ : A : A : H : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 3 : Fire Res : -3
+Gore Vest : ゴアレジスト : G : A : C : 11 : 61 : 0 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 2 : Fire Res : -3
+Gore Guards : ゴアガード : G : A : A : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 3 : Spirit : 1 : Fire Res : -3
+Gore Coat : ゴアコート : G : A : W : 11 : 61 : 1 : -3 : 3 : 2 : -1 : -2 : Biology : 2 : Spirit : 2 : Loading : 3 : Fire Res : -3
+Gore Leggings : ゴアレギンス : G : A : L : 11 : 61 : 2 : -3 : 3 : 2 : -1 : -2 : Biology : 1 : Spirit : 3 : Fire Res : -3
 Gobul Helm : ガブルヘルム : A : A : H : 52 : 109 : 2 : -2 : 3 : 0 : 1 : -4 : Expert : 3 : Eating : 3 : Rec Speed : -2
 Gobul Mail : ガブルメイル : B : A : C : 52 : 109 : 1 : -2 : 3 : 0 : 1 : -4 : Expert : 3 : Eating : 1 : Rec Speed : -2
 Gobul Vambraces : ガブルアーム : B : A : A : 52 : 109 : 1 : -2 : 3 : 0 : 1 : -4 : Expert : 5 : Eating : 2 : Rec Speed : -2
