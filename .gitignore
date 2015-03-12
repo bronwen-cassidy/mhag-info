@@ -46,3 +46,9 @@ Temporary Items
 out
 dist
 build
+*.iml
+*.war
+*.class
+mhag-web/target/MANIFEST.MF
+mhag/target/MANIFEST.MF
+target/MANIFEST.MF
