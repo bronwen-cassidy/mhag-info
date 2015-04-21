@@ -539,26 +539,26 @@ Garuga Vest : ガルルガレジスト : G : A : C : 12 : 62 : 1 : 2 : -2 : -1 :
 Garuga Guards : ガルルガガード : G : A : A : 12 : 62 : 3 : 2 : -2 : -1 : 1 : 2 : Expert : 2 : Hearing : 2 : Stamina : -1
 Garuga Coat : ガルルガコート : G : A : W : 12 : 62 : 2 : 2 : -2 : -1 : 1 : 2 : Expert : 2 : Hearing : 1
 Garuga Leggings : ガルルガレギンス : G : A : L : 12 : 62 : 2 : 2 : -2 : -1 : 1 : 2 : Expert : 4 : Hearing : 1
-Generu Helm S : セルタスＳヘルム : A : A : H : 53 : 110 : 2 : -4 : 3 : -3 : 3 : -1 : Artillery : 3 : Sharpness : 3 : Stam Recov : -3
-Generu Mail S : セルタスＳメイル : B : A : C : 53 : 110 : 1 : -4 : 3 : -3 : 3 : -1 : Artillery : 3 : Sharpness : 2 : Stam Recov : -3
-Generu Vambraces S : セルタスＳアーム : B : A : A : 53 : 110 : 2 : -4 : 3 : -3 : 3 : -1 : Handicraft : 2 : Artillery : 2 : Sharpness : 1 : Stam Recov : -3
-Generu Faulds S : セルタスＳフォールド : B : A : W : 53 : 110 : 2 : -3 : 2 : 2 : 3 : -4 : Handicraft : 2 : Artillery : 1 : Sharpness : 2 : Stam Recov : -3
-Generu Greaves S : セルタスＳグリーヴ : B : A : L : 53 : 110 : 1 : -4 : 3 : -3 : 3 : -1 : Tranquilzr : 4 : Artillery : 1 : Sharpness : 2 : Stam Recov : -3
-Generu Cap S : セルタスＳキャップ : A : A : H : 27 : 63 : 3 : -3 : 4 : -2 : 4 : 0 : Artillery : 3 : Loading : 2 : Stam Recov : -3
-Generu Vest S : セルタスＳレジスト : G : A : C : 27 : 63 : 1 : -3 : 4 : -2 : 4 : 0 : Reload Spd : 3 : Artillery : 3 : Stam Recov : -3
-Generu Guards S : セルタスＳガード : G : A : A : 27 : 63 : 2 : -3 : 4 : -2 : -4 : 0 : Reload Spd : 4 : Artillery : 2 : Stam Recov : -3
-Generu Coat S : セルタスＳコート : G : A : W : 27 : 63 : 1 : -2 : 3 : 3 : 4 : -3 : Reload Spd : 3 : Artillery : 1 : Crag S+ : 4 : Stam Recov : -3
-Generu Leggings S : セルタスＳレギンス : G : A : L : 27 : 63 : 1 : -3 : 4 : -2 : 4 : 0 : Artillery : 1 : Loading : 3 : Crag S+ : 2 : Stam Recov : -3
-Generu Helm : セルタスヘルム : A : A : H : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Artillery : 3 : Sharpness : 3 : Stam Recov : -2
-Generu Mail : セルタスメイル : B : A : C : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Artillery : 3 : Sharpness : 2 : Stam Recov : -2
-Generu Vambraces : セルタスアーム : B : A : A : 21 : 109 : 2 : -3 : 3 : -2 : 2 : -1 : Artillery : 2 : Sharpness : 1 : Stam Recov : -2
-Generu Faulds : セルタスフォールド : B : A : W : 21 : 109 : 2 : -2 : 1 : 1 : 2 : -3 : Tranquilzr : 2 : Artillery : 1 : Sharpness : 2 : Stam Recov : -2
-Generu Greaves : セルタスグリーヴ : B : A : L : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Tranquilzr : 3 : Artillery : 1 : Sharpness : 2 : Stam Recov : -2
-Generu Cap : セルタスキャップ : A : A : H : 10 : 60 : 2 : -2 : 3 : -1 : 3 : 0 : Artillery : 3 : Loading : 2 : Stam Recov : -2
-Generu Vest : セルタスレジスト : G : A : C : 10 : 60 : 1 : -2 : 3 : -1 : 3 : 0 : Artillery : 3 : Crag S+ : 2 : Stam Recov : -2
-Generu Guards : セルタスガード : G : A : A : 10 : 60 : 2 : -2 : 3 : -1 : 3 : 0 : Artillery : 2 : Crag S+ : 2 : Stam Recov : -2
-Generu Coat : セルタスコート : G : A : W : 10 : 60 : 1 : -1 : 2 : 2 : 3 : -2 : Artillery : 1 : Crag S+ : 4 : Stam Recov : -2
-Generu Leggings : セルタスレギンス : G : A : L : 10 : 60 : 1 : -2 : 3 : -1 : 3 : 0 : Artillery : 1 : Loading : 3 : Crag S+ : 2 : Stam Recov : -2
+Seltas Helm S : セルタスＳヘルム : A : A : H : 53 : 110 : 2 : -4 : 3 : -3 : 3 : -1 : Artillery : 3 : Sharpness : 3 : Stam Recov : -3
+Seltas Mail S : セルタスＳメイル : B : A : C : 53 : 110 : 1 : -4 : 3 : -3 : 3 : -1 : Artillery : 3 : Sharpness : 2 : Stam Recov : -3
+Seltas Vambraces S : セルタスＳアーム : B : A : A : 53 : 110 : 2 : -4 : 3 : -3 : 3 : -1 : Handicraft : 2 : Artillery : 2 : Sharpness : 1 : Stam Recov : -3
+Seltas Faulds S : セルタスＳフォールド : B : A : W : 53 : 110 : 2 : -3 : 2 : 2 : 3 : -4 : Handicraft : 2 : Artillery : 1 : Sharpness : 2 : Stam Recov : -3
+Seltas Greaves S : セルタスＳグリーヴ : B : A : L : 53 : 110 : 1 : -4 : 3 : -3 : 3 : -1 : Tranquilzr : 4 : Artillery : 1 : Sharpness : 2 : Stam Recov : -3
+Seltas Cap S : セルタスＳキャップ : A : A : H : 27 : 63 : 3 : -3 : 4 : -2 : 4 : 0 : Artillery : 3 : Loading : 2 : Stam Recov : -3
+Seltas Vest S : セルタスＳレジスト : G : A : C : 27 : 63 : 1 : -3 : 4 : -2 : 4 : 0 : Reload Spd : 3 : Artillery : 3 : Stam Recov : -3
+Seltas Guards S : セルタスＳガード : G : A : A : 27 : 63 : 2 : -3 : 4 : -2 : -4 : 0 : Reload Spd : 4 : Artillery : 2 : Stam Recov : -3
+Seltas Coat S : セルタスＳコート : G : A : W : 27 : 63 : 1 : -2 : 3 : 3 : 4 : -3 : Reload Spd : 3 : Artillery : 1 : Crag S+ : 4 : Stam Recov : -3
+Seltas Leggings S : セルタスＳレギンス : G : A : L : 27 : 63 : 1 : -3 : 4 : -2 : 4 : 0 : Artillery : 1 : Loading : 3 : Crag S+ : 2 : Stam Recov : -3
+Seltas Helm : セルタスヘルム : A : A : H : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Artillery : 3 : Sharpness : 3 : Stam Recov : -2
+Seltas Mail : セルタスメイル : B : A : C : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Artillery : 3 : Sharpness : 2 : Stam Recov : -2
+Seltas Vambraces : セルタスアーム : B : A : A : 21 : 109 : 2 : -3 : 3 : -2 : 2 : -1 : Artillery : 2 : Sharpness : 1 : Stam Recov : -2
+Seltas Faulds : セルタスフォールド : B : A : W : 21 : 109 : 2 : -2 : 1 : 1 : 2 : -3 : Tranquilzr : 2 : Artillery : 1 : Sharpness : 2 : Stam Recov : -2
+Seltas Greaves : セルタスグリーヴ : B : A : L : 21 : 109 : 1 : -3 : 2 : -2 : 2 : -1 : Tranquilzr : 3 : Artillery : 1 : Sharpness : 2 : Stam Recov : -2
+Seltas Cap : セルタスキャップ : A : A : H : 10 : 60 : 2 : -2 : 3 : -1 : 3 : 0 : Artillery : 3 : Loading : 2 : Stam Recov : -2
+Seltas Vest : セルタスレジスト : G : A : C : 10 : 60 : 1 : -2 : 3 : -1 : 3 : 0 : Artillery : 3 : Crag S+ : 2 : Stam Recov : -2
+Seltas Guards : セルタスガード : G : A : A : 10 : 60 : 2 : -2 : 3 : -1 : 3 : 0 : Artillery : 2 : Crag S+ : 2 : Stam Recov : -2
+Seltas Coat : セルタスコート : G : A : W : 10 : 60 : 1 : -1 : 2 : 2 : 3 : -2 : Artillery : 1 : Crag S+ : 4 : Stam Recov : -2
+Seltas Leggings : セルタスレギンス : G : A : L : 10 : 60 : 1 : -2 : 3 : -1 : 3 : 0 : Artillery : 1 : Loading : 3 : Crag S+ : 2 : Stam Recov : -2
 Genprey Helm S : ゲネポスＳヘルム : A : A : H : 36 : 103 : 1 : 1 : 1 : -5 : 3 : -3 : Status : 2 : Paralysis : 1
 Genprey Mail S : ゲネポスＳメイル : B : A : C : 36 : 103 : 2 : 1 : 1 : -5 : 3 : -3 : Status : 2 : Paralysis : 1
 Genprey Vambraces S : ゲネポスＳアーム : B : A : A : 36 : 103 : 1 : 1 : 1 : -5 : 3 : -3 : Status : 4 : Rec Speed : -2 : Paralysis : 1

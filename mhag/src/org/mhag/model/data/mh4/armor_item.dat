@@ -68,8 +68,8 @@ Archer's Girdle : Wyvern Coin x2, Hunter King Coin x3, Lightning Sac x4 : 2 飛�
 Archer's Gauntlets : Wolf Coin x2, Hunter King Coin x3, Freezer Sac x4 : 2 牙竜のコイン, 3 狩猟王のコイン, 4 凍結袋
 Archer's Faulds : Wyvern Coin x3, Hunter King Coin x3, Torrent Sac x4 : 3 飛竜のコイン, 3 狩猟王のコイン, 4 大水袋
 Archer's Espadrilles : Wolf Coin x2, Hunter King Coin x3, Earth Dragongem x1 : 2 牙竜のコイン, 3 狩猟王のコイン, 1 大地の龍玉
-Armament Jacket : Armament Invitation x2, Generu Shield x1, Aruserutasu Shell x3, Generu Extract x1 : 2 武装への招待状, 1 重甲虫の胸殻, 3 徹甲虫の甲殻, 1 重甲エキス
-Armament Rider : Armament Invitation x2, Generu Shield x1, Aruserutasu Shell x3, Generu Extract x1 : 2 武装への招待状, 1 重甲虫の胸殻, 3 徹甲虫の甲殻, 1 重甲エキス
+Armament Jacket : Armament Invitation x2, Seltas Shield x1, Aruserutasu Shell x3, S. Queen Extract x1 : 2 武装への招待状, 1 重甲虫の胸殻, 3 徹甲虫の甲殻, 1 重甲エキス
+Armament Rider : Armament Invitation x2, Seltas Shield x1, Aruserutasu Shell x3, S. Queen Extract x1 : 2 武装への招待状, 1 重甲虫の胸殻, 3 徹甲虫の甲殻, 1 重甲エキス
 Artian EX Helm : Rajang Ticket x1, Ancient Fragment x4, Rajang Claw+ x2, Guild Ticket+ x1 : 1 金獅子チケット, 4 太古の破片, 2 金獅子の尖爪, 1 ギルドチケットＧ
 Artian EX Mail : Rajang Ticket x1, Ancient Fragment x6, Rajang Soul x1, Guild Ticket+ x1 : 1 金獅子チケット, 6 太古の破片, 1 金獅子の闘魂, 1 ギルドチケットＧ
 Artian EX Vambraces : Rajang Ticket x1, Ancient Fragment x4, Fulcralite Ore x8, Guild Ticket+ x1 : 1 金獅子チケット, 4 太古の破片, 8 フルクライト鉱石, 1 ギルドチケットＧ
@@ -539,26 +539,26 @@ Garuga Vest : Garuga Scale x4, Garuga Shell x5, Garuga Wing x3, Gendrome Hide x2
 Garuga Guards : Garuga Scale x5, Garuga Shell x4, Garuga Wing x2, Monster Bone+ x1 : 5 黒狼鳥の鱗, 4 黒狼鳥の甲殻, 2 黒狼鳥の翼, 1 上竜骨
 Garuga Coat : Garuga Scale x4, Garuga Shell x5, Killer Beetle x2, Monster Bone L x2 : 4 黒狼鳥の鱗, 5 黒狼鳥の甲殻, 2 キラビートル, 2 竜骨【大】
 Garuga Leggings : Garuga Scale x5, Garuga Shell x4, Gluehopper x4, Gendrome Hide x2 : 5 黒狼鳥の鱗, 4 黒狼鳥の甲殻, 4 のりこねバッタ, 2 ドスゲネポスの皮
-Generu Helm S : Generu Carapace x6, Generu Jaw x3, Generu Tail x2, Aruserutasu Horn+ x1 : 6 重甲虫の堅殻, 3 重甲虫の大顎, 2 重甲虫の円月尾, 1 徹甲虫の尖角
-Generu Mail S : Generu Shield+ x4, Generu Tail x4, Generu Extract x1, Quality Sac x4 : 4 重甲虫の堅胸殻, 4 重甲虫の円月尾, 1 重甲エキス, 4 上質な腹袋
-Generu Vambraces S : Generu Carapace x6, Generu Claw+ x2, Generu Shield+ x5, Monster Broth x6 : 6 重甲虫の堅殻, 2 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 6 モンスターの濃汁
-Generu Faulds S : Aruserutasu Carapace x5, Aruserutasu Wing+ x2, Aruserutasu Horn+ x1, Hercudrome x3 : 5 徹甲虫の堅殻, 2 徹甲虫の薄羽, 1 徹甲虫の尖角, 3 ドスヘラクレス
-Generu Greaves S : Generu Claw+ x3, Generu Shield+ x5, Generu Jaw x2, Generu Extract+ x1 : 3 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 2 重甲虫の大顎, 1 濃縮重甲エキス
-Generu Cap S : Generu Carapace x6, Generu Jaw x3, Generu Tail x2, Aruserutasu Horn+ x1 : 6 重甲虫の堅殻, 3 重甲虫の大顎, 2 重甲虫の円月尾, 1 徹甲虫の尖角
-Generu Vest S : Generu Shield+ x4, Generu Tail x4, Generu Extract x1, Quality Sac x4 : 4 重甲虫の堅胸殻, 4 重甲虫の円月尾, 1 重甲エキス, 4 上質な腹袋
-Generu Guards S : Generu Carapace x6, Generu Claw+ x2, Generu Shield+ x5, Monster Broth x6 : 6 重甲虫の堅殻, 2 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 6 モンスターの濃汁
-Generu Coat S : Aruserutasu Carapace x5, Aruserutasu Wing+ x2, Aruserutasu Horn+ x1, Hercudrome x3 : 5 徹甲虫の堅殻, 2 徹甲虫の薄羽, 1 徹甲虫の尖角, 3 ドスヘラクレス
-Generu Leggings S : Generu Claw+ x3, Generu Shield+ x5, Generu Jaw x2, Generu Extract+ x1 : 3 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 2 重甲虫の大顎, 1 濃縮重甲エキス
-Generu Helm : Generu Shell x4, Generu Jaw x2, Generu Tail x1, Aruserutasu Horn x1 : 4 重甲虫の甲殻, 2 重甲虫の大顎, 1 重甲虫の円月尾, 1 徹甲虫の角
-Generu Mail : Generu Shield x4, Generu Tail x3, Generu Shell x2, Altaroth Stomach x4 : 4 重甲虫の胸殻, 3 重甲虫の円月尾, 2 重甲虫の甲殻, 4 甲虫の腹袋
-Generu Vambraces : Generu Shield x3, Generu Shell x5, Generu Jaw x2, Monster Fluid x3 : 3 重甲虫の胸殻, 5 重甲虫の甲殻, 2 重甲虫の大顎, 3 モンスターの体液
-Generu Faulds : Aruserutasu Shell x7, Aruserutasu Wing x3, Aruserutasu Horn x2, Machalite Ore x2 : 7 徹甲虫の甲殻, 3 徹甲虫の羽, 2 徹甲虫の角, 2 マカライト鉱石
-Generu Greaves : Generu Claw x2, Generu Shield x4, Generu Extract x1, Sharpened Fang x4 : 2 重甲虫の爪, 4 重甲虫の胸殻, 1 重甲エキス, 4 とがった牙
-Generu Cap : Generu Shell x4, Generu Jaw x2, Generu Tail x1, Aruserutasu Horn x1 : 4 重甲虫の甲殻, 2 重甲虫の大顎, 1 重甲虫の円月尾, 1 徹甲虫の角
-Generu Vest : Generu Shield x4, Generu Tail x3, Generu Shell x2, Altaroth Stomach x4 : 4 重甲虫の胸殻, 3 重甲虫の円月尾, 2 重甲虫の甲殻, 4 甲虫の腹袋
-Generu Guards : Generu Shield x3, Generu Shell x5, Generu Jaw x2, Monster Fluid x3 : 3 重甲虫の胸殻, 5 重甲虫の甲殻, 2 重甲虫の大顎, 3 モンスターの体液
-Generu Coat : Aruserutasu Shell x7, Aruserutasu Wing x3, Aruserutasu Horn x2, Machalite Ore x2 : 7 徹甲虫の甲殻, 3 徹甲虫の羽, 2 徹甲虫の角, 2 マカライト鉱石
-Generu Leggings : Generu Claw x2, Generu Shield x4, Generu Extract x1, Sharpened Fang x4 : 2 重甲虫の爪, 4 重甲虫の胸殻, 1 重甲エキス, 4 とがった牙
+Seltas Helm S : Seltas Carapace x6, Seltas Jaw x3, Seltas Tail x2, Aruserutasu Horn+ x1 : 6 重甲虫の堅殻, 3 重甲虫の大顎, 2 重甲虫の円月尾, 1 徹甲虫の尖角
+Seltas Mail S : Seltas Shield+ x4, Seltas Tail x4, S. Queen Extract x1, Quality Sac x4 : 4 重甲虫の堅胸殻, 4 重甲虫の円月尾, 1 重甲エキス, 4 上質な腹袋
+Seltas Vambraces S : Seltas Carapace x6, Seltas Claw+ x2, Seltas Shield+ x5, Monster Broth x6 : 6 重甲虫の堅殻, 2 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 6 モンスターの濃汁
+Seltas Faulds S : Aruserutasu Carapace x5, Aruserutasu Wing+ x2, Aruserutasu Horn+ x1, Hercudrome x3 : 5 徹甲虫の堅殻, 2 徹甲虫の薄羽, 1 徹甲虫の尖角, 3 ドスヘラクレス
+Seltas Greaves S : Seltas Claw+ x3, Seltas Shield+ x5, Seltas Jaw x2, S. Queen Extract+ x1 : 3 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 2 重甲虫の大顎, 1 濃縮重甲エキス
+Seltas Cap S : Seltas Carapace x6, Seltas Jaw x3, Seltas Tail x2, Aruserutasu Horn+ x1 : 6 重甲虫の堅殻, 3 重甲虫の大顎, 2 重甲虫の円月尾, 1 徹甲虫の尖角
+Seltas Vest S : Seltas Shield+ x4, Seltas Tail x4, S. Queen Extract x1, Quality Sac x4 : 4 重甲虫の堅胸殻, 4 重甲虫の円月尾, 1 重甲エキス, 4 上質な腹袋
+Seltas Guards S : Seltas Carapace x6, Seltas Claw+ x2, Seltas Shield+ x5, Monster Broth x6 : 6 重甲虫の堅殻, 2 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 6 モンスターの濃汁
+Seltas Coat S : Aruserutasu Carapace x5, Aruserutasu Wing+ x2, Aruserutasu Horn+ x1, Hercudrome x3 : 5 徹甲虫の堅殻, 2 徹甲虫の薄羽, 1 徹甲虫の尖角, 3 ドスヘラクレス
+Seltas Leggings S : Seltas Claw+ x3, Seltas Shield+ x5, Seltas Jaw x2, S. Queen Extract+ x1 : 3 重甲虫の鋭爪, 5 重甲虫の堅胸殻, 2 重甲虫の大顎, 1 濃縮重甲エキス
+Seltas Helm : Seltas Shell x4, Seltas Jaw x2, Seltas Tail x1, Aruserutasu Horn x1 : 4 重甲虫の甲殻, 2 重甲虫の大顎, 1 重甲虫の円月尾, 1 徹甲虫の角
+Seltas Mail : Seltas Shield x4, Seltas Tail x3, Seltas Shell x2, Altaroth Stomach x4 : 4 重甲虫の胸殻, 3 重甲虫の円月尾, 2 重甲虫の甲殻, 4 甲虫の腹袋
+Seltas Vambraces : Seltas Shield x3, Seltas Shell x5, Seltas Jaw x2, Monster Fluid x3 : 3 重甲虫の胸殻, 5 重甲虫の甲殻, 2 重甲虫の大顎, 3 モンスターの体液
+Seltas Faulds : Aruserutasu Shell x7, Aruserutasu Wing x3, Aruserutasu Horn x2, Machalite Ore x2 : 7 徹甲虫の甲殻, 3 徹甲虫の羽, 2 徹甲虫の角, 2 マカライト鉱石
+Seltas Greaves : Seltas Claw x2, Seltas Shield x4, S. Queen Extract x1, Sharpened Fang x4 : 2 重甲虫の爪, 4 重甲虫の胸殻, 1 重甲エキス, 4 とがった牙
+Seltas Cap : Seltas Shell x4, Seltas Jaw x2, Seltas Tail x1, Aruserutasu Horn x1 : 4 重甲虫の甲殻, 2 重甲虫の大顎, 1 重甲虫の円月尾, 1 徹甲虫の角
+Seltas Vest : Seltas Shield x4, Seltas Tail x3, Seltas Shell x2, Altaroth Stomach x4 : 4 重甲虫の胸殻, 3 重甲虫の円月尾, 2 重甲虫の甲殻, 4 甲虫の腹袋
+Seltas Guards : Seltas Shield x3, Seltas Shell x5, Seltas Jaw x2, Monster Fluid x3 : 3 重甲虫の胸殻, 5 重甲虫の甲殻, 2 重甲虫の大顎, 3 モンスターの体液
+Seltas Coat : Aruserutasu Shell x7, Aruserutasu Wing x3, Aruserutasu Horn x2, Machalite Ore x2 : 7 徹甲虫の甲殻, 3 徹甲虫の羽, 2 徹甲虫の角, 2 マカライト鉱石
+Seltas Leggings : Seltas Claw x2, Seltas Shield x4, S. Queen Extract x1, Sharpened Fang x4 : 2 重甲虫の爪, 4 重甲虫の胸殻, 1 重甲エキス, 4 とがった牙
 Genprey Helm S : Genprey Scale+ x3, Genprey Hide+ x4, Carbalite Ore x2, Gendrome Head x1 : 3 ゲネポスの上鱗, 4 ゲネポスの上皮, 2 カブレライト鉱石, 1 ドスゲネポスの頭
 Genprey Mail S : Gendrome Tail x2, Genprey Scale+ x2, Paralysis Sac x2, Quality Sac x3 : 2 ドスゲネポスの尾, 2 ゲネポスの上鱗, 2 麻痺袋, 3 上質な腹袋
 Genprey Vambraces S : Genprey Scale+ x3, Genprey Hide+ x4, Bird Wyvern Stone x1, Carbalite Ore x2 : 3 ゲネポスの上鱗, 4 ゲネポスの上皮, 1 鳥竜玉, 2 カブレライト鉱石
@@ -751,12 +751,12 @@ Heartbeat Kote : Rajang Fur x2, Rajang Soul x1, Rajang Tail x2, S.Rathalos Scale
 Heartbeat Obi : Golden Horn x1, Rajang Fur x1, Rajang Claw+ x1, Golden Pelt x3 : 1 羅刹の金角, 1 金獅子の怒髪, 1 金獅子の尖爪, 3 黄金の毛
 Heartbeat Socks : Rajang Fur x3, Rajang Horn+ x2, Rajang Pelt x4, G.Rathian Scale+ x2 : 3 金獅子の怒髪, 2 金獅子の尖角, 4 金獅子の黒毛, 2 金火竜の上鱗
 Helios Helm : Crooked Horn x2, Luminous Organ x1, G.Rathian Spike+ x1 : 2 湾曲した龍角, 1 神秘の発光体, 1 金火竜の上棘
-Helios Mail : Ceadeus Hide x2, Crooked Horn x1, Generu Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
+Helios Mail : Ceadeus Hide x2, Crooked Horn x1, S. Queen Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
 Helios Vambraces : Ceadeus Hide x2, Crooked Horn x1, Garara Medulla x2 : 2 大海龍の甲皮, 1 湾曲した龍角, 2 絞蛇竜の延髄
 Helios Coil : Ceadeus Hide x2, Luminous Organ x1, S.Rathalos Tail x1 : 2 大海龍の甲皮, 1 神秘の発光体, 1 銀火竜の尻尾
 Helios Greaves : Ceadeus Hide x2, Crooked Horn x1, Rathian Ruby x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 雌火竜の紅玉
 Helios Cap : Crooked Horn x2, Luminous Organ x1, G.Rathian Spike+ x1 : 2 湾曲した龍角, 1 神秘の発光体, 1 金火竜の上棘
-Helios Vest : Ceadeus Hide x2, Crooked Horn x1, Generu Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
+Helios Vest : Ceadeus Hide x2, Crooked Horn x1, S. Queen Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
 Helios Guards : Ceadeus Hide x2, Crooked Horn x1, Garara Medulla x2 : 2 大海龍の甲皮, 1 湾曲した龍角, 2 絞蛇竜の延髄
 Helios Coat : Ceadeus Hide x2, Luminous Organ x1, S.Rathalos Tail x1 : 2 大海龍の甲皮, 1 神秘の発光体, 1 銀火竜の尻尾
 Helios Leggings : Ceadeus Hide x2, Crooked Horn x1, Rathian Ruby x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 雌火竜の紅玉
@@ -1483,12 +1483,12 @@ Scholar Cuffs : Levitalite Ore x1, Insect Coin x2, Bird Coin x3, Pinnacle Coin x
 Scholar Frill : Levitalite Ore x1, Insect Coin x2, Fanged Coin x5, Pinnacle Coin x3 : 1 レビテライト鉱石, 2 蟲のコイン, 5 牙獣のコイン, 3 闘技王のコイン
 Scholar Sandals : Levitalite Ore x1, Insect Coin x2, Bird Coin x3, Pinnacle Coin x3 : 1 レビテライト鉱石, 2 蟲のコイン, 3 鳥竜のコイン, 3 闘技王のコイン
 Selene Helm : Crooked Horn x2, Luminous Organ x1, G.Rathian Spike+ x1 : 2 湾曲した龍角, 1 神秘の発光体, 1 金火竜の上棘
-Selene Mail : Ceadeus Hide x2, Crooked Horn x1, Generu Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
+Selene Mail : Ceadeus Hide x2, Crooked Horn x1, S. Queen Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
 Selene Vambraces : Ceadeus Hide x2, Crooked Horn x1, Garara Medulla x2 : 2 大海龍の甲皮, 1 湾曲した龍角, 2 絞蛇竜の延髄
 Selene Coil : Ceadeus Hide x2, Luminous Organ x1, S.Rathalos Tail x1 : 2 大海龍の甲皮, 1 神秘の発光体, 1 銀火竜の尻尾
 Selene Greaves : Ceadeus Hide x2, Crooked Horn x1, Rathian Ruby x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 雌火竜の紅玉
 Selene Cap : Crooked Horn x2, Luminous Organ x1, G.Rathian Spike+ x1 : 2 湾曲した龍角, 1 神秘の発光体, 1 金火竜の上棘
-Selene Vest : Ceadeus Hide x2, Crooked Horn x1, Generu Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
+Selene Vest : Ceadeus Hide x2, Crooked Horn x1, S. Queen Extract+ x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 濃縮重甲エキス
 Selene Guards : Ceadeus Hide x2, Crooked Horn x1, Garara Medulla x2 : 2 大海龍の甲皮, 1 湾曲した龍角, 2 絞蛇竜の延髄
 Selene Coat : Ceadeus Hide x2, Luminous Organ x1, S.Rathalos Tail x1 : 2 大海龍の甲皮, 1 神秘の発光体, 1 銀火竜の尻尾
 Selene Leggings : Ceadeus Hide x2, Crooked Horn x1, Rathian Ruby x1 : 2 大海龍の甲皮, 1 湾曲した龍角, 1 雌火竜の紅玉
@@ -1643,12 +1643,12 @@ Uragaan Leggings : Uragaan Shell x2, Kunchuu Shell x4, Flame Sac x3 : 2 爆鎚�
 Vangis Helm : Deviljho Scalp x2, Deviljho Hide x4, Deviljho Drool x3, Slimy Oil+ x1 : 2 恐暴竜の頭殻, 4 恐暴竜の黒皮, 3 恐暴竜の唾液, 1 カワズの殿油
 Vangis Mail : Deviljho Jaw x5, Deviljho Claw x4, Deviljho Hide x5, Zinogre Plate x1 : 5 恐暴竜の大牙, 4 恐暴竜の鉤爪, 5 恐暴竜の黒皮, 1 雷狼竜の逆鱗
 Vangis Vambraces : Deviljho Scale x6, Deviljho Jaw x5, Deviljho Drool x3, Brachydios Marrow x1 : 6 恐暴竜の黒鱗, 5 恐暴竜の大牙, 3 恐暴竜の唾液, 1 砕竜の骨髄
-Vangis Coil : Deviljho Hide x4, Deviljho Gem x1, Deviljho Scale x6, Generu Extract x1 : 4 恐暴竜の黒皮, 1 恐暴竜の宝玉, 6 恐暴竜の黒鱗, 1 重甲エキス
+Vangis Coil : Deviljho Hide x4, Deviljho Gem x1, Deviljho Scale x6, S. Queen Extract x1 : 4 恐暴竜の黒皮, 1 恐暴竜の宝玉, 6 恐暴竜の黒鱗, 1 重甲エキス
 Vangis Greaves : Deviljho Claw x4, Deviljho Scale x6, Deviljho Drool x3, Goa Magara Plate x1 : 4 恐暴竜の鉤爪, 6 恐暴竜の黒鱗, 3 恐暴竜の唾液, 1 黒蝕竜の逆鱗
 Vangis Cap : Deviljho Scalp x2, Deviljho Hide x4, Deviljho Drool x3, Slimy Oil+ x1 : 2 恐暴竜の頭殻, 4 恐暴竜の黒皮, 3 恐暴竜の唾液, 1 カワズの殿油
 Vangis Vest : Deviljho Jaw x5, Deviljho Claw x4, Deviljho Hide x5, Zinogre Plate x1 : 5 恐暴竜の大牙, 4 恐暴竜の鉤爪, 5 恐暴竜の黒皮, 1 雷狼竜の逆鱗
 Vangis Guards : Deviljho Scale x6, Deviljho Jaw x5, Deviljho Drool x3, Brachydios Marrow x1 : 6 恐暴竜の黒鱗, 5 恐暴竜の大牙, 3 恐暴竜の唾液, 1 砕竜の骨髄
-Vangis Coat : Deviljho Hide x4, Deviljho Gem x1, Deviljho Scale x6, Generu Extract x1 : 4 恐暴竜の黒皮, 1 恐暴竜の宝玉, 6 恐暴竜の黒鱗, 1 重甲エキス
+Vangis Coat : Deviljho Hide x4, Deviljho Gem x1, Deviljho Scale x6, S. Queen Extract x1 : 4 恐暴竜の黒皮, 1 恐暴竜の宝玉, 6 恐暴竜の黒鱗, 1 重甲エキス
 Vangis Leggings : Deviljho Claw x4, Deviljho Scale x6, Deviljho Drool x3, Goa Magara Plate x1 : 4 恐暴竜の鉤爪, 6 恐暴竜の黒鱗, 3 恐暴竜の唾液, 1 黒蝕竜の逆鱗
 Velociprey Helm S : Velociprey Hide+ x3, Velociprey Claw+ x2, Velocidrome Head x1, Dragonite Ore x2 : 3 ランポスの上皮, 2 ランポスの尖爪, 1 ドスランポスの頭, 2 ドラグライト鉱石
 Velociprey Mail S : Velociprey Claw+ x4, Velociprey Hide+ x3, Bird Wyvern Hide+ x3, Carbalite Ore x2 : 4 ランポスの尖爪, 3 ランポスの上皮, 3 強靭な鳥竜皮, 2 カブレライト鉱石
