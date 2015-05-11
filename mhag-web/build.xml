@@ -25,7 +25,7 @@
 
     <!-- src directories -->
     <property name="web.src.dir" value="src/main/java"/>
-    <property name="app.src.dir" value="../mhag/src"/>
+    <property name="app.src.dir" value="../mhag/src/main/java"/>
     <property name="data.dir" value="${app.src.dir}/org/mhag/model/data"/>
     <property name="war.dir" value="web/war"/>
     <property name="war.config.dir" value="web/config"/>

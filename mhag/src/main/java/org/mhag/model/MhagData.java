@@ -1287,7 +1287,7 @@ public class MhagData {
 
   	static String fileCharm = "mycharm.dat";
 	
-	private final int[] maxRank = {1, 1, 2, 2, 1}; //max rank: high for mhtri and mhp3rd, G for mhfu and mh3g
+	private final int[] maxRank = {1, 1, 2, 2, 2}; //max rank: high for mhtri and mhp3rd, G for mhfu and mh3g and mh4g
 
 	// Some Constants
 	static String emptyName = "-----";
