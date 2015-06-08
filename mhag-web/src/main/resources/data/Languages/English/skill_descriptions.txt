@@ -8,21 +8,21 @@ Doubles Sleep duration.
 Half Stun duration.
 Immunity to Stun.
 Doubles Stun duration.
-Immunity to Mud and Anow.
+Immunity to Mud and Snow.
 Immunity to Defense Down.
 Immunity to Stink and Slime. 100% Dung Bomb combination.
-Immunity to Stink and Slime. 100% Dung Bomb combination. Slows Infection.
+Immunity to Stink and Slime. 100% Dung Bomb combination. Slows Frenzy.
 Small increase in raw damage.
 Moderate increase in raw damage.
 Large increase in raw damage.
-Ultimate increase in raw damage.
+Extra large increase in raw damage.
 Small decreased raw damage.
 Moderate decrease in raw damage.
 Large decrease in raw damage.
 Small increase in defense.
 Moderate increase in defense.
 Large increase in defense.
-Ultimate increase in defense.
+Extra large increase in defense.
 Small decrease in defense.
 Moderate decrease in defense.
 Large decrease in defense.
@@ -69,7 +69,7 @@ Double Stamina recovery speed.
 Half Stamina recovery speed.
 More invincibility time while evading.
 Much more invincibility time while evading.
-More still invincibility time while evading.
+Even more invincibility time while evading.
 Less invincibility time while evading.
 50% increased evade distance.
 Monsters less likely to target you.
@@ -96,7 +96,7 @@ Weakens elements on weapons and elemental ammo.
 +55% Thunder Element on weapons and Thunder S.
 -30% Thunder Element on weapons and Thunder S.
 +20% Ice Element on weapons and Ice S.
-420% Ice Element on weapons and Ice S.
++40% Ice Element on weapons and Ice S.
 +55% Ice Element on weapons and Ice S.
 -30% Ice Element on weapons and Ice S.
 +20% Dragon Element on weapons and Dragon S.
@@ -126,6 +126,7 @@ Slower sharpening of weapons.
 Unsheathe attacks inflict KO.
 Unsheathe attacks have +100% Affinity.
 Attacks never bounce.
+Attacks that would not normally bounce will bounce 1/3 of the time.
 Faster to reload Bowguns and change bow coatings.
 Even faster to reload Bowguns and change bow coatings.
 Faster yet to reload Bowguns and change bow coatings.
@@ -185,7 +186,7 @@ Stamina loss from hunger is doubled.
 Increased speed at consuming items and meat.
 Greatly increased speed at consuming items and meat.
 Decreased speed at consuming items and meat.
-Raw meat gives +50 Stamina. Other meats halt Stamina depletion for 1 minute.
+Raw meat gives +50 Stamina. Other meats will also halt Stamina depletion for 1 minute.
 Combination success rate +20%.
 Combination success rate +45%.
 Combination success rate -10%.
@@ -196,8 +197,8 @@ Greatly increased chance to get more items from gathering points.
 Always get maximum items from gathering points.
 Decreased chance to get more items from gathering points.
 Increased speed at gathering and carving.
-Breakable items 50% less likely to break when used.
 Breakable items 25% less likely to break when used.
+Breakable items 50% less likely to break when used.
 Breakable items 25% more likely to break when used.
 Breakable items 50% more likely to break when used.
 Double Honey from gathering points.
@@ -211,7 +212,7 @@ Decreased chance for quest rewards.
 Greatly decreased chance for quest rewards.
 Minor attacks do not interrupt carving.
 Minor attacks do not interrupt carving. One extra carve.
-Minor attacks do not interrupt carving. Two extra carves.
+Minor attacks do not interrupt carving. One (22%) or two (78%) extra carves.
 Increased chance for capture rewards.
 Greatly increased chance for capture rewards.
 Always get maximum capture rewards.
@@ -223,9 +224,9 @@ Always shows the map. Easier to fish and BBQ meat.
 Immune to Melynxes stealing items.
 Faster to set up Traps and Bombs. Improves Trap combination rate.
 Torch effect is always applied.
-+40 defence when health below 40%.
-+45 defence and +30% raw damage when health below 40%.
--21 defence and -30% raw damage when health below 40%.
++40 defense when health below 40%.
++45 defense and +30% raw damage when health below 40%.
+-21 defense and -30% raw damage when health below 40%.
 Increases Attack and Defense after fainting.
 +30% Affinity and 50% less Stamina consumption after 5 mins of fighting or taking 180 damage.
 +50% Affinity and 75% less Stamina consumption after 5 mins of fighting or taking 180 damage.
@@ -234,26 +235,43 @@ Attack +25 and Affinity +20% when in area with enraged monster.
 Greatly increased Attack while on full Health.
 Weapons without element gain one.
 If Health is 64 or higher, survive one attack that would cause death per hunt.
-Increased attack, defense, and stamina recovery for Felynes.
-Felynes can be revived by signalling them.
+Increased attack, defense, and stamina recovery for Palicoes.
+Palicoes can be revived by signaling them.
 Automatically block attacks if possible.
 Immune to elemental blights.
 Immunity to Poison, Paralysis, Sleep, and Stun.
 Guts and Adrenaline +2.
 Attack Up (L) and Sharpness +1.
 Normal/Rapid Up, Pierce/Pierce Up, and Pellet/Scatter Up.
-Reduced knockdown, Wind Proof (S), and Earplugs.
+Reduced knockdown, Windproof (Lo), and Earplugs.
 Focus and Meat Lover.
 Defense Up (L) and Iron Skin.
-Great Luck and Capture Expert.
-Much easier to cure Infection.
+Good Luck and Capture Expert.
+Much easier to overcome Frenzy.
 Weakness Exploit and Critical Eye +2.
-Felyne Rally and Felyne Cheer.
+Palico Rally and Palico Cheer.
 Easier to ride monsters.
+Even easier to ride monsters.
 Harder to ride monsters.
 Punishing Draw and Quick Sheath.
-Evasion +1, Constitution +1, and Dive Extender.
+Evasion +1 and Constitution +1
 Guard Boost and Stamina Recovery Up
 Evade Extender and Peak Performance
-Gathering +2 and Charm Chaser(?)
+Gathering +1 and Charm Chaser
 Element Attack Up and Item Use Up
+Immunity to Bleeding
+Double Bleeding.
+Using potions and drinks sometimes does not consume the item.
+Eating mushrooms gives special effects, similar to various potions.
+Fast Eating +2, Meat Lover, and Mushromancer
+Immunity to webs and tar.
+Extends the range at which you deal max shot/arrow damage.
+Load Up, Combination +20%, and Sneak
+Mind's Eye and Razor Sharp
+Inflict extra status damage when you land a critical.
+Inflict extra elemental damage when you land a critical.
+Iron Skin, Marathon Runner, and Stamina Thief
+Awaken, Element Atk Up, and Status Atk +1
+Trap Expert and Bombardier
+Knockout King and Stamina Thief
+Recovery Items Up and Divine Blessing

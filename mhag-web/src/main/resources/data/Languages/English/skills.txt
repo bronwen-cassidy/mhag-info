@@ -1,9 +1,9 @@
 Poison
 Paralysis
 Sleep
-Faint
-Snow/Mud Res
-Defense Lock
+Stun
+Mud/Snow
+Def Lock
 Biology
 Attack
 Defense
@@ -11,44 +11,44 @@ Health
 Rec Speed
 Protection
 Sheathing
-Fast Charge
+FastCharge
 Expert
 Tenderizer
 Destroyer
 KO
-Stamina Drain
-Consitution
+Stam Drain
+Constitutn
 Hearing
 Wind Res
 Tremor Res
 Heat Res
 Cold Res
 Stamina
-Stamina Recovery
+Stam Recov
 Evasion
-Evade Distance
+Evade Dist
 Sense
 Guard
 Guard Up
 Status
-Elemental Attack
-Fire Attack
-Water Attack
-Thunder Attack
-Ice Attack
-Dragon Attack
+Elemental
+Fire Atk
+Water Atk
+ThunderAtk
+Ice Atk
+Dragon Atk
 Fire Res
 Water Res
-Thunder Res
+ThunderRes
 Ice Res
 Dragon Res
 Sharpness
 Handicraft
-Sharpening Speed
-Punishing Draw
-Critical Draw
+Sharpener
+PunishDraw
+Crit Draw
 Fencing
-Reload Speed
+Reload Spd
 Loading
 Rapid Fire
 Recoil
@@ -62,20 +62,20 @@ Pellet S+
 Crag S+
 Clust S+
 Slicing S+
-Slime S+
+Blast S+
 Poison C+
-Paralysis C+
+Para C+
 Sleep C+
 Power C+
 C.Range C+
 Exhaust C+
-Slime C+
+Blast C+
 Maestro
 Artillery
 Bomb Boost
-Recovery Level
-Wide Range
-Lasting Power
+Rec Level
+Wide-Range
+LastingPwr
 Hunger
 Gluttony
 Eating
@@ -83,49 +83,64 @@ Carnivore
 Combo Rate
 Combo Plus
 Gathering
-Speed Gather
+Spd Gather
 Whim
 Honey
 Charmer
 Fate
 Carving
-Tranquilizer
+Tranquilzr
 Perception
 Psychic
-Transporter
+Transportr
 Ranger
 Anti-Theft
-Speed Setup
+SpeedSetup
 Flame Aura
 Potential
 Survivor
 Gloves Off
 Spirit
 Unscathed
-Free Element
+FreeElemnt
 Guts
-Team Player
-Team Leader
+TeamPlayer
+TeamLeader
 Auto-Guard
 Blight Res
 Status Res
 Fury
 Edgemaster
-Steadyhand
+SteadyHand
 Unshakable
-Single-Minded
-Firm Defence
-Greedy
-Infection Res
-Precise Attack
+Ferocity
+Resilience
+Avarice
+Frenzy Res
+Brutality
 Commander
-Rider
-Martial Arts
-Acrobat
-Shielder
-Finesse
-Charm Collector
-Amplifier
+Mounting
+Readiness
+Nimbleness
+Stalwart
+Prudence
+Hoarding
+Amplify
+Bleeding
+LightEater
+Mycology
+PowerEater
+Sticky Res
+Dead Eye
+Covert
+Edge Lore
+CritStatus
+CritElemnt
+D. Fencing
+Arcana
+Mechanic
+Brawn
+Prayer
 Torso Up
 
 Negate Poison
@@ -139,19 +154,19 @@ Negate Stun
 Double Stun
 Negate Mud/Snow
 Iron Skin
-Bio Student
+Bio Researcher
 Bio Master
 Attack Up (S)
 Attack Up (M)
 Attack Up (L)
-Attack Up (U)
+Attack Up (XL)
 Attack Down (S)
 Attack Down (M)
 Attack Down (L)
 Defense Up (S)
 Defense Up (M)
 Defense Up (L)
-Defense Up (U)
+Defense Up (XL)
 Defense Down (S)
 Defense Down (M)
 Defense Down (L)
@@ -159,24 +174,24 @@ Health +20
 Health +50
 Health -10
 Health -30
-Rec Speed +1
-Rec Speed +2
-Rec Speed -1
-Rec Speed -2
-Divine Protection
-Demonic Protection
+Recovery Spd +1
+Recovery Spd +2
+Recovery Spd -1
+Recovery Spd -2
+Divine Blessing
+Demonic Blessing
 Quick Sheath
 Focus
 Distraction
 Critical Eye +1
 Critical Eye +2
 Critical Eye +3
-Critical Master
+Critical God
 Critical Eye -1
 Critical Eye -2
 Critical Eye -3
 Weakness Exploit
-Part Breaker
+Partbreaker
 Knockout King
 Stamina Thief
 Constitution +1
@@ -187,15 +202,15 @@ Earplugs
 HG Earplugs
 Windproof (Lo)
 Windproof (Hi)
-Tremor Resistence
+Tremor Res
 Heat Cancel
 Heat Surge
 Cold Cancel
 Cold Surge
 Marathon Runner
 Short Sprinter
-Stamina Recovery Up
-Stamina Recovery Down
+Stam Recov Up
+Stam Recov Down
 Evasion +1
 Evasion +2
 Evasion +3
@@ -207,46 +222,46 @@ Guard +1
 Guard +2
 Guard -1
 Guard Boost
-Status Attack +1
-Status Attack +2
-Status Attack Down
-Elemental Attack Up
-Elemental Attack Down
-Fire Attack +1
-Fire Attack +2
-Fire Attack +3
-Fire Attack Down
-Water Attack +1
-Water Attack +2
-Water Attack +3
-Water Attack Down
-Thunder Attack +1
-Thunder Attack +2
-Thunder Attack +3
-Thunder Attack Down
-Ice Attack +1
-Ice Attack +2
-Ice Attack +3
-Ice Attack Down
-Dragon Attack +1
-Dragon Attack +2
-Dragon Attack +3
-Dragon Attack Down
-Fire Res (S)
-Fire Res (L)
-Fire Res Down
-Water Res (S)
-Water Res (L)
-Water Res Down
-Thunder Res (S)
-Thunder Res (L)
-Thunder Res Down
-Ice Res (S)
-Ice Res (L)
-Ice Res Down
-Dragon Res (S)
-Dragon Res (L)
-Dragon Res Down
+Status Atk +1
+Status Atk +2
+Status Atk Down
+Element Atk Up
+Element Atk Down
+Fire Atk +1
+Fire Atk +2
+Fire Atk +3
+Fire Atk Down
+Water Atk +1
+Water Atk +2
+Water Atk +3
+Water Atk Down
+Thunder Atk +1
+Thunder Atk +2
+Thunder Atk +3
+Thunder Atk Down
+Ice Atk +1
+Ice Atk +2
+Ice Atk +3
+Ice Atk Down
+Dragon Atk +1
+Dragon Atk +2
+Dragon Atk +3
+Dragon Atk Down
+Fire Res +15
+Fire Res +20
+Fire Res -20
+Water Res +15
+Water Res +20
+Water Res -20
+Thunder Res +15
+Thunder Res +20
+Thunder Res -20
+Ice Res +15
+Ice Res +20
+Ice Res -20
+Dragon Res +15
+Dragon Res +20
+Dragon Res -20
 Razor Sharp
 Blunt Edge
 Sharpness +1
@@ -255,6 +270,7 @@ Slow Sharpening
 Punishing Draw
 Critical Draw
 Mind's Eye
+Blind Eye
 Reload Speed +1
 Reload Speed +2
 Reload Speed +3
@@ -263,46 +279,46 @@ Reload Speed -2
 Reload Speed -3
 Load Up
 Bonus Shot
-Recoil Reduction +1
-Recoil Reduction +2
-Recoil Reduction +3
-Recoil Reduction -1
-Recoil Reduction -2
-Recoil Reduction -3
+Recoil Down +1
+Recoil Down +2
+Recoil Down +3
+Recoil Down -1
+Recoil Down -2
+Recoil Down -3
 Steadiness +1
 Steadiness +2
 Steadiness -1
 Steadiness -2
 Normal/Rapid Up
 Pierce/Pierce Up
-Pellet/Scatter Up
-NormalS All Add
-PierceS Lv1 Add
-PierceS All Add
-PelletS Lv1 Add
-PelletS All Add
-CragS Lv1 Add
-CragS All Add
-ClustS Lv1 Add
-ClustS All Add
-SlicingS Add
-SlimeS Add
-Poison Coat Add
-Paralysis Coat Add
-Sleep Coat Add
-Power Coat Add
-C.Range Coat Add
-Exhaust Coat Add
-Slime Coat Add
+Pellet/Spread Up
+Use Any Normal S
+Use Lv1 Pierce S
+Use Any Pierce S
+Use Lv1 Pellet S
+Use Any Pellet S
+Use Lv1 Crag S
+Use Any Crag S
+Use Lv1 Clust S
+Use Any Clust S
+Use Slicing S
+Use Blast S
+Use Poison Coat
+Use Para Coat
+Use Sleep Coat
+Use Power Coat
+Use C.Range Coat
+Use Exhaust Coat
+Use Blast Coat
 Horn Maestro
 Artillery Novice
 Artillery Expert
-Artillery Master
+Artillery God
 Bombardier
 Recovery Up
 Recovery Down
-Wide Range +1
-Wide Range +2
+Wide-Range +1
+Wide-Range +2
 Item Use Up
 Item Use Down
 Halve Hunger
@@ -322,7 +338,7 @@ Combination -20%
 Combination Pro
 Gathering +1
 Gathering +2
-Gathering Master
+Gathering God
 Gathering -1
 Speed Gatherer
 Spirit's Whim
@@ -330,20 +346,20 @@ Divine Whim
 Spectre's Whim
 Devil's Whim
 Honey Hunter
+Charm Collector
 Charm Chaser
-Charm Hunter
-Charm Master
+Charm God
 Good Luck
 Great Luck
-Super Luck
+Miraculous Luck
 Bad Luck
 Horrible Luck
 Carving Pro
-Carving Expert
-Carving Master
-Capture Pro
+Carving Celebrity
+Carving God
 Capture Expert
 Capture Master
+Capture God
 Capture Guru
 Detect
 Autotracker
@@ -363,8 +379,8 @@ Challenger +2
 Peak Performance
 Awaken
 Guts
-Felyne Rally
-Felyne Cheer
+Palico Rally
+Palico Cheer
 Auto-Guard
 Blightproof
 Wellness
@@ -372,17 +388,34 @@ Wrath Awoken
 Honed Blade
 Silver Bullet
 Rock Steady
-Predatory Focus
-Impregnable
-Filthy Rich
-Infection Resist
-Ruthless
-Felyne Commander
-Ride Master
-Poor Rider
-Punishing Skill
-Acrobatics
-Shields Up
-Dancer
-Charm Mania
-Amplification
+Bloodthirst
+Iron Wall
+Bounty Hunter
+Antivirus
+Ruthlessness
+Palico Hero
+Mounting Master
+Rodeo God
+Saddle Sore
+Sheath Control
+Acrobat
+Shield Bearer
+Fleet Feet
+Pack Rat
+Elementality
+Negate Bleeding
+Double Bleeding
+Rationer
+Mushromancer
+Alloy Stomach
+Negate Tar
+Trajectory
+Clandestine
+Steady Hand
+Status Crit
+Elemental Crit
+Pro Dirty Fencer
+Enlightened Blade
+Explosive Trapper
+Heavy Hitter
+Benediction

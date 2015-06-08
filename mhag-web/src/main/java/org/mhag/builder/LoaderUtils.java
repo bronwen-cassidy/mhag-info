@@ -1,6 +1,5 @@
 package org.mhag.builder;
 
-import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.collections.comparators.ComparatorChain;
 import org.apache.commons.lang.math.NumberUtils;
 import org.springframework.util.StringUtils;
@@ -21,10 +20,10 @@ public class LoaderUtils {
     }
 
     private void charms() {
-        Map<String, String> mats = loadMaterials("data/Languages/English/components.txt", "data/Languages/Japanese/components.txt");
-        Map<String, String> decorations = loadMaterials("data/Languages/English/decorations.txt", "data/Languages/Japanese/decorations.txt");
-        Map<String, String> skills = loadMaterials("data/Languages/English/skills.txt", "data/Languages/Japanese/skills.txt");
-        Map<String, String[]> data = loadData("data/decorations.txt", ",", 0);
+        Map<String, String> mats = loadMaterials("/data/Languages/English/components.txt", "/data/Languages/Japanese/components.txt");
+        Map<String, String> decorations = loadMaterials("/data/Languages/English/decorations.txt", "/data/Languages/Japanese/decorations.txt");
+        Map<String, String> skills = loadMaterials("/data/Languages/English/skills.txt", "/data/Languages/Japanese/skills.txt");
+        Map<String, String[]> data = loadData("/data/decorations.txt", ",", 0);
         writeJewelsAndMats(data, decorations, mats, skills);
     }
 
@@ -39,8 +38,10 @@ public class LoaderUtils {
             String engTranslation = jewelTranslations.get(key);
             if(engTranslation == null) {
                 System.out.println("************* jap name: " + key + " index: " + index + "  ******************");
-                continue;
+                //continue;
+                engTranslation = "??????";
             }
+
             // materials data structure
             List<String> matsRow = jewelMats.get(key);
             if(matsRow == null) {
@@ -61,7 +62,8 @@ public class LoaderUtils {
             matsRow.add(engTranslation);
             row.add(key);
             // high rank low rank
-            String rank = Integer.parseInt(info[3].trim()) < 5 ? "L" : "H";
+            int rarity = Integer.parseInt(info[3].trim());
+            String rank = rarity < 5 ? "L" : rarity > 7 ? "G" : "H";
             row.add(rank);
             // slots
             row.add(info[2].trim());
@@ -106,17 +108,17 @@ public class LoaderUtils {
         // Map<String, String[]> armourData = loadData("data/mh4/armor.dat", ":", 1);
 
         List<Map<String, String[]>> mh4data = new ArrayList<Map<String, String[]>>(5);
-        mh4data.add(loadData("data/head.txt", ",", 0));
-        mh4data.add(loadData("data/body.txt", ",", 0));
-        mh4data.add(loadData("data/arms.txt", ",", 0));
-        mh4data.add(loadData("data/waist.txt", ",", 0));
-        mh4data.add(loadData("data/legs.txt", ",", 0));
+        mh4data.add(loadData("/data/head.txt", ",", 0));
+        mh4data.add(loadData("/data/body.txt", ",", 0));
+        mh4data.add(loadData("/data/arms.txt", ",", 0));
+        mh4data.add(loadData("/data/waist.txt", ",", 0));
+        mh4data.add(loadData("/data/legs.txt", ",", 0));
 
         // jap to english armour translation just english mapped by index
-        List<String> engTranslations = loadTranslations("data/Languages/English/all.txt");
+        List<String> engTranslations = loadTranslations("/data/Languages/English/all.txt");
 
-        Map<String, String> skills = loadSkills("data/mh4/skill.dat");
-        Map<String, String> mats = loadMaterials("data/Languages/English/components.txt", "data/components.txt");
+        Map<String, String> skills = loadSkills("/data/mh4/skill.dat");
+        Map<String, String> mats = loadMaterials("/data/Languages/English/components.txt", "/data/components.txt");
 
         mapData(mh4data, engTranslations, skills, mats);
 
@@ -198,11 +200,27 @@ public class LoaderUtils {
                 values.add(key);
                 values.add(mapWeapon(info[2]));
                 values.add(mapGender(info[1]));
+
+                // test rarity
+                int rarity = Integer.parseInt(info[3]);
+
                 // part
                 values.add(part);
-                // defense low and high
-                values.add(info[7]);
-                values.add(info[8]);
+                // defense low and high and G need to work out how to map G
+                if(rarity < 5) {
+                    values.add(info[7]);
+                    values.add(info[8]);
+                    values.add(info[8]);
+                } else if (rarity > 7) {
+                    values.add("--");
+                    values.add("--");
+                    values.add(info[8]);
+                } else {
+                    values.add("--");
+                    values.add(info[7]);
+                    values.add(info[8]);
+                }
+
                 // number of slots
                 values.add(info[4]);
                 // resistences
@@ -258,7 +276,6 @@ public class LoaderUtils {
         ComparatorChain chain = new ComparatorChain();
 
         chain.addComparator(new Comparator<List<String>>() {
-            @Override
             public int compare(List<String> o1, List<String> o2) {
                 String first = StringUtils.delimitedListToStringArray(o1.get(0), " ")[0];
                 String second = StringUtils.delimitedListToStringArray(o2.get(0), " ")[0];
@@ -268,27 +285,24 @@ public class LoaderUtils {
 
         // defense to split gun head and blade head
         chain.addComparator(new Comparator<List<String>>() {
-            @Override
             public int compare(List<String> o1, List<String> o2) {
-                Integer a = new Integer(o1.get(5));
-                Integer b = new Integer(o2.get(5));
+                Integer a = new Integer(o1.get(7));
+                Integer b = new Integer(o2.get(7));
                 return b.compareTo(a);
             }
         });
 
         // compare piece (H, C, A W, L )
         chain.addComparator(new Comparator<List<String>>() {
-            @Override
             public int compare(List<String> o1, List<String> o2) {
                 Integer a = pieceMapping.get(o1.get(4));
-                Integer b = pieceMapping.get(o1.get(4));
+                Integer b = pieceMapping.get(o2.get(4));
                 return a.compareTo(b);
             }
         });
 
         // G B A
         chain.addComparator(new Comparator<List<String>>() {
-            @Override
             public int compare(List<String> o1, List<String> o2) {
                 Integer a = pieceMapping.get(o1.get(2));
                 Integer b = pieceMapping.get(o2.get(2));
