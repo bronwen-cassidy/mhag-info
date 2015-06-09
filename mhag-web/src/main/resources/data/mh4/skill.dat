@@ -28,8 +28,7 @@ Cold Res : 耐寒 : 2 : 10 10 8 0 10 10 8 0 : Cold Surge : 寒さ倍加 : -10 : 
 Stamina : スタミナ : 3 : 0 0 0 0 5 5 5 4 : Short Sprinter : 鈍足 : -10 : Marathon Runner : ランナー : 10
 Stam Recov : 気力回復 : 1 : 6 6 5 0 6 6 6 5 : Stam Recov Down : スタミナ回復遅延 : -10 : Stam Recov Up : スタミナ急速回復 : 10
 Evasion : 回避性能 : 3 : 6 6 5 0 6 6 6 5 : Evasion Down : 回避性能DOWN : -10 : Evasion +1 : 回避性能+1 : 10 : Evasion +2 : 回避性能+2 : 15 : Evasion +3 : 回避性能+3 : 20
-Evade Dist : 回避距離 : 3 : 0 0 0 0 6 6 6 5 : Evade Extender : 回避距離UP : 10
-Dive Dist : 飛距離 : 3 : 0 0 0 0 6 6 6 5 : Dive Enhancer : 飛距離強化 : 10
+Evade Distance : 回避距離 : 3 : 0 0 0 0 6 6 6 5 : Evade Extender : 回避距離UP : 10
 Sense : 気配 : 7 : 10 10 8 0 10 10 8 0 : Taunt : 挑発 : -10 : Sneak : 隠密 : 10
 Guard : ガード性能 : 3 : 6 6 5 0 6 6 6 5 : Guard -1 : ガード性能-1 : -10 : Guard +1 : ガード性能+1 : 10 : Guard +2 : ガード性能+2 : 15
 Guard Up : ガード強化 : 3 : 4 4 3 0 6 6 6 5 : Guard Boost : ガード強化 : 10
