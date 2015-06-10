@@ -1,13 +1,13 @@
-Ace Headgear : エースヘッド : A : M : H : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 3
-Ace Mail : エースメイル : B : M : C : -- : -- : 141 : 2 : 3 : 0 : 0 : 2 : 0 : Finesse : 4 : Sharpness : 1
-Ace Faulds : エースフォールド : B : M : W : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 2
-Ace Greaves : エースグリーヴ : B : M : L : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 1
-Ace Vambraces : エースアーム : B : M : A : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 3
-Ace Mask : エースフェイス : A : M : H : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 3
-Ace Vest : エースレジスト : G : M : C : -- : -- : 91 : 2 : 4 : 1 : 1 : 3 : 1 : Finesse : 4 : Rapid Fire : 1
-Ace Coat : エースコート : G : M : W : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 2
-Ace Leggings : エースレギンス : G : M : L : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 1
-Ace Guards : エースガード : G : M : A : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 3
+Ace Headgear : エースヘッド : A : M : H : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 3 : Bleeding : -3
+Ace Mail : エースメイル : B : M : C : -- : -- : 141 : 2 : 3 : 0 : 0 : 2 : 0 : Finesse : 4 : Sharpness : 1 : Bleeding : -2
+Ace Faulds : エースフォールド : B : M : W : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 2 : Bleeding : -3
+Ace Greaves : エースグリーヴ : B : M : L : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 1 : Bleeding : -1
+Ace Vambraces : エースアーム : B : M : A : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 3 : Bleeding : -1
+Ace Mask : エースフェイス : A : M : H : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 3 : Bleeding : -3
+Ace Vest : エースレジスト : G : M : C : -- : -- : 91 : 2 : 4 : 1 : 1 : 3 : 1 : Finesse : 4 : Rapid Fire : 1 : Bleeding : -2
+Ace Coat : エースコート : G : M : W : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 2 : Bleeding : -3
+Ace Leggings : エースレギンス : G : M : L : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 1 : Bleeding : -1
+Ace Guards : エースガード : G : M : A : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 3 : Bleeding : -1
 Adamance Archhelm : 常磐・覇【兜】 : A : F : H : -- : 64 : 127 : 2 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 2 : Potential : -3
 Adamance Archplate : 常磐・覇【胸当て】 : B : F : C : -- : 64 : 127 : 0 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 1 : Unshakable : 1 : Expert : 4 : Potential : -3
 Adamance Archgirdle : 常磐・覇【腰当て】 : B : F : W : -- : 64 : 127 : 1 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 3 : Potential : -3
@@ -72,11 +72,11 @@ Akantor Fangs X : アカムトＸサクイマキ : A : A : H : -- : -- : 97 : 2 
 Akantor Plate X : アカムトＸウルンペ : G : A : C : -- : -- : 97 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 4 : Hearing : 1 : Loading : 2
 Akantor Sash X : アカムトＸイッケタリ : G : A : W : -- : -- : 97 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 2 : Hearing : 1 : Loading : 2
 Akantor Boots X : アカムトＸチキル : G : A : L : -- : -- : 97 : 0 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -3 : Expert : 3 : Hearing : 3 : Loading : 3
-Akantor Gauntlets X : アカムトＸノキリペ : G : A : A : -- : -- : 97 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 1 : Hearing : 3 : Loading : 2
+Akantor Gauntlets X : アカムトＸノキリペ : G : A : A : -- : -- : 97 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 1 : Hearing : 3 : Loading : 2 : Dead Eye : 2
 Akantor Fangs : アカムトサクイマキ : A : A : H : -- : 33 : 81 : 1 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 3 : Hearing : 2 : Loading : 1
 Akantor Plate : アカムトウルンペ : G : A : C : -- : 33 : 81 : 1 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 3 : Hearing : 1 : Loading : 2
-Akantor Sash : アカムトイッケタリ : G : A : W : -- : 33 : 81 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 2 : Hearing : 1 : Loading : 2
-Akantor Boots : アカムトチキル : G : A : L : -- : 33 : 81 : 0 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -3 : Expert : 3 : Hearing : 1 : Loading : 3
+Akantor Sash : アカムトイッケタリ : G : A : W : -- : 33 : 81 : 2 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 2 : Hearing : 1 : Loading : 2 : Dead Eye : 1
+Akantor Boots : アカムトチキル : G : A : L : -- : 33 : 81 : 0 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -3 : Expert : 3 : Hearing : 1 : Loading : 3 : Dead Eye : 2
 Akantor Gauntlets : アカムトノキリペ : G : A : A : -- : 33 : 81 : 1 : 5 : 1 : 3 : -4 : -2 : Reload Spd : -2 : Expert : 1 : Hearing : 1 : Loading : 2
 Alloy Helm S : アロイＳヘルム : A : A : H : 28 : 116 : 116 : 0 : -1 : 2 : -2 : 0 : -3 : Defense : 2 : Gathering : -2 : Expert : 3 : Wind Res : 2
 Alloy Mail S : アロイＳメイル : B : A : C : 28 : 116 : 116 : 0 : -1 : 2 : -2 : 0 : -3 : Defense : 1 : Gathering : -2 : Expert : 2 : Wind Res : 3
@@ -516,13 +516,13 @@ Champion Belt : 王者のベルト : B : A : W : -- : -- : 152 : 3 : -2 : -2 : -
 Champion Leg Lock : 王者のレッグロック : B : A : L : -- : -- : 152 : 0 : -2 : -2 : -2 : 4 : -2 : Destroyer : 2 : Guts : 4 : Elemental : -2 : Constitutn : 5
 Champion Vantage : 王者のバンテージ : B : A : A : -- : -- : 152 : 0 : -2 : -2 : -2 : 4 : -2 : Destroyer : 1 : Guts : 4 : Elemental : -3 : Constitutn : 2
 Champion Feather : 勇者の羽飾り : A : A : H : -- : 25 : 79 : 3 : 0 : 0 : 0 : 0 : 0 : Amplifier : 2
-Chaos Helm : ケイオスヘルム : A : M : H : -- : -- : 148 : 1 : -5 : 4 : 2 : -6 : -3 : FreeElemnt : 3 : Attack : 1 : Fate : -2 : Destroyer : 3
-Chaos Mail : ケイオスメイル : B : M : C : -- : -- : 148 : 2 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 3 : Fate : -2 : Destroyer : 1
+Chaos Helm : ケイオスヘルム : A : M : H : -- : -- : 148 : 1 : -5 : 4 : 2 : -6 : -3 : FreeElemnt : 3 : Attack : 1 : Fate : -2 : Destroyer : 3 : CritElemnt : 4
+Chaos Mail : ケイオスメイル : B : M : C : -- : -- : 148 : 2 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 3 : Fate : -2 : Destroyer : 1 : CritElemnt : 2
 Chaos Faulds : ケイオスフォールド : B : M : W : -- : -- : 148 : 1 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Fencing : 3 : Attack : 2 : Fate : -2 : Destroyer : 3
 Chaos Greaves : ケイオスグリーヴ : B : M : L : -- : -- : 148 : 3 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 4 : Fate : -2 : Destroyer : 2
 Chaos Vambraces : ケイオスアーム : B : M : A : -- : -- : 148 : 3 : -5 : 4 : 2 : -5 : -3 : FreeElemnt : 1 : Fencing : 4 : Fate : -2 : Destroyer : 1
-Chaos Cap : ケイオスキャップ : A : M : H : -- : -- : 96 : 1 : -4 : 5 : 3 : -5 : -2 : Reload Spd : 3 : Attack : 1 : Fate : -2 : Destroyer : 3
-Chaos Vest : ケイオスレジスト : G : M : C : -- : -- : 96 : 2 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 3 : Fate : -2 : Destroyer : 1
+Chaos Cap : ケイオスキャップ : A : M : H : -- : -- : 96 : 1 : -4 : 5 : 3 : -5 : -2 : Reload Spd : 3 : Attack : 1 : Fate : -2 : Destroyer : 3 : CritElemnt : 4
+Chaos Vest : ケイオスレジスト : G : M : C : -- : -- : 96 : 2 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 3 : Fate : -2 : Destroyer : 1 : CritElemnt : 2
 Chaos Coat : ケイオスコート : G : M : W : -- : -- : 96 : 1 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Recoil : 3 : Attack : 2 : Fate : -2 : Destroyer : 3
 Chaos Leggings : ケイオスレギンス : G : M : L : -- : -- : 96 : 3 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 4 : Fate : -2 : Destroyer : 2
 Chaos Guards : ケイオスガード : G : M : A : -- : -- : 96 : 3 : -4 : 5 : 3 : -4 : -2 : Reload Spd : 1 : Recoil : 4 : Fate : -2 : Destroyer : 1
@@ -764,19 +764,19 @@ EX Ingot Greaves : EXインゴットグリーヴ : B : A : L : -- : 41 : 116 : 1
 EX Ingot Vambraces : EXインゴットアーム : B : A : A : -- : 41 : 116 : 1 : -2 : -2 : 0 : 0 : 2 : Artillery : 3 : Guard Up : 3 : Sheathing : 3 : Whim : -3
 EX Genesis Headpiece : EX曙丸【烏帽子】 : A : M : H : -- : -- : 98 : 3 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 2 : Protection : 2
 EX Glyph Crown : EX艶【鉢金】 : A : F : H : -- : -- : 98 : 3 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 2 : Protection : 2
-EX Escadora Sagesse : EXエスカドラサジェス : A : A : H : -- : -- : 98 : 1 : 1 : -1 : 1 : -1 : 1 : Blight Res : 2 : Evade Dist : 2 : Stun : -2
+EX Escadora Sagesse : EXエスカドラサジェス : A : A : H : -- : -- : 98 : 1 : 1 : -1 : 1 : -1 : 1 : Blight Res : 2 : Evade Dist : 2 : Stun : -2 : Dead Eye : 1
 EX Genesis Torso : EX曙丸【胴当て】 : G : M : C : -- : -- : 98 : 1 : -1 : 3 : 3 : -3 : 1 : Firm Defence : 4 : Stamina : -2 : Protection : 3
 EX Glyph Chest : EX艶【胸当て】 : G : F : C : -- : -- : 98 : 1 : -1 : 3 : 3 : -3 : 1 : Firm Defence : 4 : Stamina : -2 : Protection : 3
-EX Escadora Seele : EXエスカドラゼーレ : G : A : C : -- : -- : 98 : 2 : -2 : -1 : 4 : -1 : 4 : Blight Res : 1 : Evade Dist : 1 : Stun : -2
+EX Escadora Seele : EXエスカドラゼーレ : G : A : C : -- : -- : 98 : 2 : -2 : -1 : 4 : -1 : 4 : Blight Res : 1 : Evade Dist : 1 : Stun : -2 : Dead Eye : 3
 EX Genesis Tassets : EX曙丸【腰当て】 : G : M : W : -- : -- : 98 : 3 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 1 : Protection : 2
 EX Glyph Tassets : EX艶【腰当て】 : G : F : W : -- : -- : 98 : 3 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 1 : Protection : 2
-EX Escadora Force : EXエスカドラフォルス : G : A : W : -- : -- : 98 : 3 : 4 : -1 : -2 : -1 : -2 : Blight Res : 3 : Evade Dist : 3 : Stun : -3
+EX Escadora Force : EXエスカドラフォルス : G : A : W : -- : -- : 98 : 3 : 4 : -1 : -2 : -1 : -2 : Blight Res : 3 : Evade Dist : 3 : Stun : -3 : Dead Eye : 1
 EX Genesis Pants : EX曙丸【具足】 : G : M : L : -- : -- : 98 : 2 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 3 : Protection : 2
 EX Glyph Hakama : EX艶【袴】 : G : F : L : -- : -- : 98 : 2 : -1 : 3 : 3 : -3 : 1 : Stamina : -1 : Destroyer : 3 : Protection : 2
-EX Escadora Scala : EXエスカドラスクレ : G : A : L : -- : -- : 98 : 1 : 4 : -1 : -2 : -1 : -2 : Blight Res : 3 : Evade Dist : 3 : Stun : -3
+EX Escadora Scala : EXエスカドラスクレ : G : A : L : -- : -- : 98 : 1 : 4 : -1 : -2 : -1 : -2 : Blight Res : 3 : Evade Dist : 3 : Stun : -3 : Dead Eye : 2
 EX Genesis Gauntlets : EX曙丸【篭手】 : G : M : A : -- : -- : 98 : 2 : -1 : 3 : 3 : -3 : 1 : Stamina : -2 : Destroyer : 4 : Protection : 1
 EX Glyph Gauntlets : EX艶【篭手】 : G : F : A : -- : -- : 98 : 2 : -1 : 3 : 3 : -3 : 1 : Stamina : -2 : Destroyer : 4 : Protection : 1
-EX Escadora Arma : EXエスカドラアルマ : G : A : A : -- : -- : 98 : 1 : -2 : -1 : 4 : -1 : 4 : Blight Res : 1 : Evade Dist : 1 : Stun : -3
+EX Escadora Arma : EXエスカドラアルマ : G : A : A : -- : -- : 98 : 1 : -2 : -1 : 4 : -1 : 4 : Blight Res : 1 : Evade Dist : 1 : Stun : -3 : Dead Eye : 3
 EX Kushala Snarl : EXクシャナスーラ : A : A : H : -- : 41 : 83 : 1 : -2 : 4 : 7 : -6 : -5 : Reload Spd : 2 : FastCharge : 3 : Heat Res : 1 : Poison : -2
 EX Kaiser Mask : EXカイザーマスク : A : A : H : -- : 41 : 83 : 0 : 6 : -6 : -1 : -3 : 3 : FreeElemnt : 2 : Expert : 3 : Normal Up : 3 : Cold Res : -1
 EX Tigrex Cap : EXレックスキャップ : A : A : H : -- : 41 : 83 : 1 : 4 : 0 : 1 : -2 : -4 : Recoil : -2 : Attack : 4 : Psychic : 3 : Gluttony : 3
@@ -829,7 +829,7 @@ EX Kirin Boots U : EXキリンＵブーツ : G : A : L : -- : 1 : 72 : 1 : 1 : 1
 EX Kirin Gloves U : EXキリンＵグローブ : G : A : A : -- : 1 : 72 : 2 : 1 : 1 : 7 : 4 : 2 : Status Res : 2 : FreeElemnt : 3 : Fate : -3 : Elemental : 2
 Empress Crown X : エンプレスＸセクター : A : A : H : -- : -- : 152 : 3 : 4 : -2 : -6 : -2 : 1 : Expert : 3 : Cold Res : -1
 Empress Mail X : エンプレスＸメイル : B : A : C : -- : -- : 152 : 1 : 4 : -2 : -6 : -2 : 1 : FreeElemnt : 1 : Expert : 4 : Guard : 2 : Cold Res : -3
-Empress Coil X : エンプレスＸコイル : B : A : W : -- : -- : 152 : 2 : 4 : -2 : -6 : -2 : 1 : Expert : 2 : Guard : 2 : Cold Res : -2
+Empress Coil X : エンプレスＸコイル : B : A : W : -- : -- : 152 : 2 : 4 : -2 : -6 : -2 : 1 : Expert : 2 : Guard : 2 : Cold Res : -2 : CritStatus : 3
 Empress Greaves X : エンプレスＸグリーヴ : B : A : L : -- : -- : 152 : 3 : 4 : -2 : -6 : -2 : 1 : Expert : 2 : Guard : 4 : Cold Res : -1
 Empress Vambraces X : エンプレスＸアーム : B : A : A : -- : -- : 152 : 2 : 4 : -2 : -6 : -2 : 1 : FreeElemnt : 3 : Expert : 2 : Guard : 2 : Cold Res : -2
 Empress Crown : エンプレスセクター : A : A : H : -- : 68 : 131 : 3 : 4 : -2 : -6 : -2 : 1 : FreeElemnt : 1 : Expert : 2 : Guard : 1 : Cold Res : -1
@@ -837,9 +837,9 @@ Empress Mail : エンプレスメイル : B : A : C : -- : 68 : 131 : 0 : 4 : -2
 Empress Tassets : エンプレスフォールド : B : A : W : -- : 68 : 131 : 1 : 4 : -2 : -6 : -2 : 1 : Handicraft : 2 : Expert : 2 : Guard : 1 : Fire Atk : 2 : Cold Res : -2
 Empress Greaves : エンプレスグリーヴ : B : A : L : -- : 68 : 131 : 2 : 4 : -2 : -6 : -2 : 1 : FreeElemnt : 1 : Expert : 2 : Guard : 3 : Cold Res : -1
 Empress Vambraces : エンプレスアーム : B : A : A : -- : 68 : 131 : 2 : 4 : -2 : -6 : -2 : 1 : FreeElemnt : 2 : Expert : 1 : Guard : 3 : Cold Res : -2
-Empress Mask X : エンプレスＸマスク : A : A : H : -- : -- : 99 : 3 : 5 : -1 : -5 : -1 : 2 : Expert : 3 : Cold Res : -1
+Empress Mask X : エンプレスＸマスク : A : A : H : -- : -- : 99 : 3 : 5 : -1 : -5 : -1 : 2 : Expert : 3 : Cold Res : -1 : CritStatus : 3
 Empress Vest X : エンプレスＸレジスト : G : A : C : -- : -- : 99 : 1 : 5 : -1 : -5 : -1 : 2 : FreeElemnt : 1 : Expert : 4 : Guard Up : 2 : Cold Res : -3
-Empress Coat X : エンプレスＸコート : G : A : W : -- : -- : 99 : 2 : 5 : -1 : -5 : -1 : 2 : Expert : 2 : Guard Up : 2 : Cold Res : -2
+Empress Coat X : エンプレスＸコート : G : A : W : -- : -- : 99 : 2 : 5 : -1 : -5 : -1 : 2 : Expert : 2 : Guard Up : 2 : Cold Res : -2 : CritStatus : 3
 Empress Leggings X : エンプレスＸレギンス : G : A : L : -- : -- : 99 : 3 : 5 : -1 : -5 : -1 : 2 : Expert : 2 : Guard Up : 4 : Cold Res : -1
 Empress Guards X : エンプレスＸガード : G : A : A : -- : -- : 99 : 2 : 5 : -1 : -5 : -1 : 2 : FreeElemnt : 3 : Expert : 2 : Guard Up : 2 : Cold Res : -2
 Empress Mask : エンプレスマスク : A : A : H : -- : 34 : 81 : 3 : 5 : -1 : -5 : -1 : 2 : FreeElemnt : 1 : Expert : 2 : Guard Up : 1 : Cold Res : -1
@@ -1065,11 +1065,11 @@ Gogma Mail : ゴグメイル : B : A : C : -- : -- : 152 : 1 : -4 : 3 : 3 : -7 :
 Gogma Faulds : ゴグフォールド : B : A : W : -- : -- : 152 : 2 : -4 : 3 : 3 : -7 : 0 : Expert : 4 : Artillery : 3 : Sharpener : -3
 Gogma Greaves : ゴググリーヴ : B : A : L : -- : -- : 152 : 2 : -4 : 3 : 3 : -7 : 0 : Expert : 3 : Artillery : 1 : Sharpener : -2
 Gogma Braces : ゴグアーム : B : A : A : -- : -- : 152 : 2 : -4 : 3 : 3 : -7 : 0 : Expert : 2 : Artillery : 4 : Sharpener : -3
-Gogma Cap : マゴグキャップ : A : A : H : -- : -- : 98 : 1 : -3 : 4 : 4 : -6 : 1 : Greedy : 3 : Reload Spd : -1 : Normal S+ : 4
-Gogma Vest : マゴグレジスト : G : A : C : -- : -- : 98 : 1 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -3 : Normal Up : 2 : Normal S+ : 4
-Gogma Coat : マゴグコート : G : A : W : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -3 : Normal Up : 3
-Gogma Leggings : マゴグレギンス : G : A : L : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -2 : Normal Up : 1
-Gogma Guards : マゴグガード : G : A : A : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -1 : Normal Up : 4
+Gogma Cap : マゴグキャップ : A : A : H : -- : -- : 98 : 1 : -3 : 4 : 4 : -6 : 1 : Greedy : 3 : Reload Spd : -1 : Normal S+ : 4 : Dead Eye : 1
+Gogma Vest : マゴグレジスト : G : A : C : -- : -- : 98 : 1 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -3 : Normal Up : 2 : Normal S+ : 4 : Dead Eye : 3
+Gogma Coat : マゴグコート : G : A : W : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -3 : Normal Up : 3 : Dead Eye : 3
+Gogma Leggings : マゴグレギンス : G : A : L : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -2 : Normal Up : 1 : Dead Eye : 2
+Gogma Guards : マゴグガード : G : A : A : -- : -- : 98 : 2 : -3 : 4 : 4 : -6 : 1 : Reload Spd : -1 : Normal Up : 4 : Dead Eye : 1
 Golden Lunehelm Z : Ｇ・ルナＺヘルム : A : A : H : -- : -- : 150 : 3 : 2 : -4 : 0 : 4 : -7 : Fate : 3 : Destroyer : 1 : ThunderRes : -2 : Protection : 1
 Golden Lunemail Z : Ｇ・ルナＺメイル : B : A : C : -- : -- : 150 : 2 : 2 : -4 : 0 : 4 : -7 : Fate : 3 : Tranquilzr : 3 : Destroyer : 1 : ThunderRes : -2 : Protection : 2
 Golden Lunecoil Z : Ｇ・ルナＺコイル : B : A : W : -- : -- : 150 : 3 : 2 : -4 : 0 : 4 : -7 : Fate : 3 : Destroyer : 2 : ThunderRes : -2 : Protection : 1
@@ -1131,9 +1131,9 @@ Grand Yaksha Coil : 夜叉・真【腰巻】 : B : A : W : -- : -- : 152 : 1 : 2
 Grand Yaksha Boots : 夜叉・真【御足】 : B : A : L : -- : -- : 152 : 3 : 2 : 2 : -2 : -2 : 0 : Fencing : 2 : Blight Res : 2 : Potential : -2 : Guts : 2
 Grand Yaksha Braces : 夜叉・真【御手】 : B : A : A : -- : -- : 152 : 1 : 2 : 2 : -2 : -2 : 0 : Fencing : 2 : Blight Res : 3 : Potential : -2 : Protection : 2
 Grand Mizuha Mask : ミヅハ真【頬面】 : A : A : H : -- : -- : 151 : 1 : -4 : 3 : 4 : -1 : 0 : Handicraft : 2 : Hearing : 5 : Status : 1 : Wind Res : 4 : Heat Res : -2
-Grand Mizuha Guards : ミヅハ真【胸当て】 : B : A : C : -- : -- : 151 : 1 : -4 : 3 : 4 : -1 : 0 : Hearing : 1 : Status : 2 : Wind Res : 4 : Heat Res : -2
-Grand Mizuha Sash : ミヅハ真【丸帯】 : B : A : W : -- : -- : 151 : 3 : -4 : 3 : 4 : -1 : 0 : Status : 5 : Heat Res : -3
-Grand Mizuha Leg Wrap : ミヅハ真【具足】 : B : A : L : -- : -- : 151 : 2 : -4 : 3 : 4 : -1 : 0 : Hearing : 3 : Status : 4 : Wind Res : 3 : Heat Res : -1
+Grand Mizuha Guards : ミヅハ真【胸当て】 : B : A : C : -- : -- : 151 : 1 : -4 : 3 : 4 : -1 : 0 : Hearing : 1 : Status : 2 : Wind Res : 4 : Heat Res : -2 : CritStatus : 4
+Grand Mizuha Sash : ミヅハ真【丸帯】 : B : A : W : -- : -- : 151 : 3 : -4 : 3 : 4 : -1 : 0 : Status : 5 : Heat Res : -3 : CritStatus : 4
+Grand Mizuha Leg Wrap : ミヅハ真【具足】 : B : A : L : -- : -- : 151 : 2 : -4 : 3 : 4 : -1 : 0 : Hearing : 3 : Status : 4 : Wind Res : 3 : Heat Res : -1 : CritStatus : 2
 Grand Mizuha Sleeves : ミヅハ真【大袖】 : B : A : A : -- : -- : 151 : 2 : -4 : 3 : 4 : -1 : 0 : Handicraft : 2 : Hearing : 3 : Status : 3 : Wind Res : 4 : Heat Res : -2
 Grand Divine Ire Mask : 怒天ノ添髪・真 : A : A : H : -- : -- : 150 : 2 : 2 : 1 : -7 : 2 : 4 : Gloves Off : 3 : Spirit : 2 : Stamina : -2 : Elemental : 2
 Grand Yamato Kabuto : 大和・真【兜】 : A : M : H : -- : -- : 150 : 2 : 3 : 1 : -4 : -4 : 0 : Martial Arts : 2 : Expert : 2 : Potential : -2 : FastCharge : 2
@@ -1157,7 +1157,7 @@ Grand Adamance Plate : 常磐・真【胸当て】 : B : F : C : -- : -- : 149 :
 Grand Gloaming Girdle : 残陽・真【腰当て】 : B : M : W : -- : -- : 149 : 2 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 1 : Artillery : 4 : Potential : -3
 Grand Adamance Girdle : 常磐・真【腰当て】 : B : F : W : -- : -- : 149 : 2 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 1 : Artillery : 4 : Potential : -3
 Grand Gloaming Greaves : 残陽・真【具足】 : B : M : L : -- : -- : 149 : 0 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 3 : Unshakable : 3 : Expert : 4 : Potential : -3
-Grand Adamance Pleats : 常磐・真【具足】 : B : F : L : -- : -- : 149 : 0 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 3 : Unshakable : 3 : Expert : 4 : Potential : -3
+Grand Adamance Pleats : 常磐・真【具足】 : B : F : L : -- : -- : 149 : 0 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 3 : Unshakable : 3 : Expert : 4 : Potential : -3 : LightEater : 4
 Grand Gloaming Braces : 残陽・真【篭手】 : B : M : A : -- : -- : 149 : 3 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 3 : Potential : -3
 Grand Adamance Braces : 常磐・真【篭手】 : B : F : A : -- : -- : 149 : 3 : 3 : 2 : 3 : -4 : -4 : Crit Draw : 2 : Unshakable : 2 : Expert : 3 : Potential : -3
 Grand God's Peer Mask : 斉天ノ添髪・真 : A : A : H : -- : -- : 148 : 3 : 2 : 1 : -6 : 2 : 3 : Gloves Off : 2 : Spirit : 2 : Stamina : -1 : ThunderAtk : 3
@@ -1175,15 +1175,15 @@ Grand Cham Hat : トヨタマ真【烏帽子】 : A : A : H : -- : -- : 98 : 1 :
 Grand Mutsu Jingasa : 陸奥・真【陣笠】 : A : M : H : -- : -- : 98 : 2 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 3 : Pierce Up : 2
 Grand Amagi Jingasa : 天城・真【陣笠】 : A : F : H : -- : -- : 98 : 2 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 3 : Pierce Up : 2
 Grand Crusher Robe : 心滅ノ衣・真 : G : A : C : -- : -- : 98 : 3 : 3 : 2 : -6 : 3 : 5 : Steadyhand : 1 : Gloves Off : 2 : Stamina : -2 : Elemental : 2
-Grand Cham Camise : トヨタマ真【胸当て】 : G : A : C : -- : -- : 98 : 1 : -3 : 4 : 5 : 0 : 1 : Hearing : 1 : Status : 2 : Wind Res : 4 : Heat Res : -2
+Grand Cham Camise : トヨタマ真【胸当て】 : G : A : C : -- : -- : 98 : 1 : -3 : 4 : 5 : 0 : 1 : Hearing : 1 : Status : 2 : Wind Res : 4 : Heat Res : -2 : CritStatus : 4
 Grand Mutsu Doate : 陸奥・真【胴当て】 : G : M : C : -- : -- : 98 : 1 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 2 : Loading : 1 : Pierce Up : 2
 Grand Amagi Muneate : 天城・真【胸当て】 : G : F : C : -- : -- : 98 : 1 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 2 : Loading : 1 : Pierce Up : 2
 Grand Crusher Belt : 心滅ノ帯・真 : G : A : W : -- : -- : 98 : 2 : 3 : 2 : -6 : 3 : 5 : Steadyhand : 3 : Gloves Off : 2 : Spirit : 2 : Stamina : -2 : Elemental : 1
-Grand Cham Coat : トヨタマ真【丸帯】 : G : A : W : -- : -- : 98 : 3 : -3 : 4 : 5 : 0 : 1 : Status : 5 : Heat Res : -3
+Grand Cham Coat : トヨタマ真【丸帯】 : G : A : W : -- : -- : 98 : 3 : -3 : 4 : 5 : 0 : 1 : Status : 5 : Heat Res : -3 : CritStatus : 4
 Grand Mutsu Koshiate : 陸奥・真【腰当て】 : G : M : W : -- : -- : 98 : 2 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 3 : Pierce Up : 1
 Grand Amagi Koshiate : 天城・真【腰当て】 : G : F : W : -- : -- : 98 : 2 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 3 : Pierce Up : 1
 Grand Crusher Feet : 心滅ノ具足・真 : G : A : L : -- : -- : 98 : 2 : 3 : 2 : -6 : 3 : 5 : Gloves Off : 2 : Spirit : 4 : Stamina : -2 : Elemental : 3
-Grand Cham Trousers : トヨタマ真【具足】 : G : A : L : -- : -- : 98 : 2 : -3 : 4 : 5 : 0 : 1 : Hearing : 3 : Status : 4 : Wind Res : 3 : Heat Res : -1
+Grand Cham Trousers : トヨタマ真【具足】 : G : A : L : -- : -- : 98 : 2 : -3 : 4 : 5 : 0 : 1 : Hearing : 3 : Status : 4 : Wind Res : 3 : Heat Res : -1 : CritStatus : 2
 Grand Mutsu Gusoku : 陸奥・真【具足】 : G : M : L : -- : -- : 98 : 0 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 4 : Loading : 3 : Pierce Up : 3
 Grand Amagi Hakama : 天城・真【袴】 : G : F : L : -- : -- : 98 : 0 : 4 : 2 : -3 : -3 : 1 : Precise Attack : 2 : Reload Spd : -2 : Recoil : 4 : Loading : 3 : Pierce Up : 3
 Grand Crusher Braces : 心滅ノ篭手・真 : G : A : A : -- : -- : 98 : 0 : 3 : 2 : -6 : 3 : 5 : Gloves Off : 6 : Spirit : 7 : Stamina : -2 : Elemental : 1
@@ -1196,8 +1196,8 @@ Grand Dayspring Plate : 東雲・真【胴当て】 : G : M : C : -- : -- : 97 :
 Grand Epoch Plate : 八千代・真【胸当て】 : G : F : C : -- : -- : 97 : 2 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -2 : Rapid Fire : 1 : Unshakable : 1 : Expert : 2 : Pierce Up : 3
 Grand Dayspring Girdle : 東雲・真【腰当て】 : G : M : W : -- : -- : 97 : 1 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 2 : Unshakable : 2 : Expert : 1 : Pierce Up : 5
 Grand Epoch Girdle : 八千代・真【腰当て】 : G : F : W : -- : -- : 97 : 1 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 2 : Unshakable : 2 : Expert : 1 : Pierce Up : 5
-Grand Dayspring Pleats : 東雲・真【具足】 : G : M : L : -- : -- : 97 : 0 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 3 : Unshakable : 3 : Expert : 4
-Grand Epoch Greaves : 八千代・真【具足】 : G : F : L : -- : -- : 97 : 0 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 3 : Unshakable : 3 : Expert : 4
+Grand Dayspring Pleats : 東雲・真【具足】 : G : M : L : -- : -- : 97 : 0 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 3 : Unshakable : 3 : Expert : 4 : LightEater : 4
+Grand Epoch Greaves : 八千代・真【具足】 : G : F : L : -- : -- : 97 : 0 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 3 : Unshakable : 3 : Expert : 4 : LightEater : 4
 Grand Dayspring Braces : 東雲・真【篭手】 : G : M : A : -- : -- : 97 : 3 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 2 : Unshakable : 2 : Expert : 4
 Grand Epoch Sleeves : 八千代・真【大袖】 : G : F : A : -- : -- : 97 : 3 : 4 : 3 : 4 : -3 : -3 : Reload Spd : -3 : Rapid Fire : 2 : Unshakable : 2 : Expert : 4
 Grand Hermit Mask : 仙師ノ添髪・真 : A : A : H : -- : -- : 96 : 3 : 3 : 2 : -5 : 3 : 4 : Gloves Off : 2 : Spirit : 2 : Stamina : -1 : ThunderAtk : 4
@@ -1255,11 +1255,11 @@ Gravios Vest : グラビドレジスト : G : A : C : 12 : 78 : 78 : 2 : 3 : -2 
 Gravios Coat : グラビドコート : G : A : W : 12 : 78 : 78 : 0 : 3 : -2 : 2 : -1 : 1 : Recoil : 4 : Defense : 2 : Stamina : -2
 Gravios Leggings : グラビドレギンス : G : A : L : 12 : 78 : 78 : 1 : 3 : -2 : 2 : -1 : 1 : Recoil : 2 : Defense : 3 : Stamina : -2
 Gravios Guards : グラビドガード : G : A : A : 12 : 78 : 78 : 2 : 3 : -2 : 2 : -1 : 1 : Recoil : 2 : Defense : 1 : Stamina : -2
-Guardian Helm Z : ガーディアンＺヘルム : A : M : H : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 2 : Rider : 2
-Guardian Suit Z : ガーディアンＺスーツ : B : M : C : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 1 : Rider : 3
-Guardian Coil Z : ガーディアンＺコイル : B : M : W : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 3
-Guardian Boots Z : ガーディアンＺブーツ : B : M : L : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -2 : SpeedSetup : 3 : Rider : 3
-Guardian Vambraces Z : ガーディアンＺアーム : B : M : A : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 4
+Guardian Helm Z : ガーディアンＺヘルム : A : M : H : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 2 : Rider : 2 : LightEater : 1
+Guardian Suit Z : ガーディアンＺスーツ : B : M : C : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 1 : Rider : 3 : LightEater : 3
+Guardian Coil Z : ガーディアンＺコイル : B : M : W : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Guardian Boots Z : ガーディアンＺブーツ : B : M : L : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -2 : SpeedSetup : 3 : Rider : 3 : LightEater : 2
+Guardian Vambraces Z : ガーディアンＺアーム : B : M : A : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 4 : LightEater : 2
 Guardian Helm X : ガーディアンＸヘルム : A : M : H : -- : -- : 135 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 2 : Artillery : 2 : Psychic : 2 : Protection : 4
 Guardian Suit X : ガーディアンＸスーツ : B : M : C : -- : -- : 135 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 1 : Artillery : 3 : Psychic : 1 : Protection : 2
 Guardian Coil X : ガーディアンＸコイル : B : M : W : -- : -- : 135 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 3 : Artillery : 3 : Protection : 2
@@ -1270,11 +1270,11 @@ Guardian Suit : ガーディアンスーツ : B : M : C : 18 : 120 : 120 : 1 : 0
 Guardian Coil : ガーディアンコイル : B : M : W : 18 : 120 : 120 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 3 : Artillery : 2 : Protection : 2
 Guardian Boots : ガーディアンブーツ : B : M : L : 18 : 120 : 120 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 1 : Artillery : 3 : Protection : 2
 Guardian Vambraces : ガーディアンアーム : B : M : A : 18 : 120 : 120 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Artillery : 4 : Protection : 2
-Guardian Mask Z : ガーディアンＺマスク : A : M : H : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 3 : Rider : 2
-Guardian Vest Z : ガーディアンＺベスト : G : M : C : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 1 : Rider : 3
-Guardian Coat Z : ガーディアンＺコート : G : M : W : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 3
-Guardian Pants Z : ガーディアンＺフット : G : M : L : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -2 : SpeedSetup : 2 : Rider : 3
-Guardian Guards Z : ガーディアンＺガード : G : M : A : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 4
+Guardian Mask Z : ガーディアンＺマスク : A : M : H : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 3 : Rider : 2 : LightEater : 1
+Guardian Vest Z : ガーディアンＺベスト : G : M : C : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 1 : Rider : 3 : LightEater : 3
+Guardian Coat Z : ガーディアンＺコート : G : M : W : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Guardian Pants Z : ガーディアンＺフット : G : M : L : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -2 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Guardian Guards Z : ガーディアンＺガード : G : M : A : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 4 : LightEater : 2
 Guardian Mask X : ガーディアンＸマスク : A : M : H : -- : -- : 88 : 2 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 2 : Psychic : 2 : Wide-Range : 4 : Protection : 2
 Guardian Vest X : ガーディアンＸベスト : G : M : C : -- : -- : 88 : 1 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 1 : Psychic : 1 : Wide-Range : 3 : Protection : 2
 Guardian Coat X : ガーディアンＸコート : G : M : W : -- : -- : 88 : 1 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 3 : Wide-Range : 3 : Protection : 2
@@ -1376,11 +1376,11 @@ Hawkjacket X : ホークＸベスト : G : M : C : -- : -- : 96 : 3 : 3 : 0 : 1 
 Hawkjacket : ホークベスト : G : M : C : -- : 23 : 78 : 3 : 3 : 0 : 1 : 3 : 2 : Ranger : 1 : Commander : 1 : Hunger : -3
 Hawksuit X : ホークＸスーツ : B : M : C : -- : -- : 148 : 3 : 2 : -1 : 0 : 2 : 1 : Gathering : 1 : Sheathing : 4 : Commander : 1 : Hunger : -3
 Hawksuit : ホークスーツ : B : M : C : -- : 45 : 120 : 3 : 2 : -1 : 0 : 2 : 1 : Ranger : 1 : Commander : 1 : Hunger : -3
-Healer Beret Z : ヒーラーＺベレー : A : F : H : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 3 : Rider : 2
-Healer Vest Z : ヒーラーＺベスト : G : F : C : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 1 : Rider : 3
-Healer Frills Z : ヒーラーＺフリル : G : F : W : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 3
-Healer Socks Z : ヒーラーＺタイツ : G : F : L : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -2 : SpeedSetup : 2 : Rider : 3
-Healer Sleeves Z : ヒーラーＺカフス : G : F : A : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 4
+Healer Beret Z : ヒーラーＺベレー : A : F : H : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 3 : Rider : 2 : LightEater : 1
+Healer Vest Z : ヒーラーＺベスト : G : F : C : -- : -- : 93 : 2 : 1 : 1 : 1 : 1 : 1 : Potential : -3 : SpeedSetup : 1 : Rider : 3 : LightEater : 3
+Healer Frills Z : ヒーラーＺフリル : G : F : W : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Healer Socks Z : ヒーラーＺタイツ : G : F : L : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -2 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Healer Sleeves Z : ヒーラーＺカフス : G : F : A : -- : -- : 93 : 1 : 1 : 1 : 1 : 1 : 1 : Potential : -1 : SpeedSetup : 2 : Rider : 4 : LightEater : 2
 Healer Glasses X : ヒーラーＸグラス : A : F : H : -- : -- : 88 : 2 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 2 : Psychic : 2 : Wide-Range : 4 : Protection : 2
 Healer Vest X : ヒーラーＸベスト : G : F : C : -- : -- : 88 : 1 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 1 : Psychic : 1 : Wide-Range : 3 : Protection : 2
 Healer Frills X : ヒーラーＸフリル : G : F : W : -- : -- : 88 : 1 : 1 : 1 : 1 : 1 : 1 : Gathering : -2 : Fate : 3 : Wide-Range : 3 : Protection : 2
@@ -1406,11 +1406,11 @@ Helios Vest : ヘリオスレジスト : G : M : C : -- : 42 : 83 : 1 : 1 : 4 : 
 Helios Coat : ヘリオスコート : G : M : W : -- : 42 : 83 : 1 : 1 : 4 : 2 : -4 : -1 : Hearing : 1 : Destroyer : 2 : Water Atk : 1 : Protection : -2
 Helios Leggings : ヘリオスレギンス : G : M : L : -- : 42 : 83 : 2 : 1 : 4 : 2 : -4 : -1 : Hearing : 1 : Destroyer : 2 : Water Atk : 3 : Protection : -2
 Helios Guards : ヘリオスガード : G : M : A : -- : 42 : 83 : 0 : 1 : 4 : 2 : -4 : -1 : Hearing : 3 : Destroyer : 3 : Water Atk : 2 : Protection : -2
-Helper Hood Z : ヘルパーＺフード : A : F : H : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 2 : Rider : 2
-Helper Vest Z : ヘルパーＺベスト : B : F : C : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 1 : Rider : 3
-Helper Skirt Z : ヘルパーＺスカート : B : F : W : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 3
-Helper Socks Z : ヘルパーＺソックス : B : F : L : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -2 : SpeedSetup : 3 : Rider : 3
-Helper Sleeves Z : ヘルパーＺカフス : B : F : A : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 4
+Helper Hood Z : ヘルパーＺフード : A : F : H : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 2 : Rider : 2 : LightEater : 1
+Helper Vest Z : ヘルパーＺベスト : B : F : C : -- : -- : 143 : 2 : 0 : 0 : 0 : 0 : 0 : Potential : -3 : SpeedSetup : 1 : Rider : 3 : LightEater : 3
+Helper Skirt Z : ヘルパーＺスカート : B : F : W : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 3 : LightEater : 2
+Helper Socks Z : ヘルパーＺソックス : B : F : L : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -2 : SpeedSetup : 3 : Rider : 3 : LightEater : 2
+Helper Sleeves Z : ヘルパーＺカフス : B : F : A : -- : -- : 143 : 1 : 0 : 0 : 0 : 0 : 0 : Potential : -1 : SpeedSetup : 2 : Rider : 4 : LightEater : 2
 Helper Hood X : ヘルパーＸフード : A : F : H : -- : -- : 135 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 2 : Artillery : 2 : Psychic : 2 : Protection : 4
 Helper Vest X : ヘルパーＸベスト : B : F : C : -- : -- : 135 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 1 : Artillery : 3 : Psychic : 1 : Protection : 2
 Helper Skirt X : ヘルパーＸスカート : B : F : W : -- : -- : 135 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : -2 : Fate : 3 : Artillery : 3 : Protection : 2
@@ -1431,11 +1431,11 @@ Hermitaur Mail Z : ザザミＺメイル : B : A : C : -- : -- : 137 : 2 : 0 : 3
 Hermitaur Tassets Z : ザザミＺフォールド : B : A : W : -- : -- : 137 : 3 : 0 : 3 : -4 : 1 : -2 : Guard : 1 : Stamina : -3 : Guts : 3 : Constitutn : 1
 Hermitaur Greaves Z : ザザミＺグリーヴ : B : A : L : -- : -- : 137 : 1 : 0 : 3 : -4 : 1 : -2 : Crit Draw : 3 : Guard : 3 : Stamina : -2 : Guts : 2 : Constitutn : 3
 Hermitaur Braces Z : ザザミＺアーム : B : A : A : -- : -- : 137 : 2 : 0 : 3 : -4 : 1 : -2 : Guard : 1 : Stamina : -3 : Guts : 3 : Constitutn : 1
-Hermitaur Helm X : ザザミＸヘルム : A : A : H : -- : -- : 132 : 1 : -3 : 3 : 0 : 1 : -4 : Defense : 5 : Guard : 4 : ThunderRes : -2
-Hermitaur Mail X : ザザミＸメイル : B : A : C : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 2 : Guard : 3 : ThunderRes : -2
-Hermitaur Tassets X : ザザミＸフォールド : B : A : W : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 3 : Guard : 2 : ThunderRes : -2
-Hermitaur Greaves X : ザザミＸグリーヴ : B : A : L : -- : -- : 132 : 1 : -3 : 3 : 0 : 1 : -4 : Defense : 3 : Guard : 4 : ThunderRes : -2
-Hermitaur Braces X : ザザミＸアーム : B : A : A : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 2 : Guard : 2 : ThunderRes : -2
+Hermitaur Helm X : ザザミＸヘルム : A : A : H : -- : -- : 132 : 1 : -3 : 3 : 0 : 1 : -4 : Defense : 5 : Guard : 4 : ThunderRes : -2 : LightEater : 2
+Hermitaur Mail X : ザザミＸメイル : B : A : C : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 2 : Guard : 3 : ThunderRes : -2 : LightEater : 3
+Hermitaur Tassets X : ザザミＸフォールド : B : A : W : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 3 : Guard : 2 : ThunderRes : -2 : LightEater : 2
+Hermitaur Greaves X : ザザミＸグリーヴ : B : A : L : -- : -- : 132 : 1 : -3 : 3 : 0 : 1 : -4 : Defense : 3 : Guard : 4 : ThunderRes : -2 : LightEater : 2
+Hermitaur Braces X : ザザミＸアーム : B : A : A : -- : -- : 132 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 2 : Guard : 2 : ThunderRes : -2 : LightEater : 1
 Hermitaur Helm : ザザミヘルム : A : A : H : 40 : 117 : 117 : 1 : -3 : 3 : 0 : 1 : -4 : Defense : 3 : Guard : 3 : ThunderRes : -2
 Hermitaur Mail : ザザミメイル : B : A : C : 40 : 117 : 117 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 1 : Guard : 2 : ThunderRes : -2
 Hermitaur Tassets : ザザミフォールド : B : A : W : 40 : 117 : 117 : 2 : -3 : 3 : 0 : 1 : -4 : Defense : 2 : Guard : 1 : ThunderRes : -2
@@ -1446,11 +1446,11 @@ Hermitaur Vest Z : ザザミＺレジスト : G : A : C : -- : -- : 89 : 2 : 1 :
 Hermitaur Coat Z : ザザミＺコート : G : A : W : -- : -- : 89 : 3 : 1 : 6 : -2 : 2 : -1 : Recoil : 1 : Guts : 3 : Loading : -3 : Pierce Up : 1
 Hermitaur Leggings Z : ザザミＺレギンス : G : A : L : -- : -- : 89 : 1 : 1 : 6 : -2 : 2 : -1 : Recoil : 3 : Guts : 2 : Loading : -2 : Pierce Up : 3 : Clust S+ : 3
 Hermitaur Guards Z : ザザミＺガード : G : A : A : -- : -- : 89 : 2 : 1 : 6 : -2 : 2 : -1 : Recoil : 1 : Guts : 3 : Loading : -3 : Pierce Up : 1
-Hermitaur Cap X : ザザミＸキャップ : A : A : H : -- : -- : 86 : 1 : -2 : 4 : 1 : 2 : -3 : Defense : 5 : Precision : 4 : ThunderRes : -2
-Hermitaur Vest X : ザザミＸレジスト : G : A : C : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 2 : Precision : 3 : ThunderRes : -2
-Hermitaur Coat X : ザザミＸコート : G : A : W : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 3 : Precision : 2 : ThunderRes : -2
-Hermitaur Leggings X : ザザミＸレギンス : G : A : L : -- : -- : 86 : 1 : -2 : 4 : 1 : 2 : -3 : Defense : 3 : Precision : 4 : ThunderRes : -2
-Hermitaur Guards X : ザザミＸガード : G : A : A : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 2 : Precision : 2 : ThunderRes : -2
+Hermitaur Cap X : ザザミＸキャップ : A : A : H : -- : -- : 86 : 1 : -2 : 4 : 1 : 2 : -3 : Defense : 5 : Precision : 4 : ThunderRes : -2 : LightEater : 2
+Hermitaur Vest X : ザザミＸレジスト : G : A : C : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 2 : Precision : 3 : ThunderRes : -2 : LightEater : 3
+Hermitaur Coat X : ザザミＸコート : G : A : W : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 3 : Precision : 2 : ThunderRes : -2 : LightEater : 2
+Hermitaur Leggings X : ザザミＸレギンス : G : A : L : -- : -- : 86 : 1 : -2 : 4 : 1 : 2 : -3 : Defense : 3 : Precision : 4 : ThunderRes : -2 : LightEater : 2
+Hermitaur Guards X : ザザミＸガード : G : A : A : -- : -- : 86 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 2 : Precision : 2 : ThunderRes : -2 : LightEater : 1
 Hermitaur Cap : ザザミキャップ : A : A : H : 20 : 77 : 77 : 1 : -2 : 4 : 1 : 2 : -3 : Defense : 3 : Precision : 3 : ThunderRes : -2
 Hermitaur Vest : ザザミレジスト : G : A : C : 20 : 77 : 77 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 1 : Precision : 2 : ThunderRes : -2
 Hermitaur Coat : ザザミコート : G : A : W : 20 : 77 : 77 : 2 : -2 : 4 : 1 : 2 : -3 : Defense : 2 : Precision : 1 : ThunderRes : -2
@@ -1608,11 +1608,11 @@ Kaiser Vest : カイザーレジスト : G : A : C : -- : 34 : 81 : 2 : 5 : -5 :
 Kaiser Coat : カイザーコート : G : A : W : -- : 34 : 81 : 1 : 5 : -5 : -1 : -1 : 2 : Biology : 1 : FreeElemnt : 2 : Reload Spd : 4 : Cold Res : -2
 Kaiser Leggings : カイザーレギンス : G : A : L : -- : 34 : 81 : 0 : 5 : -5 : -1 : -1 : 2 : Biology : 5 : Reload Spd : 2 : Loading : 1 : Cold Res : -2
 Kaiser Guards : カイザーガード : G : A : A : -- : 34 : 81 : 2 : 5 : -5 : -1 : -1 : 2 : Biology : 1 : Reload Spd : 2 : Loading : 1 : Cold Res : -2
-Kecha Helm Z : ケチャＺヘルム : A : A : H : -- : -- : 133 : 2 : 3 : -5 : -3 : 3 : -2 : Defense Lock : 3 : Fire Atk : 5 : Water Res : -2 : Constitutn : 2
-Kecha Mail Z : ケチャＺメイル : B : A : C : -- : -- : 133 : 2 : 3 : -5 : -3 : 3 : -2 : Defense Lock : 2 : Fire Atk : 5 : Water Res : -1 : Constitutn : 2
-Kecha Faulds Z : ケチャＺフォールド : B : A : W : -- : -- : 133 : 1 : 3 : -5 : -3 : 3 : -2 : Sharpness : 2 : Defense Lock : 2 : Fire Atk : 1 : Water Res : -3 : Constitutn : 3
-Kecha Greaves Z : ケチャＺグリーヴ : B : A : L : -- : -- : 133 : 1 : 3 : -5 : -3 : 3 : -2 : Defense Lock : 2 : Fire Atk : 2 : Water Res : -1 : Constitutn : 3
-Kecha Braces Z : ケチャＺアーム : B : A : A : -- : -- : 133 : 0 : 3 : -5 : -3 : 3 : -2 : Defense Lock : 1 : Fire Atk : 2 : Water Res : -3 : Constitutn : 5
+Kecha Helm Z : ケチャＺヘルム : A : A : H : -- : -- : 133 : 2 : 3 : -5 : -3 : 3 : -2 : Def Lock : 3 : Fire Atk : 5 : Water Res : -2 : Constitutn : 2
+Kecha Mail Z : ケチャＺメイル : B : A : C : -- : -- : 133 : 2 : 3 : -5 : -3 : 3 : -2 : Def Lock : 2 : Fire Atk : 5 : Water Res : -1 : Constitutn : 2
+Kecha Faulds Z : ケチャＺフォールド : B : A : W : -- : -- : 133 : 1 : 3 : -5 : -3 : 3 : -2 : Sharpness : 2 : Def Lock : 2 : Fire Atk : 1 : Water Res : -3 : Constitutn : 3
+Kecha Greaves Z : ケチャＺグリーヴ : B : A : L : -- : -- : 133 : 1 : 3 : -5 : -3 : 3 : -2 : Def Lock : 2 : Fire Atk : 2 : Water Res : -1 : Constitutn : 3
+Kecha Braces Z : ケチャＺアーム : B : A : A : -- : -- : 133 : 0 : 3 : -5 : -3 : 3 : -2 : Def Lock : 1 : Fire Atk : 2 : Water Res : -3 : Constitutn : 5
 Kecha Helm X : ケチャＸヘルム : A : A : H : -- : -- : 131 : 0 : -5 : 3 : 0 : 3 : -3 : Fate : -2 : Water Atk : 6 : Constitutn : 2 : Whim : 2
 Kecha Mail X : ケチャＸメイル : B : A : C : -- : -- : 131 : 2 : -5 : 3 : 0 : 3 : -3 : Fate : -1 : Water Atk : 2 : Constitutn : 1 : Whim : 3
 Kecha Faulds X : ケチャＸフォールド : B : A : W : -- : -- : 131 : 1 : -5 : 3 : 0 : 3 : -3 : Fate : -3 : Water Atk : 2 : Constitutn : 2 : Whim : 4
@@ -1628,11 +1628,11 @@ Kecha Mail : ケチャメイル : B : A : C : 14 : 116 : 116 : 2 : -3 : 2 : 0 : 
 Kecha Faulds : ケチャフォールド : B : A : W : 14 : 116 : 116 : 1 : -3 : 2 : 0 : 2 : -2 : Fate : -2 : Water Atk : 2 : Whim : 2
 Kecha Greaves : ケチャグリーヴ : B : A : L : 14 : 116 : 116 : 0 : -3 : 2 : 0 : 2 : -2 : Fate : -1 : Water Atk : 1 : Whim : 4
 Kecha Vambraces : ケチャアーム : B : A : A : 14 : 116 : 116 : 1 : -3 : 2 : 0 : 2 : -2 : Fate : -2 : Water Atk : 3 : Whim : 1
-Kecha Cap Z : ケチャＺキャップ : A : A : H : -- : -- : 87 : 2 : 4 : -4 : -2 : 4 : -1 : Defense Lock : 3 : Fire Atk : 6 : Water Res : -2 : Constitutn : 2
-Kecha Vest Z : ケチャＺレジスト : G : A : C : -- : -- : 87 : 2 : 4 : -4 : -2 : 4 : -1 : Defense Lock : 2 : Fire Atk : 5 : Water Res : -1 : Constitutn : 2
-Kecha Coat Z : ケチャＺコート : G : A : W : -- : -- : 87 : 1 : 4 : -4 : -2 : 4 : -1 : Recoil : 2 : Defense Lock : 2 : Fire Atk : 1 : Water Res : -3 : Constitutn : 3
-Kecha Leggings Z : ケチャＺレギンス : G : A : L : -- : -- : 87 : 1 : 4 : -4 : -2 : 4 : -1 : Defense Lock : 2 : Fire Atk : 2 : Water Res : -1 : Constitutn : 3
-Kecha Guards Z : ケチャＺガード : G : A : A : -- : -- : 87 : 0 : 4 : -4 : -2 : 4 : -1 : Defense Lock : 1 : Fire Atk : 1 : Water Res : -3 : Constitutn : 5
+Kecha Cap Z : ケチャＺキャップ : A : A : H : -- : -- : 87 : 2 : 4 : -4 : -2 : 4 : -1 : Def Lock : 3 : Fire Atk : 6 : Water Res : -2 : Constitutn : 2
+Kecha Vest Z : ケチャＺレジスト : G : A : C : -- : -- : 87 : 2 : 4 : -4 : -2 : 4 : -1 : Def Lock : 2 : Fire Atk : 5 : Water Res : -1 : Constitutn : 2
+Kecha Coat Z : ケチャＺコート : G : A : W : -- : -- : 87 : 1 : 4 : -4 : -2 : 4 : -1 : Recoil : 2 : Def Lock : 2 : Fire Atk : 1 : Water Res : -3 : Constitutn : 3
+Kecha Leggings Z : ケチャＺレギンス : G : A : L : -- : -- : 87 : 1 : 4 : -4 : -2 : 4 : -1 : Def Lock : 2 : Fire Atk : 2 : Water Res : -1 : Constitutn : 3
+Kecha Guards Z : ケチャＺガード : G : A : A : -- : -- : 87 : 0 : 4 : -4 : -2 : 4 : -1 : Def Lock : 1 : Fire Atk : 1 : Water Res : -3 : Constitutn : 5
 Kecha Cap X : ケチャＸキャップ : A : A : H : -- : -- : 86 : 0 : -4 : 4 : 1 : 4 : -2 : Fate : -1 : Water Atk : 6 : Constitutn : 2 : Whim : 2
 Kecha Vest X : ケチャＸレジスト : G : A : C : -- : -- : 86 : 2 : -4 : 4 : 1 : 4 : -2 : Fate : -1 : Water Atk : 2 : Constitutn : 1 : Whim : 3
 Kecha Coat X : ケチャＸコート : G : A : W : -- : -- : 86 : 1 : -4 : 4 : 1 : 4 : -2 : Fate : -3 : Water Atk : 2 : Constitutn : 2 : Whim : 4
@@ -1648,11 +1648,11 @@ Kecha Vest : ケチャレジスト : G : A : C : 7 : 74 : 74 : 2 : -2 : 3 : 1 : 
 Kecha Coat : ケチャコート : G : A : W : 7 : 74 : 74 : 1 : -2 : 3 : 1 : 3 : -1 : Fate : -2 : Water Atk : 2 : Whim : 2
 Kecha Leggings : ケチャレギンス : G : A : L : 7 : 74 : 74 : 0 : -2 : 3 : 1 : 3 : -1 : Fate : -1 : Water Atk : 1 : Whim : 4
 Kecha Guards : ケチャガード : G : A : A : 7 : 74 : 74 : 1 : -2 : 3 : 1 : 3 : -1 : Fate : -2 : Water Atk : 3 : Whim : 1
-Khezu Helm Z : フルフルＺヘルム : A : A : H : -- : -- : 137 : 1 : 1 : -5 : 2 : 1 : 1 : Rec Level : 3 : Wide-Range : 2 : Rec Speed : -2
-Khezu Mail Z : フルフルＺメイル : B : A : C : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Rec Level : 1 : Wide-Range : 2 : Rec Speed : -2
-Khezu Tassets Z : フルフルＺフォールド : B : A : W : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Single-Minded : 3 : Rec Level : 3 : Wide-Range : 1 : Rec Speed : -2
-Khezu Greaves Z : フルフルＺグリーヴ : B : A : L : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Rec Level : 2 : Wide-Range : 2 : Rec Speed : -2
-Khezu Vambraces Z : フルフルＺアーム : B : A : A : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Single-Minded : 2 : Rec Level : 1 : Wide-Range : 3 : Rec Speed : -2
+Khezu Helm Z : フルフルＺヘルム : A : A : H : -- : -- : 137 : 1 : 1 : -5 : 2 : 1 : 1 : Rec Level : 3 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 2
+Khezu Mail Z : フルフルＺメイル : B : A : C : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Rec Level : 1 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 3
+Khezu Tassets Z : フルフルＺフォールド : B : A : W : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Single-Minded : 3 : Rec Level : 3 : Wide-Range : 1 : Rec Speed : -2 : LightEater : 1
+Khezu Greaves Z : フルフルＺグリーヴ : B : A : L : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Rec Level : 2 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 3
+Khezu Vambraces Z : フルフルＺアーム : B : A : A : -- : -- : 137 : 2 : 1 : -5 : 2 : 1 : 1 : Single-Minded : 2 : Rec Level : 1 : Wide-Range : 3 : Rec Speed : -2 : LightEater : 1
 Khezu Helm X : フルフルＸヘルム : A : A : H : -- : -- : 135 : 1 : -5 : 1 : 2 : 1 : 1 : ThunderAtk : 3 : Wide-Range : 5 : Rec Speed : 2 : Stun : -1
 Khezu Mail X : フルフルＸメイル : B : A : C : -- : -- : 135 : 1 : -5 : 1 : 2 : 1 : 1 : ThunderAtk : 2 : Wide-Range : 6 : Rec Speed : 1 : Stun : -1
 Khezu Tassets X : フルフルＸフォールド : B : A : W : -- : -- : 135 : 2 : -5 : 1 : 2 : 1 : 1 : ThunderAtk : 5 : Rec Speed : 2 : Stun : -2
@@ -1673,11 +1673,11 @@ Khezu Greaves : フルフルグリーヴ : B : A : L : 19 : 121 : 121 : 1 : -4 :
 Khezu Greaves S : フルフルＳグリーヴ : B : A : L : -- : 50 : 121 : 1 : -5 : 1 : 2 : 1 : 1 : ThunderAtk : 3 : Wide-Range : 2 : Rec Speed : 3 : Stun : -1
 Khezu Vambraces : フルフルアーム : B : A : A : 19 : 121 : 121 : 1 : -4 : 1 : 2 : 1 : 1 : ThunderAtk : 3 : Rec Level : 2
 Khezu Vambraces S : フルフルＳアーム : B : A : A : -- : 50 : 121 : 1 : -5 : 1 : 2 : 1 : 1 : ThunderAtk : 3 : Wide-Range : 2 : Rec Speed : 2 : Stun : -1
-Khezu Cap Z : フルフルＺキャップ : A : A : H : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 3 : Wide-Range : 2 : Rec Speed : -2
-Khezu Vest Z : フルフルＺレジスト : G : A : C : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 1 : Wide-Range : 2 : Rec Speed : -2
-Khezu Coat Z : フルフルＺコート : G : A : W : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Single-Minded : 3 : Rec Level : 3 : Wide-Range : 1 : Rec Speed : -2
-Khezu Leggings Z : フルフルＺレギンス : G : A : L : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 2 : Wide-Range : 2 : Rec Speed : -2
-Khezu Guards Z : フルフルＺガード : G : A : A : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Single-Minded : 2 : Rec Level : 1 : Wide-Range : 3 : Rec Speed : -2
+Khezu Cap Z : フルフルＺキャップ : A : A : H : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 3 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 2
+Khezu Vest Z : フルフルＺレジスト : G : A : C : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 1 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 3
+Khezu Coat Z : フルフルＺコート : G : A : W : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Single-Minded : 3 : Rec Level : 3 : Wide-Range : 1 : Rec Speed : -2 : LightEater : 1
+Khezu Leggings Z : フルフルＺレギンス : G : A : L : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Rec Level : 2 : Wide-Range : 2 : Rec Speed : -2 : LightEater : 3
+Khezu Guards Z : フルフルＺガード : G : A : A : -- : -- : 89 : 2 : 2 : -4 : 3 : 2 : 2 : Single-Minded : 2 : Rec Level : 1 : Wide-Range : 3 : Rec Speed : -2 : LightEater : 1
 Khezu Cap X : フルフルＸキャップ : A : A : H : -- : -- : 88 : 2 : -4 : 2 : 3 : 2 : 2 : ThunderAtk : 3 : Wide-Range : 5 : Rec Speed : 2 : Stun : -1
 Khezu Vest X : フルフルＸレジスト : G : A : C : -- : -- : 88 : 1 : -4 : 2 : 3 : 2 : 2 : ThunderAtk : 2 : Wide-Range : 6 : Rec Speed : 1 : Stun : -1
 Khezu Coat X : フルフルＸコート : G : A : W : -- : -- : 88 : 2 : -4 : 2 : 3 : 2 : 2 : ThunderAtk : 5 : Rec Speed : 2 : Stun : -2
@@ -1768,21 +1768,21 @@ Kujula Vise : クジュラバダル : G : A : C : -- : -- : 98 : 1 : 4 : -5 : 7 
 Kujula Wind Wrap : クジュラアドミ : G : A : W : -- : -- : 98 : 3 : 4 : -5 : 7 : -4 : 3 : Evade Dist : 2 : Unscathed : 2 : Constitutn : 3 : Poison : -3
 Kujula Shank : クジュラハディ : G : A : L : -- : -- : 98 : 3 : 4 : -5 : 7 : -4 : 3 : Evade Dist : 3 : Unscathed : 2 : Constitutn : 2 : Poison : -1
 Kujula Embrace : クジュラマカーン : G : A : A : -- : -- : 98 : 1 : 4 : -5 : 7 : -4 : 3 : Steadyhand : 3 : Recoil : 4 : Unscathed : 3 : Poison : -3
-Kushala Glare X : クシャナＸアンク : A : A : H : -- : -- : 151 : 2 : -2 : 2 : 5 : -6 : -5 : Evasion : 2 : FastCharge : 2 : Heat Res : 1 : Poison : -2
+Kushala Glare X : クシャナＸアンク : A : A : H : -- : -- : 151 : 2 : -2 : 2 : 5 : -6 : -5 : Evasion : 2 : FastCharge : 2 : Heat Res : 1 : Poison : -2 : CritElemnt : 4
 Kushala Cista X : クシャナＸディール : B : A : C : -- : -- : 151 : 2 : -2 : 2 : 5 : -6 : -5 : Handicraft : 1 : Evasion : 4 : FastCharge : 1 : Heat Res : 4 : Poison : -2
 Kushala Cocoon X : クシャナＸアンダ : B : A : W : -- : -- : 151 : 3 : -2 : 2 : 5 : -6 : -5 : Handicraft : 2 : Evasion : 3 : FastCharge : 2 : Poison : -2
 Kushala Crus X : クシャナＸペイル : B : A : L : -- : -- : 151 : 3 : -2 : 2 : 5 : -6 : -5 : Evasion : 2 : FastCharge : 3 : Heat Res : 3 : Poison : -2
-Kushala Grip X : クシャナＸハトゥー : B : A : A : -- : -- : 151 : 2 : -2 : 2 : 5 : -6 : -5 : Evasion : 2 : FastCharge : 2 : Heat Res : 2 : Poison : -2
+Kushala Grip X : クシャナＸハトゥー : B : A : A : -- : -- : 151 : 2 : -2 : 2 : 5 : -6 : -5 : Evasion : 2 : FastCharge : 2 : Heat Res : 2 : Poison : -2 : CritElemnt : 3
 Kushala Glare : クシャナアンク : A : A : H : -- : 68 : 131 : 2 : -2 : 2 : 5 : -6 : -5 : FreeElemnt : 2 : FastCharge : 3 : Heat Res : 1 : Poison : -2
 Kushala Cista : クシャナディール : B : A : C : -- : 68 : 131 : 1 : -2 : 2 : 5 : -6 : -5 : Handicraft : 1 : FastCharge : 1 : Heat Res : 4 : Poison : -2
 Kushala Cocoon : クシャナアンダ : B : A : W : -- : 68 : 131 : 3 : -2 : 2 : 5 : -6 : -5 : Handicraft : 2 : FastCharge : 2 : Poison : -2
 Kushala Crus : クシャナペイル : B : A : L : -- : 68 : 131 : 2 : -2 : 2 : 5 : -6 : -5 : FreeElemnt : 1 : FastCharge : 2 : Heat Res : 3 : Poison : -2
 Kushala Grip : クシャナハトゥー : B : A : A : -- : 68 : 131 : 2 : -2 : 2 : 5 : -6 : -5 : FreeElemnt : 2 : FastCharge : 2 : Heat Res : 2 : Poison : -2
-Kushala Snarl X : クシャナＸスーラ : A : A : H : -- : -- : 98 : 2 : -1 : 3 : 6 : -5 : -4 : Evasion : 3 : FastCharge : 2 : Heat Res : 1 : Poison : -2
+Kushala Snarl X : クシャナＸスーラ : A : A : H : -- : -- : 98 : 2 : -1 : 3 : 6 : -5 : -4 : Evasion : 3 : FastCharge : 2 : Heat Res : 1 : Poison : -2 : CritElemnt : 4
 Kushala Vise X : クシャナＸバダル : G : A : C : -- : -- : 98 : 2 : -1 : 3 : 6 : -5 : -4 : Evasion : 4 : FastCharge : 1 : Loading : 1 : Heat Res : 4 : Poison : -2
 Kushala Wind Wrap X : クシャナＸアドミ : G : A : W : -- : -- : 98 : 3 : -1 : 3 : 6 : -5 : -4 : Evasion : 2 : FastCharge : 2 : Loading : 2 : Poison : -2
 Kushala Shank X : クシャナＸハディ : G : A : L : -- : -- : 98 : 3 : -1 : 3 : 6 : -5 : -4 : Evasion : 2 : FastCharge : 3 : Heat Res : 3 : Poison : -2
-Kushala Embrace X : クシャナＸマカーン : G : A : A : -- : -- : 98 : 2 : -1 : 3 : 6 : -5 : -4 : Evasion : 2 : FastCharge : 2 : Heat Res : 2 : Poison : -2
+Kushala Embrace X : クシャナＸマカーン : G : A : A : -- : -- : 98 : 2 : -1 : 3 : 6 : -5 : -4 : Evasion : 2 : FastCharge : 2 : Heat Res : 2 : Poison : -2 : CritElemnt : 3
 Kushala Snarl : クシャナスーラ : A : A : H : -- : 34 : 81 : 2 : -1 : 3 : 6 : -5 : -4 : FreeElemnt : 2 : FastCharge : 3 : Heat Res : 1 : Poison : -2
 Kushala Vise : クシャナバダル : G : A : C : -- : 34 : 81 : 1 : -1 : 3 : 6 : -5 : -4 : FastCharge : 1 : Loading : 1 : Heat Res : 4 : Poison : -2
 Kushala Wind Wrap : クシャナアドミ : G : A : W : -- : 34 : 81 : 3 : -1 : 3 : 6 : -5 : -4 : FastCharge : 2 : Loading : 2 : Poison : -2
@@ -2119,26 +2119,26 @@ Nargacuga Vest : ナルガレジスト : G : A : C : 11 : 77 : 77 : 1 : -1 : 2 :
 Nargacuga Coat : ナルガコート : G : A : W : 11 : 77 : 77 : 3 : -1 : 2 : 2 : 2 : -3 : Evasion : 1 : Stamina : -2 : Evade Dist : 1
 Nargacuga Leggings : ナルガレギンス : G : A : L : 11 : 77 : 77 : 0 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 2 : Evasion : 4 : Stamina : -2 : Evade Dist : 3
 Nargacuga Guards : ナルガガード : G : A : A : 11 : 77 : 77 : 2 : -1 : 2 : 2 : 2 : -3 : Tenderizer : 1 : Evasion : 2 : Stamina : -2 : Evade Dist : 1
-Nephilim Helm : ネフィリムヘルム : A : F : H : -- : -- : 148 : 1 : -5 : 4 : 2 : -6 : -3 : FreeElemnt : 3 : Attack : 1 : Fate : -2 : Destroyer : 3
-Nephilim Mail : ネフィリムメイル : B : F : C : -- : -- : 148 : 2 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 3 : Fate : -2 : Destroyer : 1
+Nephilim Helm : ネフィリムヘルム : A : F : H : -- : -- : 148 : 1 : -5 : 4 : 2 : -6 : -3 : FreeElemnt : 3 : Attack : 1 : Fate : -2 : Destroyer : 3 : CritElemnt : 4
+Nephilim Mail : ネフィリムメイル : B : F : C : -- : -- : 148 : 2 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 3 : Fate : -2 : Destroyer : 1 : CritElemnt : 2
 Nephilim Tassets : ネフィリムフォールド : B : F : W : -- : -- : 148 : 1 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Fencing : 3 : Attack : 2 : Fate : -2 : Destroyer : 3
 Nephilim Greaves : ネフィリムグリーヴ : B : F : L : -- : -- : 148 : 3 : -5 : 4 : 2 : -3 : -3 : FreeElemnt : 2 : Attack : 4 : Fate : -2 : Destroyer : 2
 Nephilim Vambraces : ネフィリムアーム : B : F : A : -- : -- : 148 : 3 : -5 : 4 : 2 : -5 : -3 : FreeElemnt : 1 : Fencing : 4 : Fate : -2 : Destroyer : 1
-Nephilim Cap : ネフィリムキャップ : A : F : H : -- : -- : 96 : 1 : -4 : 5 : 3 : -5 : -2 : Reload Spd : 3 : Attack : 1 : Fate : -2 : Destroyer : 3
-Nephilim Vest : ネフィリムレジスト : G : F : C : -- : -- : 96 : 2 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 3 : Fate : -2 : Destroyer : 1
+Nephilim Cap : ネフィリムキャップ : A : F : H : -- : -- : 96 : 1 : -4 : 5 : 3 : -5 : -2 : Reload Spd : 3 : Attack : 1 : Fate : -2 : Destroyer : 3 : CritElemnt : 4
+Nephilim Vest : ネフィリムレジスト : G : F : C : -- : -- : 96 : 2 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 3 : Fate : -2 : Destroyer : 1 : CritElemnt : 2
 Nephilim Coat : ネフィリムコート : G : F : W : -- : -- : 96 : 1 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Recoil : 3 : Attack : 2 : Fate : -2 : Destroyer : 3
 Nephilim Leggings : ネフィリムレギンス : G : F : L : -- : -- : 96 : 3 : -4 : 5 : 3 : -2 : -2 : Reload Spd : 2 : Attack : 4 : Fate : -2 : Destroyer : 2
 Nephilim Guards : ネフィリムガード : G : F : A : -- : -- : 96 : 3 : -4 : 5 : 3 : -4 : -2 : Reload Spd : 1 : Recoil : 4 : Fate : -2 : Destroyer : 1
-Nerscylla Helm Z : スキュラＺヘルム : A : A : H : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 1 : Expert : 1 : Health : -4 : Evade Dist : 2
-Nerscylla Mail Z : スキュラＺメイル : B : A : C : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 1 : Expert : 1 : Health : -1 : Evade Dist : 1
-Nerscylla Faulds Z : スキュラＺフォールド : B : A : W : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 2 : Expert : 2 : Health : -4 : Evade Dist : 2
-Nerscylla Greaves Z : スキュラＺグリーヴ : B : A : L : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 3 : Expert : 1 : Health : -2 : Evade Dist : 2
-Nerscylla Braces Z : スキュラＺアーム : B : A : A : -- : -- : 141 : 0 : -1 : 3 : -3 : 3 : 0 : Carving : 3 : Expert : 3 : Health : -4 : Evade Dist : 3
-Nerscylla Helm X : スキュラＸヘルム : A : A : H : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 3 : Hunger : -2 : Sleep : 2
-Nerscylla Mail X : スキュラＸメイル : B : A : C : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 1 : Perception : 3 : Hunger : -2
-Nerscylla Faulds X : スキュラＸフォールド : B : A : W : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 1 : Hunger : -2 : Sleep : 2
+Nerscylla Helm Z : スキュラＺヘルム : A : A : H : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 1 : Expert : 1 : Health : -4 : Evade Dist : 2 : CritStatus : 3
+Nerscylla Mail Z : スキュラＺメイル : B : A : C : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 1 : Expert : 1 : Health : -1 : Evade Dist : 1 : CritStatus : 3
+Nerscylla Faulds Z : スキュラＺフォールド : B : A : W : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 2 : Expert : 2 : Health : -4 : Evade Dist : 2 : CritStatus : 1
+Nerscylla Greaves Z : スキュラＺグリーヴ : B : A : L : -- : -- : 141 : 2 : -1 : 3 : -3 : 3 : 0 : Carving : 3 : Expert : 1 : Health : -2 : Evade Dist : 2 : CritStatus : 2
+Nerscylla Braces Z : スキュラＺアーム : B : A : A : -- : -- : 141 : 0 : -1 : 3 : -3 : 3 : 0 : Carving : 3 : Expert : 3 : Health : -4 : Evade Dist : 3 : CritStatus : 1
+Nerscylla Helm X : スキュラＸヘルム : A : A : H : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 3 : Hunger : -2 : Sleep : 2 : Sticky Res : 2
+Nerscylla Mail X : スキュラＸメイル : B : A : C : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 1 : Perception : 3 : Hunger : -2 : Sticky Res : 4 : CritStatus : 2
+Nerscylla Faulds X : スキュラＸフォールド : B : A : W : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 1 : Hunger : -2 : Sleep : 2 : Sticky Res : 4
 Nerscylla Greaves X : スキュラＸグリーヴ : B : A : L : -- : -- : 135 : 2 : -3 : 3 : 2 : 3 : -3 : Expert : 4 : Perception : 2 : Hunger : -2 : Sleep : 2
-Nerscylla Braces X : スキュラＸアーム : B : A : A : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 4 : Perception : 1 : Hunger : -2
+Nerscylla Braces X : スキュラＸアーム : B : A : A : -- : -- : 135 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 4 : Perception : 1 : Hunger : -2 : CritStatus : 3
 Nerscylla Helm : スキュラヘルム : A : A : H : 19 : 121 : 121 : 1 : -2 : 2 : 1 : 2 : -2 : Perception : 3 : Hunger : -2 : SpeedSetup : 2 : Sleep : 2
 Nerscylla Helm S : スキュラＳヘルム : A : A : H : -- : 48 : 121 : 1 : -3 : 3 : 2 : 3 : -3 : Expert : 2 : Perception : 3 : Hunger : -3 : SpeedSetup : 2 : Poison : 2
 Nerscylla Mail : スキュラメイル : B : A : C : 19 : 121 : 121 : 1 : -2 : 2 : 1 : 2 : -2 : Perception : 3 : Hunger : -2 : SpeedSetup : 1 : Sleep : 1
@@ -2149,16 +2149,16 @@ Nerscylla Greaves : スキュラグリーヴ : B : A : L : 19 : 121 : 121 : 2 : 
 Nerscylla Greaves S : スキュラＳグリーヴ : B : A : L : -- : 48 : 121 : 2 : -3 : 3 : 2 : 3 : -3 : Expert : 2 : Perception : 2 : Hunger : -3 : Poison : 2
 Nerscylla Vambraces : スキュラアーム : B : A : A : 19 : 121 : 121 : 0 : -2 : 2 : 1 : 2 : -2 : Perception : 1 : Hunger : -2 : SpeedSetup : 4 : Sleep : 3
 Nerscylla Braces S : スキュラＳアーム : B : A : A : -- : 48 : 121 : 0 : -3 : 3 : 2 : 3 : -3 : Expert : 3 : Perception : 1 : Hunger : -3 : SpeedSetup : 4 : Poison : 3
-Nerscylla Cap Z : スキュラＺキャップ : A : A : H : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 2 : Expert : 1 : Health : -4 : Evade Dist : 2
-Nerscylla Vest Z : スキュラＺレジスト : G : A : C : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 1 : Expert : 1 : Health : -1 : Evade Dist : 1
-Nerscylla Coat Z : スキュラＺコート : G : A : W : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 1 : Expert : 2 : Health : -4 : Evade Dist : 2
-Nerscylla Leggings Z : スキュラＺレギンス : G : A : L : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 3 : Expert : 1 : Health : -2 : Evade Dist : 2
-Nerscylla Guards Z : スキュラＺガード : G : A : A : -- : -- : 91 : 0 : 0 : 4 : -2 : 4 : 1 : Carving : 3 : Expert : 3 : Health : -4 : Evade Dist : 3
-Nerscylla Cap X : スキュラＸキャップ : A : A : H : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 3 : Perception : 4 : Hunger : -2 : Sleep : 2
-Nerscylla Vest X : スキュラＸレジスト : G : A : C : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 1 : Perception : 2 : Hunger : -2
-Nerscylla Coat X : スキュラＸコート : G : A : W : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 3 : Perception : 1 : Hunger : -2 : Sleep : 2
+Nerscylla Cap Z : スキュラＺキャップ : A : A : H : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 2 : Expert : 1 : Health : -4 : Evade Dist : 2 : CritStatus : 3
+Nerscylla Vest Z : スキュラＺレジスト : G : A : C : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 1 : Expert : 1 : Health : -1 : Evade Dist : 1 : CritStatus : 3
+Nerscylla Coat Z : スキュラＺコート : G : A : W : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 1 : Expert : 2 : Health : -4 : Evade Dist : 2 : CritStatus : 1
+Nerscylla Leggings Z : スキュラＺレギンス : G : A : L : -- : -- : 91 : 2 : 0 : 4 : -2 : 4 : 1 : Carving : 3 : Expert : 1 : Health : -2 : Evade Dist : 2 : CritStatus : 2
+Nerscylla Guards Z : スキュラＺガード : G : A : A : -- : -- : 91 : 0 : 0 : 4 : -2 : 4 : 1 : Carving : 3 : Expert : 3 : Health : -4 : Evade Dist : 3 : CritStatus : 1
+Nerscylla Cap X : スキュラＸキャップ : A : A : H : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 3 : Perception : 4 : Hunger : -2 : Sleep : 2 : Sticky Res : 2
+Nerscylla Vest X : スキュラＸレジスト : G : A : C : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 1 : Perception : 2 : Hunger : -2 : Sticky Res : 4 : CritStatus : 2
+Nerscylla Coat X : スキュラＸコート : G : A : W : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 3 : Perception : 1 : Hunger : -2 : Sleep : 2 : Sticky Res : 4
 Nerscylla Leggings X : スキュラＸレギンス : G : A : L : -- : -- : 88 : 2 : -2 : 4 : 3 : 4 : -2 : Expert : 4 : Perception : 2 : Hunger : -2 : Sleep : 2
-Nerscylla Guards X : スキュラＸガード : G : A : A : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 4 : Perception : 1 : Hunger : -2
+Nerscylla Guards X : スキュラＸガード : G : A : A : -- : -- : 88 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 4 : Perception : 1 : Hunger : -2 : CritStatus : 3
 Nerscylla Cap S : スキュラＳキャップ : A : A : H : -- : 24 : 78 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 2 : Perception : 4 : Hunger : -3 : SpeedSetup : 1 : Poison : 2
 Nerscylla Vest S : スキュラＳレジスト : G : A : C : -- : 24 : 78 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 1 : Perception : 2 : Hunger : -3 : SpeedSetup : 2 : Poison : 1
 Nerscylla Coat S : スキュラＳコート : G : A : W : -- : 24 : 78 : 1 : -2 : 4 : 3 : 4 : -2 : Expert : 2 : Perception : 1 : Hunger : -3 : SpeedSetup : 3 : Poison : 1
@@ -2283,11 +2283,11 @@ Ranger's Girdle : 城塞遊撃隊【胴巻】 : B : A : C : -- : 53 : 124 : 0 : 
 Ranger's Sash : 城塞遊撃隊【鎖帯】 : B : A : W : -- : 53 : 124 : 2 : 0 : 0 : 0 : 0 : 0 : FreeElemnt : 3 : Carving : 2 : Guts : 1 : Rec Level : 2 : Sense : -1
 Ranger's Espadrilles : 城塞遊撃隊【足袋】 : B : A : L : -- : 53 : 124 : 1 : 0 : 0 : 0 : 0 : 0 : Fencing : 3 : Carving : 3 : Guts : 1 : Rec Level : 1 : Sense : -2
 Ranger's Gauntlets : 城塞遊撃隊【手甲】 : B : A : A : -- : 53 : 124 : 0 : 0 : 0 : 0 : 0 : 0 : Handicraft : 2 : Carving : 4 : Guts : 2 : Rec Level : 3 : Sense : -3
-Rath Soul Helm Z : リオソウルＺヘルム : A : A : H : -- : -- : 143 : 3 : 3 : 0 : -2 : -4 : 0 : Expert : 2 : Health : -3 : Hearing : 2
-Rath Soul Mail Z : リオソウルＺメイル : B : A : C : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -3 : Hearing : 3
-Rath Soul Coil Z : リオソウルＺコイル : B : A : W : -- : -- : 143 : 2 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -2 : Hearing : 3
-Rath Soul Greaves Z : リオソウルＺグリーヴ : B : A : L : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -2 : Hearing : 4 : Sharpness : 4
-Rath Soul Braces Z : リオソウルＺアーム : B : A : A : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 6 : Health : -2 : Hearing : 1 : Sharpness : 2
+Rath Soul Helm Z : リオソウルＺヘルム : A : A : H : -- : -- : 143 : 3 : 3 : 0 : -2 : -4 : 0 : Expert : 2 : Health : -3 : Hearing : 2 : CritElemnt : 2
+Rath Soul Mail Z : リオソウルＺメイル : B : A : C : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -3 : Hearing : 3 : CritElemnt : 1
+Rath Soul Coil Z : リオソウルＺコイル : B : A : W : -- : -- : 143 : 2 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -2 : Hearing : 3 : CritElemnt : 3
+Rath Soul Greaves Z : リオソウルＺグリーヴ : B : A : L : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 4 : Health : -2 : Hearing : 4 : Sharpness : 4 : CritElemnt : 2
+Rath Soul Braces Z : リオソウルＺアーム : B : A : A : -- : -- : 143 : 1 : 3 : 0 : -2 : -4 : 0 : Expert : 6 : Health : -2 : Hearing : 1 : Sharpness : 2 : CritElemnt : 2
 Rath Heart Helm Z : リオハートＺヘルム : A : A : H : -- : -- : 137 : 2 : 3 : 0 : 0 : -4 : -2 : Potential : 3 : Fire Atk : 3 : Wind Res : 1 : Sense : -1
 Rath Heart Mail Z : リオハートＺメイル : B : A : C : -- : -- : 137 : 1 : 3 : 0 : 0 : -4 : -2 : Potential : 2 : Fire Atk : 4 : Wind Res : 4 : Sense : -1
 Rath Heart Coil Z : リオハートＺコイル : B : A : W : -- : -- : 137 : 2 : 3 : 0 : 0 : -4 : -2 : Potential : 3 : Fire Atk : 2 : Wind Res : 4 : Sense : -1
@@ -2303,11 +2303,11 @@ Rath Heart Mail : リオハートメイル : B : A : C : -- : 51 : 122 : 1 : 3 :
 Rath Heart Coil : リオハートコイル : B : A : W : -- : 51 : 122 : 1 : 3 : 0 : 0 : -4 : -2 : Potential : 2 : Fire Atk : 2 : Wind Res : 4 : Sense : -1
 Rath Heart Greaves : リオハートグリーヴ : B : A : L : -- : 51 : 122 : 1 : 3 : 0 : 0 : -4 : -2 : Potential : 2 : Fire Atk : 1 : Wind Res : 4 : Sense : -1
 Rath Heart Braces : リオハートアーム : B : A : A : -- : 51 : 122 : 1 : 3 : 0 : 0 : -4 : -2 : Potential : 1 : Fire Atk : 5 : Wind Res : 2 : Sense : -1
-Rath Soul Cap Z : リオソウルＺキャップ : A : A : H : -- : -- : 92 : 3 : 4 : 1 : -1 : -3 : 1 : Expert : 2 : Health : -3 : Hearing : 3
-Rath Soul Vest Z : リオソウルＺレジスト : G : A : C : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -3 : Hearing : 3
-Rath Soul Coat Z : リオソウルＺコート : G : A : W : -- : -- : 92 : 2 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -2 : Hearing : 2
-Rath Soul Leggings Z : リオソウルＺレギンス : G : A : L : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -2 : Hearing : 3 : Normal Up : 4
-Rath Soul Guards Z : リオソウルＺガード : G : A : A : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 6 : Health : -2 : Hearing : 2 : Normal Up : 2
+Rath Soul Cap Z : リオソウルＺキャップ : A : A : H : -- : -- : 92 : 3 : 4 : 1 : -1 : -3 : 1 : Expert : 2 : Health : -3 : Hearing : 3 : CritElemnt : 2
+Rath Soul Vest Z : リオソウルＺレジスト : G : A : C : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -3 : Hearing : 3 : CritElemnt : 1
+Rath Soul Coat Z : リオソウルＺコート : G : A : W : -- : -- : 92 : 2 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -2 : Hearing : 2 : CritElemnt : 3
+Rath Soul Leggings Z : リオソウルＺレギンス : G : A : L : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 4 : Health : -2 : Hearing : 3 : Normal Up : 4 : CritElemnt : 3
+Rath Soul Guards Z : リオソウルＺガード : G : A : A : -- : -- : 92 : 1 : 4 : 1 : -1 : -3 : 1 : Expert : 6 : Health : -2 : Hearing : 2 : Normal Up : 2 : CritElemnt : 1
 Rath Heart Cap Z : リオハートＺキャップ : A : A : H : -- : -- : 89 : 2 : 4 : 1 : 1 : -3 : -1 : Potential : 2 : Fire Atk : 3 : Wind Res : 2 : Sense : -1
 Rath Heart Vest Z : リオハートＺレジスト : G : A : C : -- : -- : 89 : 1 : 4 : 1 : 1 : -3 : -1 : Potential : 3 : Fire Atk : 4 : Wind Res : 3 : Sense : -1
 Rath Heart Coat Z : リオハートＺコート : G : A : W : -- : -- : 89 : 2 : 4 : 1 : 1 : -3 : -1 : Potential : 3 : Fire Atk : 2 : Wind Res : 4 : Sense : -1
@@ -2398,26 +2398,26 @@ Rebellion Mail : リベリオンメイル : B : A : C : -- : 69 : 132 : 1 : 3 : 
 Rebellion Coil : リベリオンコイル : B : A : W : -- : 69 : 132 : 0 : 3 : 3 : -2 : -3 : -2 : Fury : 3 : Firm Defence : 1 : Attack : -3
 Rebellion Greaves : リベリオングリーヴ : B : A : L : -- : 69 : 132 : 1 : 3 : 3 : -2 : -3 : -2 : Fury : 1 : Acrobat : 2 : Attack : -2
 Rebellion Vambraces : リベリオンアーム : B : A : A : -- : 69 : 132 : 0 : 3 : 3 : -2 : -3 : -2 : Fury : 3 : Precise Attack : 1 : Attack : -4
-Regios Helm X : レギオスＸヘルム : A : A : H : -- : -- : 145 : 3 : 3 : 0 : -2 : 0 : -3 : Sharpener : -3 : Constitutn : 2
-Regios Mail X : レギオスＸメイル : B : A : C : -- : -- : 145 : 1 : 3 : 0 : -2 : 0 : -3 : Sharpener : -2 : Constitutn : 3
-Regios Tassets X : レギオスＸフォールド : B : A : W : -- : -- : 145 : 3 : 3 : 0 : -2 : 0 : -3 : Sharpener : -3 : Constitutn : 3
-Regios Greaves X : レギオスＸグリーヴ : B : A : L : -- : -- : 145 : 2 : 3 : 0 : -2 : 0 : -3 : Sharpener : -2 : Constitutn : 3
-Regios Vambraces X : レギオスＸアーム : B : A : A : -- : -- : 145 : 1 : 3 : 0 : -2 : 0 : -3 : Sharpener : -4 : Constitutn : 4
+Regios Helm X : レギオスＸヘルム : A : A : H : -- : -- : 145 : 3 : 3 : 0 : -2 : 0 : -3 : Sharpener : -3 : Constitutn : 2 : Bleeding : 2
+Regios Mail X : レギオスＸメイル : B : A : C : -- : -- : 145 : 1 : 3 : 0 : -2 : 0 : -3 : Sharpener : -2 : Constitutn : 3 : Bleeding : 4
+Regios Tassets X : レギオスＸフォールド : B : A : W : -- : -- : 145 : 3 : 3 : 0 : -2 : 0 : -3 : Sharpener : -3 : Constitutn : 3 : Bleeding : 1
+Regios Greaves X : レギオスＸグリーヴ : B : A : L : -- : -- : 145 : 2 : 3 : 0 : -2 : 0 : -3 : Sharpener : -2 : Constitutn : 3 : Bleeding : 2
+Regios Vambraces X : レギオスＸアーム : B : A : A : -- : -- : 145 : 1 : 3 : 0 : -2 : 0 : -3 : Sharpener : -4 : Constitutn : 4 : Bleeding : 1
 Regios Helm S : レギオスＳヘルム : A : A : H : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 3 : Sharpener : -1 : Constitutn : 2 : Bleeding : 2
-Regios Mail S : レギオスＳメイル : B : A : C : -- : 58 : 125 : 0 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3
-Regios Tassets S : レギオスＳフォールド : B : A : W : -- : 58 : 125 : 3 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -4 : Constitutn : 3
-Regios Greaves S : レギオスＳグリーヴ : B : A : L : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3
-Regios Vambraces S : レギオスＳアーム : B : A : A : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 4 : Sharpener : -3 : Constitutn : 4
-Regios Cap X : レギオスＸキャップ : A : A : H : -- : -- : 94 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 4 : Normal Up : 4 : Constitutn : 2
+Regios Mail S : レギオスＳメイル : B : A : C : -- : 58 : 125 : 0 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3 : Bleeding : 4
+Regios Tassets S : レギオスＳフォールド : B : A : W : -- : 58 : 125 : 3 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -4 : Constitutn : 3 : Bleeding : 1
+Regios Greaves S : レギオスＳグリーヴ : B : A : L : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3 : Bleeding : 2
+Regios Vambraces S : レギオスＳアーム : B : A : A : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 4 : Sharpener : -3 : Constitutn : 4 : Bleeding : 1
+Regios Cap X : レギオスＸキャップ : A : A : H : -- : -- : 94 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 4 : Normal Up : 4 : Constitutn : 2 : Bleeding : 4
 Regios Vest X : レギオスＸレジスト : G : A : C : -- : -- : 94 : 2 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -4 : Recoil : 1 : Constitutn : 3
 Regios Coat X : レギオスＸコート : G : A : W : -- : -- : 94 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 1 : Normal Up : 3 : Constitutn : 3
-Regios Leggings X : レギオスＸレギンス : G : A : L : -- : -- : 94 : 2 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -2 : Recoil : 3 : Constitutn : 3
-Regios Guards X : レギオスＸガード : G : A : A : -- : -- : 94 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 4 : Normal Up : 3 : Constitutn : 4
+Regios Leggings X : レギオスＸレギンス : G : A : L : -- : -- : 94 : 2 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -2 : Recoil : 3 : Constitutn : 3 : Bleeding : 3
+Regios Guards X : レギオスＸガード : G : A : A : -- : -- : 94 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 4 : Normal Up : 3 : Constitutn : 4 : Bleeding : 3
 Regios Cap S : レギオスＳキャップ : A : A : H : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 3 : Constitutn : 2 : Bleeding : 2
-Regios Vest S : レギオスＳレジスト : G : A : C : -- : 29 : 80 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3
-Regios Coat S : レギオスＳコート : G : A : W : -- : 29 : 80 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 1 : Constitutn : 3
-Regios Leggings S : レギオスＳレギンス : G : A : L : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3
-Regios Guards S : レギオスＳガード : G : A : A : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -2 : Recoil : 4 : Constitutn : 4
+Regios Vest S : レギオスＳレジスト : G : A : C : -- : 29 : 80 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3 : Bleeding : 4
+Regios Coat S : レギオスＳコート : G : A : W : -- : 29 : 80 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 1 : Constitutn : 3 : Bleeding : 1
+Regios Leggings S : レギオスＳレギンス : G : A : L : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3 : Bleeding : 2
+Regios Guards S : レギオスＳガード : G : A : A : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -2 : Recoil : 4 : Constitutn : 4 : Bleeding : 1
 Remobra Headgear : ガブラスヘッド : A : A : H : 15 : 117 : 117 : 1 : 1 : -2 : 1 : -3 : 2 : FreeElemnt : 1 : Blight Res : -2 : Poison : 4
 Remobra Headgear S : ガブラスＳヘッド : A : A : H : 40 : 117 : 117 : 2 : 2 : -3 : 2 : -4 : 3 : FreeElemnt : 1 : Blight Res : -2 : Stam Drain : 4
 Remobra Suit : ガブラスーツボディ : B : A : C : 15 : 117 : 117 : 1 : 1 : -2 : 1 : -3 : 2 : FreeElemnt : 2 : Blight Res : -1 : Poison : 2
@@ -2629,16 +2629,16 @@ Slagtoth Cowl S : ズワロＳフッド : A : A : H : 18 : 77 : 77 : 2 : -3 : 4 
 Slagtoth Wrap S : ズワロＳケープ : G : A : C : 18 : 77 : 77 : 0 : -3 : 4 : -1 : 3 : 1 : Health : 8 : Rec Speed : 3
 Slagtoth Cowl : ズワロフッド : A : A : H : 5 : 73 : 73 : 3 : -1 : 3 : 0 : 2 : 1 : Health : 2 : Rec Speed : 4 : Sleep : -1
 Slagtoth Wrap : ズワロケープ : G : A : C : 5 : 73 : 73 : 0 : -1 : 3 : 0 : 2 : 1 : Health : 8 : Rec Speed : 2
-Sororal Headgear : クイーンヘッド : A : F : H : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 3
-Sororal Mail : クイーンメイル : B : F : C : -- : -- : 141 : 2 : 3 : 0 : 0 : 2 : 0 : Finesse : 4 : Sharpness : 1
-Sororal Faulds : クイーンフォールド : B : F : W : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 2
-Sororal Greaves : クイーングリーヴ : B : F : L : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 1
-Sororal Vambraces : クイーンアーム : B : F : A : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 3
-Sororal Mask : クイーンフェイス : A : F : H : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 3
-Sororal Vest : クイーンレジスト : G : F : C : -- : -- : 91 : 2 : 4 : 1 : 1 : 3 : 1 : Finesse : 4 : Rapid Fire : 1
-Sororal Coat : クイーンコート : G : F : W : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 2
-Sororal Leggings : クイーンレギンス : G : F : L : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 1
-Sororal Guards : クイーンガード : G : F : A : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 3
+Sororal Headgear : クイーンヘッド : A : F : H : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 3 : Bleeding : -3
+Sororal Mail : クイーンメイル : B : F : C : -- : -- : 141 : 2 : 3 : 0 : 0 : 2 : 0 : Finesse : 4 : Sharpness : 1 : Bleeding : -2
+Sororal Faulds : クイーンフォールド : B : F : W : -- : -- : 141 : 1 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 2 : Bleeding : -3
+Sororal Greaves : クイーングリーヴ : B : F : L : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 2 : Sharpness : 1 : Bleeding : -1
+Sororal Vambraces : クイーンアーム : B : F : A : -- : -- : 141 : 3 : 3 : 0 : 0 : 2 : 0 : Finesse : 1 : Sharpness : 3 : Bleeding : -1
+Sororal Mask : クイーンフェイス : A : F : H : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 3 : Bleeding : -3
+Sororal Vest : クイーンレジスト : G : F : C : -- : -- : 91 : 2 : 4 : 1 : 1 : 3 : 1 : Finesse : 4 : Rapid Fire : 1 : Bleeding : -2
+Sororal Coat : クイーンコート : G : F : W : -- : -- : 91 : 1 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 2 : Bleeding : -3
+Sororal Leggings : クイーンレギンス : G : F : L : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 2 : Rapid Fire : 1 : Bleeding : -1
+Sororal Guards : クイーンガード : G : F : A : -- : -- : 91 : 3 : 4 : 1 : 1 : 3 : 1 : Finesse : 1 : Rapid Fire : 3 : Bleeding : -1
 Star Knight Helm : スターナイトヘルム : A : A : H : -- : -- : 151 : 3 : 1 : 1 : 1 : 1 : 1 : Spirit : 3 : Rider : 3
 Star Knight Mail : スターナイトメイル : B : A : C : -- : -- : 151 : 1 : 1 : 1 : 1 : 1 : 1 : Handicraft : 1 : Spirit : 2 : Rider : 4
 Star Knight Coil : スターナイトコイル : B : A : W : -- : -- : 151 : 1 : 1 : 1 : 1 : 1 : 1 : Handicraft : 2 : Spirit : 4 : Rider : 3
@@ -2700,11 +2700,11 @@ Strongman Belt : 強者のベルト : G : A : W : -- : -- : 100 : 3 : -1 : -1 : 
 Strongman Leg Lock : 強者のレッグロック : G : A : L : -- : -- : 100 : 0 : -1 : -1 : -1 : 5 : -1 : Destroyer : 2 : Guts : 4 : Elemental : -2 : Constitutn : 5
 Strongman Vantage : 強者のバンテージ : G : A : A : -- : -- : 100 : 0 : -1 : -1 : -1 : 5 : -1 : Destroyer : 1 : Guts : 4 : Elemental : -3 : Constitutn : 2
 Sword Saint Earring : 剣聖のピアス : A : A : H : -- : -- : 97 : 0 : 0 : 0 : 0 : 0 : 0 : Fencing : 10
-Tempest Crown : 荒天【冠】 : A : A : H : -- : -- : 152 : 3 : -3 : 4 : 0 : -5 : 0 : Handicraft : 1 : Water Atk : 2 : Eating : -3
-Tempest Robe : 荒天【衣】 : B : A : C : -- : -- : 152 : 0 : -3 : 4 : 0 : -5 : 0 : Handicraft : 4 : Gloves Off : 2 : Water Atk : 4 : Eating : -2
+Tempest Crown : 荒天【冠】 : A : A : H : -- : -- : 152 : 3 : -3 : 4 : 0 : -5 : 0 : Handicraft : 1 : Water Atk : 2 : Eating : -3 : CritElemnt : 3
+Tempest Robe : 荒天【衣】 : B : A : C : -- : -- : 152 : 0 : -3 : 4 : 0 : -5 : 0 : Handicraft : 4 : Gloves Off : 2 : Water Atk : 4 : Eating : -2 : CritElemnt : 1
 Tempest Obi : 荒天【帯】 : B : A : W : -- : -- : 152 : 3 : -3 : 4 : 0 : -5 : 0 : Handicraft : 1 : Gloves Off : 3 : Water Atk : 2 : Eating : -2
-Tempest Hakama : 荒天【袴】 : B : A : L : -- : -- : 152 : 2 : -3 : 4 : 0 : -5 : 0 : Handicraft : 3 : Gloves Off : 5 : Water Atk : 1 : Eating : -2
-Tempest Sleeves : 荒天【袂】 : B : A : A : -- : -- : 152 : 0 : -3 : 4 : 0 : -5 : 0 : Handicraft : 1 : Gloves Off : 5 : Water Atk : 3 : Eating : -1
+Tempest Hakama : 荒天【袴】 : B : A : L : -- : -- : 152 : 2 : -3 : 4 : 0 : -5 : 0 : Handicraft : 3 : Gloves Off : 5 : Water Atk : 1 : Eating : -2 : CritElemnt : 2
+Tempest Sleeves : 荒天【袂】 : B : A : A : -- : -- : 152 : 0 : -3 : 4 : 0 : -5 : 0 : Handicraft : 1 : Gloves Off : 5 : Water Atk : 3 : Eating : -1 : CritElemnt : 4
 Tetsucabra Helm Z : カブラＺヘルム : A : A : H : -- : -- : 137 : 3 : 3 : 0 : -5 : 2 : -4 : Guard Up : 1 : Sharpener : -3 : Bomb Boost : 3
 Tetsucabra Mail Z : カブラＺメイル : B : A : C : -- : -- : 137 : 2 : 3 : 0 : -5 : 2 : -4 : Hearing : 4 : Guard Up : 1 : Sharpener : -1 : Bomb Boost : 2
 Tetsucabra Faulds Z : カブラＺフォールド : B : A : W : -- : -- : 137 : 1 : 3 : 0 : -5 : 2 : -4 : FreeElemnt : 2 : Hearing : 2 : Guard Up : 4 : Sharpener : -3 : Bomb Boost : 2
@@ -2901,13 +2901,13 @@ Velociprey Guards : ランポスガード : G : A : A : 7 : 74 : 74 : 0 : 1 : 1 
 Vespoid Helm : ランゴヘルム : A : A : H : 36 : 117 : 117 : 1 : -5 : -5 : -4 : 2 : 2 : Status : 2 : Poison : -2 : Paralysis : 2
 Vespoid Mail : ランゴメイル : B : A : C : 36 : 117 : 117 : 1 : -5 : -5 : -4 : 2 : 2 : Status : 2 : Poison : -2 : Paralysis : 2
 Vespoid Tassets : ランゴフォールド : B : A : W : 36 : 117 : 117 : 2 : -5 : -5 : -4 : 2 : 2 : Status : 1 : Poison : -2 : Paralysis : 2
-Vespoid Greaves : ランゴグリーヴ : B : A : L : 36 : 117 : 117 : 0 : -5 : -5 : -4 : 2 : 2 : Status : 3 : Defense Lock : 3 : Poison : -2 : Paralysis : 2
-Vespoid Vambraces : ランゴアーム : B : A : A : 36 : 117 : 117 : 0 : -5 : -5 : -4 : 2 : 2 : Status : 2 : Defense Lock : 2 : Poison : -2 : Paralysis : 2
+Vespoid Greaves : ランゴグリーヴ : B : A : L : 36 : 117 : 117 : 0 : -5 : -5 : -4 : 2 : 2 : Status : 3 : Def Lock : 3 : Poison : -2 : Paralysis : 2
+Vespoid Vambraces : ランゴアーム : B : A : A : 36 : 117 : 117 : 0 : -5 : -5 : -4 : 2 : 2 : Status : 2 : Def Lock : 2 : Poison : -2 : Paralysis : 2
 Vespoid Cap : ランゴキャップ : A : A : H : 18 : 77 : 77 : 1 : -4 : -4 : -3 : 3 : 3 : Status : 2 : Poison : -2 : Paralysis : 2
 Vespoid Vest : ランゴレジスト : G : A : C : 18 : 77 : 77 : 1 : -4 : -4 : -3 : 3 : 3 : Status : 2 : Poison : -2 : Paralysis : 2
 Vespoid Coat : ランゴコート : G : A : W : 18 : 77 : 77 : 2 : -4 : -4 : -3 : 3 : 3 : Status : 1 : Poison : -2 : Paralysis : 2
-Vespoid Leggings : ランゴレギンス : G : A : L : 18 : 77 : 77 : 0 : -4 : -4 : -3 : 3 : 3 : Status : 3 : Defense Lock : 3 : Poison : -2 : Paralysis : 2
-Vespoid Guards : ランゴガード : G : A : A : 18 : 77 : 77 : 0 : -4 : -4 : -3 : 3 : 3 : Status : 2 : Defense Lock : 2 : Poison : -2 : Paralysis : 2
+Vespoid Leggings : ランゴレギンス : G : A : L : 18 : 77 : 77 : 0 : -4 : -4 : -3 : 3 : 3 : Status : 3 : Def Lock : 3 : Poison : -2 : Paralysis : 2
+Vespoid Guards : ランゴガード : G : A : A : 18 : 77 : 77 : 0 : -4 : -4 : -3 : 3 : 3 : Status : 2 : Def Lock : 2 : Poison : -2 : Paralysis : 2
 Victory Feather : 勝者の羽飾り : A : A : H : -- : 25 : 79 : 3 : 0 : 0 : 0 : 0 : 0 : Charm Collector : 2
 Volvidon Helm : ラングロヘルム : A : A : H : 47 : 120 : 120 : 1 : 1 : -3 : -1 : 1 : 0 : Biology : 1 : Evasion : 2 : Cold Res : -2 : Tremor Res : 2
 Volvidon Mail : ラングロメイル : B : A : C : 47 : 120 : 120 : 1 : 1 : -3 : -1 : 1 : 0 : Biology : 3 : Evasion : 2 : Cold Res : -3 : Tremor Res : 1
@@ -2919,11 +2919,11 @@ Volvidon Vest : ラングロレジスト : G : A : C : 24 : 79 : 79 : 1 : 2 : -2
 Volvidon Coat : ラングロコート : G : A : W : 24 : 79 : 79 : 1 : 2 : -2 : 0 : 2 : 1 : Biology : 2 : Evasion : 2 : Cold Res : -2 : Tremor Res : 4
 Volvidon Leggings : ラングロレギンス : G : A : L : 24 : 79 : 79 : 0 : 2 : -2 : 0 : 2 : 1
 Volvidon Guards : ラングロガード : G : A : A : 24 : 79 : 79 : 2 : 2 : -2 : 0 : 2 : 1 : Biology : 1 : Evasion : 2 : Cold Res : -2 : Tremor Res : 1
-Welkin Crown : 蒼天【冠】 : A : A : H : -- : -- : 98 : 3 : -2 : 5 : 0 : -4 : 0 : Loading : 1 : Water Atk : 3 : Eating : -3
-Welkin Robe : 蒼天【衣】 : G : A : C : -- : -- : 98 : 0 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 3 : Loading : 4 : Water Atk : 3 : Eating : -2
+Welkin Crown : 蒼天【冠】 : A : A : H : -- : -- : 98 : 3 : -2 : 5 : 0 : -4 : 0 : Loading : 1 : Water Atk : 3 : Eating : -3 : CritElemnt : 3
+Welkin Robe : 蒼天【衣】 : G : A : C : -- : -- : 98 : 0 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 3 : Loading : 4 : Water Atk : 3 : Eating : -2 : CritElemnt : 1
 Welkin Obi : 蒼天【帯】 : G : A : W : -- : -- : 98 : 3 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 3 : Loading : 1 : Water Atk : 2 : Eating : -2
-Welkin Hakama : 蒼天【袴】 : G : A : L : -- : -- : 98 : 2 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 5 : Loading : 3 : Water Atk : 1 : Eating : -2
-Welkin Sleeves : 蒼天【袂】 : G : A : A : -- : -- : 98 : 0 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 5 : Loading : 1 : Water Atk : 3 : Eating : -1
+Welkin Hakama : 蒼天【袴】 : G : A : L : -- : -- : 98 : 2 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 5 : Loading : 3 : Water Atk : 1 : Eating : -2 : CritElemnt : 2
+Welkin Sleeves : 蒼天【袂】 : G : A : A : -- : -- : 98 : 0 : -2 : 5 : 0 : -4 : 0 : Gloves Off : 5 : Loading : 1 : Water Atk : 3 : Eating : -1 : CritElemnt : 4
 White Fatalis Head : ミラルーツヘッド : A : A : H : -- : -- : 156 : 0 : -2 : 2 : -1 : -7 : 2 : EdgeMaster : 3 : Fate : -3 : Expert : 6 : Unscathed : 1 : Constitutn : 2
 White Fatalis Hide : ミラルーツハイド : B : A : C : -- : -- : 156 : 1 : -2 : 2 : -1 : -7 : 2 : EdgeMaster : 1 : Fate : -4 : Expert : 5 : Unscathed : 3 : Constitutn : 1
 White Fatalis Spine : ミラルーツスパイン : B : A : W : -- : -- : 156 : 1 : -2 : 2 : -1 : -7 : 2 : EdgeMaster : 1 : Fate : -3 : Expert : 6 : Unscathed : 3
@@ -2964,11 +2964,11 @@ Yukumo Land Dogi : ユクモノドウギ・地 : G : A : C : -- : 30 : 80 : 2 : 
 Yukumo Land Obi : ユクモノオビ・地 : G : A : W : -- : 30 : 80 : 2 : 0 : 1 : 1 : 1 : 3 : Reload Spd : 2 : Loading : 1 : Rec Level : 3 : Protection : 2
 Yukumo Land Hakama : ユクモノハカマ・地 : G : A : L : -- : 30 : 80 : 2 : 0 : 1 : 1 : 1 : 3 : Reload Spd : 1 : Loading : 1 : Rec Level : 2 : Protection : 2
 Yukumo Land Kote : ユクモノコテ・地 : G : A : A : -- : 30 : 80 : 2 : 0 : 1 : 1 : 1 : 3 : Reload Spd : 3 : Loading : 1 : Rec Level : 2 : Protection : 3
-Zamtrios Helm Z : ザボアＺヘルム : A : A : H : -- : -- : 137 : 0 : 2 : 3 : -5 : 0 : -4 : FreeElemnt : 3 : Stam Recov : 1 : Rec Speed : 4 : Tremor Res : 2
-Zamtrios Mail Z : ザボアＺメイル : B : A : C : -- : -- : 137 : 0 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 4 : Rec Speed : 4 : Tremor Res : 1
-Zamtrios Faulds Z : ザボアＺフォールド : B : A : W : -- : -- : 137 : 3 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 1 : Rec Speed : 3 : Tremor Res : 2
-Zamtrios Greaves Z : ザボアＺグリーヴ : B : A : L : -- : -- : 137 : 2 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 3 : Rec Speed : 2 : Tremor Res : 2
-Zamtrios Braces Z : ザボアＺアーム : B : A : A : -- : -- : 137 : 2 : 2 : 3 : -5 : 0 : -4 : FreeElemnt : 2 : Stam Recov : 1 : Rec Speed : 2 : Tremor Res : 3
+Zamtrios Helm Z : ザボアＺヘルム : A : A : H : -- : -- : 137 : 0 : 2 : 3 : -5 : 0 : -4 : FreeElemnt : 3 : Stam Recov : 1 : Rec Speed : 4 : Tremor Res : 2 : Bleeding : -4
+Zamtrios Mail Z : ザボアＺメイル : B : A : C : -- : -- : 137 : 0 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 4 : Rec Speed : 4 : Tremor Res : 1 : Bleeding : -1
+Zamtrios Faulds Z : ザボアＺフォールド : B : A : W : -- : -- : 137 : 3 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 1 : Rec Speed : 3 : Tremor Res : 2 : Bleeding : -2
+Zamtrios Greaves Z : ザボアＺグリーヴ : B : A : L : -- : -- : 137 : 2 : 2 : 3 : -5 : 0 : -4 : Stam Recov : 3 : Rec Speed : 2 : Tremor Res : 2 : Bleeding : -1
+Zamtrios Braces Z : ザボアＺアーム : B : A : A : -- : -- : 137 : 2 : 2 : 3 : -5 : 0 : -4 : FreeElemnt : 2 : Stam Recov : 1 : Rec Speed : 2 : Tremor Res : 3 : Bleeding : -2
 Zamtrios Helm X : ザボアＸヘルム : A : A : H : -- : -- : 135 : 1 : -4 : 3 : 3 : 0 : -5 : Destroyer : 1 : Ice Atk : 3 : Eating : 4 : Hunger : -3
 Zamtrios Mail X : ザボアＸメイル : B : A : C : -- : -- : 135 : 1 : -4 : 3 : 3 : 0 : -5 : Destroyer : 2 : Ice Atk : 3 : Carnivore : 3 : Eating : 1 : Hunger : -2
 Zamtrios Faulds X : ザボアＸフォールド : B : A : W : -- : -- : 135 : 2 : -4 : 3 : 3 : 0 : -5 : Ice Atk : 2 : Carnivore : 4 : Eating : 2 : Hunger : -2
@@ -2984,11 +2984,11 @@ Zamtrios Mail : ザボアメイル : B : A : C : 20 : 122 : 122 : 1 : -2 : 2 : 2
 Zamtrios Faulds : ザボアフォールド : B : A : W : 20 : 122 : 122 : 2 : -2 : 2 : 2 : 0 : -3 : Ice Atk : 2 : Carnivore : 1 : Hunger : -2
 Zamtrios Greaves : ザボアグリーヴ : B : A : L : 20 : 122 : 122 : 1 : -2 : 2 : 2 : 0 : -3 : Health : 3 : Ice Atk : 2 : Carnivore : 1 : Hunger : -2
 Zamtrios Braces : ザボアアーム : B : A : A : 20 : 122 : 122 : 1 : -2 : 2 : 2 : 0 : -3 : Ice Atk : 3 : Carnivore : 1 : Hunger : -2
-Zamtrios Cap Z : ザボアＺキャップ : A : A : H : -- : -- : 89 : 0 : 3 : 4 : -4 : 1 : -3 : FreeElemnt : 3 : Stam Recov : 2 : Rec Speed : 4 : Tremor Res : 2
-Zamtrios Vest Z : ザボアＺレジスト : G : A : C : -- : -- : 89 : 0 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 4 : Rec Speed : 4 : Tremor Res : 1
-Zamtrios Coat Z : ザボアＺコート : G : A : W : -- : -- : 89 : 3 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 1 : Rec Speed : 3 : Tremor Res : 2
-Zamtrios Leggings Z : ザボアＺレギンス : G : A : L : -- : -- : 89 : 2 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 2 : Rec Speed : 2 : Tremor Res : 2
-Zamtrios Guards Z : ザボアＺガード : G : A : A : -- : -- : 89 : 2 : 3 : 4 : -4 : 1 : -3 : FreeElemnt : 2 : Stam Recov : 1 : Rec Speed : 2 : Tremor Res : 3
+Zamtrios Cap Z : ザボアＺキャップ : A : A : H : -- : -- : 89 : 0 : 3 : 4 : -4 : 1 : -3 : FreeElemnt : 3 : Stam Recov : 2 : Rec Speed : 4 : Tremor Res : 2 : Bleeding : -4
+Zamtrios Vest Z : ザボアＺレジスト : G : A : C : -- : -- : 89 : 0 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 4 : Rec Speed : 4 : Tremor Res : 1 : Bleeding : -1
+Zamtrios Coat Z : ザボアＺコート : G : A : W : -- : -- : 89 : 3 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 1 : Rec Speed : 3 : Tremor Res : 2 : Bleeding : -2
+Zamtrios Leggings Z : ザボアＺレギンス : G : A : L : -- : -- : 89 : 2 : 3 : 4 : -4 : 1 : -3 : Stam Recov : 2 : Rec Speed : 2 : Tremor Res : 2 : Bleeding : -1
+Zamtrios Guards Z : ザボアＺガード : G : A : A : -- : -- : 89 : 2 : 3 : 4 : -4 : 1 : -3 : FreeElemnt : 2 : Stam Recov : 1 : Rec Speed : 2 : Tremor Res : 3 : Bleeding : -2
 Zamtrios Cap X : ザボアＸキャップ : A : A : H : -- : -- : 88 : 2 : -3 : 4 : 4 : 1 : -4 : Destroyer : 1 : Ice Atk : 3 : Eating : 3 : Hunger : -3
 Zamtrios Vest X : ザボアＸレジスト : G : A : C : -- : -- : 88 : 1 : -3 : 4 : 4 : 1 : -4 : Destroyer : 2 : Ice Atk : 3 : Carnivore : 3 : Eating : 1 : Hunger : -2
 Zamtrios Coat X : ザボアＸコート : G : A : W : -- : -- : 88 : 2 : -3 : 4 : 4 : 1 : -4 : Ice Atk : 2 : Carnivore : 4 : Eating : 2 : Hunger : -2

@@ -12,8 +12,8 @@ Tracker Jewel 1 : 耐粘珠【１】 : L : 1 : Mud/Snow : 1 : Sleep : -1
 Trekker Jewel 1 : 抗粘珠【１】 : L : 1 : Mud/Snow : 2
 Staunch Jewel 1 : 抗傷珠【１】 : H : 1 : Bleeding : 2
 Clean Jewel 1 : 抗着珠【１】 : G : 1 : Sticky Res : 2
-Sane Jewel 1 : 抗狂珠【１】 : G : 1 : Frenzy Res : 1 : Evasion : -1
-Sane Jewel 3 : 抗狂珠【３】 : G : 3 : Frenzy Res : 4 : Evasion : -2
+Sane Jewel 1 : 抗狂珠【１】 : G : 1 : Infection Res : 1 : Evasion : -1
+Sane Jewel 3 : 抗狂珠【３】 : G : 3 : Infection Res : 4 : Evasion : -2
 Footing Jewel 1 : 耐震珠【１】 : L : 1 : Tremor Res : 1 : Sleep : -1
 Tectonic Jewel 1 : 抗震珠【１】 : L : 1 : Tremor Res : 2
 Heat Res Jewel 1 : 耐暑珠【１】 : L : 1 : Heat Res : 2
@@ -116,7 +116,7 @@ Carver Jewel 1 : 皮剥珠【１】 : H : 1 : Carving : 1 : Fate : -1
 Carver Jewel 3 : 皮剥珠【３】 : G : 3 : Carving : 4 : Fate : -2
 Transportr Jwl 1 : 運搬珠【１】 : L : 1 : Transportr : 2
 Gathering Jwl 1 : 採取珠【１】 : G : 1 : Gathering : 2
-Spree Jewel 1 : 速集珠【１】 : G : 1 : Speed Gatherer : 2
+Spree Jewel 1 : 速集珠【１】 : G : 1 : Spd Gather : 2
 Blessing Jewel 1 : 祝福珠【１】 : L : 1 : Whim : 2
 Friendship Jwl 1 : 友愛珠【１】 : L : 1 : Wide-Range : 1 : Sense : -1
 Friendship Jwl 2 : 友愛珠【２】 : L : 2 : Wide-Range : 3 : Sense : -1
@@ -140,8 +140,8 @@ Gambit Jewel 1 : 抜打珠【１】 : G : 1 : PunishDraw : 1 : Sharpness : -1
 Gambit Jewel 3 : 抜打珠【３】 : H : 3 : PunishDraw : 4 : Sharpness : -2
 Ironwall Jewel 1 : 鉄壁珠【１】 : G : 1 : Guard : 1 : Constitutn : -1
 Ironwall Jewel 2 : 鉄壁珠【２】 : H : 2 : Guard : 3 : Constitutn : -1
-Shield Jewel 1 : 強壁珠【１】 : L : 1 : Guard Boost : 1 : Stamina : -1
-Shield Jewel 2 : 強壁珠【２】 : H : 2 : Guard Boost : 3 : Stamina : -1
+Shield Jewel 1 : 強壁珠【１】 : L : 1 : Guard Up : 1 : Stamina : -1
+Shield Jewel 2 : 強壁珠【２】 : H : 2 : Guard Up : 3 : Stamina : -1
 Grinder Jewel 1 : 研磨珠【１】 : L : 1 : Sharpener : 2
 Forceshot Jwl 1 : 強弾珠【１】 : L : 1 : Normal Up : 1 : Recoil : -1
 Forceshot Jwl 3 : 強弾珠【３】 : H : 3 : Normal Up : 4 : Recoil : -2
@@ -155,8 +155,8 @@ PiercePlus Jwl 1 : 加貫珠【１】 : L : 1 : Pierce S+ : 2
 PelletPlus Jwl 1 : 加散珠【１】 : G : 1 : Pellet S+ : 2
 CragPlus Jewel 1 : 加榴珠【１】 : L : 1 : Crag S+ : 2
 ClustPlus Jwl 1 : 加拡珠【１】 : G : 1 : Clust S+ : 1 : Reload Spd : -1
-SlicePlus Jwl 1 : 加斬珠【１】 : L : 1 : Use Slicing S : 2
-BlastPlus Jwl 1 : 加爆珠【１】 : L : 1 : Use Blast S : 2
+SlicePlus Jwl 1 : 加斬珠【１】 : L : 1 : Slicing S+ : 2
+BlastPlus Jwl 1 : 加爆珠【１】 : L : 1 : Blast S+ : 2
 Salvo Jewel 1 : 速射珠【１】 : L : 1 : Rapid Fire : 1 : Reload Spd : -1
 Salvo Jewel 3 : 速射珠【３】 : G : 3 : Rapid Fire : 4 : Reload Spd : -2
 Quickload Jwl 1 : 早填珠【１】 : L : 1 : Reload Spd : 1 : Recoil : -1
