@@ -4,7 +4,7 @@ Sleep : 睡眠 : 2 : 7 7 6 0 7 7 6 0 : Double Sleep : 睡眠倍加 : -10 : Negat
 Stun : 気絶 : 2 : 10 10 8 0 13 13 13 11 : Double Stun : 気絶倍加 : -10 : Halve Stun : 気絶確率半減 : 10 : Negate Stun : 気絶無効 : 15
 Mud/Snow : 耐泥耐雪 : 2 : 8 8 6 0 8 8 6 0 : Negate Mud/Snow : 泥＆雪無効 : 10
 Antiseptic : 抗菌 : 2 : 8 8 6 0 8 8 6 0 : Antiseptic : 抗菌 : 10
-Defense Lock: 対防御DOWN : 2 : 8 8 6 0 8 8 6 0 : Iron Skin : 鉄面皮 : 10
+Def Lock: 対防御DOWN : 2 : 8 8 6 0 8 8 6 0 : Iron Skin : 鉄面皮 : 10
 Dungmaster : こやし : 4 : 10 10 8 0 10 10 8 0 : Dung Bomb Expert : こやし玉名人 : 10
 Biology : 細菌学 : 2 : 0 0 0 0 5 5 5 4 : Bio Student : 細菌研究家 : 10 : Bio Master : バイオドクター : 15
 Attack : 攻撃 : 1 : 7 7 6 0 10 10 10 8 : Attack Down (L) : 攻撃力DOWN【大】 : -20 : Attack Down (M) : 攻撃力DOWN【中】 : -15 : Attack Down (S) : 攻撃力DOWN【小】 : -10 : Attack Up (S) : 攻撃力UP【小】 : 10 : Attack Up (M) : 攻撃力UP【中】 : 15 : Attack Up (L) : 攻撃力UP【大】 : 20 : Attack Up (U) : 攻撃力UP【超】 : 25
@@ -28,7 +28,7 @@ Cold Res : 耐寒 : 2 : 10 10 8 0 10 10 8 0 : Cold Surge : 寒さ倍加 : -10 : 
 Stamina : スタミナ : 3 : 0 0 0 0 5 5 5 4 : Short Sprinter : 鈍足 : -10 : Marathon Runner : ランナー : 10
 Stam Recov : 気力回復 : 1 : 6 6 5 0 6 6 6 5 : Stam Recov Down : スタミナ回復遅延 : -10 : Stam Recov Up : スタミナ急速回復 : 10
 Evasion : 回避性能 : 3 : 6 6 5 0 6 6 6 5 : Evasion Down : 回避性能DOWN : -10 : Evasion +1 : 回避性能+1 : 10 : Evasion +2 : 回避性能+2 : 15 : Evasion +3 : 回避性能+3 : 20
-Evade Distance : 回避距離 : 3 : 0 0 0 0 6 6 6 5 : Evade Extender : 回避距離UP : 10
+Evade Dist : 回避距離 : 3 : 0 0 0 0 6 6 6 5 : Evade Extender : 回避距離UP : 10
 Sense : 気配 : 7 : 10 10 8 0 10 10 8 0 : Taunt : 挑発 : -10 : Sneak : 隠密 : 10
 Guard : ガード性能 : 3 : 6 6 5 0 6 6 6 5 : Guard -1 : ガード性能-1 : -10 : Guard +1 : ガード性能+1 : 10 : Guard +2 : ガード性能+2 : 15
 Guard Up : ガード強化 : 3 : 4 4 3 0 6 6 6 5 : Guard Boost : ガード強化 : 10
@@ -129,4 +129,5 @@ Shielder : 盾持 : 3 : 13 13 13 0 13 13 13 0 : Shields Up : 盾使い : 10
 Finesse : 潔癖 : 3 : 13 13 13 0 13 13 13 0 : Dancer : 舞踏家 : 10
 Charm Collector : 護石収集 : 7 : 13 13 13 0 13 13 13 0 : Charm Mania : お守りマニア : 10
 Amplifier : 増幅 : 1 : 13 13 13 0 13 13 13 0 : Amplification : 属物強化 : 10
+Bleeding : 裂傷 : 1 : 13 13 13 0 13 13 13 0 : Negate Bleeding : 裂傷無効 : 10 : Double Bleeding : 裂傷倍加 : -10
 

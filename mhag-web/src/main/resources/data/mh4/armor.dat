@@ -2403,7 +2403,7 @@ Regios Mail X : レギオスＸメイル : B : A : C : -- : -- : 145 : 1 : 3 : 0
 Regios Tassets X : レギオスＸフォールド : B : A : W : -- : -- : 145 : 3 : 3 : 0 : -2 : 0 : -3 : Sharpener : -3 : Constitutn : 3
 Regios Greaves X : レギオスＸグリーヴ : B : A : L : -- : -- : 145 : 2 : 3 : 0 : -2 : 0 : -3 : Sharpener : -2 : Constitutn : 3
 Regios Vambraces X : レギオスＸアーム : B : A : A : -- : -- : 145 : 1 : 3 : 0 : -2 : 0 : -3 : Sharpener : -4 : Constitutn : 4
-Regios Helm S : レギオスＳヘルム : A : A : H : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 3 : Sharpener : -1 : Constitutn : 2
+Regios Helm S : レギオスＳヘルム : A : A : H : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 3 : Sharpener : -1 : Constitutn : 2 : Bleeding : 2
 Regios Mail S : レギオスＳメイル : B : A : C : -- : 58 : 125 : 0 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3
 Regios Tassets S : レギオスＳフォールド : B : A : W : -- : 58 : 125 : 3 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -4 : Constitutn : 3
 Regios Greaves S : レギオスＳグリーヴ : B : A : L : -- : 58 : 125 : 1 : 3 : 0 : -2 : 0 : -3 : Fencing : 1 : Sharpener : -1 : Constitutn : 3
@@ -2413,7 +2413,7 @@ Regios Vest X : レギオスＸレジスト : G : A : C : -- : -- : 94 : 2 : 4 :
 Regios Coat X : レギオスＸコート : G : A : W : -- : -- : 94 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 1 : Normal Up : 3 : Constitutn : 3
 Regios Leggings X : レギオスＸレギンス : G : A : L : -- : -- : 94 : 2 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -2 : Recoil : 3 : Constitutn : 3
 Regios Guards X : レギオスＸガード : G : A : A : -- : -- : 94 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 4 : Normal Up : 3 : Constitutn : 4
-Regios Cap S : レギオスＳキャップ : A : A : H : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 3 : Constitutn : 2
+Regios Cap S : レギオスＳキャップ : A : A : H : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 3 : Constitutn : 2 : Bleeding : 2
 Regios Vest S : レギオスＳレジスト : G : A : C : -- : 29 : 80 : 0 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3
 Regios Coat S : レギオスＳコート : G : A : W : -- : 29 : 80 : 3 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -3 : Recoil : 1 : Constitutn : 3
 Regios Leggings S : レギオスＳレギンス : G : A : L : -- : 29 : 80 : 1 : 4 : 1 : -1 : 1 : -2 : Reload Spd : -1 : Recoil : 1 : Constitutn : 3
