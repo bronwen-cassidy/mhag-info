@@ -57,41 +57,6 @@ public class LoaderConfirmationUtils {
         }
     }
 
-    private String mapPart(int j) {
-        switch (j) {
-            case 0:
-                return "H";
-            case 1:
-                return "C";
-            case 2:
-                return "A";
-            case 3:
-                return "W";
-            default:
-                return "L";
-        }
-    }
-
-    private String mapWeapon(String key) {
-        if (key.contains("2")) {
-            return "G";
-        } else if (key.contains("1")) {
-            return "B";
-        } else {
-            return "A";
-        }
-    }
-
-    private String mapGender(String key) {
-        if (key.contains("2")) {
-            return "F";
-        } else if (key.contains("1")) {
-            return "M";
-        } else {
-            return "A";
-        }
-    }
-
     private Map<String, String[]> loadData(String file, String token, int keyIndex) {
         Map<String, String[]> armourData = new LinkedHashMap<String, String[]>();
         Scanner armourScanner = new Scanner(getClass().getResourceAsStream(file), "UTF-8");
