@@ -2,7 +2,7 @@ Poison : 毒 : 2 : 7 7 6 0 7 7 6 0 7 7 6 0 : Double Poison : 毒倍加 : -10 : N
 Paralysis : 麻痺 : 2 : 7 7 6 0 7 7 6 0 7 7 6 0 : Double Paralysis : 麻痺倍加 : -10 : Negate Paralysis : 麻痺無効 : 10
 Sleep : 睡眠 : 2 : 7 7 6 0 7 7 6 0 7 7 6 0 : Double Sleep : 睡眠倍加 : -10 : Negate Sleep : 睡眠無効 : 10
 Stun : 気絶 : 2 : 10 10 8 0 13 13 13 11 13 13 13 11 : Double Stun : 気絶倍加 : -10 : Halve Stun : 気絶確率半減 : 10 : Negate Stun : 気絶無効 : 15
-Mud/Snow : 耐泥耐雪 : 2 : 8 8 6 0 8 8 6 0 0 8 8 6 0 : Negate Mud/Snow : 泥＆雪無効 : 10
+Mud/Snow : 耐泥耐雪 : 2 : 8 8 6 0 8 8 6 0 0 8 8 6 : Negate Mud/Snow : 泥＆雪無効 : 10
 Antiseptic : 抗菌 : 2 : 8 8 6 0 8 8 6 0 8 8 6 0 : Antiseptic : 抗菌 : 10
 Def Lock: 対防御DOWN : 2 : 8 8 6 0 8 8 6 0 8 8 6 0 : Iron Skin : 鉄面皮 : 10
 Dungmaster : こやし : 4 : 10 10 8 0 10 10 8 0 10 10 8 0 : Dung Bomb Expert : こやし玉名人 : 10
@@ -11,7 +11,7 @@ Attack : 攻撃 : 1 : 7 7 6 0 10 10 10 8 10 10 10 8 : Attack Down (L) : 攻撃�
 Defense : 防御 : 1 : 7 7 6 0 10 10 10 8 10 10 10 8 : Defense Down (L) : 防御力DOWN【大】 : -20 : Defense Down (M) : 防御力DOWN【中】 : -15 : Defense Down (S) : 防御力DOWN【小】 : -10 : Defense Up (S) : 防御力UP【小】 : 10 : Defense Up (M) : 防御力UP【中】 : 15 : Defense Up (L) : 防御力UP【大】 : 20 : Defense Up (U) : 防御力UP【超】 : 25
 Health : 体力 : 1 : 10 10 8 0 13 13 13 11 13 13 13 11 : Health -30 : 体力-30 : -15 : Health -10 : 体力-10 : -10 : Health +20 : 体力+20 : 10 : Health +50 : 体力+50 : 15
 Rec Speed : 回復速度 : 1 : 7 7 6 0 12 12 12 10 12 12 12 10 : Recovery Spd -2 : 回復速度-2 : -15 : Recovery Spd -1 : 回復速度-1 : -10 : Recovery Spd +1 : 回復速度+1 : 10 : Recovery Spd +2 : 回復速度+2 : 15
-Protection : 加護 : 7 : 7 7 6 0 9 9 9 7 0 9 9 9 7 : Demonic Blessing : 悪霊の加護 : -10 : Divine Blessing : 精霊の加護 : 10
+Protection : 加護 : 7 : 7 7 6 0 9 9 9 7 0 9 9 9 : Demonic Blessing : 悪霊の加護 : -10 : Divine Blessing : 精霊の加護 : 10
 Sheathing : 納刀 : 3 : 6 6 5 0 6 6 6 5 6 6 6 5 : Quick Sheath : 納刀術 : 10
 FastCharge : 溜め短縮 : 3 : 0 0 0 0 5 5 5 4 5 5 5 4 : Distraction : 雑念 : -10 : Focus : 集中 : 10
 Expert : 達人 : 1 : 7 7 6 0 10 10 10 8 10 10 10 8 : Critical Eye -3 : 見切り-3 : -20 : Critical Eye -2 : 見切り-2 : -15 : Critical Eye -1 : 見切り-1 : -10 : Critical Eye +1 : 見切り+1 : 10 : Critical Eye +2 : 見切り+2 : 15 : Critical Eye +3 : 見切り+3 : 20 : Critical Master : 見切りマスター : 30
@@ -20,9 +20,9 @@ Destroyer : 重撃 : 1 : 0 0 0 0 5 5 5 4 5 5 5 4 : PartBreaker : 破壊王 : 10
 KO : KO : 1 : 6 6 5 0 6 6 6 5 6 6 6 5 : Knockout King : KO術 : 10
 Stam Drain : 減気攻撃 : 1 : 6 6 5 0 6 6 6 5 6 6 6 5 : Stamina Thief : スタミナ奪取 : 10
 Constitutn : 体術 : 3 : 6 6 5 0 6 6 6 5 6 6 6 5 : Constitution -2 : 体術-2 : -15 : Constitution -1 : 体術-1 : -10 : Constitution +1 : 体術+1 : 10 : Constitution +2 : 体術+2 : 15
-Hearing : 聴覚保護 : 2 : 0 0 0 0 5 5 5 4 0 5 5 5 4 : Earplugs : 耳栓 : 10 : HG Earplugs : 高級耳栓 : 15
-Wind Res : 風圧 : 2 : 4 4 3 0 5 5 5 4 0 5 5 5 4 : Windproof (Lo) : 風圧無効 : 10 : Windproof (Hi) : 風圧完全無効 : 15
-Tremor Res : 耐震 : 2 : 8 8 6 0 8 8 6 0 0 8 8 6 0 : Tremor Resistance : 耐震 : 10
+Hearing : 聴覚保護 : 2 : 0 0 0 0 5 5 5 4 0 5 5 5 : Earplugs : 耳栓 : 10 : HG Earplugs : 高級耳栓 : 15
+Wind Res : 風圧 : 2 : 4 4 3 0 5 5 5 4 0 5 5 5 : Windproof (Lo) : 風圧無効 : 10 : Windproof (Hi) : 風圧完全無効 : 15
+Tremor Res : 耐震 : 2 : 8 8 6 0 8 8 6 0 0 8 8 6 : Tremor Resistance : 耐震 : 10
 Heat Res : 耐暑 : 2 : 10 10 8 0 10 10 8 0 10 10 8 0 : Heat Surge : 暑さ倍加 : -10 : Heat Cancel : 暑さ無効 : 10
 Cold Res : 耐寒 : 2 : 10 10 8 0 10 10 8 0 10 10 8 0 : Cold Surge : 寒さ倍加 : -10 : Cold Cancel : 寒さ無効 : 10
 Stamina : スタミナ : 3 : 0 0 0 0 5 5 5 4 5 5 5 4 : Short Sprinter : 鈍足 : -10 : Marathon Runner : ランナー : 10
@@ -30,10 +30,10 @@ Stam Recov : 気力回復 : 1 : 6 6 5 0 6 6 6 5 6 6 6 5 : Stam Recov Down : ス�
 Evasion : 回避性能 : 3 : 6 6 5 0 6 6 6 5 6 6 6 5 : Evasion Down : 回避性能DOWN : -10 : Evasion +1 : 回避性能+1 : 10 : Evasion +2 : 回避性能+2 : 15 : Evasion +3 : 回避性能+3 : 20
 Evade Dist : 回避距離 : 3 : 0 0 0 0 6 6 6 5 6 6 6 5 : Evade Extender : 回避距離UP : 10
 Sense : 気配 : 7 : 10 10 8 0 10 10 8 0 10 10 8 0 : Taunt : 挑発 : -10 : Sneak : 隠密 : 10
-Guard : ガード性能 : 3 : 6 6 5 0 6 6 6 5 6 6 6 5  6 6 6 5 : Guard -1 : ガード性能-1 : -10 : Guard +1 : ガード性能+1 : 10 : Guard +2 : ガード性能+2 : 15
-Guard Up : ガード強化 : 3 : 4 4 3 0 6 6 6 5 0 6 6 6 5 : Guard Boost : ガード強化 : 10
+Guard : ガード性能 : 3 : 6 6 5 0 6 6 6 5 6 6 6 5 : Guard -1 : ガード性能-1 : -10 : Guard +1 : ガード性能+1 : 10 : Guard +2 : ガード性能+2 : 15
+Guard Up : ガード強化 : 3 : 4 4 3 0 6 6 6 5 0 6 6 6 : Guard Boost : ガード強化 : 10
 Status : 特殊攻撃 : 1 : 4 4 3 0 6 6 6 5 6 6 6 5 : Status Atk Down : 状態異常攻撃弱化 : -10 : Status Atk +1 : 状態異常攻撃+1 : 10 : Status Atk +2 : 状態異常攻撃+2 : 15
-Elemental : 属性攻撃 : 1 : 0 0 0 0 5 5 5 4 0 5 5 5 4 : Element Atk Down : 属性攻撃弱化 : -10 : Element Atk Up : 属性攻撃強化 : 10
+Elemental : 属性攻撃 : 1 : 0 0 0 0 5 5 5 4 0 5 5 5 : Element Atk Down : 属性攻撃弱化 : -10 : Element Atk Up : 属性攻撃強化 : 10
 Fire Atk : 火属性攻撃 : 1 : 7 7 6 0 9 9 9 7 9 9 9 7 : Fire Atk Down : 火属性攻撃弱化 : -10 : Fire Atk +1 : 火属性攻撃強化+1 : 10 : Fire Atk +2 : 火属性攻撃強化+2 : 15 : Fire Atk +3 : 火属性攻撃強化+3 : 20
 Water Atk : 水属性攻撃 : 1 : 7 7 6 0 9 9 9 7 9 9 9 7 : Water Atk Down : 水属性攻撃弱化 : -10 : Water Atk +1 : 水属性攻撃強化+1 : 10 : Water Atk +2 : 水属性攻撃強化+2 : 15 : Water Atk +3 : 水属性攻撃強化+3 : 20
 Ice Atk : 氷属性攻撃 : 1 : 7 7 6 0 9 9 9 7 9 9 9 7 : Ice Atk Down : 氷属性攻撃弱化 : -10 : Ice Atk +1 : 氷属性攻撃強化+1 : 10 : Ice Atk +2 : 氷属性攻撃強化+2 : 15 : Ice Atk +3 : 氷属性攻撃強化+3 : 20

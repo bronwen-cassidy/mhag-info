@@ -48,15 +48,13 @@ public class Skill {
 		boolean addG = false;
 		if(game == 1) //mhp3rd
 			addJP = 1;
-		else if(game == 3) //mh3g
+		else if(game == 3 || game == 4) //mh3g
 		{
 			addJP = 1;
 			addG = true;
 		}
 		else if(game == 2) //mhfu, placeholder
 			addG = true;
-        else if (game == 4)
-            addJP = 1;
 
 		while(line != null )
 		{
