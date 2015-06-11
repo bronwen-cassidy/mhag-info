@@ -136,4 +136,6 @@ CritElemnt : 属性会心 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Elemental Crit :
 CritStatus : 特殊会心 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Status Crit : 会心撃【特殊】 : 10
 LightEater : 節食 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Rationer : 満足感 : 10
 Blast C+ : 爆破瓶追加 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Use Blast Coat : 爆破ビン追加 : 10
+Blast S+ : 爆破弾追加 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Use Blast S : 爆破弾追加 : 10
+Mycology : 茸食 : 1 : 0 0 0 0 13 13 13 0 13 13 13 0 : Mushromancer : キノコ大好き : 10
 
