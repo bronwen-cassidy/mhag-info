@@ -23,7 +23,6 @@ public class LoaderConfirmationUtils {
 
         // we need to confirm that we have data in all the files otherwise we end up mapping poison :-(
         final Map<String, String[]> armour = loadData("/data/mh4/armor.dat", ":", 0);
-
         final Map<String, String[]> armourItems = loadData("/data/mh4/armor_item.dat", ":", 0);
 
         final Map<String, String[]> skills = loadData("/data/mh4/skill.dat", ":", 0);
