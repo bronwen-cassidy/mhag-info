@@ -40,170 +40,196 @@ Disabler Jewel 2 : Bloodrun Jewel x1,Pale Steak x1,Monster Broth x2 : 修羅原�
 Element Jewel 1 : Bloodrun Jewel x1,Alatreon Plate x3 : 修羅原珠 x1,煌黒龍の逆鱗 x3
 Element Jewel 3 : Lazurite Jewel x1,Dalamadur Talon x2,Zinogre Shocker+ x1 : 瑠璃原珠 x1,蛇王龍の鉤爪 x2,雷狼竜の高電殻 x1
 Blaze Jewel 1 : Sunspire Jewel x1,Rathian Scale x2 : 陽翔原珠 x1,雌火竜の鱗 x2
-Blaze Jewel 2 : Bloodrun Jewel x1,Inferno Sac x1 : Volvidon Carapace x2 : 修羅原珠 x1,爆炎袋 x1 : 赤甲獣の堅殻 x2
+Blaze Jewel 2 : Bloodrun Jewel x1,Inferno Sac x1,Volvidon Carapace x2 : 修羅原珠 x1,爆炎袋 x1,赤甲獣の堅殻 x2
 Stream Jewel 1 : Sunspire Jewel x1,Royal Ludroth Claw x1 : 陽翔原珠 x1,水獣の爪 x1
-Stream Jewel 2 : Bloodrun Jewel x1,S.Queen Extract x1 : Plesioth Scale x2 : 修羅原珠 x1,重甲エキス x1 : 水竜の鱗 x2
-Bolt Jewel 1 : Sunspire Jewel x1,Flabby Hide x1 : Thunderbug x2 : 陽翔原珠 x1,ブヨブヨした皮 x1 : 雷光虫 x2
-Bolt Jewel 2 : Bloodrun Jewel x1,Thunder Sac x1 : Zinogre Carapace x1 : 修羅原珠 x1,電撃袋 x1 : 雷狼竜の堅殻 x1
+Stream Jewel 2 : Bloodrun Jewel x1,S.Queen Extract x1,Plesioth Scale x2 : 修羅原珠 x1,重甲エキス x1,水竜の鱗 x2
+Bolt Jewel 1 : Sunspire Jewel x1,Flabby Hide x1,Thunderbug x2 : 陽翔原珠 x1,ブヨブヨした皮 x1,雷光虫 x2
+Bolt Jewel 2 : Bloodrun Jewel x1,Thunder Sac x1,Zinogre Carapace x1 : 修羅原珠 x1,電撃袋 x1,雷狼竜の堅殻 x1
 Frost Jewel 1 : Sunspire Jewel x1,Zamtrios Hide x2 : 陽翔原珠 x1,化け鮫の皮 x2
-Frost Jewel 2 : Bloodrun Jewel x1,Freezer Sac x1 : Lagombi Plastron+ x2 : 修羅原珠 x1,凍結袋 x1 : 白兎獣の堅腹甲 x2
+Frost Jewel 2 : Bloodrun Jewel x1,Freezer Sac x1,Lagombi Plastron+ x2 : 修羅原珠 x1,凍結袋 x1,白兎獣の堅腹甲 x2
 Dragon Jewel 1 : Sunspire Jewel x1,D.Mohran Bloodscale x2 : 陽翔原珠 x1,豪山龍の紅鱗 x2
-Dragon Jewel 2 : Bloodrun Jewel x1,Dragonbone Relic x2 : Rathalos Carapace x2 : 修羅原珠 x1,いにしえの龍骨 x2 : 火竜の堅殻 x2
-Tenderizer Jwl 1 : Sunspire Jewel x1,Rathalos Webbing x1 : Rathian Spike x1 : Bloodrun Jewel x1,Rathalos Scale+ x2 : 陽翔原珠 x1,火竜の翼膜 x1 : 雌火竜の棘 x1 : 修羅原珠 x1,火竜の上鱗 x2
-Tenderizer Jwl 3 : Lazurite Jewel x1,Akantor Tallfang x1 : Rathalos Ruby x1 : 瑠璃原珠 x1,覇竜の大牙 x1 : 火竜の紅玉 x1
-Destroyer Jwl 1 : Sunspire Jewel x1,Duramboros Mossplate x1 : Gravios Shell x2 : Bloodrun Jewel x1,Gravios Carapace x2 : 陽翔原珠 x1,尾槌竜の苔甲 x1 : 鎧竜の甲殻 x2 : 修羅原珠 x1,鎧竜の堅殻 x2
-Destroyer Jwl 3 : Lazurite Jewel x1,Ukanlos Carapace x1 : Rathian Ruby x1 : 瑠璃原珠 x1,崩竜の堅殻 x1 : 雌火竜の紅玉 x1
-CritElementJwl 1 : Adamant Orb x1,A.Rathalos Cortex x2 : 金剛原珠 x1 : 蒼火竜の重殻 x2
-CritElementJwl 2 : Sovereign Orb x1,Daora Cortex x2 : A.Rathalos Lash x1 : 明王原珠 x1 : 鋼龍の重殻 x2 : 蒼火竜の靭尾 x1
-Crit Status Jwl 1 : Adamant Orb x1,S.Nerscylla Cortex x2 : 金剛原珠 x1 : 骸蜘蛛の重殻 x2
-Crit Status Jwl 2 : Sovereign Orb x1,Chameleos Finehide x2 : Nerscylla Surspike x1 : 明王原珠 x1 : 霞龍の特上皮 x2 : 影蜘蛛の秘棘 x1
-Capacity Jewel 2 : Sunspire Jewel x1,D.Mohran Brace x1 : Tigrex Claw x2 : Bloodrun Jewel x1,Deviljho Scalp x1 : 陽翔原珠 x1,豪山龍の腕甲 x1 : 轟竜の爪 x2 : 修羅原珠 x1,恐暴竜の頭殻 x1
-Capacity Jewel 3 : Lazurite Jewel x1,D.Mohran Brace+ x1 : Wyvern Gem x1 : 瑠璃原珠 x1,豪山龍の上腕甲 x1 : 竜玉 x1
-Laden Jewel 3 : Sovereign Orb x1,Gravios Crown x2 : Purecrystal x1 : 明王原珠 x1 : 鎧竜の重頭殻 x2 : ピュアクリスタル x1
-Charger Jewel 1 : Sunspire Jewel x1,Tetsucabra Claw x1 : Barroth Shell x2 : Bloodrun Jewel x1,Tigrex Scale+ x2 : 陽翔原珠 x1,鬼蛙の爪 x1 : 土砂竜の甲殻 x2 : 修羅原珠 x1,轟竜の上鱗 x2
-Charger Jewel 3 : Lazurite Jewel x1,D.Mohran Carapace x1 : Najarala Carapace x2 : 瑠璃原珠 x1,豪山龍の堅岩殻 x1 : 絞蛇竜の堅殻 x2
-Throttle Jewel 1 : Sunspire Jewel x1,Zinogre Horn x1 : Gore Magala Feeler x2 : Bloodrun Jewel x1,Zinogre Horn+ x1 : 陽翔原珠 x1,雷狼竜の角 x1 : 黒蝕竜の触角 x2 : 修羅原珠 x1,雷狼竜の尖角 x1
-Throttle Jewel 2 : Lazurite Jewel x1,Gore Magala Feeler+ x1 : Blangonga Pelt+ x2 : 瑠璃原珠 x1,黒蝕竜の尖触角 x1 : 雪獅子の剛毛 x2
-KO Jewel 1 : Sunspire Jewel x1,Monster Bone+ x2 : Rhenoplos Scalp x1 : 陽翔原珠 x1,上竜骨 x2 : 草食竜の頭殻 x1
-KO Jewel 2 : Sunspire Jewel x1,Diablos Shell x2 : Butterfly Beetle x2 : Bloodrun Jewel x1,Stoutbone x2 : 陽翔原珠 x1,角竜の甲殻 x2 : オオクワアゲハ x2 : 修羅原珠 x1,堅牢な骨 x2
-Drain Jewel 1 : Sunspire Jewel x1,Congalala Claw x1 : Monster Bone M x1 : 陽翔原珠 x1,桃毛獣の爪 x1 : 竜骨【中】 x1
-Drain Jewel 2 : Sunspire Jewel x1,Chameleos Hide+ x1 : Caravan Ticket x1 : Bloodrun Jewel x1,E.Congalala Claw+ x1 : 陽翔原珠 x1,霞龍の上皮 x1 : 旅団チケット x1 : 修羅原珠 x1,緑毛獣の尖爪 x1
+Dragon Jewel 2 : Bloodrun Jewel x1,Dragonbone Relic x2,Rathalos Carapace x2 : 修羅原珠 x1,いにしえの龍骨 x2,火竜の堅殻 x2
+Tenderizer Jwl 1 : Sunspire Jewel x1,Rathalos Webbing x1,Rathian Spike x1 : 陽翔原珠 x1,火竜の翼膜 x1,雌火竜の棘 x1
+Tenderizer Jwl 1 : Bloodrun Jewel x1,Rathalos Scale+ x2 : 修羅原珠 x1,火竜の上鱗 x2
+Tenderizer Jwl 3 : Lazurite Jewel x1,Akantor Tallfang x1,Rathalos Ruby x1 : 瑠璃原珠 x1,覇竜の大牙 x1,火竜の紅玉 x1
+Destroyer Jwl 1 : Sunspire Jewel x1,Duramboros Mossplate x1,Gravios Shell x2 : 陽翔原珠 x1,尾槌竜の苔甲 x1,鎧竜の甲殻 x2
+Destroyer Jwl 1 : Bloodrun Jewel x1,Gravios Carapace x2 : 修羅原珠 x1,鎧竜の堅殻 x2
+Destroyer Jwl 3 : Lazurite Jewel x1,Ukanlos Carapace x1,Rathian Ruby x1 : 瑠璃原珠 x1,崩竜の堅殻 x1,雌火竜の紅玉 x1
+CritElementJwl 1 : Adamant Orb x1,A.Rathalos Cortex x2 : 金剛原珠 x1,蒼火竜の重殻 x2
+CritElementJwl 2 : Sovereign Orb x1,Daora Cortex x2,A.Rathalos Lash x1 : 明王原珠 x1,鋼龍の重殻 x2,蒼火竜の靭尾 x1
+Crit Status Jwl 1 : Adamant Orb x1,S.Nerscylla Cortex x2 : 金剛原珠 x1,骸蜘蛛の重殻 x2
+Crit Status Jwl 2 : Sovereign Orb x1,Chameleos Finehide x2,Nerscylla Surspike x1 : 明王原珠 x1,霞龍の特上皮 x2,影蜘蛛の秘棘 x1
+Capacity Jewel 2 : Sunspire Jewel x1,D.Mohran Brace x1,Tigrex Claw x2 : 陽翔原珠 x1,豪山龍の腕甲 x1,轟竜の爪 x2
+Capacity Jewel 2 : Bloodrun Jewel x1,Deviljho Scalp x1 : 修羅原珠 x1,恐暴竜の頭殻 x1
+Capacity Jewel 3 : Lazurite Jewel x1,D.Mohran Brace+ x1,Wyvern Gem x1 : 瑠璃原珠 x1,豪山龍の上腕甲 x1,竜玉 x1
+Laden Jewel 3 : Sovereign Orb x1,Gravios Crown x2,Purecrystal x1 : 明王原珠 x1,鎧竜の重頭殻 x2,ピュアクリスタル x1
+Charger Jewel 1 : Sunspire Jewel x1,Tetsucabra Claw x1,Barroth Shell x2 : 陽翔原珠 x1,鬼蛙の爪 x1,土砂竜の甲殻 x2
+Charger Jewel 1 : Bloodrun Jewel x1,Tigrex Scale+ x2 : 修羅原珠 x1,轟竜の上鱗 x2
+Charger Jewel 3 : Lazurite Jewel x1,D.Mohran Carapace x1,Najarala Carapace x2 : 瑠璃原珠 x1,豪山龍の堅岩殻 x1,絞蛇竜の堅殻 x2
+Throttle Jewel 1 : Sunspire Jewel x1,Zinogre Horn x1,Gore Magala Feeler x2 : 陽翔原珠 x1,雷狼竜の角 x1,黒蝕竜の触角 x2
+Throttle Jewel 1 : Bloodrun Jewel x1,Zinogre Horn+ x1 : 修羅原珠 x1,雷狼竜の尖角 x1
+Throttle Jewel 2 : Lazurite Jewel x1,Gore Magala Feeler+ x1,Blangonga Pelt+ x2 : 瑠璃原珠 x1,黒蝕竜の尖触角 x1,雪獅子の剛毛 x2
+KO Jewel 1 : Sunspire Jewel x1,Monster Bone+ x2,Rhenoplos Scalp x1 : 陽翔原珠 x1,上竜骨 x2,草食竜の頭殻 x1
+KO Jewel 2 : Sunspire Jewel x1,Diablos Shell x2,Butterfly Beetle x2 : 陽翔原珠 x1,角竜の甲殻 x2,オオクワアゲハ x2
+KO Jewel 2 : Bloodrun Jewel x1,Stoutbone x2 : 修羅原珠 x1,堅牢な骨 x2
+Drain Jewel 1 : Sunspire Jewel x1,Congalala Claw x1,Monster Bone M x1 : 陽翔原珠 x1,桃毛獣の爪 x1,竜骨【中】 x1
+Drain Jewel 2 : Sunspire Jewel x1,Chameleos Hide+ x1,Caravan Ticket x1 : 陽翔原珠 x1,霞龍の上皮 x1,旅団チケット x1
+Drain Jewel 2 : Bloodrun Jewel x1,E.Congalala Claw+ x1 : 修羅原珠 x1,緑毛獣の尖爪 x1
 Potential Jwl 1 : Sunspire Jewel x1,Duramboros Mossplate x2 : 陽翔原珠 x1,尾槌竜の苔甲 x2
-Potential Jwl 2 : Bloodrun Jewel x1,Zamtrios Scale+ x3 : Lagombi Ear+ x1 : 修羅原珠 x1,化け鮫の上鱗 x3 : 白兎獣の大耳 x1
+Potential Jwl 2 : Bloodrun Jewel x1,Zamtrios Scale+ x3,Lagombi Ear+ x1 : 修羅原珠 x1,化け鮫の上鱗 x3,白兎獣の大耳 x1
 Fortitude Jwl 1 : Sunspire Jewel x1,S.Queen Crescent x1 : 陽翔原珠 x1,重甲虫の円月尾 x1
-Fortitude Jwl 2 : Bloodrun Jewel x1,Gravios Carapace x1 : Garuga Ear x1 : 修羅原珠 x1,鎧竜の堅殻 x1 : 黒狼鳥の耳 x1
-Bombardier Jwl 1 : Sunspire Jewel x1,Mystery Slime x2 : G.Jaggi Hide x1 : 陽翔原珠 x1,なぞの粘菌 x2 : 狗竜の皮 x1
-Sonorous Jewel 1 : Sunspire Jewel x1,Najarala Sounder x1 : Field Horn x1 : 陽翔原珠 x1,絞蛇竜の鳴甲 x1 : 角笛 x1
-Artillery Jwl 1 : Sunspire Jewel x1,Ice Crystal x2 : Barrel Bomb L+ x2 : 陽翔原珠 x1,氷結晶 x2 : 大タル爆弾Ｇ x2
-Defense Jewel 1 : Aquaglow Jewel x1,Arzuros Shell x1 : Adamant Seed x2 : 水光原珠 x1,青熊獣の甲殻 x1 : 忍耐の種 x2
-Defense Jewel 2 : Sunspire Jewel x1,Uragaan Scute x1 : Armorskin x2 : Bloodrun Jewel x1,Seltas Carapace x1 : Mega Armorskin x2 : 陽翔原珠 x1,爆鎚竜の耐熱殻 x1 : 硬化薬 x2 : 修羅原珠 x1,徹甲虫の堅殻 x1 : 硬化薬グレート x2
-Defense Jewel 3 : Adamant Orb x1,Konchu Cortex x4 : Monster Slogbone x2 : 金剛原珠 x1 : 盾虫の重殻 x4 : 重竜骨 x2
+Fortitude Jwl 2 : Bloodrun Jewel x1,Gravios Carapace x1,Garuga Ear x1 : 修羅原珠 x1,鎧竜の堅殻 x1,黒狼鳥の耳 x1
+Bombardier Jwl 1 : Sunspire Jewel x1,Mystery Slime x2,G.Jaggi Hide x1 : 陽翔原珠 x1,なぞの粘菌 x2,狗竜の皮 x1
+Sonorous Jewel 1 : Sunspire Jewel x1,Najarala Sounder x1,Field Horn x1 : 陽翔原珠 x1,絞蛇竜の鳴甲 x1,角笛 x1
+Artillery Jwl 1 : Sunspire Jewel x1,Ice Crystal x2,Barrel Bomb L+ x2 : 陽翔原珠 x1,氷結晶 x2,大タル爆弾Ｇ x2
+Defense Jewel 1 : Aquaglow Jewel x1,Arzuros Shell x1,Adamant Seed x2 : 水光原珠 x1,青熊獣の甲殻 x1,忍耐の種 x2
+Defense Jewel 2 : Sunspire Jewel x1,Uragaan Scute x1,Armorskin x2 : 陽翔原珠 x1,爆鎚竜の耐熱殻 x1,硬化薬 x2
+Defense Jewel 2 : Bloodrun Jewel x1,Seltas Carapace x1,Mega Armorskin x2 : 修羅原珠 x1,徹甲虫の堅殻 x1,硬化薬グレート x2
+Defense Jewel 3 : Adamant Orb x1,Konchu Cortex x4,Monster Slogbone x2 : 金剛原珠 x1,盾虫の重殻 x4,重竜骨 x2
 Resistor Jewel 1 : Lazurite Jewel x1,Alatreon Plate x2 : 瑠璃原珠 x1,煌黒龍の逆鱗 x2
 Resistor Jewel 3 : Lazurite Jewel x1,Skypiercer x1 : 瑠璃原珠 x1,天をつらぬく角 x1
 Fire Res Jewel 1 : Aquaglow Jewel x1,Fire Herb x5 : 水光原珠 x1,火薬草 x5
-Nul-Fire Jewel 1 : Sunspire Jewel x1,Flame Sac x2 : Monster Bone L x3 : 陽翔原珠 x1,火炎袋 x2 : 竜骨【大】 x3
+Nul-Fire Jewel 1 : Sunspire Jewel x1,Flame Sac x2,Monster Bone L x3 : 陽翔原珠 x1,火炎袋 x2,竜骨【大】 x3
 Water Res Jwl 1 : Aquaglow Jewel x1,Whetfish x5 : 水光原珠 x1,キレアジ x5
-Nul-Water Jwl 1 : Sunspire Jewel x1,Aqua Sac x2 : Monster Bone L x3 : 陽翔原珠 x1,水袋 x2 : 竜骨【大】 x3
+Nul-Water Jwl 1 : Sunspire Jewel x1,Aqua Sac x2,Monster Bone L x3 : 陽翔原珠 x1,水袋 x2,竜骨【大】 x3
 ThunderRes Jwl 1 : Aquaglow Jewel x1,Thunderbug x3 : 水光原珠 x1,雷光虫 x3
-Nul-Thundr Jwl 1 : Sunspire Jewel x1,Zinogre Shocker x1 : Monster Bone L x1 : 陽翔原珠 x1,雷狼竜の蓄電殻 x1 : 竜骨【大】 x1
+Nul-Thundr Jwl 1 : Sunspire Jewel x1,Zinogre Shocker x1,Monster Bone L x1 : 陽翔原珠 x1,雷狼竜の蓄電殻 x1,竜骨【大】 x1
 Ice Res Jewel 1 : Aquaglow Jewel x1,Ice Crystal x5 : 水光原珠 x1,氷結晶 x5
-Nul-Ice Jewel 1 : Sunspire Jewel x1,Lagombi Iceclaw x2 : Monster Bone L x3 : 陽翔原珠 x1,白兎獣の氷爪 x2 : 竜骨【大】 x3
+Nul-Ice Jewel 1 : Sunspire Jewel x1,Lagombi Iceclaw x2,Monster Bone L x3 : 陽翔原珠 x1,白兎獣の氷爪 x2,竜骨【大】 x3
 Dragon Res Jwl 1 : Aquaglow Jewel x1,Dragonfell Berry x2 : 水光原珠 x1,龍殺しの実 x2
-Nul-Dragon Jwl 1 : Bloodrun Jewel x1,Dragonbone Relic x1 : Monster Keenbone x2 : 修羅原珠 x1,いにしえの龍骨 x1 : 尖竜骨 x2
+Nul-Dragon Jwl 1 : Bloodrun Jewel x1,Dragonbone Relic x1,Monster Keenbone x2 : 修羅原珠 x1,いにしえの龍骨 x1,尖竜骨 x2
 Protection Jwl 1 : Sunspire Jewel x1,Rathian Shell x2 : 陽翔原珠 x1,雌火竜の甲殻 x2
-Asylum Jewel 1 : Lazurite Jewel x1,G.Rathian Carapace x2 : Caravan Ticket x1 : 瑠璃原珠 x1,金火竜の堅殻 x2 : 旅団チケット x1
+Asylum Jewel 1 : Lazurite Jewel x1,G.Rathian Carapace x2,Caravan Ticket x1 : 瑠璃原珠 x1,金火竜の堅殻 x2,旅団チケット x1
 Vitality Jewel 1 : Aquaglow Jewel x1,Konchu Shell x1 : 水光原珠 x1,盾虫の甲殻 x1
 Recovery Jewel 1 : Aquaglow Jewel x1,Jaggi Hide x2 : 水光原珠 x1,ジャギィの皮 x2
-Recovery Jewel 2 : Sunspire Jewel x1,Kut-Ku Shell x1 : Pale Extract x2 : Bloodrun Jewel x1,G.Jaggi Hide+ x2 : 陽翔原珠 x1,怪鳥の甲殻 x1 : アルビノエキス x2 : 修羅原珠 x1,狗竜の上皮 x2
-Medicine Jewel 1 : Sunspire Jewel x1,Kecha Longbone x1 : Kelbi Horn x2 : 陽翔原珠 x1,奇猿狐の長骨 x1 : ケルビの角 x2
-Medicine Jewel 2 : Bloodrun Jewel x1,Kecha Grandbone x1 : Ancient Potion x1 : 修羅原珠 x1,奇猿狐の堅長骨 x1 : いにしえの秘薬 x1
-Evasion Jewel 1 : Sunspire Jewel x1,Lagombi Plastron x2 : Killer Beetle x2 : Bloodrun Jewel x1,Nerscylla Shear x2 : 陽翔原珠 x1,白兎獣の腹甲 x2 : キラビートル x2 : 修羅原珠 x1,影蜘蛛の堅鋏角 x2
-Evasion Jewel 2 : Lazurite Jewel x1,Najarala Hide+ x2 : Lagombi Pelt+ x2 : 瑠璃原珠 x1,絞蛇竜の上皮 x2 : 白兎獣の剛毛 x2
-Jumping Jewel 1 : Sunspire Jewel x1,Nargacuga Blackfur x2 : Bnahabra Wing x2 : Bloodrun Jewel x1,P.Gypceros Wing x2 : 陽翔原珠 x1,迅竜の黒毛 x2 : 飛甲虫の羽 x2 : 修羅原珠 x1,毒怪鳥の紫翼 x2
-Jumping Jewel 2 : Sovereign Orb x1,Seregios Carver+ x2 : Lagombi Auricle x2 : 明王原珠 x1 : 千刃竜の閃裂爪 x2 : 白兎獣の地獄耳 x2
-Sheath Jewel 1 : Sunspire Jewel x1,Glutton Tuna x1 : Altaroth Stomach x1 : Bloodrun Jewel x1,Jaggi Scale+ x1 : Caravan Ticket x1 : 陽翔原珠 x1,大食いマグロ x1 : 甲虫の腹袋 x1 : 修羅原珠 x1,ジャギィの上鱗 x1 : 旅団チケット x1
-Sheath Jewel 2 : Bloodrun Jewel x1,R.Basarios Carapace x2 : Quality Stomach x2 : 修羅原珠 x1,桃岩竜の堅殻 x2 : 上質な腹袋 x2
-Trapmaster Jwl 1 : Sunspire Jewel x1,Meaty Hide x1 : Shock Trap x1 : 陽翔原珠 x1,肉厚な皮 x1 : シビレ罠 x1
-Gobbler Jewel 1 : Sunspire Jewel x1,Nibelsnarf Hide x1 : Arzuros Shell x2 : Bloodrun Jewel x1,Zamtrios Hide+ x2 : 陽翔原珠 x1,潜口竜の皮 x1 : 青熊獣の甲殻 x2 : 修羅原珠 x1,化け鮫の上皮 x2
-Gobbler Jewel 3 : Lazurite Jewel x1,Deviljho Tallfang x2 : Tigrex Fang+ x2 : 瑠璃原珠 x1,恐暴竜の大牙 x2 : 轟竜の鋭牙 x2
-Satiated Jewel 1 : Adamant Orb x1,Cephalos Grandfin x1 : Piercing Claw x2 : 金剛原珠 x1 : 砂竜の特上ヒレ x1 : 鋭利な爪 x2
-Sprinter Jewel 1 : Sunspire Jewel x1,Royal Ludroth Claw x1 : Mega Dash Juice x2 : Bloodrun Jewel x1,Rubbery Purple Hide x2 : 陽翔原珠 x1,水獣の爪 x1 : 強走薬グレート x2 : 修羅原珠 x1,ゴム質の紫皮 x2
-Sprinter Jewel 3 : Lazurite Jewel x1,Garuga Scale+ x1 : P.Gypceros Wing x2 : 瑠璃原珠 x1,黒狼鳥の上鱗 x1 : 毒怪鳥の紫翼 x2
-Physique Jewel 1 : Sunspire Jewel x1,Sharpened Beak x1 : Ioprey Scale x2 : Bloodrun Jewel x1,Barioth Pelt+ x2 : 陽翔原珠 x1,尖ったクチバシ x1 : イーオスの鱗 x2 : 修羅原珠 x1,氷牙竜の上毛皮 x2
-Physique Jewel 2 : Lazurite Jewel x1,B.Gravios Carapace x1 : Ioprey Hide+ x2 : 瑠璃原珠 x1,黒鎧竜の堅殻 x1 : イーオスの上皮 x2
-Refresh Jewel 1 : Sunspire Jewel x1,Zinogre Shell x1 : Monster Bone M x2 : Bloodrun Jewel x1,Rhenoplos Carapace x2 : Caravan Ticket x1 : 陽翔原珠 x1,雷狼竜の甲殻 x1 : 竜骨【中】 x2 : 修羅原珠 x1,草食竜の堅殻 x2 : 旅団チケット x1
-Refresh Jewel 2 : Bloodrun Jewel x1,Zinogre Claw+ x1 : Monster Keenbone x2 : 修羅原珠 x1,雷狼竜の尖爪 x1 : 尖竜骨 x2
-Hungerless Jwl 1 : Aquaglow Jewel x1,Seltas Horn x1 : Well-done Steak x1 : 水光原珠 x1,徹甲虫の角 x1 : こんがり肉 x1
+Recovery Jewel 2 : Sunspire Jewel x1,Kut-Ku Shell x1,Pale Extract x2 : 陽翔原珠 x1,怪鳥の甲殻 x1,アルビノエキス x2
+Recovery Jewel 2 : Bloodrun Jewel x1,G.Jaggi Hide+ x2 : 修羅原珠 x1,狗竜の上皮 x2
+Medicine Jewel 1 : Sunspire Jewel x1,Kecha Longbone x1,Kelbi Horn x2 : 陽翔原珠 x1,奇猿狐の長骨 x1,ケルビの角 x2
+Medicine Jewel 2 : Bloodrun Jewel x1,Kecha Grandbone x1,Ancient Potion x1 : 修羅原珠 x1,奇猿狐の堅長骨 x1,いにしえの秘薬 x1
+Evasion Jewel 1 : Sunspire Jewel x1,Lagombi Plastron x2,Killer Beetle x2 : 陽翔原珠 x1,白兎獣の腹甲 x2,キラビートル x2
+Evasion Jewel 1 : Bloodrun Jewel x1,Nerscylla Shear x2 : 修羅原珠 x1,影蜘蛛の堅鋏角 x2
+Evasion Jewel 2 : Lazurite Jewel x1,Najarala Hide+ x2,Lagombi Pelt+ x2 : 瑠璃原珠 x1,絞蛇竜の上皮 x2,白兎獣の剛毛 x2
+Jumping Jewel 1 : Sunspire Jewel x1,Nargacuga Blackfur x2,Bnahabra Wing x2 : 陽翔原珠 x1,迅竜の黒毛 x2,飛甲虫の羽 x2
+Jumping Jewel 1 : Bloodrun Jewel x1,P.Gypceros Wing x2 : 修羅原珠 x1,毒怪鳥の紫翼 x2
+Jumping Jewel 2 : Sovereign Orb x1,Seregios Carver+ x2,Lagombi Auricle x2 : 明王原珠 x1,千刃竜の閃裂爪 x2,白兎獣の地獄耳 x2
+Sheath Jewel 1 : Sunspire Jewel x1,Glutton Tuna x1,Altaroth Stomach x1 : 陽翔原珠 x1,大食いマグロ x1,甲虫の腹袋 x1
+Sheath Jewel 1 : Bloodrun Jewel x1,Jaggi Scale+ x1,Caravan Ticket x1 : 修羅原珠 x1,ジャギィの上鱗 x1,旅団チケット x1
+Sheath Jewel 2 : Bloodrun Jewel x1,R.Basarios Carapace x2,Quality Stomach x2 : 修羅原珠 x1,桃岩竜の堅殻 x2,上質な腹袋 x2
+Trapmaster Jwl 1 : Sunspire Jewel x1,Meaty Hide x1,Shock Trap x1 : 陽翔原珠 x1,肉厚な皮 x1,シビレ罠 x1
+Gobbler Jewel 1 : Sunspire Jewel x1,Nibelsnarf Hide x1,Arzuros Shell x2 : 陽翔原珠 x1,潜口竜の皮 x1,青熊獣の甲殻 x2
+Gobbler Jewel 1 : Bloodrun Jewel x1,Zamtrios Hide+ x2 : 修羅原珠 x1,化け鮫の上皮 x2
+Gobbler Jewel 3 : Lazurite Jewel x1,Deviljho Tallfang x2,Tigrex Fang+ x2 : 瑠璃原珠 x1,恐暴竜の大牙 x2,轟竜の鋭牙 x2
+Satiated Jewel 1 : Adamant Orb x1,Cephalos Grandfin x1,Piercing Claw x2 : 金剛原珠 x1,砂竜の特上ヒレ x1,鋭利な爪 x2
+Sprinter Jewel 1 : Sunspire Jewel x1,Royal Ludroth Claw x1,Mega Dash Juice x2 : 陽翔原珠 x1,水獣の爪 x1,強走薬グレート x2
+Sprinter Jewel 1 : Bloodrun Jewel x1,Rubbery Purple Hide x2 : 修羅原珠 x1,ゴム質の紫皮 x2
+Sprinter Jewel 3 : Lazurite Jewel x1,Garuga Scale+ x1,P.Gypceros Wing x2 : 瑠璃原珠 x1,黒狼鳥の上鱗 x1,毒怪鳥の紫翼 x2
+Physique Jewel 1 : Sunspire Jewel x1,Sharpened Beak x1,Ioprey Scale x2 : 陽翔原珠 x1,尖ったクチバシ x1,イーオスの鱗 x2
+Physique Jewel 1 : Bloodrun Jewel x1,Barioth Pelt+ x2 : 修羅原珠 x1,氷牙竜の上毛皮 x2
+Physique Jewel 2 : Lazurite Jewel x1,B.Gravios Carapace x1,Ioprey Hide+ x2 : 瑠璃原珠 x1,黒鎧竜の堅殻 x1,イーオスの上皮 x2
+Refresh Jewel 1 : Sunspire Jewel x1,Zinogre Shell x1,Monster Bone M x2 : 陽翔原珠 x1,雷狼竜の甲殻 x1,竜骨【中】 x2
+Refresh Jewel 1 : Bloodrun Jewel x1,Rhenoplos Carapace x2,Caravan Ticket x1 : 修羅原珠 x1,草食竜の堅殻 x2,旅団チケット x1
+Refresh Jewel 2 : Bloodrun Jewel x1,Zinogre Claw+ x1,Monster Keenbone x2 : 修羅原珠 x1,雷狼竜の尖爪 x1,尖竜骨 x2
+Hungerless Jwl 1 : Aquaglow Jewel x1,Seltas Horn x1,Well-done Steak x1 : 水光原珠 x1,徹甲虫の角 x1,こんがり肉 x1
 Metabolism Jwl 1 : Aquaglow Jewel x1,Jumbo Bone x1 : 水光原珠 x1,大きな骨 x1
-Fate Jewel 1 : Bloodrun Jewel x1,Bird Wyvern Gem x1 : Silver Egg x2 : 修羅原珠 x1,鳥竜玉 x1 : 銀のたまご x2
-Fate Jewel 3 : Adamant Orb x1,G.Rathian Spike+ x2 : Golden Egg x2 : 金剛原珠 x1 : 金火竜の上棘 x2 : 金のたまご x2
-Capture Jewel 1 : Bloodrun Jewel x1,Commendation x1 : Zinogre Shockfur x1 : 修羅原珠 x1,勇気の証 x1 : 雷狼竜の帯電毛 x1
-Capture Jewel 3 : Adamant Orb x1,Commendation G x2 : Zinogre Plate x1 : 金剛原珠 x1 : 勇気の証Ｇ x2 : 雷狼竜の逆鱗 x1
+Fate Jewel 1 : Bloodrun Jewel x1,Bird Wyvern Gem x1,Silver Egg x2 : 修羅原珠 x1,鳥竜玉 x1,銀のたまご x2
+Fate Jewel 3 : Adamant Orb x1,G.Rathian Spike+ x2,Golden Egg x2 : 金剛原珠 x1,金火竜の上棘 x2,金のたまご x2
+Capture Jewel 1 : Bloodrun Jewel x1,Commendation x1,Zinogre Shockfur x1 : 修羅原珠 x1,勇気の証 x1,雷狼竜の帯電毛 x1
+Capture Jewel 3 : Adamant Orb x1,Commendation G x2,Zinogre Plate x1 : 金剛原珠 x1,勇気の証Ｇ x2,雷狼竜の逆鱗 x1
 Carver Jewel 1 : Bloodrun Jewel x1,Deviljho Hide x1 : 修羅原珠 x1,恐暴竜の黒皮 x1
-Carver Jewel 3 : Adamant Orb x1,Dalamadur Steel x1 : Earth Dragongem x1 : 金剛原珠 x1 : 蛇王龍の鋼皮 x1 : 大地の龍玉 x1
+Carver Jewel 3 : Adamant Orb x1,Dalamadur Steel x1,Earth Dragongem x1 : 金剛原珠 x1,蛇王龍の鋼皮 x1,大地の龍玉 x1
 Transportr Jwl 1 : Aquaglow Jewel x1,Dash Extract x1 : 水光原珠 x1,狂走エキス x1
 Gathering Jwl 1 : Aquaglow Jewel x1,Bumblepumpkin x2 : 水光原珠 x1,ペピポパンプキン x2
-Spree Jewel 1 : Aquaglow Jewel x1,Bumblepumpkin x1 : Monster Bone S x1 : 水光原珠 x1,ペピポパンプキン x1 : 竜骨【小】 x1
+Spree Jewel 1 : Aquaglow Jewel x1,Bumblepumpkin x1,Monster Bone S x1 : 水光原珠 x1,ペピポパンプキン x1,竜骨【小】 x1
 Blessing Jewel 1 : Aquaglow Jewel x1,Iron Ore x1 : 水光原珠 x1,鉄鉱石 x1
-Friendship Jwl 1 : Aquaglow Jewel x1,Kut-Ku Webbing x1 : Sunspire Jewel x1,Palico Ticket x1 : Small Goldenfish x2 : 水光原珠 x1,怪鳥の翼膜 x1 : 陽翔原珠 x1,オトモチケット x1 : 小金魚 x2
-Friendship Jwl 2 : Bloodrun Jewel x1,Blue Kut-Ku Carapace x1 : Lifepowder x2 : 修羅原珠 x1,青怪鳥の堅殻 x1 : 生命の粉塵 x2
+Friendship Jwl 1 : Aquaglow Jewel x1,Kut-Ku Webbing x1,Sunspire Jewel x1,Palico Ticket x1,Small Goldenfish x2 : 水光原珠 x1,怪鳥の翼膜 x1,陽翔原珠 x1,オトモチケット x1,小金魚 x2
+Friendship Jwl 2 : Bloodrun Jewel x1,Blue Kut-Ku Carapace x1,Lifepowder x2 : 修羅原珠 x1,青怪鳥の堅殻 x1,生命の粉塵 x2
 Psychic Jewel 1 : Aquaglow Jewel x1,Vivid Feather x1 : 水光原珠 x1,極彩色の羽根 x1
-Professor Jwl 1 : Aquaglow Jewel x1,null x1 : Gargwa Feather x1 : 水光原珠 x1,調合書①入門編 x1 : 丸鳥の羽 x1
+Professor Jwl 1 : Aquaglow Jewel x1,null x1,Gargwa Feather x1 : 水光原珠 x1,調合書①入門編 x1,丸鳥の羽 x1
 Factory Jewel 1 : Aquaglow Jewel x1,Small Goldenfish x1 : 水光原珠 x1,小金魚 x1
 Enduring Jewel 1 : Aquaglow Jewel x1,Remobra Hide x1 : 水光原珠 x1,翼蛇竜の皮 x1
-Perception Jwl 1 : Aquaglow Jewel x1,Slagtoth Hide x1 : Binoculars x1 : 水光原珠 x1,垂皮竜の皮 x1 : 双眼鏡 x1
-Ranger Jewel 1 : Aquaglow Jewel x1,Sushifish x1 : Raw Meat x2 : 水光原珠 x1,サシミウオ x1 : 生肉 x2
+Perception Jwl 1 : Aquaglow Jewel x1,Slagtoth Hide x1,Binoculars x1 : 水光原珠 x1,垂皮竜の皮 x1,双眼鏡 x1
+Ranger Jewel 1 : Aquaglow Jewel x1,Sushifish x1,Raw Meat x2 : 水光原珠 x1,サシミウオ x1,生肉 x2
 Ninja Jewel 1 : Aquaglow Jewel x1,Blue Kelbi Horn x2 : 水光原珠 x1,ケルビの蒼角 x2
-Handicraft Jwl 2 : Sunspire Jewel x1,Brutal Horn x1 : Agnaktor Carapace x2 : Bloodrun Jewel x1,Deviljho Talon x2 : 陽翔原珠 x1,荒々しい龍角 x1 : 炎戈竜の堅殻 x2 : 修羅原珠 x1,恐暴竜の鉤爪 x2
-Handicraft Jwl 3 : Lazurite Jewel x1,Dalamadur Talon x1 : Deviljho Gem x1 : 瑠璃原珠 x1,蛇王龍の鉤爪 x1 : 恐暴竜の宝玉 x1
-Artisan Jewel 3 : Sovereign Orb x1,Rathalos Fellwing x2 : Lrg Wyvern Gem x1 : 明王原珠 x1 : 火竜の剛翼 x2 : 大竜玉 x1
-Fencer Jewel 1 : Sunspire Jewel x1,Elder Dragon Blood x1 : Bloodrun Jewel x1,S.Rathalos Carapace x2 : B.Gravios Carapace x1 : 陽翔原珠 x1,古龍の血 x1 : 修羅原珠 x1,銀火竜の堅殻 x2 : 黒鎧竜の堅殻 x1
-Fencer Jewel 3 : Lazurite Jewel x1,Ukanlos Carapace x2 : Tigrex Maw x1 : 瑠璃原珠 x1,崩竜の堅殻 x2 : 轟竜のアギト x1
-Razor Jewel 1 : Sunspire Jewel x1,Basarios Wing x1 : Zinogre Shell x1 : Bloodrun Jewel x1,Rathian Plate x1 : 陽翔原珠 x1,岩竜の翼 x1 : 雷狼竜の甲殻 x1 : 修羅原珠 x1,雌火竜の逆鱗 x1
-Razor Jewel 3 : Lazurite Jewel x1,R.Basarios Wing x1 : Pale Bone x1 : 瑠璃原珠 x1,桃岩竜の翼 x1 : アルビノの中落ち x1
-Draw Jewel 1 : Sunspire Jewel x1,Diablos Shell x2 : Zinogre Horn x1 : Bloodrun Jewel x1,Uragaan Scute x2 : 陽翔原珠 x1,角竜の甲殻 x2 : 雷狼竜の角 x1 : 修羅原珠 x1,爆鎚竜の耐熱殻 x2
-Draw Jewel 2 : Lazurite Jewel x1,Brach Ebonshell+ x1 : R.Basarios Carapace x1 : 瑠璃原珠 x1,砕竜の堅黒曜甲 x1 : 桃岩竜の堅殻 x1
-Gambit Jewel 1 : Sunspire Jewel x1,Uragaan Scute x1 : Monster Bone+ x2 : Bloodrun Jewel x1,M.Tigrex Scale+ x2 : 陽翔原珠 x1,爆鎚竜の耐熱殻 x1 : 上竜骨 x2 : 修羅原珠 x1,大轟竜の上鱗 x2
-Gambit Jewel 3 : Lazurite Jewel x1,S.Zinogre Horn+ x1 : Zamtrios Hide+ x1 : 瑠璃原珠 x1,獄狼竜の尖角 x1 : 化け鮫の上皮 x1
+Handicraft Jwl 2 : Sunspire Jewel x1,Brutal Horn x1,Agnaktor Carapace x2 : 陽翔原珠 x1,荒々しい龍角 x1,炎戈竜の堅殻 x2
+Handicraft Jwl 2 : Bloodrun Jewel x1,Deviljho Talon x2 : 修羅原珠 x1,恐暴竜の鉤爪 x2
+Handicraft Jwl 3 : Lazurite Jewel x1,Dalamadur Talon x1,Deviljho Gem x1 : 瑠璃原珠 x1,蛇王龍の鉤爪 x1,恐暴竜の宝玉 x1
+Artisan Jewel 3 : Sovereign Orb x1,Rathalos Fellwing x2,Lrg Wyvern Gem x1 : 明王原珠 x1,火竜の剛翼 x2,大竜玉 x1
+Fencer Jewel 1 : Sunspire Jewel x1,Elder Dragon Blood x1 : 陽翔原珠 x1,古龍の血 x1
+Fencer Jewel 1 : Bloodrun Jewel x1,S.Rathalos Carapace x2,B.Gravios Carapace x1 : 修羅原珠 x1,銀火竜の堅殻 x2,黒鎧竜の堅殻 x1
+Fencer Jewel 3 : Lazurite Jewel x1,Ukanlos Carapace x2,Tigrex Maw x1 : 瑠璃原珠 x1,崩竜の堅殻 x2,轟竜のアギト x1
+Razor Jewel 1 : Sunspire Jewel x1,Basarios Wing x1,Zinogre Shell x1 : 陽翔原珠 x1,岩竜の翼 x1,雷狼竜の甲殻 x1
+Razor Jewel 1 : Bloodrun Jewel x1,Rathian Plate x1 : 修羅原珠 x1,雌火竜の逆鱗 x1
+Razor Jewel 3 : Lazurite Jewel x1,R.Basarios Wing x1,Pale Bone x1 : 瑠璃原珠 x1,桃岩竜の翼 x1,アルビノの中落ち x1
+Draw Jewel 1 : Sunspire Jewel x1,Diablos Shell x2,Zinogre Horn x1 : 陽翔原珠 x1,角竜の甲殻 x2,雷狼竜の角 x1
+Draw Jewel 1 : Bloodrun Jewel x1,Uragaan Scute x2 : 修羅原珠 x1,爆鎚竜の耐熱殻 x2
+Draw Jewel 2 : Lazurite Jewel x1,Brach Ebonshell+ x1,R.Basarios Carapace x1 : 瑠璃原珠 x1,砕竜の堅黒曜甲 x1,桃岩竜の堅殻 x1
+Gambit Jewel 1 : Sunspire Jewel x1,Uragaan Scute x1,Monster Bone+ x2 : 陽翔原珠 x1,爆鎚竜の耐熱殻 x1,上竜骨 x2
+Gambit Jewel 1 : Bloodrun Jewel x1,M.Tigrex Scale+ x2 : 修羅原珠 x1,大轟竜の上鱗 x2
+Gambit Jewel 3 : Lazurite Jewel x1,S.Zinogre Horn+ x1,Zamtrios Hide+ x1 : 瑠璃原珠 x1,獄狼竜の尖角 x1,化け鮫の上皮 x1
 Ironwall Jewel 1 : Sunspire Jewel x1,Barroth Shell x2 : 陽翔原珠 x1,土砂竜の甲殻 x2
-Ironwall Jewel 2 : Sunspire Jewel x1,Agnaktor Fin+ x1 : Agnaktor Carapace x3 : Bloodrun Jewel x1,R.Basarios Wing x2 : 陽翔原珠 x1,炎戈竜の上ヒレ x1 : 炎戈竜の堅殻 x3 : 修羅原珠 x1,桃岩竜の翼 x2
+Ironwall Jewel 2 : Sunspire Jewel x1,Agnaktor Fin+ x1,Agnaktor Carapace x3 : 陽翔原珠 x1,炎戈竜の上ヒレ x1,炎戈竜の堅殻 x3
+Ironwall Jewel 2 : Bloodrun Jewel x1,R.Basarios Wing x2 : 修羅原珠 x1,桃岩竜の翼 x2
 Shield Jewel 1 : Sunspire Jewel x1,Firestone x2 : 陽翔原珠 x1,紅蓮石 x2
-Shield Jewel 2 : Bloodrun Jewel x1,Brach Ebonshell+ x1 : Firecell Stone x3 : 修羅原珠 x1,砕竜の堅黒曜甲 x1 : 獄炎石 x3
-Grinder Jewel 1 : Aquaglow Jewel x1,G.Jaggi Claw x1 : Machalite Ore x1 : 水光原珠 x1,狗竜の爪 x1 : マカライト鉱石 x1
-Forceshot Jwl 1 : Sunspire Jewel x1,Monster Bone+ x2 : Popfish x5 : 陽翔原珠 x1,上竜骨 x2 : はじけイワシ x5
-Forceshot Jwl 3 : Lazurite Jewel x1,R.Basarios Carapace x2 : Monster Keenbone x2 : 瑠璃原珠 x1,桃岩竜の堅殻 x2 : 尖竜骨 x2
-Pierce Jewel 1 : Sunspire Jewel x1,Dignified Skull x1 : Hercudrome x2 : 陽翔原珠 x1,厳めしい頭骨 x1 : ドスヘラクレス x2
-Pierce Jewel 3 : Lazurite Jewel x1,B.Gravios Scalp x1 : Rare Scarab x2 : 瑠璃原珠 x1,黒鎧竜の頭殻 x1 : マレコガネ x2
-Pellet Jewel 1 : Sunspire Jewel x1,Ice Crystal x3 : Wyvern Fang x5 : 陽翔原珠 x1,氷結晶 x3 : 竜の牙 x5
-Pellet Jewel 3 : Lazurite Jewel x1,B.Gravios Carapace x1 : Fucium Ore x2 : 瑠璃原珠 x1,黒鎧竜の堅殻 x1 : ユニオン鉱石 x2
+Shield Jewel 2 : Bloodrun Jewel x1,Brach Ebonshell+ x1,Firecell Stone x3 : 修羅原珠 x1,砕竜の堅黒曜甲 x1,獄炎石 x3
+Grinder Jewel 1 : Aquaglow Jewel x1,G.Jaggi Claw x1,Machalite Ore x1 : 水光原珠 x1,狗竜の爪 x1,マカライト鉱石 x1
+Forceshot Jwl 1 : Sunspire Jewel x1,Monster Bone+ x2,Popfish x5 : 陽翔原珠 x1,上竜骨 x2,はじけイワシ x5
+Forceshot Jwl 3 : Lazurite Jewel x1,R.Basarios Carapace x2,Monster Keenbone x2 : 瑠璃原珠 x1,桃岩竜の堅殻 x2,尖竜骨 x2
+Pierce Jewel 1 : Sunspire Jewel x1,Dignified Skull x1,Hercudrome x2 : 陽翔原珠 x1,厳めしい頭骨 x1,ドスヘラクレス x2
+Pierce Jewel 3 : Lazurite Jewel x1,B.Gravios Scalp x1,Rare Scarab x2 : 瑠璃原珠 x1,黒鎧竜の頭殻 x1,マレコガネ x2
+Pellet Jewel 1 : Sunspire Jewel x1,Ice Crystal x3,Wyvern Fang x5 : 陽翔原珠 x1,氷結晶 x3,竜の牙 x5
+Pellet Jewel 3 : Lazurite Jewel x1,B.Gravios Carapace x1,Fucium Ore x2 : 瑠璃原珠 x1,黒鎧竜の堅殻 x1,ユニオン鉱石 x2
 ShotPlus Jewel 1 : Aquaglow Jewel x1,Monster Bone M x2 : 水光原珠 x1,竜骨【中】 x2
-ShotPlus Jewel 2 : Sunspire Jewel x1,Monster Bone+ x2 : Blue Cutthroat x2 : Bloodrun Jewel x1,Avian Finebone x2 : Stoutbone x1 : 陽翔原珠 x1,上竜骨 x2 : イチノタチウオ x2 : 修羅原珠 x1,上質な鳥竜骨 x2 : 堅牢な骨 x1
+ShotPlus Jewel 2 : Sunspire Jewel x1,Monster Bone+ x2,Blue Cutthroat x2 : 陽翔原珠 x1,上竜骨 x2,イチノタチウオ x2
+ShotPlus Jewel 2 : Bloodrun Jewel x1,Avian Finebone x2,Stoutbone x1 : 修羅原珠 x1,上質な鳥竜骨 x2,堅牢な骨 x1
 PiercePlus Jwl 1 : Sunspire Jewel x1,Dragonite Ore x2 : 陽翔原珠 x1,ドラグライト鉱石 x2
 PelletPlus Jwl 1 : Sunspire Jewel x1,Nibelsnarf Hide x2 : 陽翔原珠 x1,潜口竜の皮 x2
 CragPlus Jewel 1 : Sunspire Jewel x1,Rathalos Shell x2 : 陽翔原珠 x1,火竜の甲殻 x2
 ClustPlus Jwl 1 : Sunspire Jewel x1,Uragaan Scute x2 : 陽翔原珠 x1,爆鎚竜の耐熱殻 x2
 SlicePlus Jwl 1 : Aquaglow Jewel x1,Lagombi Pelt x2 : 水光原珠 x1,白兎獣の毛 x2
-BlastPlus Jwl 1 : Bloodrun Jewel x1,Brach Ebonshell x2 : Fire Herb x4 : 修羅原珠 x1,砕竜の黒曜甲 x2 : 火薬草 x4
-Salvo Jewel 1 : Sunspire Jewel x1,Tigrex Fang x2 : Zinogre Claw x2 : Bloodrun Jewel x1,Rath Medulla x2 : 陽翔原珠 x1,轟竜の牙 x2 : 雷狼竜の爪 x2 : 修羅原珠 x1,火竜の延髄 x2
-Salvo Jewel 3 : Lazurite Jewel x1,Ukanlos Shoveljaw x2 : Rathalos Plate x1 : 瑠璃原珠 x1,崩竜の削顎 x2 : 火竜の逆鱗 x1
+BlastPlus Jwl 1 : Bloodrun Jewel x1,Brach Ebonshell x2,Fire Herb x4 : 修羅原珠 x1,砕竜の黒曜甲 x2,火薬草 x4
+Salvo Jewel 1 : Sunspire Jewel x1,Tigrex Fang x2,Zinogre Claw x2 : 陽翔原珠 x1,轟竜の牙 x2,雷狼竜の爪 x2
+Salvo Jewel 1 : Bloodrun Jewel x1,Rath Medulla x2 : 修羅原珠 x1,火竜の延髄 x2
+Salvo Jewel 3 : Lazurite Jewel x1,Ukanlos Shoveljaw x2,Rathalos Plate x1 : 瑠璃原珠 x1,崩竜の削顎 x2,火竜の逆鱗 x1
 Quickload Jwl 1 : Sunspire Jewel x1,Carbalite Ore x3 : 陽翔原珠 x1,カブレライト鉱石 x3
-Quickload Jwl 2 : Sunspire Jewel x1,Nargacuga Cutwing x2 : Lightcrystal x2 : Bloodrun Jewel x1,Alluring Webbing x2 : 陽翔原珠 x1,迅竜の刃翼 x2 : ライトクリスタル x2 : 修羅原珠 x1,魅惑色の翼膜 x2
-Absorber Jewel 1 : Sunspire Jewel x1,Barroth Scalp x1 : Royal Ludroth Claw x1 : Bloodrun Jewel x1,Tetsucabra Carapace x2 : 陽翔原珠 x1,土砂竜の頭殻 x1 : 水獣の爪 x1 : 修羅原珠 x1,鬼蛙の堅殻 x2
-Absorber Jewel 3 : Lazurite Jewel x4 : Zamtrios Hide+ x2 : B.Gravios Carapace x2 : 瑠璃原珠 x4 : 化け鮫の上皮 x2 : 黒鎧竜の堅殻 x2
-Precise Jewel 1 : Adamant Orb x1,Heavy Drakesbone Oil x1 : S.Queen Cortex x2 : 金剛原珠 x1 : 超重質龍骨油 x1 : 重甲虫の重殻 x2
-Precise Jewel 2 : Sovereign Orb x1,Gogmazios Offenders x1 : Gravios Fellwing x3 : 明王原珠 x1 : 巨戟龍の戦爪 x1 : 鎧竜の剛翼 x3
+Quickload Jwl 2 : Sunspire Jewel x1,Nargacuga Cutwing x2,Lightcrystal x2 : 陽翔原珠 x1,迅竜の刃翼 x2,ライトクリスタル x2
+Quickload Jwl 2 : Bloodrun Jewel x1,Alluring Webbing x2 : 修羅原珠 x1,魅惑色の翼膜 x2
+Absorber Jewel 1 : Sunspire Jewel x1,Barroth Scalp x1,Royal Ludroth Claw x1 : 陽翔原珠 x1,土砂竜の頭殻 x1,水獣の爪 x1
+Absorber Jewel 1 : Bloodrun Jewel x1,Tetsucabra Carapace x2 : 修羅原珠 x1,鬼蛙の堅殻 x2
+Absorber Jewel 3 : Lazurite Jewel x4,Zamtrios Hide+ x2,B.Gravios Carapace x2 : 瑠璃原珠 x4,化け鮫の上皮 x2,黒鎧竜の堅殻 x2
+Precise Jewel 1 : Adamant Orb x1,Heavy Drakesbone Oil x1,S.Queen Cortex x2 : 金剛原珠 x1,超重質龍骨油 x1,重甲虫の重殻 x2
+Precise Jewel 2 : Sovereign Orb x1,Gogmazios Offenders x1,Gravios Fellwing x3 : 明王原珠 x1,巨戟龍の戦爪 x1,鎧竜の剛翼 x3
 Sniper Jewel 1 : Aquaglow Jewel x1,Unknown Skull x2 : 水光原珠 x1,なぞの頭骨 x2
 Paracoat Jewel 1 : Sunspire Jewel x1,Paralysis Sac x1 : 陽翔原珠 x1,麻痺袋 x1
-Paracoat Jewel 2 : Bloodrun Jewel x1,Alluring Hide x1 : Paralysis Sac x1 : 修羅原珠 x1,魅惑色の柔皮 x1 : 麻痺袋 x1
+Paracoat Jewel 2 : Bloodrun Jewel x1,Alluring Hide x1,Paralysis Sac x1 : 修羅原珠 x1,魅惑色の柔皮 x1,麻痺袋 x1
 Sleepcoat Jwl 1 : Sunspire Jewel x1,Sleep Sac x1 : 陽翔原珠 x1,睡眠袋 x1
 Poisoncoat Jwl 1 : Sunspire Jewel x1,Poison Sac x1 : 陽翔原珠 x1,毒袋 x1
-Powercoat Jwl 1 : Sunspire Jewel x1,Seltas Shell x1 : Nitroshroom x5 : 陽翔原珠 x1,徹甲虫の甲殻 x1 : ニトロダケ x5
-Powercoat Jwl 2 : Bloodrun Jewel x1,Seltas Carapace x1 : Uragaan Marrow x1 : 修羅原珠 x1,徹甲虫の堅殻 x1 : 爆鎚竜の骨髄 x1
-Rangecoat Jwl 1 : Sunspire Jewel x1,Royal Ludroth Claw x1 : Spongy Hide x1 : 陽翔原珠 x1,水獣の爪 x1 : 海綿質の皮 x1
-Blastcoat Jwl 1 : Bloodrun Jewel x1,Brach Carapace x2 : Mystery Slime x1 : 修羅原珠 x1,砕竜の堅殻 x2 : なぞの粘菌 x1
-Draincoat Jwl 1 : Sunspire Jewel x1,Wanchovy x2 : Monster Bone L x1 : 陽翔原珠 x1,シンドイワシ x2 : 竜骨【大】 x1
-Torchlight Jwl 1 : Sunspire Jewel x1,Mystery Slime x2 : Agnaktor Carapace x2 : 陽翔原珠 x1,なぞの粘菌 x2 : 炎戈竜の堅殻 x2
-Release Jewel 2 : Adamant Orb x1,Kirin Hide+ x1 : Kirin Icehorn x1 : 金剛原珠 x1 : キリンの上皮 x1 : キリンの氷角 x1
-Catalyst Jewel 3 : Adamant Orb x1,Kirin Frost Tail x2 : Kirin Azure Horn x1 : 金剛原珠 x1 : キリンの霜尾 x2 : キリンの蒼角 x1
-TrueCatalystJwl 3 : Sovereign Orb x1,S.Queen Moonlash x2 : Lrg Wyvern Gem x1 : 明王原珠 x1 : 重甲虫の断月尾 x2 : 大竜玉 x1
-Guts Jewel 1 : Adamant Orb x1,Rajang Blackfur x2 : Rajang Fang+ x1 : 金剛原珠 x1 : 金獅子の黒毛 x2 : 金獅子の鋭牙 x1
-Guts Jewel 2 : Adamant Orb x1,Rajang Nerve x1 : Rajang Horn+ x3 : 金剛原珠 x1 : 金獅子の闘魂 x1 : 金獅子の尖角 x3
-Meateater Jwl 1 : Adamant Orb x1,Deviljho Scalp x2 : 金剛原珠 x1 : 恐暴竜の頭殻 x2
-Meatlover Jwl 1 : Adamant Orb x1,Deviljho Scalp x2 : Paddock Oil x1 : 金剛原珠 x1 : 恐暴竜の頭殻 x2 : カワズの油 x1
-Fungiform Jewel 1 : Adamant Orb x1,Congalala Fur x4 : Massive Bone x1 : 金剛原珠 x1 : 桃毛獣の豪剛毛 x4 : 重厚な骨 x1
+Powercoat Jwl 1 : Sunspire Jewel x1,Seltas Shell x1,Nitroshroom x5 : 陽翔原珠 x1,徹甲虫の甲殻 x1,ニトロダケ x5
+Powercoat Jwl 2 : Bloodrun Jewel x1,Seltas Carapace x1,Uragaan Marrow x1 : 修羅原珠 x1,徹甲虫の堅殻 x1,爆鎚竜の骨髄 x1
+Rangecoat Jwl 1 : Sunspire Jewel x1,Royal Ludroth Claw x1,Spongy Hide x1 : 陽翔原珠 x1,水獣の爪 x1,海綿質の皮 x1
+Blastcoat Jwl 1 : Bloodrun Jewel x1,Brach Carapace x2,Mystery Slime x1 : 修羅原珠 x1,砕竜の堅殻 x2,なぞの粘菌 x1
+Draincoat Jwl 1 : Sunspire Jewel x1,Wanchovy x2,Monster Bone L x1 : 陽翔原珠 x1,シンドイワシ x2,竜骨【大】 x1
+Torchlight Jwl 1 : Sunspire Jewel x1,Mystery Slime x2,Agnaktor Carapace x2 : 陽翔原珠 x1,なぞの粘菌 x2,炎戈竜の堅殻 x2
+Release Jewel 2 : Adamant Orb x1,Kirin Hide+ x1,Kirin Icehorn x1 : 金剛原珠 x1,キリンの上皮 x1,キリンの氷角 x1
+Catalyst Jewel 3 : Adamant Orb x1,Kirin Frost Tail x2,Kirin Azure Horn x1 : 金剛原珠 x1,キリンの霜尾 x2,キリンの蒼角 x1
+TrueCatalystJwl 3 : Sovereign Orb x1,S.Queen Moonlash x2,Lrg Wyvern Gem x1 : 明王原珠 x1,重甲虫の断月尾 x2,大竜玉 x1
+Guts Jewel 1 : Adamant Orb x1,Rajang Blackfur x2,Rajang Fang+ x1 : 金剛原珠 x1,金獅子の黒毛 x2,金獅子の鋭牙 x1
+Guts Jewel 2 : Adamant Orb x1,Rajang Nerve x1,Rajang Horn+ x3 : 金剛原珠 x1,金獅子の闘魂 x1,金獅子の尖角 x3
+Meateater Jwl 1 : Adamant Orb x1,Deviljho Scalp x2 : 金剛原珠 x1,恐暴竜の頭殻 x2
+Meatlover Jwl 1 : Adamant Orb x1,Deviljho Scalp x2,Paddock Oil x1 : 金剛原珠 x1,恐暴竜の頭殻 x2,カワズの油 x1
+Fungiform Jewel 1 : Adamant Orb x1,Congalala Fur x4,Massive Bone x1 : 金剛原珠 x1,桃毛獣の豪剛毛 x4,重厚な骨 x1
 Honeybee Jewel 1 : Aquaglow Jewel x1,Arzuros Shell x2 : 水光原珠 x1,青熊獣の甲殻 x2
-Queenbee Jewel 1 : Bloodrun Jewel x1,Arzuros Shell x4 : Congalala Claw+ x1 : 修羅原珠 x1,青熊獣の甲殻 x4 : 桃毛獣の尖爪 x1
-Biology Jewel 1 : Adamant Orb x1,Volvidon Carapace x2 : 金剛原珠 x1 : 赤甲獣の堅殻 x2
-Microbio Jewel 1 : Adamant Orb x1,Volvidon Carapace x1 : Brach Ebonshell+ x2 : 金剛原珠 x1 : 赤甲獣の堅殻 x1 : 砕竜の堅黒曜甲 x2
-Spirit Jewel 1 : Adamant Orb x1,Brach Carapace x2 : Barroth Scalp x2 : 金剛原珠 x1 : 砕竜の堅殻 x2 : 土砂竜の頭殻 x2
-Spirit Jewel 2 : Adamant Orb x1,Brach Pounder x2 : Zinogre Electrofur x1 : 金剛原珠 x1 : 砕竜の剛拳 x2 : 雷狼竜の高電毛 x1
-Flawless Jewel 1 : Adamant Orb x1,S.Zinogre Horn+ x2 : S.Zinogre Carapace x2 : 金剛原珠 x1 : 獄狼竜の尖角 x2 : 獄狼竜の堅殻 x2
-Flawless Jewel 2 : Adamant Orb x1,S.Zinogre Claw+ x2 : Dalamadur Steel x2 : 金剛原珠 x1 : 獄狼竜の尖爪 x2 : 蛇王龍の鋼皮 x2
-Steady Jewel 1 : Adamant Orb x1,Fatalis Shell x2 : Mystery Slime x1 : 金剛原珠 x1 : 黒龍の甲殻 x2 : なぞの粘菌 x1
-Steady Jewel 3 : Adamant Orb x1,Fatalis Webbing x1 : Kirin Hide+ x1 : 金剛原珠 x1 : 黒龍の翼膜 x1 : キリンの上皮 x1
-Player Jewel 1 : Aquaglow Jewel x1,Palico Ticket x2 : Pawprint Stamp x2 : 水光原珠 x1,オトモチケット x2 : 肉球のスタンプ x2
-Morale Jewel 1 : Bloodrun Jewel x1,Palico Ticket x3 : King's Frill x2 : 修羅原珠 x1,オトモチケット x3 : 王者のエリマキ x2
-Leader Jewel 1 : Aquaglow Jewel x1,Palico Ticket x3 : Catalyst x2 : Max Potion x2 : 水光原珠 x1,オトモチケット x3 : 増強剤 x2 : 秘薬 x2
-Leader Jewel 2 : Lazurite Jewel x1,Palico Ticket x4 : Snakebee Larva x2 : 瑠璃原珠 x1,オトモチケット x4 : ツチハチノコ x2
-Charmer Jewel 1 : Fucium Ore x3 : Adamant Orb x1,Rath Gleam x1 : ユニオン鉱石 x3 : 金剛原珠 x1 : 火竜の煌液 x1
-Rodeo Jewel 1 : Adamant Orb x1,Kecha Leadbone x2 : Vespoid Razorwing x2 : 金剛原珠 x1 : 奇猿狐の重長骨 x2 : ランゴスタの斬羽 x2
+Queenbee Jewel 1 : Bloodrun Jewel x1,Arzuros Shell x4,Congalala Claw+ x1 : 修羅原珠 x1,青熊獣の甲殻 x4,桃毛獣の尖爪 x1
+Biology Jewel 1 : Adamant Orb x1,Volvidon Carapace x2 : 金剛原珠 x1,赤甲獣の堅殻 x2
+Microbio Jewel 1 : Adamant Orb x1,Volvidon Carapace x1,Brach Ebonshell+ x2 : 金剛原珠 x1,赤甲獣の堅殻 x1,砕竜の堅黒曜甲 x2
+Spirit Jewel 1 : Adamant Orb x1,Brach Carapace x2,Barroth Scalp x2 : 金剛原珠 x1,砕竜の堅殻 x2,土砂竜の頭殻 x2
+Spirit Jewel 2 : Adamant Orb x1,Brach Pounder x2,Zinogre Electrofur x1 : 金剛原珠 x1,砕竜の剛拳 x2,雷狼竜の高電毛 x1
+Flawless Jewel 1 : Adamant Orb x1,S.Zinogre Horn+ x2,S.Zinogre Carapace x2 : 金剛原珠 x1,獄狼竜の尖角 x2,獄狼竜の堅殻 x2
+Flawless Jewel 2 : Adamant Orb x1,S.Zinogre Claw+ x2,Dalamadur Steel x2 : 金剛原珠 x1,獄狼竜の尖爪 x2,蛇王龍の鋼皮 x2
+Steady Jewel 1 : Adamant Orb x1,Fatalis Shell x2,Mystery Slime x1 : 金剛原珠 x1,黒龍の甲殻 x2,なぞの粘菌 x1
+Steady Jewel 3 : Adamant Orb x1,Fatalis Webbing x1,Kirin Hide+ x1 : 金剛原珠 x1,黒龍の翼膜 x1,キリンの上皮 x1
+Player Jewel 1 : Aquaglow Jewel x1,Palico Ticket x2,Pawprint Stamp x2 : 水光原珠 x1,オトモチケット x2,肉球のスタンプ x2
+Morale Jewel 1 : Bloodrun Jewel x1,Palico Ticket x3,King's Frill x2 : 修羅原珠 x1,オトモチケット x3,王者のエリマキ x2
+Leader Jewel 1 : Aquaglow Jewel x1,Palico Ticket x3,Catalyst x2,Max Potion x2 : 水光原珠 x1,オトモチケット x3,増強剤 x2,秘薬 x2
+Leader Jewel 2 : Lazurite Jewel x1,Palico Ticket x4,Snakebee Larva x2 : 瑠璃原珠 x1,オトモチケット x4,ツチハチノコ x2
+Charmer Jewel 1 : Fucium Ore x3,Adamant Orb x1,Rath Gleam x1 : ユニオン鉱石 x3,金剛原珠 x1,火竜の煌液 x1
+Rodeo Jewel 1 : Adamant Orb x1,Kecha Leadbone x2,Vespoid Razorwing x2 : 金剛原珠 x1,奇猿狐の重長骨 x2,ランゴスタの斬羽 x2
