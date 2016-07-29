@@ -28,7 +28,7 @@
     <property name="app.src.dir" value="../mhag/src/main/java"/>
     <property name="data.dir" value="../mhag/src/main/resources/org/mhag/model/data"/>
     <property name="war.dir" value="web/war"/>
-    <property name="war.config.dir" value="web/config"/>
+    <property name="war.config.dir" value="config"/>
 
     <property name="project.name" value="mhag"/>
 
@@ -88,7 +88,7 @@
     <target name="copy-data">
         <fail unless="config.filterset" message="Please enter the filterset to be used"/>
         <copy todir="${build.config.dir}" overwrite="true" filtering="true">
-            <fileset dir="${war.config.dir}"/>
+            <fileset dir="config"/>
             <filterset refid="${config.filterset}"/>
         </copy>
     </target>
@@ -125,7 +125,7 @@
         <fail unless="game.name" message="Please specify the game"/>
         <fail unless="game.dir" message="Please specify the game resource directory"/>
 
-        <war warfile="${dist.dir}/${game.name}.war" webxml="${war.dir}/WEB-INF/web.xml">
+        <war warfile="${dist.dir}/${game.name}.war" webxml="src/main/webapp/WEB-INF/web.xml">
             <!-- copy static resources -->
             <fileset dir="${war.dir}" excludes="WEB-INF/web.xml"/>
             <fileset dir="${project.dir}/${game.dir}/"/>
