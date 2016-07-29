@@ -1,0 +1,619 @@
+﻿Leather Belt
+Chainmail Belt
+Beruna Belt
+Hunting Faulds
+Hunting Coat
+Mafumofu Coat
+Yukumo Obi
+Loc Lac Kilt
+Hunter's Faulds
+Hunter's Coat
+Bone Faulds
+Bone Coat
+Light Belt
+Iron Belt
+Jaggi Faulds
+Jaggi Coat
+Maccau Faulds
+Maccau Coat
+Velociprey Faulds
+Velociprey Coat
+Giaprey Faulds
+Giaprey Coat
+Genprey Faulds
+Genprey Coat
+Vespoid Faulds
+Vespoid Coat
+Hornet Faulds
+Hornet Coat
+Bnahabra Coil
+Bnahabra Coat
+Mosswine Hip
+Rhenoplos Coil
+Rhenoplos Coat
+Bullfango Faulds
+Bullfango Coat
+Arzuros Faulds
+Arzuros Coat
+Cephalos Faulds
+Cephalos Coat
+Derring Belt
+Alloy Coil
+Alloy Coat
+Battle Faulds
+Battle Coat
+Ingot Coil
+Ingot Coat
+High Metal Faulds
+High Metal Coat
+Melahoa Folia
+Melahoa Fronds
+Makluva Coat
+Makluva Fin
+Bistro Smock
+Bistro Apron
+Obituary Elytra
+Obituary Alae
+Butterfly Elytra
+Butterfly Alae
+Death Stench Bowels
+Death Stench Belly
+Mosgharl Folia
+Mosgharl Fronds
+Edel Folia
+Edel Fronds
+Scarab Anca
+Scarab Cocusa
+Spider Anca
+Spider Cocusa
+Droth Faulds
+Droth Coat
+Uroktor Faulds
+Uroktor Coat
+Mufa Coil
+Mufa Coat
+Remobra Belt
+Remobra Band
+Ioprey Faulds
+Ioprey Coat
+Kut-Ku Faulds
+Kut-Ku Coat
+Lagombi Faulds
+Lagombi Coat
+Gypceros Faulds
+Gypceros Coat
+Tetsucabra Faulds
+Tetsucabra Coat
+Hermitaur Faulds
+Hermitaur Coat
+Volvidon Faulds
+Volvidon Coat
+Ludroth Faulds
+Ludroth Coat
+Hororo Faulds
+Hororo Coat
+Khezu Faulds
+Khezu Coat
+Rathian Faulds
+Rathian Coat
+Nibelsnarf Faulds
+Nibelsnarf Coat
+Blango Faulds
+Blango Coat
+Ceanataur Faulds
+Ceanataur Coat
+Najarala Faulds
+Najarala Coat
+Nargacuga Faulds
+Nargacuga Coat
+Sage Coil
+Sage Coat
+Viking Faulds
+Viking Coat
+Aelucanth Elytra
+Aelucanth Alae
+Rhopessa Elytra
+Rhopessa Alae
+Garuga Faulds
+Garuga Coat
+Uragaan Faulds
+Uragaan Coat
+Rathalos Faulds
+Rathalos Coat
+Lagiacrus Faulds
+Lagiacrus Coat
+Zinogre Faulds
+Zinogre Coat
+Tama Faulds
+Tama Coat
+Raizex Faulds
+Raizex Coat
+Gamuto Faulds
+Gamuto Coat
+Dino Faulds
+Dino Coat
+Gore Faulds
+Gore Coat
+Regios Faulds
+Regios Coat
+Tigrex Faulds
+Tigrex Coat
+Kirin Hoop
+Kirin Shorts
+Brachydios Faulds
+Brachydios Coat
+Arc Faulds
+Arc Coat
+Storge Faulds
+Storge Coat
+Kushala Cocoon
+Kushala Wind Wrap
+Mizuha Sash
+Cham Coat
+Kaiser Faulds
+Kaiser Coat
+Exhumed Acetabulum
+Disinterred Acetabulum
+Black Spine
+Black Scale
+Black Belt Faulds
+Black Belt Coat
+Guild Bard Coil
+Guild Bard Coat
+Maiden's Folia
+Personal Frills
+Helper Folia
+Healer Frills
+Dianthus Folia
+Campanile Folia
+Nyan Smock
+Nyan Apron
+Leather Faulds S
+Leather Coat S
+Chainmail Faulds S
+Chainmail Coat S
+Beruna Belt S
+Beruna Coat S
+Hunting Faulds S
+Hunting Coat S
+Mafumofu Coil S
+Mafumofu Coat S
+Yukumo Sky Obi
+Yukumo Land Obi
+Loc Lac Kilt S
+Hunter's Faulds S
+Hunter's Coat S
+Hunter Faulds R
+Hunter Coat R
+Bone Faulds S
+Bone Coat S
+Light Belt S
+Iron Belt S
+Melahoa Folia S
+Melahoa Fronds S
+Melahoa Folia U
+Melahoa Fronds U
+Makluva Coil S
+Makluva Fin S
+Makluva Coil U
+Makluva Fin U
+Bistro Sarong S
+Bistro Apron S
+Mosgharl Folia S
+Mosgharl Fronds S
+Edel Folia S
+Edel Fronds S
+Mufa Coil S
+Mufa Coat S
+Remobra Belt S
+Remobra Band S
+Mosswine Hip S
+Rhenoplos Coil S
+Rhenoplos Coat S
+Jaggi Faulds S
+Jaggi Coat S
+Droth Faulds S
+Droth Coat S
+Uroktor Faulds S
+Uroktor Coat S
+Maccau Faulds S
+Maccau Coat S
+Velociprey Faulds S
+Velociprey Coat S
+Giaprey Faulds S
+Giaprey Coat S
+Genprey Faulds S
+Genprey Coat S
+Genprey Faulds EX
+Genprey Coat EX
+Ioprey Faulds S
+Ioprey Coat S
+Ioprey Faulds EX
+Ioprey Coat EX
+Vespoid Faulds S
+Vespoid Coat S
+Vespoid Faulds EX
+Vespoid Coat EX
+Hornet Faulds S
+Hornet Coat S
+Hornet Faulds EX
+Hornet Coat EX
+Hornet Faulds R
+Hornet Coat R
+Bnahabra Coil S
+Bnahabra Coat S
+Bullfango Faulds S
+Bullfango Coat S
+Arzuros Faulds S
+Arzuros Coat S
+Cephalos Faulds S
+Cephalos Coat S
+Cephalos Faulds EX
+Cephalos Coat EX
+Kut-Ku Faulds S
+Kut-Ku Coat S
+Kecha Faulds
+Kecha Coat
+Lagombi Faulds S
+Lagombi Coat S
+Gypceros Faulds S
+Gypceros Coat S
+Gypceros Faulds R
+Gypceros Coat R
+Tetsucabra Faulds S
+Tetsucabra Coat S
+Hermitaur Faulds S
+Hermitaur Coat S
+EX Hermitaur Faulds
+EX Hermitaur Coat
+Hermitaur Faulds R
+Hermitaur Coat R
+Volvidon Faulds S
+Volvidon Coat S
+Ludroth Faulds S
+Ludroth Coat S
+Ludroth Faulds R
+Ludroth Coat R
+Lecturer's Folia
+Lecturer's Frills
+Alloy Coil S
+Alloy Coat S
+Alloy Coil R
+Alloy Coat R
+Battle Faulds S
+Battle Coat S
+Ingot Coil S
+Ingot Coat S
+Ingot Coil R
+Ingot Coat R
+High Metal Faulds S
+High Metal Coat S
+High Metal Faulds U
+High Metal Coat U
+Lobster Coil
+Lobster Coat
+Obituary Elytra S
+Obituary Alae S
+Butterfly Elytra S
+Butterfly Alae S
+Death Stench Bowels S
+Death Stench Belly S
+Death Stench Bowels R
+Death Stench Belly R
+Viking Faulds S
+Viking Coat S
+Aelucanth Elytra S
+Aelucanth Alae S
+Rhopessa Elytra S
+Rhopessa Alae S
+Patissier's Sarong
+Patissier's Apron
+Scarab Anca S
+Scarab Cocusa S
+Spider Anca S
+Spider Cocusa S
+Hororo Faulds S
+Hororo Coat S
+Zamtrios Faulds
+Zamtrios Coat
+Khezu Faulds S
+Khezu Coat S
+Khezu Faulds R
+Khezu Coat R
+Rathian Faulds S
+Rathian Coat S
+EX Rathian Faulds
+EX Rathian Coat
+Rathian Faulds R
+Rathian Coat R
+Nibelsnarf Faulds S
+Nibelsnarf Coat S
+Blango Faulds S
+Blango Coat S
+EX Blango Faulds
+EX Blango Coat
+Lava Faulds
+Lava Coat
+EX Lava Faulds
+EX Lava Coat
+Ceanataur Faulds S
+Ceanataur Coat S
+EX Ceanataur Faulds
+EX Ceanataur Coat
+Ceanataur Faulds R
+Ceanataur Coat R
+Najarala Faulds S
+Najarala Coat S
+Nargacuga Faulds S
+Nargacuga Coat S
+Garuga Faulds S
+Garuga Coat S
+Uragaan Faulds S
+Uragaan Coat S
+Black Belt Faulds S
+Black Belt Coat S
+Guardian Coil
+Guardian Coat
+Guardian Coil U
+Guardian Coat U
+Scholar's Folia
+Scholar's Mini
+Sailor Folia
+Sailor Mini
+Derring Faulds S
+Derring Coat S
+Dober Coil
+Dober Coat
+Damascus Coil
+Damascus Coat
+Damascus Coil R
+Damascus Coat R
+Chrome Metal Coil
+Chrome Metal Coat
+Artian Coil S
+Artian Coat S
+Artian Coil R
+Artian Coat R
+Seltas Faulds
+Seltas Coat
+Rathalos Faulds S
+Rathalos Coat S
+EX Rathalos Faulds
+EX Rathalos Coat
+Rathalos Faulds R
+Rathalos Coat R
+Lagiacrus Faulds S
+Lagiacrus Coat S
+Lagiacrus Faulds R
+Lagiacrus Coat R
+Zinogre Faulds S
+Zinogre Coat S
+EX Zinogre Faulds
+EX Zinogre Coat
+Tama Faulds S
+Tama Coat S
+Raizex Faulds S
+Raizex Coat S
+Gamuto Faulds S
+Gamuto Coat S
+Dino Faulds S
+Dino Coat S
+Agnaktor Faulds
+Agnaktor Coat
+Gore Faulds S
+Gore Coat S
+EX Gore Faulds
+EX Gore Coat
+Gore Faulds R
+Gore Coat R
+Regios Faulds S
+Regios Coat S
+Duramboros Faulds
+Duramboros Coat
+Tigrex Faulds S
+Tigrex Coat S
+EX Tigrex Faulds
+EX Tigrex Coat
+Tigrex Faulds R
+Tigrex Coat R
+Kirin Hoop S
+Kirin Shorts S
+Kirin Hoop R
+Kirin Shorts R
+Brachydios Faulds S
+Brachydios Coat S
+EX Brachydios Faulds
+EX Brachydios Coat
+Golden Obi
+Puppeteer Obi
+Vangis Coil
+Vangis Coat
+Guild Knight Coat
+Guild Knight Kilt
+Maiden's Folia S
+Personal Frills S
+Guild Guard B. Coil
+Guild Guard B. Coat
+Guild Guard B. Coil
+Guild Guard B. Coat
+Guild Guard R. Coil
+Guild Guard R. Coat
+Guild Guard R. Coil
+Guild Guard R. Coat
+Helper Folia S
+Healer Frills S
+Helper Folia U
+Healer Frills U
+Guild Bard Coil S
+Guild Bard Coat S
+Chakra Waistlet
+Dianthus Wealskirt
+Campanile Wealskirt
+Ace Faulds
+Ace Coat
+Sororal Faulds
+Sororal Coat
+Hawkcoil
+Hawkcoat
+Nyan Smock S
+Nyan Apron S
+Sage Coil S
+Sage Coat S
+Ranger's Sash
+Archer's Belt
+Shinobi Sky Belt
+Shinobi Land Belt
+Shinobi Air Belt
+Shinobi Sea Belt
+Wycademy Coil
+Wycademy Coil
+Master Faulds
+Master Coat
+Black Spine S
+Black Scale S
+Wood Blossom Girdle
+Three Flower Girdle
+EX Rathian Faulds S
+EX Rathian Coat S
+EX Rathalos Faulds S
+EX Rathalos Coat S
+EX Tigrex Faulds S
+EX Tigrex Coat S
+Arc Faulds S
+Arc Coat S
+Storge Faulds S
+Storge Coat S
+EX Arc Faulds
+EX Arc Coat
+EX Storge Faulds
+EX Storge Coat
+Arc Faulds R
+Arc Coat R
+Storge Faulds R
+Storge Coat R
+Kushala Cocoon S
+Kushala Wind Wrap S
+EX Kushala Cocoon
+EX Kushala Wind Wrap
+Kushala Cocoon R
+Kushala Wind Wrap R
+Grand Mizuha Sash
+Grand Cham Coat
+EX Mizuha Sash
+EX Cham Coat
+Kaiser Faulds S
+Kaiser Coat S
+EX Kaiser Faulds
+EX Kaiser Coat
+Silver Solcoil
+Silver Solcoat
+EX Silver Solcoil
+EX Silver Solcoat
+Silver Solcoil R
+Silver Solcoat R
+Golden Lunecoil
+Golden Lunecoat
+EX Golden Lunecoil
+EX Golden Lunecoat
+Divine Ire Obi
+Crusher Belt
+Esurient Faulds
+Esurient Coat
+Esurient Faulds R
+Esurient Coat R
+Akantor Cincture
+Akantor Sash
+Akantor Cincture R
+Akantor Sash R
+Ukanlos Cincture
+Ukanlos Sash
+Tempest Obi
+Welkin Obi
+Faux Tempest Obi
+Faux Welkin Obi
+Grand Exhumed Acetabulum
+Grand Disinterred Acetabulum
+Azure Star Coil 
+Azure Star Coat 
+Escadora Might
+Escadora Force
+Escadora Might R
+Escadora Force R
+Variant Faulds
+Variant Coat
+Crimson Faulds LV1
+Crimson Coat LV1
+Crimson Faulds LV6
+Crimson Coat LV6
+Blizzard Faulds LV1
+Blizzard Coat LV1
+Blizzard Faulds LV6
+Blizzard Coat LV6
+Crushing Faulds LV1
+Crushing Coat LV1
+Crushing Faulds LV6
+Crushing Coat LV6
+Toxic Faulds LV1
+Toxic Coat LV1
+Toxic Faulds LV6
+Toxic Coat LV6
+Drilling Faulds LV1
+Drilling Coat LV1
+Drilling Faulds LV6
+Drilling Coat LV6
+Tempest Faulds LV1
+Tempest Coat LV1
+Tempest Faulds LV6
+Tempest Coat LV6
+Precious Faulds LV1
+Precious Coat LV1
+Precious Faulds LV6
+Precious Coat LV6
+One-Eyed Faulds LV1
+One-Eyed Coat LV1
+One-Eyed Faulds LV6
+One-Eyed Coat LV6
+Blazing Faulds LV1
+Blazing Coat LV1
+Blazing Faulds LV6
+Blazing Coat LV6
+Golden Faulds LV1
+Golden Coat LV1
+Golden Faulds LV6
+Golden Coat LV6
+Fierce Faulds LV1
+Fierce Coat LV1
+Fierce Faulds LV6
+Fierce Coat LV6
+Ember Faulds LV1
+Ember Coat LV1
+Ember Faulds LV6
+Ember Coat LV6
+Starsigil Girdle
+Starscape Girdle
+Dreamseer Girdle
+Dreamspeaker Girdle
+Bouya Belt
+Bouya Buckle
+Pirate J Coil
+Pirate J Skirt
+Star Knight Coil
+Star Knight Coat
+Raiqlo Ring Belt
+Raiqlo Pouch
+L. Pirate J Coil
+L. Pirate J Skirt
+Blue Star Coil
+Blue Star Coat
+Grand Starsigil Girdle
+Grand Starscape Girdle
+Grand Dreamseer Girdle
+Grand Dreamspeaker Girdle
+Star Rook Coil
+Star Rook Coat
+Hero's Belt
+Hero's Band
+Champion's Belt
+Strongman Belt
+Zodiac Coil
+Zodiac Coat

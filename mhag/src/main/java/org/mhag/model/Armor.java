@@ -75,7 +75,7 @@ public class Armor {
 		int addDef = 0;
 		if(game == 1) //mhp3rd
 			addJP = 1;
-		else if(game == 3 || game == 4) //mh3g
+		else if(game == 3 || game == 4 || game == 5) //mh3g
 		{
 			addJP = 1;
 			addDef = 1;

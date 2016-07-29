@@ -46,7 +46,7 @@ public class Skill {
 
 		int addJP = 0;
 		boolean addG = false;
-		if(game == 1) //mhp3rd
+		if(game == 1 || game == 5) //mhp3rd
 			addJP = 1;
 		else if(game == 3 || game == 4) //mh3g
 		{

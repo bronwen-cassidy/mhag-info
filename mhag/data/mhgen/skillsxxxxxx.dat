@@ -1,0 +1,147 @@
+﻿Poison : 毒 : Negate Poison : 毒耐性 : 10 : Double Poison : 毒倍加 : -10
+Paralysis : 麻痺 : Negate Paralysis : 麻痺無効 : 10 : Double Paralysis : 麻痺倍加 : -10
+Sleep : 睡眠 : Negate Sleep : 睡眠無効 : 10 : Double Sleep : 睡眠倍加 : -10
+Stun : 気絶 : Halve Stun : 気絶確率半減 : 10 : Negate Stun : 気絶無効 : 15 : Double Stun : 気絶倍加 : -10
+Hearing : 聴覚保護 : Earplugs : 耳栓 : 10 : HG Earplugs : 高級耳栓 : 15
+Wind Res : 風圧 : Windproof (Lo) : 風圧【小】無効 : 10 : Windproof (Hi) : 風圧【大】無効 : 15
+Tremor Res : 耐震 : Tremor Res : 耐震 : 10
+Tumbling Res : だるま : Tumbling Res : だるま無効 : 10
+Heat Res : 耐暑 : Heat Cancel : 暑さ無効 : 10 : Heat Surge : 暑さ倍加 : -10
+Cold Res : 耐寒 : Cold Cancel : 寒さ無効 : 10 : Cold Surge : 寒さ倍加 : -10
+Cold Acc : 寒冷適応 : North Wind Hunter : 北風の狩人 : 10
+Heat Acc : 炎熱適応 : South Wind Hunter : 南風の狩人 : 10
+Anti-Theft : 盗み無効 : Anti-Theft : 盗み無効 : 10
+Def Lock : 対防御DOWN : Iron Skin : 鉄面皮 : 10
+Frenzy Res : 狂撃耐性 : Antivirus : 無我の境地 : 10
+Biology : 細菌学 : Bio Researcher : 細菌研究家 : 10 : Bio Master : バイオドクター : 15
+Bleeding : 裂傷 : Negate Bleeding : 裂傷無効 : 10 : Double Bleeding : 裂傷倍加 : -10
+Attack : 攻撃 : Attack Up (S) : 攻撃力UP【小】 : 10 : Attack Up (M) : 攻撃力UP【中】 : 15 : Attack Up (L) : 攻撃力UP【大】 : 20 : Attack Down (S) : 攻撃力DOWN【小】 : -10 : Attack Down (M) : 攻撃力DOWN【中】 : -15 : Attack Down (L) : 攻撃力DOWN【大】 : -20
+Defense : 防御 : Defense Up (S) : 防御力UP【小】 : 10 : Defense Up (M) : 防御力UP【中】 : 15 : Defense Up (L) : 防御力UP【大】 : 20 : Defense Down (S) : 防御力DOWN【小】 : -10 : Defense Down (M) : 防御力DOWN【中】 : -15 : Defense Down (L) : 防御力DOWN【大】 : -20
+Health : 体力 : Health +20 : 体力+20 : 10 : Health +50 : 体力+50 : 15 : Health -10 : 体力-10 : -10 : Health -30 : 体力-30 : -15
+Fire Res : 火耐性 : Fire Res +15 : 火耐性【小】 : 10 : Fire Res +20 : 火耐性【大】 : 15 : Fire Res -20 : 火耐性弱化 : -10
+Water Res : 水耐性 : Water Res +15 : 水耐性【小】 : 10 : Water Res +20 : 水耐性【大】 : 15 : Water Res -20 : 水耐性弱化 : -10
+Thunder Res : 雷耐性 : Thunder Res +15 : 雷耐性【小】 : 10 : Thunder Res +20 : 雷耐性【大】 : 15 : Thunder Res -20 : 雷耐性弱化 : -10
+Ice Res : 氷耐性 : Ice Res +15 : 氷耐性【小】 : 10 : Ice Res +20 : 氷耐性【大】 : 15 : Ice Res -20 : 氷耐性弱化 : -10
+Dragon Res : 龍耐性 : Dragon Res +15 : 龍耐性【小】 : 10 : Dragon Res +20 : 龍耐性【大】 : 15 : Dragon Res -20 : 龍耐性弱化 : -10
+Blight Res : 属性耐性 : Blightproof : 属性やられ無効 : 10
+Fire Atk : 火属性攻撃 : Fire Atk +1 : 火属性攻撃強化+1 : 10 : Fire Atk +2 : 火属性攻撃強化+2 : 15 : Fire Atk Down : 火属性攻撃弱化 : -10
+Water Atk : 水属性攻撃 : Water Atk +1 : 水属性攻撃強化+1 : 10 : Water Atk +2 : 水属性攻撃強化+2 : 15 : Water Atk Down : 水属性攻撃弱化 : -10
+ThunderAtk : 雷属性攻撃 : Thunder Atk +1 : 雷属性攻撃強化+1 : 10 : Thunder Atk +2 : 雷属性攻撃強化+2 : 15 : Thunder Atk Down : 雷属性攻撃弱化 : -10
+Ice Atk : 氷属性攻撃 : Ice Atk +1 : 氷属性攻撃強化+1 : 10 : Ice Atk +2 : 氷属性攻撃強化+2 : 15 : Ice Atk Down : 氷属性攻撃弱化 : -10
+Dragon Atk : 龍属性攻撃 : Dragon Atk +1 : 龍属性攻撃強化+1 : 10 : Dragon Atk +2 : 龍属性攻撃強化+2 : 15 : Dragon Atk Down : 龍属性攻撃弱化 : -10
+Elemental : 属性攻撃 : Element Atk Up : 属性攻撃強化 : 10 : Element Atk Down : 属性攻撃弱化 : -10
+Special Attack : 特殊攻撃 : Status Atk +1 : 状態異常攻撃+1 : 10 : Status Atk +2 : 状態異常攻撃+2 : 15 : Status Atk Down : 状態異常攻撃弱化 : -10
+Sharpener : 研ぎ師 : Speed Sharpening : 砥石使用高速化 : 10 : Slow Sharpening : 砥石使用低速化 : -10
+Handicraft : 匠 : Sharpness +1 : 斬れ味レベル+1 : 10 : Sharpness +2 : 斬れ味レベル+2 : 15
+Sharpness : 斬れ味 : Razor Sharp : 業物 : 10 : Blunt Edge : なまくら : -10
+Fencing : 剣術 : Mind's Eye : 心眼 : 10 : Blind Eye : 未熟 : -10
+Polishing : 研磨術 : Tough Blade : 剛刃研磨 : 10
+Blunt : 鈍器 : Obtuse Blade : 鈍器使い : 10
+Crit Draw : 抜刀会心 : Critical Draw : 抜刀術【技】 : 10
+PunishDraw : 抜刀減気 : Punishing Draw : 抜刀術【力】 : 10
+Sheathing : 納刀 : Quick Sheath : 納刀術 : 10
+Reload Spd : 装填速度 : Reload Speed +1 : 装填速度+1 : 10 : Reload Speed +2 : 装填速度+2 : 15 : Reload Speed +3 : 装填速度+3 : 20 : Reload Speed -1 : 装填速度-1 : -10 : Reload Speed -2 : 装填速度-2 : -15 : Reload Speed -3 : 装填速度-3 : -20
+Recoil : 反動 : Recoil Down +1 : 反動軽減+1 : 10 : Recoil Down +2 : 反動軽減+2 : 15 : Recoil Down +3 : 反動軽減+3 : 20 : Recoil Down -1 : 反動軽減-1 : -10 : Recoil Down -2 : 反動軽減-2 : -15 : Recoil Down -3 : 反動軽減-3 : -20
+Precision : 精密射撃 : Steadiness +1 : ブレ抑制+1 : 10 : Steadiness +2 : ブレ抑制+2 : 15 : Steadiness -1 : ブレ抑制-1 : -10 : Steadiness -2 : ブレ抑制-2 : -15
+Normal Up : 通常弾強化 : Normal/Rapid Up : 通常弾・連射矢UP : 10
+Pierce Up : 貫通弾強化 : Pierce/Pierce Up : 貫通弾・貫通矢UP : 10
+Pellet Up : 散弾強化 : Pellet/Spread Up : 散弾・拡散矢UP : 10
+Strike Up : 重撃弾強化 : Strike/Heavy Up : 重撃弾・重射矢UP : 10
+Normal S+ : 通常弾追加 : Use Any Normal S : 通常弾全LV追加 : 10
+Pierce S+ : 貫通弾追加 : Use Lv1 Pierce S : 貫通弾LV1追加 : 10 : Use Any Pierce S : 貫通弾全LV追加 : 15
+Pellet S+ : 散弾追加 : Use Lv1 Pellet S : 散弾LV1追加 : 10 : Use Any Pellet S : 散弾全LV追加 : 15
+Crag S+ : 榴弾追加 : Use Lv1 Crag S : 徹甲榴弾LV1追加 : 10 : Use Any Crag S : 徹甲榴弾全LV追加 : 15
+Clust S+ : 拡散弾追加 : Use Lv1 Clust S : 拡散弾LV1追加 : 10 : Use Any Clust S : 拡散弾全LV追加 : 15
+Poison C+ : 毒瓶追加 : Use Poison Coat : 毒ビン追加 : 10
+Para C+ : 麻痺瓶追加 : Use Para Coat : 麻痺ビン追加 : 10
+Sleep C+ : 睡眠瓶追加 : Use Sleep Coat : 睡眠ビン追加 : 10
+Power C+ : 強撃瓶追加 : Use Lv 1 Power C. : 強撃ビンLV1追加 : 10 : Use All Power C. : 強撃ビン全LV追加 : 15
+Element C+ : 属強瓶追加 : Use Lv 1 Elem. C. : 属強ビンLV1追加 : 10 : Use All Elem. C. : 属強ビン全LV追加 : 15
+C.Range C+ : 接撃瓶追加 : Use C.Range Coat : 接撃ビン追加 : 10
+Exhaust C+ : 減気瓶追加 : Use Exhaust Coat : 減気ビン追加 : 10
+Blast C+ : 爆破瓶追加 : Use Blast Coat : 爆破ビン追加 : 10
+Rapid Fire : 速射 : Bonus Shot : 連発数+1 : 10
+Dead Eye : 射法 : Trajectory : 弾導強化 : 10
+Ammo : 装填数 : Load Up : 装填数UP : 10
+Irregular S. : 変則射撃 : Special Shots Up : 特定射撃強化 : 10
+Ammo Depot : 弾薬節約 : Ammo Depot : 弾薬節約 : 10
+Expert : 達人 : Critical Eye +1 : 見切り+1 : 10 : Critical Eye +2 : 見切り+2 : 15 : Critical Eye +3 : 見切り+3 : 20 : Critical Eye -1 : 見切り-1 : -10 : Critical Eye -2 : 見切り-2 : -15 : Critical Eye -3 : 見切り-3 : -20
+Tenderizer : 痛撃 : Weakness Exploit : 弱点特効 : 10
+Unceasing : 連撃 : Chaining Proficiency : 連撃の心得 : 10
+CritStatus : 特殊会心 : Status Crit : 会心撃【特殊】 : 10
+CritElemnt : 属性会心 : Elemental Crit : 会心撃【属性】 : 10
+Crit. Boost : 会心強化 : Super Crit : 超会心 : 10
+FastCharge : 溜め短縮 : Focus : 集中 : 10 : Distraction : 雑念 : -10
+Stamina : スタミナ : Marathon Runner : ランナー : 10 : Short Sprinter : 鈍足 : -10
+Constitutn : 体術 : Constitution +1 : 体術+1 : 10 : Constitution +2 : 体術+2 : 15 : Constitution -1 : 体術-1 : -10 : Constitution -2 : 体術-2 : -15
+Stam Recov : 気力回復 : Stam Recov Up : スタミナ急速回復 : 10 : Stam Recov Down : スタミナ回復遅延 : -10
+Evasion : 回避性能 : Evasion +1 : 回避性能+1 : 10 : Evasion +2 : 回避性能+2 : 15 : Evasion Down : 回避性能DOWN : -10
+Evade Dist : 回避距離 : Evade Extender : 回避距離UP : 10
+Bubbles : 泡沫 : Bubble Dancer : 泡沫の舞 : 10
+Guard : ガード性能 : Guard +1 : ガード性能+1 : 10 : Guard +2 : ガード性能+2 : 15 : Guard -1 : ガード性能-1 : -10
+Guard Boost : ガード強化 : Guard Boost : ガード強化 : 10
+KO : KO : Knockout King : KO術 : 10
+Stam Drain : 減気攻撃 : Stamina Thief : スタミナ奪取 : 10
+Maestro : 笛 : Horn Maestro : 笛吹き名人 : 10
+Artillery : 砲術 : Artillery Novice : 砲術師 : 10 : Artillery Expert : 砲術王 : 15
+Destroyer : 重撃 : Partbreaker : 破壊王 : 10
+Bomb Boost : 爆弾強化 : Bombardier : ボマー : 10
+Gloves Off : 本気 : Latent Power +1 : 力の解放+1 : 10 : Latent Power +2 : 力の解放+2 : 15
+Spirit : 闘魂 : Challenger +1 : 挑戦者+1 : 10 : Challenger +2 : 挑戦者+2 : 15
+Unscathed : 無傷 : Peak Performance : フルチャージ : 10
+Chance : チャンス : Ace : 切り札 : 10
+Potential : 底力 : Adrenaline +1 : 火事場力+1 : 10 : Adrenaline +2 : 火事場力+2 : 15 : Worrywart : 心配性 : -10
+Survivor : 逆境 : Fortify : 不屈 : 10
+Rage : 逆上 : Hostility : 逆恨み : 10
+Predicament : 窮地 : Last Resort : 死中に活 : 10
+Guts : 根性 : Guts : 根性 : 10
+Sense : 気配 : Sneak : 隠密 : 10 : Taunt : 挑発 : -10
+TeamPlayer : 采配 : Palico Rally : オトモへの采配 : 10
+TeamLeader : 号令 : Palico Cheer : オトモへの号令 : 10
+Mounting : 乗り : Mounting Master : 乗り名人 : 10 : Saddle Sore : 乗り下手 : -10
+Leaping : 跳躍 : Nosedive : 飛燕 : 10
+Clear Mind : 無心 : Composed : 明鏡止水 : 10
+Psychic : 千里眼 : Detect : 探知 : 10 : Autotracker : 自動マーキング : 15
+Perception : 観察眼 : Capture Guru : 捕獲の見極め : 10
+Scout : 狩人 : Outdoorsman : ハンター生活 : 10
+Transporting : 運搬 : Pro Transporter : 運搬の達人 : 10
+Protection : 加護 : Divine Blessing : 精霊の加護 : 10 : Demonic Blessing : 悪霊の加護 : -10
+Buckler : 英雄の盾 : Hero's Talisman : 英雄の護り : 10
+Rec Level : 回復量 : Recovery Up : 体力回復量UP : 10 : Recovery Down : 体力回復量DOWN : -10
+Rec Speed : 回復速度 : Recovery Spd +1 : 回復速度+1 : 10 : Recovery Spd +2 : 回復速度+2 : 15 : Recovery Spd -1 : 回復速度-1 : -10 : Recovery Spd -2 : 回復速度-2 : -15
+LastingPwr : 効果持続 : Item Use Up : アイテム使用強化 : 10 : Item Use Down : アイテム使用弱化 : -10
+Wide-Range : 広域 : Wide-Range +1 : 広域化+1 : 10 : Wide-Range +2 : 広域化+2 : 15
+Hunger : 腹減り : Halve Hunger : 腹減り半減 : 10 : Negate Hunger : 腹減り無効 : 15 : Raise Hunger : 腹減り倍加【小】 : -10 : Double Hunger : 腹減り倍加【大】 : -15
+Gluttony : 食いしん坊 : Gourmand : まんぷく : 10 : Scavenger : 拾い食い : 15
+Eating : 食事 : Speed Eating +1 : 早食い+1 : 10 : Speed Eating +2 : 早食い+2 : 15 : Slow Eater : スローライフ : -10
+LightEater : 節食 : Rationer : 満足感 : 10
+Carnivore : 肉食 : Meat Lover : お肉大好き : 10
+Mycology : 茸食 : Mushromancer : キノコ大好き : 10
+Herbalism : 野草知識 : Herb Connoisseur : 薬草強化 : 10
+Combo Rate : 調合成功率 : Combination +20% : 調合成功率+20% : 10 : Combination +45% : 調合成功率+45% : 15 : Combination -10% : 調合成功率-10% : -10 : Combination -20% : 調合成功率-20% : -15
+Combo Plus : 調合数 : Combination Pro : 最大数生産 : 10
+SpeedSetup : 高速設置 : Trap Master : 罠師 : 10
+Gathering : 採取 : Gathering +1 : 採取+1 : 10 : Gathering +2 : 採取+2 : 15 : Gathering -1 : 採取-1 : -10
+Honey : ハチミツ : Honey Hunter : ハニーハンター : 10
+Charmer : 護石王 : Charm Collector : お守り収集 : 10 : Charm Chaser : お守りハンター : 15
+Whim : 気まぐれ : Spirit's Whim : 精霊の気まぐれ : 10 : Divine Whim : 神の気まぐれ : 15 : Spectre's Whim : 悪霊の気まぐれ : -10 : Devil's Whim : 悪魔の気まぐれ : -15
+Fate : 運気 : Good Luck : 幸運 : 10 : Great Luck : 強運 : 15 : Miraculous Luck : 激運 : 20 : Bad Luck : 不運 : -10 : Horrible Luck : 災難 : -15
+Carving : 剥ぎ取り : Carving Pro : 剥ぎ取り鉄人 : 10 : Carving Celebrity : 剥ぎ取り名人 : 15
+Capts : 捕獲 : Capture Expert : 捕獲達人 : 10 : Capture Master : 捕獲名人 : 15
+Beruna : ベルナ : Beruna Spirit : ベルナの心 : 10
+Kokoto : ココット : Kokoto Spirit : ココットの心 : 10
+Pokke : ポッケ : Pokke Spirit : ポッケの心 : 10
+Yukumo : ユクモ : Yukumo Spirit : ユクモの心 : 10
+Crimson Helmet : 紅兜 : Crimson Spirit : 紅兜の魂 : 10
+Heavy Snow : 大雪主 : Blizzard Spirit : 大雪主の魂 : 10
+Arms Breaker : 矛砕 : Crushing Spirit : 矛砕の魂 : 10
+Boulder Piercer : 岩穿 : Drilling Spirit : 岩穿の魂 : 10
+Purple Poison : 紫毒姫 : Toxic Spirit : 紫毒姫の魂 : 10
+Treasure Carrier : 宝纏 : Precious Spirit : 宝纏の魂 : 10
+White Gale : 白疾風 : Tempestuous Spirit : 白疾風の魂 : 10
+One Eyed : 隻眼 : One-Eyed Spirit : 隻眼の魂 : 10
+Black Blaze : 黒炎王 : Blazing Spirit : 黒炎王の魂 : 10
+Gold Thunder : 金雷公 : Gold Thunder Spirit : 金雷公の魂 : 10
+Raging Talon : 荒鉤爪 : Fierce Spirit : 荒鉤爪の魂 : 10
+Ember Blade : 燼滅刃 : Ember Spirit : 燼滅刃の魂 : 10
+D. Fencing : 北辰納豆流 : Pro Dirty Fencer : ネバネバ剣法 : 10

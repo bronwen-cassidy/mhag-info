@@ -12,7 +12,9 @@ package org.mhag.model;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class MhagData {
@@ -672,38 +674,6 @@ public class MhagData {
 		out.close();
 	}
 
-	/* write charm reference file
-	public void genRefCharm() throws FileNotFoundException
-	{
-		PrintStream out = new PrintStream(fileRefCharm);
-		for (int i = 0; i < Charm.charmIDTot; i++)
-		{
-			out.printf("%3d: %s\n",charmList[i].getCharmID(),
-				charmList[i].getCharmName());
-			//	charmList[i].getPercentage());
-		}
-		out.close();
-	}
-	 */
-
-	/* write skill class file
-	public void genRefSkillClass() throws FileNotFoundException
-	{
-		PrintStream out = new PrintStream(fileRefSkillClass);
-
-		for (int i = 0; i < 5; i++)
-		{
-			for (int j = 0; j < numSkillInClass[i]; j++)
-			{
-				out.printf("%3d %3d: %s\n",i,j,
-					skillList[indexSkillInClass[i][j]].
-					getSkillName());
-			}
-		}
-		out.close();
-	}
-	 */
-
 	// write input file for complete set
 	public void genRefCompleteSet() throws FileNotFoundException
 	{
@@ -961,23 +931,9 @@ public class MhagData {
 
 	public void setNumCharm(int num) {numCharm = num;}
 
-	/* get number of skill in a class
-	public int getNumSkillInClass(int nClass)
-	{
-		return numSkillInClass[nClass];
-	}
-
-	// get skills in a class
-	public int[] getSkillInClass(int nClass)
-	{
-		return indexSkillInClass[nClass];
-	}
-	 */
-
 	// get armor list (index copy, name can be got from armorList)
 	// sorted by armorName;
-	public int[] getArmorList(int rank, boolean blade, 
-		boolean female, int bodyPart)
+	public int[] getArmorList(int rank, boolean blade, boolean female, int bodyPart)
 	{
 		int nMax = Armor.armorIDTot[bodyPart];
 		int[] index = new int[nMax];
@@ -1005,6 +961,21 @@ public class MhagData {
 			indFinal[i + 1] = index[indNew[num - 1 - i]];
 
 		return indFinal;
+	}
+
+	public List<Armor> getFullArmorList(int bodyPart)
+	{
+		int nMax = Armor.armorIDTot[bodyPart];
+		List<Armor> armourList = new ArrayList<Armor>();
+
+		for (int i = 0; i < nMax; i++)
+		{
+			Armor armor = armorList[bodyPart][i];
+			if(armor != null) {
+				armourList.add(armor);
+			}
+		}
+		return armourList;
 	}
 
 	public String[] getArmorListName(int bodyPart, boolean female,
@@ -1228,35 +1199,6 @@ public class MhagData {
         return effectList;
     }
 
-	/*
-	public int[] getCharmList(boolean lowRank)
-	{
-		int nMax = Charm.charmIDTot;
-		int[] index = new int[nMax];
-		String[] nameStr =  new String[nMax];
-		int num = 0;
-		for (int i = 0; i < nMax; i++)
-		{
-			Charm charm = charmList[i];
-			if(lowRank && (!charm.getLowRank()))continue;
-
-			index[num] = i;
-			nameStr[num] = charm.getCharmName();
-			num++;
-		}
-
-
-		int[] indNew = MhagUtil.sortIndex(num, nameStr);
-
-		int[] indFinal = new int[num + 1]; // add null
-		indFinal[0] = -1;
-		for(int i = 0; i < num; i++)
-			indFinal[i + 1] = index[indNew[num - 1 - i]];
-
-		return indFinal;
-	}
-	 */
-
 	public String getDirSave(int game) {return dirSave[game];}
 
 	public int getMaxRank(int game) {return maxRank[game];}
@@ -1268,7 +1210,7 @@ public class MhagData {
 	public static String getFileCharm() {return fileCharm;}
 
 	// Constants for file names
-	private final String[] dirSave = {"mhtri/", "mhp3rd/", "mhfu/", "mh3g/", "mh4/"};
+	private final String[] dirSave = {"mhtri/", "mhp3rd/", "mhfu/", "mh3g/", "mh4/", "mhgen/"};
 	private final String fileArmor = "armor.dat";
 	private final String fileJewel = "jewel.dat";
 	private final String fileSkill = "skill.dat";
@@ -1287,7 +1229,7 @@ public class MhagData {
 
   	static String fileCharm = "mycharm.dat";
 	
-	private final int[] maxRank = {1, 1, 2, 2, 2}; //max rank: high for mhtri and mhp3rd, G for mhfu and mh3g and mh4g
+	private final int[] maxRank = {1, 1, 2, 2, 2, 1}; //max rank: high for mhtri and mhp3rd, G for mhfu and mh3g and mh4g
 
 	// Some Constants
 	static String emptyName = "-----";

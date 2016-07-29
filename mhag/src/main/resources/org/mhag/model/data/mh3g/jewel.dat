@@ -1,0 +1,198 @@
+#Jewel Decoreation List (196)
+#Format ^Jewel Name : (jp) : H/L Rank : # of Slots : Skill 1 : Points 1 : Skill 2 : Points 2
+Antidote Jewel : 耐毒珠 : L : 1 : Poison : 1 : Stun : -1
+Antidote Jewel : 耐毒珠 : L : 2 : Poison : 3 : Stun : -1
+Paralysis Jwl : 耐痺珠 : L : 1 : Paralysis : 1 : Poison : -1
+Paralysis Jwl : 耐痺珠 : L : 2 : Paralysis : 3 : Poison : -1
+Pep Jewel : 耐眠珠 : L : 1 : Sleep : 1 : Mud/Snow : -1
+Pep Jewel : 耐眠珠 : L : 2 : Sleep : 3 : Mud/Snow : -1
+Steadfast Jwl : 耐絶珠 : L : 1 : Stun : 1 : Paralysis : -1
+Standfast Jwl : 耐絶珠 : L : 1 : Stun : 2
+Tracker Jewel : 耐粘珠 : L : 1 : Mud/Snow : 1 : Sleep : -1
+Trekker Jewel : 抗粘珠 : L : 1 : Mud/Snow : 2
+Sterile Jewel : 耐菌珠 : L : 1 : Antiseptic : 1 : Sense : -1
+Aseptic Jewel : 耐菌珠 : L : 1 : Antiseptic : 2
+Def Lock Jewel : 耐防珠 : L : 1 : Def Lock : 2
+Dungmaster Jwl : 肥師珠 : L : 1 : Dungmaster : 2
+Biology Jewel : 菌学珠 : G : 1 : Biology : 1 : Sense : -1
+Microbio Jewel : 菌究珠 : G : 1 : Biology : 2
+Attack Jewel : 攻撃珠 : L : 1 : Attack : 1
+Attack Jewel : 攻撃珠 : L : 2 : Attack : 3 : Defense : -1
+Attack Jewel : 攻撃珠 : H : 3 : Attack : 5 : Defense : -1
+Defense Jewel : 防御珠 : L : 1 : Defense : 1 : Attack : -1
+Defense Jewel : 防御珠 : L : 2 : Defense : 3 : Attack : -1
+Vitality Jewel : 体力珠 : L : 1 : Health : 2
+Recovery Jewel : 早復珠 : L : 1 : Rec Speed : 1 : Eating : -1
+Recovery Jewel : 早復珠 : L : 2 : Rec Speed : 3 : Eating : -1
+Protection Jewel : 加護珠 : L : 1 : Protection : 1
+Asylum Jewel : 神護珠 : H : 1 : Protection : 2
+Sheath Jewel : 速納珠 : L : 1 : Sheathing : 1 : Sharpener : -1
+Sheath Jewel : 速納珠 : H : 2 : Sheathing : 3 : Sharpener : -1
+Charger Jewel : 短縮珠 : L : 1 : FastCharge : 1 : Constitutn : -1
+Charger Jewel : 短縮珠 : H : 3 : FastCharge : 4 : Constitutn : -2
+Expert Jewel : 達人珠 : L : 1 : Expert : 1 : Dragon Res : -1
+Expert Jewel : 達人珠 : L : 2 : Expert : 3 : Dragon Res : -1
+Expert Jewel : 達人珠 : H : 3 : Expert : 5 : Dragon Res : -1
+Tenderizer Jewel : 痛撃珠 : L : 1 : Tenderizer : 1 : Health : -1
+Tenderizer Jewel : 痛撃珠 : H : 3 : Tenderizer : 4 : Health : -2
+Destroyer Jwl : 重撃珠 : L : 1 : Destroyer : 1 : Expert : -1
+Destroyer Jwl : 重撃珠 : H : 3 : Destroyer : 4 : Expert : -2
+KO Jewel : ＫＯ珠 : L : 1 : KO : 1 : FastCharge : -1
+KO Jewel : ＫＯ珠 : L : 2 : KO : 3 : FastCharge : -1
+Drain Jewel : 奪気珠 : L : 1 : Stam Drain : 1 : Stamina : -1
+Drain Jewel : 奪気珠 : H : 2 : Stam Drain : 3 : Stamina : -1
+Physique Jewel : 体術珠 : L : 1 : Constitutn : 1 : Stamina : -1
+Physique Jewel : 体術珠 : H : 2 : Constitutn : 3 : Stamina : -1
+Earplug Jewel : 防音珠 : L : 1 : Hearing : 1 : Protection : -1
+Earplug Jewel : 防音珠 : H : 3 : Hearing : 4 : Protection : -2
+Wind Res Jewel : 防風珠 : L : 1 : Wind Res : 1 : Fate : -1
+Wind Res Jewel : 防風珠 : H : 2 : Wind Res : 3 : Fate : -1
+Footing Jewel : 耐震珠 : L : 1 : Tremor Res : 1 : Sleep : -1
+Tectonic Jewel : 耐震珠 : L : 1 : Tremor Res : 2
+Heat Res Jewel : 耐暑珠 : L : 1 : Heat Res : 2
+Cold Res Jewel : 耐寒珠 : L : 1 : Cold Res : 2
+Sprinter Jewel : 強走珠 : L : 1 : Stamina : 1 : Hunger : -1
+Sprinter Jewel : 強走珠 : H : 3 : Stamina : 4 : Hunger : -2
+Refresh Jewel : 早気珠 : L : 1 : Stam Recov : 1 : Evasion : -1
+Refresh Jewel : 早気珠 : H : 2 : Stam Recov : 3 : Evasion : -1
+Evasion Jewel : 回避珠 : L : 1 : Evasion : 1 : Health : -1
+Evasion Jewel : 回避珠 : H : 2 : Evasion : 3 : Health : -1
+Jumping Jewel : 跳躍珠 : H : 1 : Evade Dist : 1 : Health : -1
+Slider Jewel : 滑走珠 : G : 1 : Dive Dist : 1 : Constitutn : -1 
+Glider Jewel : 滑空珠 : G : 1 : Dive Dist : 2
+Ninja Jewel : 忍脚珠 : L : 1: Sense : 2
+IronWall Jewel : 鉄壁珠 : L : 1 : Guard : 1 : Constitutn : -1
+IronWall Jewel : 鉄壁珠 : L : 2 : Guard : 3 : Constitutn : -1
+Shield Jewel : 強壁珠 : L : 1 : Guard Up : 1 : Stamina : -1
+Shield Jewel : 強壁珠 : H : 2 : Guard Up : 3 : Stamina : -1
+Disabler Jewel : 特攻珠 : L : 1 : Status : 1 : Elemental : -1
+Disabler Jewel : 特攻珠 : H : 2 : Status : 3 : Elemental : -1
+Blaze Jewel : 火炎珠 : L : 1 : Fire Atk : 1 : Water Atk : -1
+Blaze Jewel : 火炎珠 : G : 2 : Fire Atk : 3 : Water Atk : -1
+Stream Jewel : 流水珠 : L : 1 : Water Atk : 1 : ThunderAtk : -1
+Stream Jewel : 流水珠 : G : 2 : Water Atk : 3 : ThunderAtk : -1
+Bolt Jewel : 雷光珠 : L : 1 : ThunderAtk : 1 : Ice Atk : -1
+Blot Jewel : 雷光珠 : G : 2 : ThunderAtk : 3 : Ice Atk : -1
+Frost Jewel : 氷結珠 : L : 1 : Ice Atk : 1 : Fire Atk : -1
+Frost Jewel : 氷結珠 : G : 2 : Ice Atk : 3 : Fire Atk : -1
+Dragon Jewel : 破龍珠 : L : 1 : Dragon Atk : 1 : Status : -1
+Dragon Jewel : 破龍珠 : G : 2 : Dragon Atk : 3 : Status : -1
+Element Jewel : 属攻珠 : G : 1 : Elemental : 1 : Status : -1
+Element Jewel : 属攻珠 : G : 3 : Elemental : 4 : Status : -2
+Fire Res Jewel : 耐火珠 : L : 1 : Fire Res : 1 : Water Res : -1
+Nul-Fire Jewel : 制火珠 : L : 1 : Fire Res : 2
+Water Res Jewel : 耐水珠 : L : 1 : Water Res : 1 : ThunderRes : -1
+Nul-Water Jewel : 制水珠 : L : 1 : Water Res : 2
+ThunderRes Jewel : 耐雷珠 : L : 1 : ThunderRes : 1 : Ice Res : -1
+Nul-Thundr Jewel : 制雷珠 : L : 1 : ThunderRes : 2
+Ice Res Jewel : 耐氷珠 : L : 1 : Ice Res : 1 : Fire Res : -1
+Nul-Ice Jewel : 制氷珠 : L : 1 : Ice Res : 2
+DragonRes Jewel : 耐龍珠 : L : 1 : Dragon Res : 1 : Poison : -1
+Nul-Dragon Jewel : 制龍珠 : H : 1 : Dragon Res : 2
+Razor Jewel : 斬鉄珠 : H : 1 : Sharpness : 1 : Handicraft : -1
+Razor Jewel : 斬鉄珠 : H : 3 : Sharpness : 4 : Handicraft : -2
+Handicraft Jwl : 匠珠 : H : 2 : Handicraft : 1 : Sharpness : -1
+Handicraft Jwl : 匠珠 : G : 3 : Handicraft : 2 : Sharpness : -2
+Fencer Jewel : 剣豪珠 : G : 1 : Fencing : 1 : Handicraft : -1
+Fencer Jewel : 剣豪珠 : G : 3 : Fencing : 4 : Handicraft : -2
+Grinder Jewel : 研磨珠 : L : 1 : Sharpener : 2
+Draw Jewel : 抜刀珠 : G : 1 : Crit Draw : 1 : Expert : -1
+Draw Jewel : 抜刀珠 : G : 2 : Crit Draw : 3 : Expert : -1
+Gambit Jewel : 抜打珠 : G : 1 : PunishDraw : 1 : Sharpness : -1
+Gambit Jewel : 抜打珠 : G : 3 : PunishDraw : 4 : Sharpness : -2
+Quickload Jwl : 早填珠 : L : 1 : Reload Spd : 1 : Recoil : -1
+Quickload Jwl : 早填珠 : L : 2 : Reload Spd : 3 : Recoil : -1
+Capacity Jewel : 装填珠 : G : 2 : Loading : 1 : Reload Spd : -1
+Capacity Jewel : 装填珠 : G : 3 : Loading : 2 : Reload Spd : -2
+Salvo Jewel : 速射珠 : G : 1 : Rapid Fire : 1 : Reload Spd : -1
+Salvo Jewel : 速射珠 : G : 3 : Rapid Fire : 4 : Reload Spd : -2
+Absorber Jewel : 抑反珠 : L : 1 : Recoil : 1 : Reload Spd : -1
+Absorber Jewel : 抑反珠 : H : 3 : Recoil : 4 : Reload Spd : -2
+Sniper Jewel : 点射珠 : L : 1 : Precision : 2
+Forceshot Jewel : 強弾珠 : L : 1 : Normal Up : 1 : Recoil : -1
+Forceshot Jewel : 強弾珠 : H : 3 : Normal Up : 4 : Recoil : -2
+Pierce Jewel : 貫通珠 : L : 1 : Pierce Up : 1 : Recoil : -1
+Pierce Jewel : 貫通珠 : H : 3 : Pierce Up : 4 : Recoil : -2
+Pellet Jewel : 散弾珠 : L : 1 : Pellet Up : 1 : Recoil : -1
+Pellet Jewel : 散弾珠 : H : 3 : Pellet Up : 4 : Recoil : -2
+ShotPlus Jewel : 加弾珠 : L : 1 : Normal S+ : 1 : Reload Spd : -1
+ShotPlus Jewel : 加弾珠 : L : 2 : Normal S+ : 3 : Reload Spd : -1
+PiercePlus Jwl : 加貫珠 : L : 1 : Pierce S+ : 2
+PelletPlus Jwl : 加散珠 : L : 1 : Pellet S+ : 2
+CragPlus Jwl : 加榴珠 : L : 1 : Crag S+ : 2
+ClustPlus Jwl : 加拡珠 : L : 1 : Clust S+ : 1 : Reload Spd : -1
+SlicePlus Jwl : 加斬珠 : L : 1 : Slicing S+ : 2
+SlimePlus Jwl : 加爆珠 : H : 1 : Slime S+ : 2
+PoisonCoat Jwl : 毒瓶珠 : L : 1 : Poison C+ : 2
+ParaCoat Jwl : 痺瓶珠 : L : 1 : Para C+ : 1 : Attack : -1
+ParaCoat Jwl : 痺瓶珠 : H : 2 : Para C+ : 3 : Attack : -1
+SleepCoat Jwl : 眠瓶珠 : L : 1 : Sleep C+ : 2
+PowerCoat Jwl : 強瓶珠 : L : 1 : Power C+ : 1 : Expert : -1
+PowerCoat Jwl : 強瓶珠 : H : 2 : Power C+ : 3 : Expert : -1
+RangeCoat Jwl : 接瓶珠 : L : 1 : C.Range C+ : 2
+DrainCoat Jwl : 減瓶珠 : L : 1 : Exhaust C+ : 2
+SlimeCoat Jwl : 爆瓶珠 : H : 1 : Slime C+ : 2
+Sonorous Jewel : 鼓笛珠 : L : 1 : Maestro : 2
+Artillery Jwl : 砲術珠 : L : 1 : Artillery : 2
+Bombardier Jwl : 爆師珠 : L : 1 : Bomb Boost : 2
+Medicine Jewel : 治癒珠 : L : 1 : Rec Level : 1 : Rec Speed : -1
+Medicine Jewel : 治癒珠 : H : 2 : Rec Level : 3 : Rec Speed : -1
+Friendship Jwl : 友愛珠 : L : 1 : Wide-Range : 1 : Sense  : -1
+Friendship Jwl : 友愛珠 : H : 2 : Wide-Range : 3 : Sense  : -1
+Enduring Jewel : 持続珠 : L : 1 : LastingPwr : 2
+Hungerless Jwl : 無食珠 : L : 1 : Hunger : 2
+Metabolism Jwl : 食漢珠 : L : 1 : Gluttony : 2
+Gobbler Jewel : 早食珠 : L : 1 : Eating : 1 : Rec Level : -1
+Gobbler Jewel : 早食珠 : H : 3 : Eating : 4 : Rec Level : -2
+Meateater Jwl : 肉食珠 : G : 1 : Carnivore : 1 : Hunger : -1
+Meatlover Jwl : 肉好珠 : G : 1 : Carnivore : 2
+Professor Jwl : 博士珠 : L : 1 : Combo Rate : 2
+Factory Jewel : 弾製珠 : L : 1 : Combo Plus : 2
+Gathering Jwl : 採取珠 : L : 1 : Gathering : 2
+Spree Jewel : 速集珠 : L : 1 : Spd Gather : 2
+Blessing Jewel : 祝福珠 : L : 1 : Whim : 2
+Honeybee Jewel : 蜜集珠 : G : 1 : Honey : 1 : Whim : -1
+Queenbee Jewel : 蜜占珠 : G : 1 : Honey : 2
+Charmer Jewel : 護石珠 : G : 1 : Charmer : 2
+Fate Jewel : 運気珠 : G : 1 : Fate : 1 : Whim : -1
+Fate Jewel : 運気珠 : G : 3 : Fate : 4 : Whim : -2
+Carver Jewel : 皮剥珠 : G : 1 : Carving : 1 : Fate :-1
+Carver Jewel : 皮剥珠 : G : 3 : Carving : 4 : Fate :-2
+Capture Jewel : 捕獲珠 : G : 1 : Tranquilzr : 1 : Fate : -1
+Capture Jewel : 捕獲珠 : G : 3 : Tranquilzr : 4 : Fate : -2
+Perception Jwl : 観察珠 : L : 1 : Perception : 2
+Psychic Jewel : 千里珠 : L : 1 : Psychic : 2
+Transportr Jwl : 運搬珠 : L : 1 : Transportr : 2
+Ranger Jewel : 狩人珠 : L : 1 : Ranger : 2
+Alarm Jewel : 防盗珠 : L : 1 : Anti-Theft : 2
+TrapMaster Jwl : 罠師珠 : L : 1 : SpeedSetup : 2
+Torchlight Jwl : 燃鱗珠 : L : 1 : Flame Aura : 2
+Fresh Air Jwl : 空気珠 : L : 1 : Oxygen : 2
+Stopflow Jewel : 抑水珠 : L : 1 : CurrentRes : 1 : Wind Res : -1
+Stopflow Jewel : 抑水珠 : H : 2 : CurrentRes : 3 : Wind Res : -1
+Swimmer Jewel : 水泳珠 : L : 1 : Swimming : 1 : Oxygen : -1
+Diver Jewel : 遠泳珠 : H : 1 : Swimming : 2 : Oxygen : -1
+Fish Jewel : 水心珠 : G : 1 : Sea Legs : 1 : Stamina : -1
+Fish Jewel : 水心珠 : G : 2 : Sea Legs : 3 : Stamina : -1
+Potential Jwl : 底力珠 : L : 1 : Potential : 1 : Protection : -1
+Potential Jwl : 底力珠 : G : 2 : Potential : 3 : Protection : -1
+Fortitude Jwl : 逆境珠 : L : 1 : Survivor : 1 : Rec Level : -1
+Fortitude Jwl : 逆境珠 : H : 2 : Survivor : 3 : Rec Level : -1
+Throttle Jewel : 全開珠 : L : 1 : Golves Off : 1 : Sense : -1
+Throttle Jewel : 全開珠 : H : 2 : Golves Off : 3 : Sense : -1
+Spirit Jewel : 闘魂珠 : G : 1 : Spirit : 1 : Guard : -1
+Spirit Jewel : 闘魂珠 : G : 2 : Spirit : 3 : Guard : -1
+Flawless Jewel : 無傷珠 : G : 1 : Unscathed : 1 : Rec Speed : -1
+Flawless Jewel : 無傷珠 : G : 2 : Unscathed : 3 : Rec Speed : -1
+Release Jewel : 解放珠 : G : 2 : FreeElemnt : 1 : Status : -1
+Catalyst Jewel : 覚醒珠 : G : 3 : FreeElemnt : 2 : Status : -2
+Resistor Jewel : 属耐珠 : G : 1 : Blight Res : 1 : Health : -1
+Resistor Jewel : 属耐珠 : G : 3 : Blight Res : 4 : Health : -2
+Rigid Jewel : 剛体珠 : G : 1 : Unshakable : 1 : Defense : -1
+Rigid Jewel : 剛体珠 : G : 3 : Unshakable : 4 : Defense : -2
+Guts Jewel : 根性珠 : G : 1 : Guts : 1 : Combo Rate : -1
+Guts Jewel : 根性珠 : G : 2 : Guts : 3 : Combo Rate : -1
+Player Jewel : 采配珠 : L : 1 : Teamplayer : 1 : LastingPwr : -1
+Morale Jewel : 名采配珠 : H : 1 : Teamplayer : 2
+Leader Jewel : 号令珠 : L : 1 : Teamleader : 1 : Gathering : -1
+Leader Jewel : 号令珠 : H : 2 : Teamleader : 3 : Gathering : -1
