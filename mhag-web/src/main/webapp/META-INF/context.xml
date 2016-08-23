@@ -4,7 +4,7 @@
 
     <WatchedResource>WEB-INF/web.xml</WatchedResource>
 
-    <Resource name="jdbc/@_applicationName_@"
+    <Resource name="jdbc/$(application.name}"
             auth="Container"
             type="javax.sql.DataSource"
             username="mhagadmin"

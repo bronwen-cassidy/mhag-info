@@ -21,11 +21,11 @@ public class LoaderUtils {
 
     public static void main(String[] args) throws Exception {
         LoaderUtils loaderUtils = new LoaderUtils();
-        loaderUtils.skills();
+        //loaderUtils.skills();
         //System.out.println("##########################################");
-        loaderUtils.charms();
+        //loaderUtils.charms();
         //System.out.println("##########################################");
-        //loaderUtils.loadArmour();
+        loaderUtils.loadArmour();
     }
 
     private void charms() {
@@ -275,7 +275,7 @@ public class LoaderUtils {
 
         Map<String, List<String>> materials = new LinkedHashMap<String, List<String>>();
         Map<String, List<String>> armourData = new LinkedHashMap<String, List<String>>();
-
+        // todo the resistances are wrong, added a g-rank defence which we shouldn't and the has become mixed up with the slot index
         for (int j = 0; j < mh4data.size(); j++) {
 
             String part = mapPart(j);
@@ -316,11 +316,11 @@ public class LoaderUtils {
                 // number of slots
                 values.add(info[4]);
                 // resistences
-                values.add(info[9]);
                 values.add(info[10]);
-                values.add(info[12]);
-                values.add(info[13]);
                 values.add(info[11]);
+                values.add(info[13]);
+                values.add(info[14]);
+                values.add(info[12]);
 
                 List<String> japMats = new ArrayList<String>();
                 List<String> items = materials.get(engArmourName);
