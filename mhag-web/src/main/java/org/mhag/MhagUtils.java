@@ -84,6 +84,7 @@ public class MhagUtils {
         rankValues.put(1, new Rank[] {new Rank(1, "High Rank"), new Rank(0, "Low Rank")});
         rankValues.put(3, new Rank[] {new Rank(2, "G Rank"), new Rank(1, "High Rank"), new Rank(0, "Low Rank")});
         rankValues.put(4, new Rank[] {new Rank(2, "G Rank"), new Rank(1, "High Rank"), new Rank(0, "Low Rank")});
+        rankValues.put(5, new Rank[] {new Rank(1, "High Rank"), new Rank(0, "Low Rank")});
     }
     
 }

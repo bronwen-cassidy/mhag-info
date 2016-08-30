@@ -21,8 +21,8 @@ public class DatabaseUtils {
         MysqlConnectionPoolDataSource dataSource = buildDataSource();
         JdbcTemplate template = new JdbcTemplate(dataSource);
 
-        // for each version 0 = tri, 1 = mh3rd, 3 = triG & triU, MH4 = 4
-        int version = 4;
+        // for each version 0 = tri, 1 = mh3rd, 3 = triG & triU, MH4 = 4, MHGen = 5
+        int version = 5;
         MhagFacade mhagFacade = getFacadeForVersion(version);
         Set<ArmorWrapper> all = getArmours(mhagFacade);
         insertData(template, all, version);
@@ -45,25 +45,12 @@ public class DatabaseUtils {
     }
 
     private static Set<ArmorWrapper> getArmours(MhagFacade mhagFacade) {
-        List<ArmorWrapper> head = mhagFacade.getArmours(3, true, false, 0);
-        List<ArmorWrapper> bladeChest = mhagFacade.getArmours(3, true, false, 1);
-        List<ArmorWrapper> gunnerChest = mhagFacade.getArmours(3, false, false, 1);
-        List<ArmorWrapper> bArms = mhagFacade.getArmours(3, true, false, 2);
-        List<ArmorWrapper> gArms = mhagFacade.getArmours(3, false, false, 2);
-        List<ArmorWrapper> bWaist = mhagFacade.getArmours(3, true, false, 3);
-        List<ArmorWrapper> gWaist = mhagFacade.getArmours(3, false, false, 3);
-        List<ArmorWrapper> bLegs = mhagFacade.getArmours(3, true, false, 4);
-        List<ArmorWrapper> gLegs = mhagFacade.getArmours(3, false, false, 4);
-
-        Set<ArmorWrapper> all = new HashSet<ArmorWrapper>(head);
-        all.addAll(bladeChest);
-        all.addAll(gunnerChest);
-        all.addAll(bArms);
-        all.addAll(gArms);
-        all.addAll(bWaist);
-        all.addAll(gWaist);
-        all.addAll(bLegs);
-        all.addAll(gLegs);
+        Set<ArmorWrapper> all = new HashSet<ArmorWrapper>();
+        all.addAll(mhagFacade.getAllArmours(0));
+        all.addAll(mhagFacade.getAllArmours(1));
+        all.addAll(mhagFacade.getAllArmours(2));
+        all.addAll(mhagFacade.getAllArmours(3));
+        all.addAll(mhagFacade.getAllArmours(4));
         return all;
     }
 

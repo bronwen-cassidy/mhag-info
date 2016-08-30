@@ -59,8 +59,7 @@ public class Armor {
 
 	// read armor entry from a line
 	// nBodyPart : body part Index (use & check)
-	public static int setArmorFromLine(String line, int nBodyPart,
-		Armor armor, int game)
+	public static int setArmorFromLine(String line, int nBodyPart, Armor armor, int game)
 	{
 		// armor id
 		armor.armorID = armorIDTot[nBodyPart]++;
@@ -79,8 +78,9 @@ public class Armor {
 		{
 			addJP = 1;
 			addDef = 1;
-		}
-		else if(game == 2) //mhfu
+		} else if (game == 5) {
+			addJP = 1;
+		} else if(game == 2) //mhfu
 			addDef = 1;
 
 		while(line != null )

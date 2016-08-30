@@ -44,6 +44,15 @@ public class MhagFacade implements InitializingBean {
         armours.put(armourKey, result);
         return result;
     }
+    public List<ArmorWrapper> getAllArmours(int bodyPart) {
+
+        List<Armor> fullArmorList = mhagData.getFullArmorList(bodyPart);
+        List<ArmorWrapper> result = new ArrayList<ArmorWrapper>();
+        for (Armor armor : fullArmorList) {
+            result.add(new ArmorWrapper(armor, armor.ifFemale()));
+        }
+        return result;
+    }
 
     public List<JewelWrapper> getJewels(int rank, int numSlots, int language) {
         final int[] ids = mhagData.getJewelList(rank, numSlots);
@@ -559,6 +568,7 @@ public class MhagFacade implements InitializingBean {
             case 2: return 1;
             case 3: return 2;
             case 4: return 2;
+            case 5: return 1;
             default: return 1;
         }
     }

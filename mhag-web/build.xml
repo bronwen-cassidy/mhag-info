@@ -2,7 +2,6 @@
 <project name="mhag" default="make-tri" basedir=".">
 
     <!-- os specific path information -->
-    <property file="${user.home}/.ant-user.properties"/>    
     <property  name="style.name" value="tri"/>
     <property  name="project.dir" value="project"/>
 
@@ -15,6 +14,7 @@
     <property name="lib.dir" value="../../lib"/>
     <property name="runtime.lib.dir" value="${lib.dir}/runtime"/>
     <property name="j2ee.lib.dir" value="${lib.dir}/j2ee"/>
+    <property name="tomcat.webapps.dir" value="todo"/>
 
     <!-- compilation properties -->
     <property name="javac.debug" value="true"/>
@@ -26,9 +26,9 @@
     <!-- src directories -->
     <property name="web.src.dir" value="src/main/java"/>
     <property name="app.src.dir" value="../mhag/src/main/java"/>
-    <property name="data.dir" value="${app.src.dir}/org/mhag/model/data"/>
+    <property name="data.dir" value="../mhag/src/main/resources/org/mhag/model/data"/>
     <property name="war.dir" value="web/war"/>
-    <property name="war.config.dir" value="web/config"/>
+    <property name="war.config.dir" value="config"/>
 
     <property name="project.name" value="mhag"/>
 
@@ -88,7 +88,7 @@
     <target name="copy-data">
         <fail unless="config.filterset" message="Please enter the filterset to be used"/>
         <copy todir="${build.config.dir}" overwrite="true" filtering="true">
-            <fileset dir="${war.config.dir}"/>
+            <fileset dir="config"/>
             <filterset refid="${config.filterset}"/>
         </copy>
     </target>
@@ -106,7 +106,7 @@
         </javac>
 
         <copy todir="${app.classes.dir}/org/mhag/model/data" overwrite="true">
-            <fileset dir="${data.dir}"/>
+            <fileset dir="../mhag/src/main/resources/org/mhag/model/data"/>
         </copy>
 
         <jar jarfile="${runtime.lib.dir}/mhag.jar" compress="false" basedir="${app.classes.dir}"/>
@@ -125,7 +125,7 @@
         <fail unless="game.name" message="Please specify the game"/>
         <fail unless="game.dir" message="Please specify the game resource directory"/>
 
-        <war warfile="${dist.dir}/${game.name}.war" webxml="${war.dir}/WEB-INF/web.xml">
+        <war warfile="${dist.dir}/${game.name}.war" webxml="src/main/webapp/WEB-INF/web.xml">
             <!-- copy static resources -->
             <fileset dir="${war.dir}" excludes="WEB-INF/web.xml"/>
             <fileset dir="${project.dir}/${game.dir}/"/>
@@ -155,6 +155,9 @@
     </target>
     <target name="copy-mh4" depends="make-mh4" description="Used by developers to copy the war to their server">
         <copy file="${dist.dir}/mh4.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
+    </target>
+    <target name="copy-mhgen" depends="make-mhgen" description="Used by developers to copy the war to their server">
+        <copy file="${dist.dir}/mhgen.war" todir="${tomcat.webapps.dir}" overwrite="true"/>
     </target>
 
     <target name="make-tri" depends="clean, init, compile-web-classes">

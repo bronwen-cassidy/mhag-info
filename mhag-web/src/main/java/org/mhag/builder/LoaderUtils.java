@@ -1,22 +1,31 @@
 package org.mhag.builder;
 
 import org.apache.commons.collections.comparators.ComparatorChain;
-import org.apache.commons.lang.math.NumberUtils;
-import org.springframework.util.StringUtils;
+import org.apache.commons.lang.StringUtils;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.*;
 
 /**
  * User: Bronwen Cassidy
  * Date: 23/01/14
  * Time: 10:50
+ * Translates Athena's ASS into our format. We build the all.txt first which is done in the order of, head/body/arms/waist/legs
  */
 public class LoaderUtils {
 
+    private static final String DIVIDER = " : ";
+
     public static void main(String[] args) throws Exception {
-        new LoaderUtils().loadArmour();
+        LoaderUtils loaderUtils = new LoaderUtils();
+        //loaderUtils.skills();
         //System.out.println("##########################################");
-        //new LoaderUtils().charms();
+        //loaderUtils.charms();
+        //System.out.println("##########################################");
+        loaderUtils.loadArmour();
     }
 
     private void charms() {
@@ -27,7 +36,66 @@ public class LoaderUtils {
         writeJewelsAndMats(data, decorations, mats, skills);
     }
 
-    private void writeJewelsAndMats(Map<String, String[]> data, Map<String, String> jewelTranslations, Map<String, String> matTranslation, Map<String, String> skillTranslation) {
+
+    private void skills() {
+        Map<String, String> langSkills = loadMaterials("/data/Languages/English/skills.txt", "/data/Languages/Japanese/skills.txt");
+        Map<String, String[]> data = loadData("/data/skills.txt", ",", 0);
+        writeSkills(data, langSkills);
+    }
+
+    private void writeSkills(Map<String, String[]> data, Map<String, String> langSkills) {
+        Map<String, StringBuilder> result = new LinkedHashMap<String, StringBuilder>();
+        for (Map.Entry<String, String[]> entry : data.entrySet()) {
+            String[] values = entry.getValue();
+            String japSkillName = entry.getKey();
+            if (org.apache.commons.lang.StringUtils.isBlank(japSkillName) || values.length < 2) {
+                System.out.println("************************************* BLANK || TORSO UP ************************************");
+                continue;
+            }
+
+            String japSkillCategory = values[1];
+            String engSkillName = langSkills.get(japSkillName);
+            String engSkillCategory = langSkills.get(japSkillCategory);
+            int numPoints = Integer.parseInt(values[2]);
+
+            int gba = Integer.parseInt(values[3]);
+            String gunBladeAll = gba == 0 ? "A" : gba == 1 ? "B" : "G";
+            StringBuilder details;
+            if (result.containsKey(engSkillCategory)) {
+                details = result.get(engSkillCategory);
+                details.append(DIVIDER);
+            } else {
+                details  = new StringBuilder();
+                details.append(japSkillCategory).append(DIVIDER);
+            }
+            details.append(engSkillName).append(DIVIDER).append(japSkillName)
+                    .append(DIVIDER).append(numPoints);
+            result.put(engSkillCategory, details);
+        }
+
+        List<String> lines = new ArrayList<String>();
+        for (Map.Entry<String, StringBuilder> entry : result.entrySet()) {
+            lines.add(entry.getKey() + DIVIDER + entry.getValue().toString());
+        }
+        // todo now write the result to a file
+        writeData(lines, "./mhag/data/mhgen/skillsxxxxxx.dat");
+    }
+
+    private void writeData(List<String> lines, String file) {
+        try {
+            Path path = Paths.get(file);
+            Path parentDir = path.getParent();
+            if (!Files.exists(parentDir)) {
+                System.out.println("weeeeeeeeeeeeeeeeeeeee " + path.getParent());
+                Files.createDirectories(parentDir);
+            }
+            Files.write(path, lines, StandardOpenOption.CREATE);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void writeJewelsAndMats(Map<String, String[]> data, Map<String, String> decoTranslations, Map<String, String> matTranslation, Map<String, String> skillTranslation) {
         Map<String, List<String>> jewelMats = new LinkedHashMap<String, List<String>>();
         Map<String, List<String>> jewelData = new LinkedHashMap<String, List<String>>();
         int index = 0;
@@ -35,8 +103,8 @@ public class LoaderUtils {
             String key = entry.getKey();
             String[] info = entry.getValue();
 
-            String engTranslation = jewelTranslations.get(key);
-            if(engTranslation == null) {
+            String engTranslation = decoTranslations.get(key);
+            if (engTranslation == null) {
                 System.out.println("************* jap name: " + key + " index: " + index + "  ******************");
                 //continue;
                 engTranslation = "??????";
@@ -44,17 +112,17 @@ public class LoaderUtils {
 
             // materials data structure
             List<String> matsRow = jewelMats.get(key);
-            if(matsRow == null) {
+            if (matsRow == null) {
                 matsRow = new ArrayList<String>();
                 jewelMats.put(key, matsRow);
             }
 
             // jewel info
-            if(jewelData.containsKey(key)) {
+            if (jewelData.containsKey(key)) {
                 System.out.println("error duplicate key found for " + key + " eng translation " + engTranslation);
             }
             List<String> row = jewelData.get(key);
-            if(row == null) {
+            if (row == null) {
                 row = new ArrayList<String>();
                 jewelData.put(key, row);
             }
@@ -63,26 +131,26 @@ public class LoaderUtils {
             row.add(key);
             // high rank low rank
             int rarity = Integer.parseInt(info[3].trim());
-            String rank = rarity < 5 ? "L" : rarity > 7 ? "G" : "H";
+            String rank = rarity < 4 ? "L" : "H";
             row.add(rank);
             // slots
             row.add(info[2].trim());
             List<String> japMats = new ArrayList<String>();
             // skill and points
-            for (int i = 5; i < info.length; i++) {
+            for (int i = 6; i < info.length; i++) {
                 String name = info[i];
                 // find the english name in the skill translations
-                if(skillTranslation.containsKey(name)) {
+                if (skillTranslation.containsKey(name)) {
                     // doing the skills
                     String engSkill = skillTranslation.get(name);
-                    String val = info[i+1];
+                    String val = info[i + 1];
                     row.add(engSkill);
                     row.add(val);
                     i++;
                 } else {
                     // doing the materials
                     String engMat = matTranslation.get(name);
-                    String val = info[i+1];
+                    String val = info[i + 1];
                     matsRow.add(engMat + " x" + val);
                     japMats.add(name + " x" + val);
                     i++;
@@ -92,20 +160,24 @@ public class LoaderUtils {
             index++;
         }
 
+
+        List<String> lines = new ArrayList<String>();
         for (List<String> inf : jewelData.values()) {
-            String s = StringUtils.collectionToDelimitedString(inf, " : ");
-            System.out.println(s);
+            lines.add(StringUtils.join(inf, DIVIDER));
         }
+        // todo now write the result to a file
+        writeData(lines, "./mhag/data/mhgen/jewelsxxxxxx.dat");
+
         System.out.println("###########################################################");
+
+        List<String> lines2 = new ArrayList<String>();
         for (List<String> inf : jewelMats.values()) {
-            String s = StringUtils.collectionToDelimitedString(inf, " : ");
-            System.out.println(s);
+            lines2.add(StringUtils.join(inf, DIVIDER));
         }
+        writeData(lines2, "./mhag/data/mhgen/matsxxxxxx.dat");
     }
 
-    public void loadArmour() throws Exception {
-        // first read in armour.dat
-        // Map<String, String[]> armourData = loadData("data/mh4/armor.dat", ":", 1);
+    private void loadArmour() throws Exception {
 
         List<Map<String, String[]>> mh4data = new ArrayList<Map<String, String[]>>(5);
         mh4data.add(loadData("/data/head.txt", ",", 0));
@@ -115,12 +187,17 @@ public class LoaderUtils {
         mh4data.add(loadData("/data/legs.txt", ",", 0));
 
         // jap to english armour translation just english mapped by index
-        List<String> engTranslations = loadTranslations("/data/Languages/English/all.txt");
+        List<Map<String, String>> mhTranslations = new ArrayList<Map<String, String>>(5);
+        mhTranslations.add(loadMaterials("/data/Languages/English/head.txt", "/data/Languages/Japanese/head.txt"));
+        mhTranslations.add(loadMaterials("/data/Languages/English/body.txt", "/data/Languages/Japanese/body.txt"));
+        mhTranslations.add(loadMaterials("/data/Languages/English/arms.txt", "/data/Languages/Japanese/arms.txt"));
+        mhTranslations.add(loadMaterials("/data/Languages/English/waist.txt", "/data/Languages/Japanese/waist.txt"));
+        mhTranslations.add(loadMaterials("/data/Languages/English/legs.txt", "/data/Languages/Japanese/legs.txt"));
 
         Map<String, String> skills = loadSkills("/data/mh4/skill.dat");
-        Map<String, String> mats = loadMaterials("/data/Languages/English/components.txt", "/data/components.txt");
+        Map<String, String> mats = loadMaterials("/data/Languages/English/components.txt", "/data/Languages/Japanese/components.txt");
 
-        mapData(mh4data, engTranslations, skills, mats);
+        mapData(mh4data, mhTranslations, skills, mats);
 
     }
 
@@ -129,7 +206,7 @@ public class LoaderUtils {
         Scanner armourScanner = new Scanner(getClass().getResourceAsStream(file), "UTF-8");
         while (armourScanner.hasNext()) {
             String x = armourScanner.nextLine();
-            if (StringUtils.hasText(x)) {
+            if (StringUtils.isNotBlank(x)) {
                 armourData.add(x);
             }
         }
@@ -137,20 +214,39 @@ public class LoaderUtils {
     }
 
     private Map<String, String> loadMaterials(String engfile, String japFile) {
+
         Map<String, String> result = new LinkedHashMap<String, String>();
         Scanner japScanner = new Scanner(getClass().getResourceAsStream(japFile), "UTF-8");
         Scanner engScanner = new Scanner(getClass().getResourceAsStream(engfile), "UTF-8");
         while (japScanner.hasNext() && engScanner.hasNext()) {
             String x = japScanner.nextLine().trim();
             String y = engScanner.nextLine().trim();
-            if (StringUtils.hasText(x)) {
-                if(x.contains(",")) {
-                    x = StringUtils.tokenizeToStringArray(x, ",")[0];
+
+            if (StringUtils.isNotBlank(x)) {
+                if (x.contains(",")) {
+                    x = StringUtils.split(x, ",")[0];
                 }
-                result.put(x, y);
+                String clean = cleanString(x);
+                result.put(clean, y);
             }
         }
         return result;
+    }
+
+    private String cleanString(String x) {
+        final String bomChar = "\uFEFF";
+        StringBuilder clean = new StringBuilder();
+        if(x.contains(bomChar)) {
+            for (int i = 0; i < x.toCharArray().length; i++) {
+                char c = x.toCharArray()[i];
+                if(bomChar.toCharArray()[0] != c) {
+                    clean.append(c);
+                }
+            }
+        } else {
+            clean.append(x);
+        }
+        return clean.toString();
     }
 
     private Map<String, String> loadSkills(String file) {
@@ -159,35 +255,37 @@ public class LoaderUtils {
 
         while (armourScanner.hasNext()) {
             String x = armourScanner.nextLine();
-            if (StringUtils.hasText(x)) {
-                String[] info = StringUtils.tokenizeToStringArray(x, ":");
+            if (StringUtils.isNotBlank(x)) {
+                String[] info = StringUtils.split(x, ":");
                 for (int i = 0; i < info.length; i++) {
                     String s = info[i].trim();
-                    if (!NumberUtils.isDigits(s)) {
+                    try {
+                        Integer.parseInt(s);
+                    } catch (NumberFormatException e) {
                         skills.put(info[i + 1].trim(), s);
-                        i++;
                     }
+                    i++;
                 }
             }
         }
         return skills;
     }
 
-    private void mapData(List<Map<String, String[]>> mh4data, List<String> translations, Map<String, String> skills, Map<String, String> mats) {
+    private void mapData(List<Map<String, String[]>> mh4data, List<Map<String, String>> translations, Map<String, String> skills, Map<String, String> mats) {
 
         Map<String, List<String>> materials = new LinkedHashMap<String, List<String>>();
         Map<String, List<String>> armourData = new LinkedHashMap<String, List<String>>();
-
-        int translationIndex = 0;
-
+        // todo the resistances are wrong, added a g-rank defence which we shouldn't and the has become mixed up with the slot index
         for (int j = 0; j < mh4data.size(); j++) {
 
             String part = mapPart(j);
 
             Map<String, String[]> mh4dataEntry = mh4data.get(j);
+            Map<String, String> mh4LangTranslation = translations.get(j);
 
             for (Map.Entry<String, String[]> entry : mh4dataEntry.entrySet()) {
 
+                // japanses name
                 String key = entry.getKey();
                 String[] info = entry.getValue();
                 // see if it currently exists
@@ -195,50 +293,44 @@ public class LoaderUtils {
                 List<String> values = new ArrayList<String>();
                 String engArmourName;
 
-                engArmourName = translations.get(translationIndex);
+                engArmourName = mh4LangTranslation.get(key);
+                if(engArmourName == null) {
+                    System.out.println("****************** null english translation for " + key + " looking in part " + part+" for it ");
+                }
                 values.add(engArmourName);
                 values.add(key);
                 values.add(mapWeapon(info[2]));
                 values.add(mapGender(info[1]));
 
-                // test rarity
-                int rarity = Integer.parseInt(info[3]);
+                // test rarity what to if it is X
+
+                int rarity = "X".equals(info[3]) ? 9 : Integer.parseInt(info[3]);
 
                 // part
                 values.add(part);
-                // defense low and high and G need to work out how to map G
-                if(rarity < 5) {
-                    values.add(info[7]);
-                    values.add(info[8]);
-                    values.add(info[8]);
-                } else if (rarity > 7) {
-                    values.add("--");
-                    values.add("--");
-                    values.add(info[8]);
-                } else {
-                    values.add("--");
-                    values.add(info[7]);
-                    values.add(info[8]);
-                }
+
+                // defense low and high
+                values.add(info[8]);
+                values.add(info[9]);
 
                 // number of slots
                 values.add(info[4]);
                 // resistences
-                values.add(info[9]);
                 values.add(info[10]);
-                values.add(info[12]);
-                values.add(info[13]);
                 values.add(info[11]);
+                values.add(info[13]);
+                values.add(info[14]);
+                values.add(info[12]);
 
                 List<String> japMats = new ArrayList<String>();
                 List<String> items = materials.get(engArmourName);
                 // skills and values contunue at an empty cell and set flag to materials
                 boolean doingSkills = true;
-                for (int i = 14; i < info.length; i++) {
+                for (int i = 15; i < info.length - 1; i++) {
 
                     String infoVal = info[i];
                     String engSkill = skills.get(infoVal);
-                    if (engSkill == null) {
+                    if (engSkill == null || StringUtils.isBlank(infoVal)) {
                         doingSkills = false;
                     }
                     if (doingSkills) {
@@ -249,10 +341,10 @@ public class LoaderUtils {
                     } else {
                         // doing materials separate file
                         String engMats = mats.get(infoVal.trim());
-                        if(engMats == null) {
+                        if (engMats == null) {
                             engMats = "?????";
                         }
-                        if(items == null) {
+                        if (items == null) {
                             items = new ArrayList<String>();
                             materials.put(engArmourName, items);
                         }
@@ -268,7 +360,6 @@ public class LoaderUtils {
                 items.add("###");
                 items.addAll(japMats);
                 armourData.put(key, values);
-                translationIndex++;
             }
         }
         // sort alphabetically
@@ -277,8 +368,8 @@ public class LoaderUtils {
 
         chain.addComparator(new Comparator<List<String>>() {
             public int compare(List<String> o1, List<String> o2) {
-                String first = StringUtils.delimitedListToStringArray(o1.get(0), " ")[0];
-                String second = StringUtils.delimitedListToStringArray(o2.get(0), " ")[0];
+                String first = StringUtils.split(o1.get(0), " ")[0];
+                String second = StringUtils.split(o2.get(0), " ")[0];
                 return first.compareTo(second);
             }
         });
@@ -310,21 +401,26 @@ public class LoaderUtils {
             }
         });
 
-        List<List<String>> values = new ArrayList<List<String>> (armourData.values());
+        List<List<String>> values = new ArrayList<List<String>>(armourData.values());
         Collections.sort(values, chain);
 
+        List<String> lines = new ArrayList<String>();
         for (List<String> strings : values) {
-            String s = StringUtils.collectionToDelimitedString(strings, " : ");
-            System.out.println(s);
+            lines.add(StringUtils.join(strings, DIVIDER));
         }
+        // todo now write the result to a file
+        writeData(lines, "./mhag/data/mhgen/armourxxxxxx.dat");
 
-        System.out.println("#############################################################");
+        System.out.println("###########################################################");
+
+        List<String> lines2 = new ArrayList<String>();
         // order the materials the same as the values
         for (List<String> value : values) {
             String name = value.get(0);
             List<String> row = materials.get(name);
-            System.out.println(name + " : " + StringUtils.collectionToCommaDelimitedString(row));
+            lines2.add(name + DIVIDER + StringUtils.join(row, ","));
         }
+        writeData(lines2, "./mhag/data/mhgen/armour-matsxxxxxx.dat");
     }
 
     private String mapPart(int j) {
@@ -368,21 +464,22 @@ public class LoaderUtils {
 
         while (armourScanner.hasNext()) {
             String x = armourScanner.nextLine();
-            if (StringUtils.hasText(x)) {
+            if (StringUtils.isNotBlank(x)) {
 
-                String[] d = StringUtils.tokenizeToStringArray(x, token);
-                String key = d[keyIndex].trim();
+                String[] d = StringUtils.split(x, token);
+                String key = cleanString(d[keyIndex].trim());
 
                 if (armourData.get(key) != null) {
+                    // this will happen when we have male/female need to look at the next index to check which one then concatenate the names m/f i think
                     System.out.println("error duplicate key " + key + " for armor piece " + d[0]);
-                    System.exit(1);
+                    continue;
                 }
 
                 if (key.contains("/")) {
                     // split in into 2 entries
-                    String[] p = StringUtils.tokenizeToStringArray(key, "/");
-                    armourData.put(p[0].trim(), d);
-                    armourData.put(p[1].trim(), d);
+                    String[] p = StringUtils.split(key, "/");
+                    armourData.put(cleanString(p[0].trim()), d);
+                    armourData.put(cleanString(p[1].trim()), d);
                 } else {
                     armourData.put(key, d);
                 }
@@ -392,6 +489,7 @@ public class LoaderUtils {
     }
 
     static Map<String, Integer> pieceMapping = new HashMap<String, Integer>();
+
     static {
         pieceMapping.put("H", 0);
         pieceMapping.put("C", 1);

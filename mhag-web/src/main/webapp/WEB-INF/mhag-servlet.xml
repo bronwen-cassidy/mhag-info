@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+
+<!--
+  - Application context definition for "talentstudio" DispatcherServlet.
+  - Heavily depended on web infrastructure, naturally.
+-->
+
+<beans>
+
+    <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+            <list>
+                <value>project.properties</value>
+            </list>
+        </property>
+        <property name="ignoreUnresolvablePlaceholders" value="true"/>
+        <property name="systemPropertiesMode" value="2"/>
+        <property name="ignoreResourceNotFound" value="true"/>
+    </bean>
+
+    <bean id="viewResolver" class="org.springframework.web.servlet.view.ResourceBundleViewResolver">
+        <property name="basename" value="mhag-views"/>
+        <property name="defaultParentView" value="modelView"/>
+    </bean>
+
+    <!--=====================================================================-->
+    <!--===================      INTERCEPTORS     ===========================-->
+    <!--=====================================================================-->
+
+    <!-- Interceptor which makes sure a user has logged in -->
+    <bean id="loginInterceptor" class="org.mhag.admin.LoginInterceptor"/>
+    <bean id="userInfoInterceptor" class="org.mhag.admin.UserInfoInterceptor"/>
+
+    <bean id="urlMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+        <property name="interceptors">
+            <list>
+                <ref local="userInfoInterceptor"/>
+            </list>
+        </property>
+        <property name="mappings">
+            <props>
+                <prop key="/armour.htm">armourSetBuilderController</prop>
+                <prop key="/armouropts.htm">armourSetBuilderController</prop>
+                <prop key="/main.htm">armourSetBuilderController</prop>
+                <prop key="/skills.htm">armourSetBuilderController</prop>
+                <prop key="/jewels.htm">armourSetBuilderController</prop>
+                <prop key="/resistences.htm">armourSetBuilderController</prop>
+                <prop key="/charmpoints.htm">armourSetBuilderController</prop>
+                <prop key="/charmskills.htm">armourSetBuilderController</prop>
+                <prop key="/viewset.htm">armourSetBuilderController</prop>
+                <prop key="/urlbuilder.htm">armourSetBuilderController</prop>
+                <prop key="/listsets.htm">armourSetBuilderController</prop>
+                <prop key="/listsetresults.htm">armourSetBuilderController</prop>
+                <prop key="/searchsets.htm">armourSetBuilderController</prop>
+                <prop key="/editsavedset.htm">armourSetBuilderController</prop>
+                <prop key="/deleteviewset.htm">armourSetBuilderController</prop>
+
+                <prop key="/skilllist.htm">skillSearchController</prop>
+                <prop key="/skillsearch.htm">skillSearchController</prop>
+
+                <prop key="/vote.htm">voteController</prop>
+                <prop key="/deleteset.htm">deleteSetController</prop>
+                <prop key="/saveset.htm">armourSetFormController</prop>
+                <prop key="/updateset.htm">updateSetFormController</prop>
+                <prop key="/admin/login.htm">loginController</prop>
+                <prop key="/**/logout.htm">logoutController</prop>
+                <prop key="/reglogin.htm">regLoginController</prop>
+
+
+            </props>
+        </property>
+    </bean>
+
+    <bean id="secureMappings"  class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+        <property name="interceptors">
+            <list>
+                <ref local="loginInterceptor"/>
+            </list>
+        </property>
+        <property name="mappings">
+            <props>
+                <prop key="/admin/managesets.htm">armourSetBuilderController</prop>                
+                <prop key="/admin/deletesets.htm">deleteSetController</prop>
+                <prop key="/admin/searchresults.htm">armourSetBuilderController</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="armourSetBuilderController" class="org.mhag.MhagMainFormController">
+        <property name="methodNameResolver">
+            <bean id="armourMultiMethodNameResolver" class="org.springframework.web.servlet.mvc.multiaction.PropertiesMethodNameResolver">
+                <property name="mappings">
+                    <props>
+                        <prop key="/main.htm">armourSetHandler</prop>
+                        <prop key="/armour.htm">armourHandler</prop>
+                        <prop key="/armouropts.htm">armourPiecesHandler</prop>
+                        <prop key="/skills.htm">skillDisplayHandler</prop>
+                        <prop key="/jewels.htm">jewelDisplayHandler</prop>
+                        <prop key="/resistences.htm">resDisplayHandler</prop>
+                        <prop key="/charmpoints.htm">charmPointsDisplayHandler</prop>
+                        <prop key="/charmskills.htm">charmSkillDisplayHandler</prop>
+                        <prop key="/viewset.htm">setDisplayHander</prop>
+                        <prop key="/urlbuilder.htm">urlDisplayHander</prop>
+                        <prop key="/listsets.htm">listSetsHandler</prop>
+                        <prop key="/listsetresults.htm">listSetsResultsHandler</prop>
+                        <prop key="/searchsets.htm">searchSetsHandler</prop>
+                        <prop key="/editsavedset.htm">editSavedSetHandler</prop>
+                        <prop key="/deleteviewset.htm">deleteViewSetHandler</prop>
+
+                        <prop key="/admin/managesets.htm">manageSetsHandler</prop>
+                        <prop key="/admin/searchresults.htm">adminSearchSetsHandler</prop>
+                    </props>
+                </property>
+            </bean>
+        </property>
+        <property name="mhagFacade" ref="mhagFacade"/>
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+
+    <bean id="skillSearchController" class="org.mhag.SkillSearchMultiController">
+        <property name="methodNameResolver">
+            <bean id="skillSearchMultiMethodNameResolver" class="org.springframework.web.servlet.mvc.multiaction.PropertiesMethodNameResolver">
+                <property name="mappings">
+                    <props>
+                        <prop key="/skillsearch.htm">skillSearchData</prop>
+                        <prop key="/skilllist.htm">skillListData</prop>
+                    </props>
+                </property>
+            </bean>
+        </property>
+        <property name="mhagFacade" ref="mhagFacade"/>
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+    <bean id="armourSetFormController" class="org.mhag.ArmourSetFormController">
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+
+    <bean id="updateSetFormController" class="org.mhag.UpdateArmourSetController">
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+    <bean id="deleteSetController" class="org.mhag.DeleteArmourSetController">
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+    <bean id="voteController" class="org.mhag.VoteArmourSetController">
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+    <bean id="loginController" class="org.mhag.admin.LoginController"/>
+    
+    <bean id="logoutController" class="org.mhag.admin.UserLogoutController"/>
+
+    <bean id="regLoginController" class="org.mhag.admin.UserLoginController">
+        <property name="service" ref="dataAccessService"/>
+    </bean>
+
+    <bean id="mhagFacade" class="org.mhag.MhagFacade">
+        <property name="version" value="${project.version}"/>
+    </bean>
+
+</beans>
