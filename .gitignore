@@ -52,3 +52,7 @@ build
 mhag-web/target/MANIFEST.MF
 mhag/target/MANIFEST.MF
 target/MANIFEST.MF
+*.iml
+*.iml
+*.war
+*.class
