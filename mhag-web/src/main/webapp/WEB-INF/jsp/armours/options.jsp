@@ -148,7 +148,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="3">
+        <td colspan="4">
             <div id="link-panel" class="ui-widget-header">
                 <!-- place holder for dynamically generated url -->
             </div>

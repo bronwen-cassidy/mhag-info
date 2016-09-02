@@ -47,11 +47,13 @@
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
             <version>2.5</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
             <artifactId>javax.servlet.jsp-api</artifactId>
             <version>2.2.1</version>
+            <scope>provided</scope>
         </dependency>
         <!-- db -->
         <dependency>
@@ -86,7 +88,7 @@
                         <resource>
                             <directory>project/${application.name}/</directory>
                             <includes>
-                                <include>*.css</include>
+                                <include>**/*</include>
                             </includes>
                             <targetPath>styles</targetPath>
                         </resource>
