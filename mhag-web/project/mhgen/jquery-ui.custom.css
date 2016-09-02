@@ -805,13 +805,13 @@ body .ui-tooltip {
 	color: #1e1b1d;
 }
 .ui-widget-header {
-	border: 1px solid #883D06;
-	background: #e4980F url(images/ui-bg_glass_25_e4980F_1x400.png) 50% 50% repeat-x;
-	color: #ffffff;
+	border: 1px solid #ebd9d9;
+	background: #B14631 url("images/ui-bg_glow-ball_30_B14631_600x600.png") 50% 50% repeat-x;
+	color: #333333;
 	font-weight: bold;
 }
 .ui-widget-header a {
-	color: #ffffff;
+	color: #333333;
 }
 
 /* Interaction states
@@ -819,10 +819,10 @@ body .ui-tooltip {
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-	border: 1px solid #cdc3b7;
-	background: #ede4d4 url(images/ui-bg_glass_70_ede4d4_1x400.png) 50% 50% repeat-x;
+	border: 1px solid #c5c5c5;
+	background: #f6f6f6;
 	font-weight: normal;
-	color: #3f3731;
+	color: #454545;
 }
 .ui-state-default a,
 .ui-state-default a:link,
@@ -836,10 +836,10 @@ body .ui-tooltip {
 .ui-state-focus,
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
-	border: 1px solid #f5ad66;
-	background: #f5f0e5 url(images/ui-bg_glass_100_f5f0e5_1x400.png) 50% 50% repeat-x;
+	border: 1px solid #cccccc;
+	background: #ededed;
 	font-weight: normal;
-	color: #a46313;
+	color: #2b2b2b;
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,
@@ -855,10 +855,10 @@ body .ui-tooltip {
 .ui-state-active,
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-	border: 1px solid #e0cfc2;
-	background: #f4f0ec url(images/ui-bg_highlight-hard_100_f4f0ec_1x100.png) 50% 50% repeat-x;
+	border: 1px solid #003eff;
+	background: #76B596;
 	font-weight: normal;
-	color: #b85700;
+	color: #ffffff;
 }
 .ui-state-active a,
 .ui-state-active a:link,
@@ -872,31 +872,31 @@ body .ui-tooltip {
 .ui-state-highlight,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
-	border: 1px solid #d9bb73;
-	background: #f5f5b5 url(images/ui-bg_highlight-hard_75_f5f5b5_1x100.png) 50% top repeat-x;
-	color: #060200;
+	border: 1px solid #dad55e;
+	background: #fffa90;
+	color: #777620;
 }
 .ui-state-highlight a,
 .ui-widget-content .ui-state-highlight a,
 .ui-widget-header .ui-state-highlight a {
-	color: #060200;
+	color: #777620;
 }
 .ui-state-error,
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
-	border: 1px solid #f8893f;
-	background: #fee4bd url(images/ui-bg_highlight-hard_65_fee4bd_1x100.png) 50% top repeat-x;
-	color: #592003;
+	border: 1px solid #f1a899;
+	background: #fddfdf;
+	color: #5f3f3f;
 }
 .ui-state-error a,
 .ui-widget-content .ui-state-error a,
 .ui-widget-header .ui-state-error a {
-	color: #592003;
+	color: #5f3f3f;
 }
 .ui-state-error-text,
 .ui-widget-content .ui-state-error-text,
 .ui-widget-header .ui-state-error-text {
-	color: #592003;
+	color: #5f3f3f;
 }
 .ui-priority-primary,
 .ui-widget-content .ui-priority-primary,
@@ -931,27 +931,27 @@ body .ui-tooltip {
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-	background-image: url(images/ui-icons_E4980F_256x240.png);
+	background-image: url("images/ui-icons_444444_256x240.png");
 }
 .ui-widget-header .ui-icon {
-	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-image: url("images/ui-icons_444444_256x240.png");
 }
 .ui-state-default .ui-icon {
-	background-image: url(images/ui-icons_f08000_256x240.png);
+	background-image: url("images/ui-icons_777777_256x240.png");
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-	background-image: url(images/ui-icons_f08000_256x240.png);
+	background-image: url("images/ui-icons_555555_256x240.png");
 }
 .ui-state-active .ui-icon {
-	background-image: url(images/ui-icons_f35f07_256x240.png);
+	background-image: url("images/ui-icons_ffffff_256x240.png");
 }
 .ui-state-highlight .ui-icon {
-	background-image: url(images/ui-icons_cb672b_256x240.png);
+	background-image: url("images/ui-icons_777620_256x240.png");
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-	background-image: url(images/ui-icons_ff7519_256x240.png);
+	background-image: url("images/ui-icons_cc0000_256x240.png");
 }
 
 /* positioning */
