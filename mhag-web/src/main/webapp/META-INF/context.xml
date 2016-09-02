@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Context path="/@_applicationName_@" docBase="@_applicationName_@" reloadable="true">
+<Context path="/${application.name}" docBase="${application.name}" reloadable="true">
 
     <WatchedResource>WEB-INF/web.xml</WatchedResource>
 
-    <Resource name="jdbc/$(application.name}"
+    <Resource name="jdbc/${application.name}"
             auth="Container"
             type="javax.sql.DataSource"
             username="mhagadmin"
