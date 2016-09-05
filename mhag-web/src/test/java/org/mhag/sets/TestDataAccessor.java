@@ -100,21 +100,21 @@ public class TestDataAccessor {
     public void testCodeExistsNo() throws Exception {
         String code = "Darasu's%20GS/Hammer%20Set%20:%20H.B.H.69.1.121.C.87.1.120.A.68.1.120.W.76.2.120.120.L.2" +
                 "0.1.120.X.2.120.111.Y.0.1.10.5.0";
-        assertFalse(dataAccessor.setExists(code));
+        assertFalse(dataAccessor.setExists(code, 3));
     }
 
     @Test
     public void testCodeExistsYes() throws Exception {
         String code = "SomeRandomNameIdontCareAbount:%20H.B.H.69.1.121.C.87.1.120.A.68.1.120.W.76.2.120.120.L.2" +
                 "0.1.120.X.2.120.111.Y.0.1.13.6.0";
-        assertTrue(dataAccessor.setExists(code));
+        assertTrue(dataAccessor.setExists(code, 1));
     }
 
     @Test
     public void testCodeExistsYesBadName() throws Exception {
         String code = "SomeRandom:Name:With:colons:%20H.B.H.69.1.121.C.87.1.120.A.68.1.120.W.76.2.120.120.L.2" +
                 "0.1.120.X.2.120.111.Y.0.1.13.6.0";
-        assertTrue(dataAccessor.setExists(code));
+        assertTrue(dataAccessor.setExists(code,1));
     }
 
     @Test

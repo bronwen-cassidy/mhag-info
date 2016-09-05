@@ -67,23 +67,23 @@ public class DataAccessor {
         return result.isEmpty() ? null : result.get(0);
     }
 
-    public boolean setExists(String code) {
+    public boolean setExists(String code, int gameVersion) {
         String trimmedCode = code;
         if (code.contains(":")) {
             String name = code.substring(0, code.lastIndexOf(":"));
             trimmedCode = code.substring(name.length() + 4);
         }
-        String sql = "select count(*) from saved_sets where code like '%" + trimmedCode + "%'";
+        String sql = "select count(*) from saved_sets where mh_version=gameVersion and code like '%" + trimmedCode + "%'";
         int count = jdbcTemplate.queryForInt(sql);
         return count > 0;
     }
 
-    public Long saveArmourSet(SavedSet armourSet) throws PersistenceException {
+    public Long saveArmourSet(SavedSet armourSet, int gameVersion) throws PersistenceException {
 
         Set<SetSkill> setSkillSet = armourSet.getSkills();
         if(setSkillSet.size() < 2) throw new NotEnoughSkillsException("You must have at least 2 skills to save the set");
         String setCode = armourSet.getSetCode();
-        if(setExists(setCode)) throw new SetExistsException("An identical set already exists in the database");
+        if(setExists(setCode, gameVersion)) throw new SetExistsException("An identical set already exists in the database");
         Object[] params;
         String sql;
         SqlParameter[] parameters;
@@ -170,7 +170,6 @@ public class DataAccessor {
             assignSkills(skills, result);
             if ("desc".equals(direction)) {
                 Collections.sort(sorted, new Comparator<SavedSet>() {
-                    @Override
                     public int compare(SavedSet o1, SavedSet o2) {
                         return o2.compareTo(o1);
                     }
@@ -274,10 +273,9 @@ public class DataAccessor {
                 values[i++] = ArmourPiece.BLADE_AND_GUNNER;
             }
         }
-        // todo add the second skill subclause
+ 
         sql.append(" order by skill_value, armour_piece, armour_name");
         return jdbcTemplate.query(sql.toString(), values, new RowMapper<ArmourPiece>() {
-            @Override
             public ArmourPiece mapRow(ResultSet rs, int i) throws SQLException {
                 return new ArmourPiece(rs.getInt("id"), rs.getString("armour_name"), rs.getInt("armour_piece"),
                         rs.getString("skill_name"), rs.getInt("skill_value"), rs.getInt("rank"), rs.getInt("num_slots"),

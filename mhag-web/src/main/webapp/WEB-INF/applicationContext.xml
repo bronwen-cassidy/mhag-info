@@ -33,6 +33,7 @@
 
     <bean id="dataAccessServiceTarget" class="org.mhag.sets.DataAccessService">
         <property name="dataAccessor" ref="dataAccessor"/>
+        <property name="mhVersion" value="${project.version}"/>
     </bean>
 
     <bean id="dataAccessor" class="org.mhag.sets.DataAccessor">

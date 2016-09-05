@@ -16,7 +16,7 @@ import java.util.*;
 public class DataAccessService implements Serviceable {
 
     public Long saveArmourSet(SavedSet armourSet) throws PersistenceException {
-        return dataAccessor.saveArmourSet(armourSet);
+        return dataAccessor.saveArmourSet(armourSet, mhVersion);
     }
 
     public void updateArmourSet(SavedSet armourSet) throws PersistenceException {
@@ -30,8 +30,7 @@ public class DataAccessService implements Serviceable {
     public Page<SavedSet> searchSets(Map<String, String> parameters, String[] skills, int start, int end, String orderBy, String direction) {
         return dataAccessor.searchSets(parameters, skills, start, end, orderBy, direction);
     }
-
-    @Override
+    
     public List<SavedSet> searchSets(Map<String, String> parameters, String[] skills, String orderBy, String direction) {
         return dataAccessor.searchSets(parameters, skills, orderBy, direction);
     }
@@ -59,16 +58,19 @@ public class DataAccessService implements Serviceable {
     public SavedSet findById(Long id) {
         return dataAccessor.findById(id);
     }
-
-    @Override
+    
     public int[] addVote(Long setId, Long userId, String ipAddress) {
         return dataAccessor.addVote(setId, userId, ipAddress);
     }
-
-    @Override
+    
     public int[] removeVote(Long setId, Long userId, String ipAddress) {
         return dataAccessor.removeVote(setId, userId, ipAddress);
     }
 
+    public void setMhVersion(int mhVersion) {
+        this.mhVersion = mhVersion;
+    }
+
     private DataAccessor dataAccessor;
+    private int mhVersion;
 }
