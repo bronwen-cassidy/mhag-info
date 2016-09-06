@@ -312,11 +312,11 @@ public class LoaderUtils {
                 values.add(part);
 
                 // defense low and high
-                if( rarity <= 4 ) {
+                if( rarity < 4 ) {
                     values.add(info[8]);
                 }
                 else {
-                    values.add("---");
+                    values.add("--");
                 }
                 values.add(info[9]);
 
