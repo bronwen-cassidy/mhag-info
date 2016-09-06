@@ -33,7 +33,7 @@ public class Jewel {
 		int wordIndex = 0;
 		String word = "";
 		int addJP = 0;
-		if((game == 1) || (game == 3) || (game == 4)) //mhp3rd, mh3g
+		if((game == 1) || (game == 3) || (game == 4) || game == 5) //mhp3rd, mh3g
 			addJP = 1;
 
 		while(line != null )

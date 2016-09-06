@@ -3,6 +3,7 @@ package org.mhag.builder;
 import org.apache.commons.collections.comparators.ComparatorChain;
 import org.apache.commons.lang.StringUtils;
 
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -304,13 +305,19 @@ public class LoaderUtils {
 
                 // test rarity what to if it is X
 
-                int rarity = "X".equals(info[3]) ? 9 : Integer.parseInt(info[3]);
+                String rare = info[3];
+                int rarity = "X".equals(rare) ? 9 : Integer.parseInt(rare);
 
                 // part
                 values.add(part);
 
                 // defense low and high
-                values.add(info[8]);
+                if( rarity <= 4 ) {
+                    values.add(info[8]);
+                }
+                else {
+                    values.add("---");
+                }
                 values.add(info[9]);
 
                 // number of slots
