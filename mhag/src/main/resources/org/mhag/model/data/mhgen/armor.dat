@@ -2015,6 +2015,11 @@ Lava Braces : ラヴァアーム : B : A : A : -- : 118 : 1 : 4 : -4 : 0 : 1 : 0
 Lava Guards : ラヴァガード : G : A : A : -- : 59 : 1 : 5 : -4 : 0 : 1 : 0 : Predicament : 3 : Guts : 2
 Lava Helm : ラヴァヘルム : A : A : H : -- : 118 : 0 : 4 : -4 : 0 : 1 : 0 : Guts : 3 : Predicament : 2
 Lava Cap : ラヴァキャップ : A : A : H : -- : 59 : 0 : 5 : -4 : 0 : 1 : 0 : Predicament : 3 : Guts : 3
+Leather Belt : レザーベルト : A : A : W : 1 : 34 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : 2
+Leather Headgear : レザーヘッド : A : A : H : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Whim : 2
+Leather Trousers : レザーパンツ : A : A : L : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : 3
+Leather Gloves : レザーグラブ : A : A : A : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Whim : 3
+Leather Vest : レザーベスト : A : A : C : 1 : 34 : 0 : 0 : 0 : 0 : 0 : 0 : Whim : 5
 Leather Faulds S : レザーＳフォールド : B : A : W : 24 : 86 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : 2 : Whim : 1
 Leather Coat S : レザーＳコート : G : A : W : 12 : 74 : 2 : 0 : 1 : 0 : 0 : 1 : Gathering : 2 : Whim : 1
 Leather Helm S : レザーＳヘルム : A : A : H : 24 : 86 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : 3 : Whim : 2
@@ -3242,8 +3247,3 @@ Zodiac Braces : ゾディアスアーム : B : A : A : -- : 130 : 1 : 1 : 1 : 1 
 Zodiac Guards : ゾディアスガード : G : A : A : -- : 65 : 1 : 2 : 2 : 2 : 2 : 2 : Leaping : 3 : Clear Mind : 2 : Evasion : 1
 Zodiac Helm : ゾディアスヘルム : A : A : H : -- : 130 : 0 : 1 : 1 : 1 : 1 : 1 : Leaping : 3 : Evasion : 2 : Clear Mind : 2
 Zodiac Cap : ゾディアスキャップ : A : A : H : -- : 65 : 0 : 2 : 2 : 2 : 2 : 2 : Evasion : 3 : Leaping : 3 : Clear Mind : 2
-Leather Belt : レザーベルト : A : A : W : 1 : 34 : 2 : 0 : 0 : 0 : 0 : 0 : Gathering : 2
-Leather Headgear : レザーヘッド : A : A : H : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Whim : 2
-Leather Trousers : レザーパンツ : A : A : L : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Gathering : 3
-Leather Gloves : レザーグラブ : A : A : A : 1 : 34 : 1 : 0 : 0 : 0 : 0 : 0 : Whim : 3
-Leather Vest : レザーベスト : A : A : C : 1 : 34 : 0 : 0 : 0 : 0 : 0 : 0 : Whim : 5

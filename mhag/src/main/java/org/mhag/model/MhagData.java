@@ -363,11 +363,9 @@ public class MhagData {
             if (line.startsWith("#")) continue;
             // System.out.printf("%d\n", jewelIndex);
             //System.out.println(line);
-            ioErr = Jewel.setJewelFromLine
-                    (line, jewelList[jewelIndex], game);
+            ioErr = Jewel.setJewelFromLine(line, jewelList[jewelIndex], game);
             if (ioErr != 0) {
-                MhagUtil.logLine(mhag,
-                        "Error Found in Jewel File");
+                MhagUtil.logLine(mhag, "Error Found in Jewel File");
                 return;
             }
 
@@ -376,8 +374,7 @@ public class MhagData {
                 String lineItem = inItem.nextLine();
                 int startPos = MhagUtil.extractWordPos(lineItem, 0) + 1;
                 int endPos = MhagUtil.extractWordPos(lineItem, startPos);
-                jewelList[jewelIndex].setItem(
-                        MhagUtil.extractWord(lineItem, startPos, endPos));
+                jewelList[jewelIndex].setItem(MhagUtil.extractWord(lineItem, startPos, endPos));
             }
 
             jewelIndex++;
@@ -461,8 +458,7 @@ public class MhagData {
                 String lineItem = inItem.nextLine();
                 int startPos = MhagUtil.extractWordPos(lineItem, 0) + 1;
                 int endPos = MhagUtil.extractWordPos(lineItem, startPos);
-                armorList[nBodyPart][armorIndex[nBodyPart]].setItem(
-                        MhagUtil.extractWord(lineItem, startPos, endPos));
+                armorList[nBodyPart][armorIndex[nBodyPart]].setItem(MhagUtil.extractWord(lineItem, startPos, endPos));
             }
 
             if (ioErr != 0) {
