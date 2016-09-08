@@ -1,12 +1,3 @@
-function download(filename, text) {
-    var pom = document.createElement('a');
-    pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
-    pom.setAttribute('download', filename);
-    pom.click();
-}
-
-//download('test.txt', 'Hello world!');
-
 function buildCharmSkillsTable() {
 
     var rankVal = $('#lRankId').val();
@@ -410,17 +401,20 @@ function removeChecks() {
 
 function displayOnSet(elem, selId, optVal) {
     var sel = $('#'+selId);
+    var elemChecked = elem.checked;
+    // remove any currently selected option
+    sel.find('option:selected').removeAttr("selected");
     setTimeout(function() {
-        if(!elem.checked) {
+        if(!elemChecked) {
             optVal = '---';
         }
-        sel.find('option').each(function(){
+        sel.find('option').each(function() {
             if($(this).val() == optVal){
+                //alert("this.val = " + $(this).val() + " and optVal = " + optVal);
                 $(this).attr('selected','selected');
                 sel.trigger('change');
                 return false;
             }
         });
     }, 0);
-
 }
