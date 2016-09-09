@@ -73,7 +73,7 @@ public class DataAccessor {
             String name = code.substring(0, code.lastIndexOf(":"));
             trimmedCode = code.substring(name.length() + 4);
         }
-        String sql = "select count(*) from saved_sets where mh_version=gameVersion and code like '%" + trimmedCode + "%'";
+        String sql = "select count(*) from saved_sets where mh_version=" + gameVersion + " and code like '%" + trimmedCode + "%'";
         int count = jdbcTemplate.queryForInt(sql);
         return count > 0;
     }
