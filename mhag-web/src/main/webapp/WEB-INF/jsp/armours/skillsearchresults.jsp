@@ -39,7 +39,7 @@
                        </c:if>
                        onclick="displayOnSet(this,
                                '<c:out value="${piece.selectValue}"/>select',
-                               '<c:out value="${piece.armourId}"/>:<c:out value="${piece.numSlots}"/>:<c:out value="${piece.piece}"/>:A');"/>
+                               '<c:out value="${piece.armourId}"/>:<c:out value="${piece.numSlots}"/>:<c:out value="${piece.piece}"/>:${piece.gender}');"/>
             </td>
         </tr>
     </c:forEach>
