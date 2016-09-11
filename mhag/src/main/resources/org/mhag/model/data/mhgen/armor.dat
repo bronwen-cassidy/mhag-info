@@ -269,19 +269,19 @@ Black Scale : ブラックスケイル : G : A : W : 12 : 43 : 0 : 2 : 2 : 2 : -
 Black Belt Coat : クロオビコート : G : A : W : 11 : 42 : 0 : 1 : 1 : 1 : 2 : 1 : Crit. Boost : 2 : Fate : -1
 Black Belt Coat S : クロオビＳコート : G : A : W : -- : 56 : 0 : 3 : 3 : 3 : 4 : 3 : Crit. Boost : 2 : Gloves Off : 2
 Black Scale S : ブラックＳスケイル : G : A : W : -- : 64 : 0 : 2 : 2 : 3 : -5 : 2 : Blight Res : 3 : Pierce Up : 2 : FastCharge : 2
-Black Belt Greaves : クロオビグリーヴ : B : A : L : 22 : 84 : 0 : 1 : 1 : 1 : 1 : 1
-Black Belt Greaves S : クロオビＳグリーヴ : B : A : L : -- : 112 : 0 : 3 : 3 : 3 : 3 : 3
+Black Belt Greaves : クロオビグリーヴ : B : A : L : 22 : 84 : 0 : 1 : 1 : 1 : 1 : 1 : Torso Up
+Black Belt Greaves S : クロオビＳグリーヴ : B : A : L : -- : 112 : 0 : 3 : 3 : 3 : 3 : 3 : Torso Up
 Black Leather Chaps : ブラックレザーレグス : B : A : L : -- : 112 : 0 : 2 : 2 : 2 : 2 : 2 : Potential : 6 : Stun : 2
-Black Belt Leggings : クロオビレギンス : G : A : L : 11 : 42 : 0 : 1 : 1 : 1 : 2 : 1
-Black Belt Leggings S : クロオビＳレギンス : G : A : L : -- : 56 : 0 : 3 : 3 : 3 : 4 : 3
+Black Belt Leggings : クロオビレギンス : G : A : L : 11 : 42 : 0 : 1 : 1 : 1 : 2 : 1 : Torso Up
+Black Belt Leggings S : クロオビＳレギンス : G : A : L : -- : 56 : 0 : 3 : 3 : 3 : 4 : 3 : Torso Up
 Black Leather Pants : ブラックレザーパンツ : G : A : L : -- : 56 : 0 : 3 : 3 : 3 : 3 : 3 : Potential : 6 : Stun : 2
 Black Claw : ブラッククロウ : B : A : A : 24 : 86 : 0 : 2 : 2 : 2 : -5 : 2 : Blight Res : 2 : FastCharge : 2
-Black Belt Braces : クロオビアーム : B : A : A : 22 : 84 : 0 : 1 : 1 : 1 : 1 : 1
-Black Belt Braces S : クロオビＳアーム : B : A : A : -- : 112 : 0 : 3 : 3 : 3 : 3 : 3
+Black Belt Braces : クロオビアーム : B : A : A : 22 : 84 : 0 : 1 : 1 : 1 : 1 : 1 : Torso Up
+Black Belt Braces S : クロオビＳアーム : B : A : A : -- : 112 : 0 : 3 : 3 : 3 : 3 : 3 : Torso Up
 Black Claw S : ブラックＳクロウ : B : A : A : -- : 128 : 0 : 2 : 2 : 2 : -5 : 2 : Blight Res : 2 : Crit Draw : 2 : FastCharge : 2
 Black Fist : ブラックフィスト : G : A : A : 12 : 43 : 0 : 2 : 2 : 2 : -4 : 2 : Blight Res : 2 : FastCharge : 2
-Black Belt Guards : クロオビガード : G : A : A : 11 : 42 : 0 : 1 : 1 : 1 : 2 : 1
-Black Belt Guards S : クロオビＳガード : G : A : A : -- : 56 : 0 : 3 : 3 : 3 : 4 : 3
+Black Belt Guards : クロオビガード : G : A : A : 11 : 42 : 0 : 1 : 1 : 1 : 2 : 1 : Torso Up
+Black Belt Guards S : クロオビＳガード : G : A : A : -- : 56 : 0 : 3 : 3 : 3 : 4 : 3 : Torso Up
 Black Fist S : ブラックＳフィスト : G : A : A : -- : 64 : 0 : 2 : 2 : 3 : -5 : 2 : Blight Res : 2 : Pierce Up : 2 : FastCharge : 2
 Blango Mail : ブランゴメイル : B : A : C : 18 : 80 : 1 : -4 : 1 : 4 : 0 : 0 : Constitutn : 4 : Stamina : -2
 Blango Mail S : ブランゴＳメイル : B : A : C : -- : 112 : 1 : -4 : 1 : 4 : 0 : 0 : Constitutn : 4 : Sheathing : 1
@@ -570,8 +570,8 @@ Chaoshell : 混沌のカイ : B : A : C : 6 : 72 : 2 : 2 : -2 : 0 : 0 : 0 : Spec
 Chaoshield : 混沌のイー : G : A : C : 3 : 36 : 2 : 2 : -2 : 0 : 0 : 0 : Special Attack : 1
 Chaoshroom : 混沌のパオ : A : A : H : 6 : 72 : 1 : 2 : -2 : 0 : 0 : 0 : Special Attack : 3
 Chaosurge : 混沌のヅァン : A : A : H : 3 : 36 : 1 : 2 : -2 : 0 : 0 : 0 : Special Attack : 4
-Chrome Metal Coil : クロムメタルコイル : B : A : W : -- : 118 : 0 : -2 : -2 : -2 : 4 : -2
-Chrome Metal Coat : クロムメタルコート : G : A : W : -- : 59 : 0 : -2 : -2 : -2 : 5 : -2
+Chrome Metal Coil : クロムメタルコイル : B : A : W : -- : 118 : 0 : -2 : -2 : -2 : 4 : -2 : Torso Up
+Chrome Metal Coat : クロムメタルコート : G : A : W : -- : 59 : 0 : -2 : -2 : -2 : 5 : -2 : Torso Up
 Chrome Metal Boots : クロムメタルブーツ : B : A : L : -- : 118 : 0 : -2 : -2 : -2 : 4 : -2 : Elemental : 5
 Chrome Metal Feet : クロムメタルフット : G : A : L : -- : 59 : 0 : -2 : -2 : -2 : 5 : -2 : Elemental : 5
 Crane Feather : 鶴寿の羽飾り : A : A : H : -- : 51 : 0 : 0 : 0 : 0 : 0 : 0 : Health : 15
@@ -958,7 +958,7 @@ EX Cham Coat : EXトヨタマ【丸帯】 : G : A : W : -- : 61 : 0 : -4 : 1 : 2
 EX Kaiser Coat : EXカイザーコート : G : A : W : -- : 66 : 0 : 4 : -3 : -1 : -3 : 1 : Expert : 4 : Hearing : 2 : Evasion : 2
 EX Silver Solcoat : EXＳ・ソルコート : G : A : W : -- : 66 : 0 : 2 : -5 : 0 : 4 : -4 : Carving : 4 : Charmer : 2 : Precision : -3
 EX Golden Lunecoat : EXＧ・ルナコート : G : A : W : -- : 65 : 0 : 2 : -4 : 0 : 4 : -5 : Fate : 4 : Charmer : 2 : Health : -3
-EX Hermitaur Greaves : EXザザミグリーヴ : B : A : L : -- : 114 : 0 : -1 : 3 : 0 : 1 : -3
+EX Hermitaur Greaves : EXザザミグリーヴ : B : A : L : -- : 114 : 0 : -1 : 3 : 0 : 1 : -3 : Torso Up
 EX Rathalos Greaves : EXレウスグリーヴ : B : A : L : -- : 124 : 0 : 4 : 0 : 0 : -4 : -2 : Potential : 4 : Protection : -3
 EX Rathian Greaves S : EXレイアＳグリーヴ : B : A : L : -- : 126 : 0 : 4 : 0 : 0 : -4 : -3 : Guard Boost : 3 : Guard : 2 : Guts : 2
 EX Arc Greaves : EXアークグリーヴ : B : M : L : -- : 134 : 0 : -2 : 2 : 2 : -4 : 0 : Guard : 4 : Chance : 2 : LightEater : 2
@@ -967,7 +967,7 @@ EX Mizuha Leg Wrap : EXミヅハ【具足】 : B : A : L : -- : 122 : 0 : -5 : 1
 EX Kaiser Greaves : EXカイザーグリーヴ : B : A : L : -- : 132 : 0 : 4 : -4 : -1 : -3 : 1 : Expert : 4 : Hearing : 2 : Evasion : 2
 EX Silver Solgreaves : EXＳ・ソルグリーヴ : B : A : L : -- : 132 : 0 : 2 : -6 : 0 : 4 : -4 : Carving : 3 : Charmer : 2 : Fencing : -3
 EX Golden Lunegreaves : EXＧ・ルナグリーヴ : B : A : L : -- : 130 : 0 : 2 : -4 : 0 : 4 : -6 : Fate : 4 : Charmer : 2 : Health : -3
-EX Hermitaur Leggings : EXザザミレギンス : G : A : L : -- : 57 : 0 : -1 : 4 : 0 : 1 : -3
+EX Hermitaur Leggings : EXザザミレギンス : G : A : L : -- : 57 : 0 : -1 : 4 : 0 : 1 : -3 : Torso Up
 EX Rathalos Leggings : EXレウスレギンス : G : A : L : -- : 62 : 0 : 5 : 0 : 0 : -4 : -2 : Potential : 4 : Protection : -3
 EX Rathian Leggings S : EXレイアＳレギンス : G : A : L : -- : 63 : 0 : 6 : 0 : 0 : -4 : -3 : Guard Boost : 3 : Guard : 2 : Guts : 2
 EX Arc Leggings : EXアークレギンス : G : M : L : -- : 67 : 0 : -2 : 2 : 2 : -3 : 0 : Recoil : 4 : Chance : 2 : LightEater : 2
@@ -1106,7 +1106,7 @@ Faux Welkin Robe : 蒼天亜流【衣】 : G : A : C : -- : 64 : 0 : -3 : 5 : 0 
 Faux Tempest Hakama : 荒天亜流【袴】 : B : A : L : -- : 128 : 0 : -3 : 4 : 0 : -5 : 0 : Evasion : 5 : Gloves Off : 2 : Sharpener : -2
 Faux Welkin Hakama : 蒼天亜流【袴】 : G : A : L : -- : 64 : 0 : -3 : 5 : 0 : -5 : 0 : Evasion : 5 : Gloves Off : 2 : Precision : -2
 Felyne Mask S : アイルーＳフェイク : A : A : H : -- : 46 : 1 : 2 : 2 : 0 : 2 : 2 : Bomb Boost : 8
-Felyne Hairband : アイルーヘアバンド : A : A : H : -- : 61 : 0 : 3 : 3 : 3 : 3 : 3
+Felyne Hairband : アイルーヘアバンド : A : A : H : -- : 61 : 0 : 3 : 3 : 3 : 3 : 3 : Torso Up
 Fierce Helm LV1 : LV1 荒鉤爪ヘルム : A : A : H : -- : 90 : 0 : 2 : 1 : 1 : -2 : -4 : Crit Draw : 2 : Destroyer : 2
 Fierce Cap LV1 : LV1 荒鉤爪キャップ : A : A : H : -- : 45 : 0 : 3 : 1 : 1 : -2 : -4 : Normal Up : 2 : Destroyer : 2
 Fierce Helm LV6 : LV6 荒鉤爪ヘルム : A : A : H : -- : 124 : 0 : 2 : 1 : 1 : -2 : -4 : Crit Draw : 2 : Destroyer : 2 : Raging Talon : 2
@@ -2758,10 +2758,10 @@ Silver Solgreaves R : Ｓ・ソルＲグリーヴ : B : A : L : -- : 124 : 0 : 2
 Silver Solleggings R : Ｓ・ソルＲレギンス : G : A : L : -- : 62 : 0 : 2 : -5 : 0 : 4 : -4 : Ammo : 2 : Crit. Boost : 2 : Combo Rate : -4
 Silver Solbraces R : Ｓ・ソルＲアーム : B : A : A : -- : 124 : 0 : 2 : -6 : 0 : 4 : -4 : Crit. Boost : 4 : Sharpness : -4
 Silver Solguards R : Ｓ・ソルＲガード : G : A : A : -- : 62 : 0 : 2 : -5 : 0 : 4 : -4 : Crit. Boost : 4 : Combo Rate : -4
-Skull Visage : スカルヘッド : B : A : H : 14 : 76 : 0 : -3 : -3 : -3 : 2 : -3
-Skull Headgear S : スカルＳヘッド : B : A : H : -- : 102 : 0 : -3 : -3 : -3 : 2 : -3
-Skull Mask : スカルフェイス : G : A : H : 7 : 38 : 0 : -3 : -3 : -3 : 4 : -3
-Skull Face S : スカルＳフェイス : G : A : H : -- : 51 : 0 : -3 : -3 : -3 : 4 : -3
+Skull Visage : スカルヘッド : B : A : H : 14 : 76 : 0 : -3 : -3 : -3 : 2 : -3 : Torso Up
+Skull Headgear S : スカルＳヘッド : B : A : H : -- : 102 : 0 : -3 : -3 : -3 : 2 : -3 : Torso Up
+Skull Mask : スカルフェイス : G : A : H : 7 : 38 : 0 : -3 : -3 : -3 : 4 : -3 : Torso Up
+Skull Face S : スカルＳフェイス : G : A : H : -- : 51 : 0 : -3 : -3 : -3 : 4 : -3 : Torso Up
 Slagtoth Hood : ズワロフード : A : A : H : -- : 90 : 1 : -2 : 2 : -1 : 1 : 0 : Rec Speed : 3 : Water Atk : 2
 Slagtoth Cowl : ズワロフッド : A : A : H : -- : 45 : 1 : -2 : 3 : -1 : 1 : 0 : Water Atk : 3 : Rec Speed : 3
 Slagtoth Cloak : ズワロマント : B : A : C : -- : 90 : 0 : -2 : 2 : -1 : 1 : 0 : Water Atk : 5 : Rec Speed : 2
